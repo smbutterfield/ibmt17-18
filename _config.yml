@@ -1,0 +1,38 @@
+title:            Open Music Theory
+tagline:          Hybrid Pedagogy Publishing
+description:      "an open, interactive, online textbook for college music theory"
+#Comment out url when working locally to resolve base urls correctly
+url: https://evanwill.github.io/open-music-theory
+baseurl: ""
+
+# Owner/author information
+owner:
+  name:           Evan Will
+  avatar:         
+  bio:            
+  email:          
+  twitter:                
+  github:         evanwill       
+  instagram:           
+  dribbble:       
+  disqus:         
+  location:       
+  # Plug in your disqus shortname!
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about.html
+  - title: Contents
+    url: /contents.html
+  - title: "#OpenMusicTheory"
+    url: "https://twitter.com/search?f=realtime&q=%23OpenMusicTheory"
+    external: true
+  - title: Hybrid Pedagogy Publishing
+    url: "http://www.hybridpedagogy.org/#publishing"
+    external: true
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
