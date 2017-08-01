@@ -5,11 +5,11 @@ title: Analyzing atonal music
 
 Following are a few tips, terms, and common structures that will be helpful for analyzing early twentieth-century atonal music, such as that composed by members of the Second Viennese School (Schönberg, Berg, Webern).
 
-# Intervals #
+# Intervals 
 
 Always use *chromatic intervals* rather than diatonic intervals when analyzing and comparing pitch materials. (See [Intervals and dyads][intervals] resource.)
 
-# The 12-pitch-class cycle — clock face #
+# The 12-pitch-class cycle — clock face 
 
 Atonal composers often begin with highly organized set of pitch classes, and then deploy the pitch classes in a wide variety of registers. Thus, it is helpful to eliminate register as a factor in order to find which motives, chords, and fragments belong in the same category. To do so, take a clock face with the twelve pitch-classes (spelling does not matter)
 
@@ -21,7 +21,7 @@ and mark all the pitch classes involved in the fragment. For example, here is a 
 
 This will make it easy to find the interval patterns in a set of pitch classes, no matter how they are distributed in the various registers and instruments on the score.
 
-# Common pitch-class collections #
+# Common pitch-class collections 
 
 **Diatonic** – The usual major and *natural*-minor collections (white key collection and all of its transpositions).
 
@@ -114,7 +114,7 @@ Some atonal composers like to make use of sets that invert and/or transpose onto
 
 
 [intervals]: Intervals.html
-[clock]: Graphics/postTonal/clockFace.png
+[clock]: /Graphics/postTonal/clockFace.png
 [Cmajor]: Graphics/postTonal/clockFace-diatonic.png
 [acoustic]: Graphics/postTonal/acoustic.png
 [dualDiatonicFaFi]: Graphics/postTonal/dualDiatonicFaFi.png
