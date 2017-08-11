@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Pop/rock tonality that draws on diatonic modes
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Blues-based pop/rock tonality
 ---
 

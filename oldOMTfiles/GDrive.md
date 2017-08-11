@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Uploading and sharing a file via Google Drive
 ---
 

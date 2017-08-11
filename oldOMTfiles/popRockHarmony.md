@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Harmony in pop/rock music
 ---
 

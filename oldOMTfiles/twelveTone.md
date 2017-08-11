@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Analyzing 12-tone music
 ---
 

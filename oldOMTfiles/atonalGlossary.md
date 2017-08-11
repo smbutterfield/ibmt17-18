@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Glossary of atonal musical terms
 ---
 

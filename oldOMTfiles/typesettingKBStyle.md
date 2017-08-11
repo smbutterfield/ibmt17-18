@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Typesetting a keyboard-style voice-leading exercise
 ---
 

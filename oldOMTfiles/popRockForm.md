@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Form in pop/rock music – Overview
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Realizing a figured bass line in melodic keyboard style
 ---
 

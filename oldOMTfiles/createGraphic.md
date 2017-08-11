@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Creating a musical graphic and importing it into a text document
 ---
 

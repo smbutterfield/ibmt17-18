@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Improvising a sentence with galant schemata
 ---
 

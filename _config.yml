@@ -1,38 +1,56 @@
-title:            Open Music Theory
-tagline:          Hybrid Pedagogy Publishing
-description:      "an open, interactive, online textbook for college music theory"
-#Comment out url when working locally to resolve base urls correctly
-url: https://evanwill.github.io/open-music-theory
-baseurl: ""
+# Open Music Theory Remix
+# OER Music text book, remixed by drbutterfield
+# a fork of Kris Shaffer, Bryn Hughes, and Brian Moseley, Open Music Theory, Hybrid Pedagogy 2014+. 
+# http://openmusictheory.com/
+# https://github.com/openmusictheory/openmusictheory.github.io
+# http://www.hybridpedagogy.org/#publishing
 
-# Owner/author information
-owner:
-  name:           Evan Will
-  avatar:         
-  bio:            
-  email:          
-  twitter:                
-  github:         evanwill       
-  instagram:           
-  dribbble:       
-  disqus:         
-  location:       
-  # Plug in your disqus shortname!
+# jekyll theme partly based on Lanyon, https://github.com/poole/lanyon
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about.html
-  - title: Contents
-    url: /contents.html
-  - title: "#OpenMusicTheory"
-    url: "https://twitter.com/search?f=realtime&q=%23OpenMusicTheory"
-    external: true
-  - title: Hybrid Pedagogy Publishing
-    url: "http://www.hybridpedagogy.org/#publishing"
-    external: true
+# site info
+title: Open Music Theory
+tagline: OER Text Book
+description: "an open, interactive, online textbook for college music theory"
+keywords: music theory, OER, university of idaho
+owner: Sean Butterfield
+email: example@e.com
+published: 2017
+github-repo: https://github.com/drbutterfield/theory-draft-1
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+# urls
+url: https://drbutterfield.github.io/
+baseurl: '/theory-draft-1'
 
+# collections
+collections:
+  01-pitches-clefs:
+    output: true
+  02-ints-scales-keys-triads-7chords:
+    output: true
+  03-intro-rhythm:
+    output: true
+  04-counterpoint-part1:
+    output: true
+  05-counterpoint-part2:
+    output: true
+  06-intro-harmonic:
+    output: true
+  07-harmonic-functions:
+    output: true
+  08-overtones:
+    output: true
+  09-partwriting-root-first:
+    output: true
+  10-partwriting-second-7chords:
+    output: true
+  11-ncts-embellishments:
+    output: true
+  12-phrasing-texture:
+    output: true
+  13-sequences-voiceleading-exceptions:
+    output: true
+  14-inst-ranges-trans-score-reduction:
+    output: true
+
+# ignore stuff
+exclude: [oldOMTfiles]

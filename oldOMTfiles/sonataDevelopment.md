@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Sonata Form – the development
 ---
 

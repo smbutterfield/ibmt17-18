@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Set Class and Prime Form (2)
 ---
 

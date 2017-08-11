@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Chromatically altered subdominant chords
 ---
 

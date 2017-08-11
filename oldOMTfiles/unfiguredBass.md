@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Realizing an unfigured bass line
 ---
 

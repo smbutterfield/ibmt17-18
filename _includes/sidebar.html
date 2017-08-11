@@ -1,0 +1,32 @@
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/toc.html">TOC</a>
+
+    {% for chapter in site.collections %}
+    {% if chapter.label != 'posts' %}
+    <div class="sidebar-nav-item{% if page.url == chapter.url %} active{% endif %}">{{ chapter.label }}
+    <ul>
+      {% for lesson in chapter.docs %}
+      <li><a href="{{ site.baseurl }}/{{ lesson.url }}">{{ lesson.title }}</a>
+      {% endfor %}
+    </ul>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/about.html">About</a>
+    <a class="sidebar-nav-item" href="{{ site.github-repo }}">GitHub project</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; {{ site.published }}. All rights reserved.
+    </p>
+  </div>
+</div>

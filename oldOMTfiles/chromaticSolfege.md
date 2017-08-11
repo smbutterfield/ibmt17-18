@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Chromatic solfège syllables and sequentials
 ---
 

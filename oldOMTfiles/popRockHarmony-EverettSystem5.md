@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Minor-pentatonic-based pop/rock tonality
 ---
 

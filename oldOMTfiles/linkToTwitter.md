@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Posting a blog link to Twitter
 ---
 

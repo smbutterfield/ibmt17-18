@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: The "50s doo-wop" progression
 ---
 

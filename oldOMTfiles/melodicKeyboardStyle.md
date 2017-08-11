@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Melodic keyboard-style voice-leading
 ---
 

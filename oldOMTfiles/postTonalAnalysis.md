@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Analyzing a post-tonal piece from scratch
 ---
 

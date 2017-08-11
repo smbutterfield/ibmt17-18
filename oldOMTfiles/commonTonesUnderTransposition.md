@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Common Tones under Transposition
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Circle-of-fifths progression, minor mode
 ---
 
