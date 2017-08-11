@@ -7,6 +7,6 @@ _Derived rows_ are rows whose non-overlapping segments (*discrete* segments) bel
 
 An example is offered below. This row (from Webern's String Quartet, Op. 28) has been divided into discrete tetrachords and discrete dyads. All of the tetrachords belong to the set class (0123). Thus, we say that the row is tetrachordally derived, and that it is *generated* by (0123). Further, the discrete dyads indicated an interesting dyadic derivation, by (01).
 
-[![](Graphics/postTonal/derivedRow.png)](Graphics/postTonal/derivedRow.png)
+[![](/images/postTonal/derivedRow.png)](/images/postTonal/derivedRow.png)
 
 From a compositional and listener-oriented perspective, derived rows are very suggestive. Because the set-class content of a row doesn't change when it's transposed, inverted, etc., these set classes will circulate constantly throughout a piece, even if different row forms are used. Therefore, a derived row guarantees the regular recurrence of a very small selection of set class—thus ensuring a particular type of unity throughout a piece.

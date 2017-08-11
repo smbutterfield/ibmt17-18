@@ -8,7 +8,7 @@ The small binary often fulfills a structural role similar to that as the small t
 Small binaries have two parts, each of which is usually repeated. Unlike the ["rounded binary,"](smallTernary.html##Binary characteristics) small binaries *do not* include a recapitulation of the material heard in the *first part*.
 
 <figure>	
-  <img src="/Graphics/ClassicalThemes/smallBinary.png">
+  <img src="//images/ClassicalThemes/smallBinary.png">
   <figcaption>The small binary</figcaption>
 </figure> 
 
@@ -22,7 +22,7 @@ The *second part* of a small binary quite often begins like a contrasting middle
 ###An example
 
 <figure>	
-  <img src="/Graphics/form/k305.png">
+  <img src="//images/form/k305.png">
   <figcaption>Mozart, Violin Sonata in A major, K. 305</figcaption>
 </figure> 
 

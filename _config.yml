@@ -18,8 +18,9 @@ published: 2017
 github-repo: https://github.com/drbutterfield/theory-draft-1
 
 # urls
-url: https://drbutterfield.github.io/
-baseurl: '/theory-draft-1'
+url: https://drbutterfield.github.io/theory-draft-1/
+# baseurl: '/theory-draft-1'
+baseurl: ''
 
 # collections
 collections:

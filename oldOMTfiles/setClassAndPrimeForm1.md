@@ -7,7 +7,7 @@ Lots of concepts in pitch-class set theory are best viewed along a sliding scale
 
 We've already seen sets of pitch-classes, though we haven't really been calling them that. When we extract a group of notes from a passage of music and put them in "[normal order][1]," that group of notes is a pitch-class set. As we've seen in class, one very interesting way of looking at a lot of post-tonal music is by studying the [transpositional][2] and [inversional][3] relationships between pitch-class sets. In the short example below (from Bartók's "Subject and Reflection") you'll notice that the right hand of the two passages is _T5_-related, as is the left-hand. Within each passage, the right and left hands are _T8I _and _T6I_ related, respectively.
 
-[![](Graphics/postTonal/subjecdtAndReflection.png)](Graphics/postTonal/subjecdtAndReflection.png)
+[![](/images/postTonal/subjecdtAndReflection.png)](/images/postTonal/subjecdtAndReflection.png)
 
 _In order for a pitch-class set to be transpositionally or inversionally related to some other pitch class set, they must share the same collection of intervals_. This is most easily grasped by remembering that all major and minor triads have the same interval content (M3, m3, and P5). Major triads are transpositionally related to one another, while major and minor triads are inversionally related to one another. The same observation applies in Bartók's "Subject and Reflection." The four pitch-class sets in those two passages all have the same intervallic content and that's why we can label transpositional and inversional relationships between them.
 
@@ -21,4 +21,4 @@ All pitch-class sets that are transpositionally and inversionally related belong
 
 The example below walks demonstrates using the motive from Bartók's "Subject and Reflection."
 
-[![](Graphics/postTonal/primeForm.png)](Graphics/postTonal/primeForm.png)
+[![](/images/postTonal/primeForm.png)](/images/postTonal/primeForm.png)

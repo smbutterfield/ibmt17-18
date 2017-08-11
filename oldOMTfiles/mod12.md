@@ -17,7 +17,7 @@ While we are used to thinking of numbers on an infinite line, modular thinking w
 
 **Pitch-Class Space**
 
-[![](Graphics/postTonal/Pitch-class-Space.jpg)](Graphics/postTonal/Pitch-class-Space.jpg)
+[![](/images/postTonal/Pitch-class-Space.jpg)](/images/postTonal/Pitch-class-Space.jpg)
 
 ## Addition and Subtraction
 

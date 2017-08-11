@@ -5,9 +5,9 @@ title: Protonotation
 
 *Protonotation* is a system of musical notation stripped of complicating elements, and focusing only on basic elements of meter, rhythm, and scale degree. (This system is drawn from Gary Karpinski's *Manual for Ear Training and Sight Singing*.) Following is an example melody in both standard notation and protonotation (click images to view full size).
 
-[![](Graphics/protonotation/demoMel.png)](Graphics/protonotation/demoMel.png)
+[![](/images/protonotation/demoMel.png)](/images/protonotation/demoMel.png)
 
-[![](Graphics/protonotation/demoMelStaff.png)](Graphics/protonotation/demoMelStaff.png)
+[![](/images/protonotation/demoMelStaff.png)](/images/protonotation/demoMelStaff.png)
 
 Note that protonotation does not contain information about *tonic*, nor the *duration of the beat* (nor, by extension, the bottom number of the time signatures). It only represents the pitch and rhythm elements that can be heard by someone without absolute pitch: meter, rhythm, and scale degree. (Mode—major or minor—can be inferred from the scale degrees.) Since it only represents what can be heard, without any additional notational factors, it is a helpful system for practicing rhythmic dictation, melodic dictation, and sight-singing.
 
@@ -16,13 +16,13 @@ Note that protonotation does not contain information about *tonic*, nor the *dur
 Following are blank protonotation grids for duple, triple, and quadruple meters.
 
 *Duple meter:*  
-![Duple meter.](Graphics/protonotation/duple.png)  
+![Duple meter.](/images/protonotation/duple.png)  
 
 *Triple meter:*  
-![Triple meter.](Graphics/protonotation/triple.png)  
+![Triple meter.](/images/protonotation/triple.png)  
 
 *Quadruple meter:*  
-![Quadruple meter.](Graphics/protonotation/quadruple.png)  
+![Quadruple meter.](/images/protonotation/quadruple.png)  
 
 In duple and triple meter, downbeats are represented by longer vertical lines, and weak beats are represented by shorter vertical lines. In quadruple meter, the third beat of each bar is of medium strength, so it is represented by a medium-length line.
 
@@ -45,22 +45,22 @@ Finally insert the notes into each bar. The register, solfège syllable, and ton
 Following are additional examples.
 
 **Example 1.**  
-[![](Graphics/protonotation/dupleMel.png)](Graphics/protonotation/dupleMel.png)
+[![](/images/protonotation/dupleMel.png)](/images/protonotation/dupleMel.png)
 
 Bass clef, tonic: G, bottom number: 8.  
-[![](Graphics/protonotation/duple-G.png)](Graphics/protonotation/duple-G.png)
+[![](/images/protonotation/duple-G.png)](/images/protonotation/duple-G.png)
 
 Alto clef, tonic: B-flat, bottom number: 4.
-[![](Graphics/protonotation/duple-Bb.png)](Graphics/protonotation/duple-Bb.png)
+[![](/images/protonotation/duple-Bb.png)](/images/protonotation/duple-Bb.png)
 
 **Example 2.**  
-[![](Graphics/protonotation/quadrupleMel.png)](Graphics/protonotation/quadrupleMel.png)
+[![](/images/protonotation/quadrupleMel.png)](/images/protonotation/quadrupleMel.png)
 
 Treble clef, tonic: E-flat, bottom number: 4.  
-[![](Graphics/protonotation/quadruple-Es.png)](Graphics/protonotation/quadruple-Es.png)
+[![](/images/protonotation/quadruple-Es.png)](/images/protonotation/quadruple-Es.png)
 
 Tenor clef, tonic: C-sharp, bottom number: 8.
-[![](Graphics/protonotation/quadruple-Cis.png)](Graphics/protonotation/quadruple-Cis.png)
+[![](/images/protonotation/quadruple-Cis.png)](/images/protonotation/quadruple-Cis.png)
 
 Bass clef, tonic: F, bottom number: 1.
-[![](Graphics/protonotation/quadruple-F.png)](Graphics/protonotation/quadruple-F.png)
+[![](/images/protonotation/quadruple-F.png)](/images/protonotation/quadruple-F.png)

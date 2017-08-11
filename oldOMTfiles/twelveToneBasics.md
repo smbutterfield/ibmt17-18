@@ -9,7 +9,7 @@ This style of composition is most associated with a group of composers whose fig
 
 Twelve-tone music is based on _series_ (sometimes called a _row_) that contains all twelve pitch classes in a particular order. There is no one series used for all twelve-tone music; most composers write a unique row for each piece. (There 12!—that is, 12 factorial—twelve-tone series, which is equal to 479,001,600 unique row forms. Quite a lot of possibilities!) Here's an example, the row for Webern's Piano Variations, Op. 27:
 
-[![](Graphics/postTonal/basicRow.png)](Graphics/form/basicRow.png)
+[![](/images/postTonal/basicRow.png)](/images/form/basicRow.png)
 
 There are some general rules for using a twelve-tone row, though as I said, individual approaches are always different:
 
@@ -21,10 +21,10 @@ A twelve-tone row might be used as a theme or as a source for motives. Chords mi
 Rows can be transposed, inverted, retrograded, or any combination of those operations. Inverting the prime form results in an "I-form." Like P-forms I-forms are labeled by their first pitch-class. Hence, the row below, an inversion of the one above, is called **I0**. Note that it starts on C (0).
 
 
-[![](Graphics/postTonal/inversion.png)](Graphics/form/inversion.png)
+[![](/images/postTonal/inversion.png)](/images/form/inversion.png)
 
 Prime forms and inversion forms can be also be played backwards, also called retrograde. In the example below notice how this work in relation to the P11 and I0 rows from above. When a P-form is retograded, we call it a "R-form." When an I-form is retrograded, it's called an "RI-form." As the example shows, R- and RI-forms are labeled according to their _last pitch class_.
 
-[![](Graphics/postTonal/family.png)](Graphics/form/family.png)
+[![](/images/postTonal/family.png)](/images/form/family.png)
 
 That graphic shows only four row forms, but each of those forms has twelve transpositions. Thus, a single row breeds a total of 48 rows: 12 *4.  That collection of rows is called a *row class*, and it is the *row class* that the composer draws from when writing his or her music. 

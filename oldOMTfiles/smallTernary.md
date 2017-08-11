@@ -8,7 +8,7 @@ Like the smaller [sentence](sentence.html), [period](period.html), and [hybrid](
 This theme type is normally expressed through three [thematic functions](themeFunctions.html): "exposition (A)," "contrasting middle (B)," and "recapitulation (A)." 
 
 <figure>	
-  <img src="/Graphics/ClassicalThemes/smallTernary.png">
+  <img src="//images/ClassicalThemes/smallTernary.png">
   <figcaption>The small ternary</figcaption>
 </figure> 
 
@@ -21,7 +21,7 @@ Located between the *exposition* and *recapitulation,* the *contrasting middle* 
 
 ###An example
 <figure>	
-  <img src="/Graphics/form/k284.png">
+  <img src="//images/form/k284.png">
   <figcaption>Mozart, Piano Sonata in D major, K. 284, "Tema con variazione"</figcaption>
 </figure> 
  

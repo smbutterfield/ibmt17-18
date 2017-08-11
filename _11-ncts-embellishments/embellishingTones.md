@@ -17,7 +17,7 @@ Like the passing tone, a complete neighbor tone is a melodic embellishment that 
 
 ## Double Neighbor Figure (DN)
 
-![](Graphics/embellishingTones/doubleNeighbor.png)
+![](/images/embellishingTones/doubleNeighbor.png)
 
 Like the complete neighbor figure, the double neighbor figure begins and ends on the *same* stable tone (typically a chord tone). Between those two instances of the stable tone are two embellishing tones — one a step above and the other a step below the stable tone being embellished. Though individually we may consider each of the two embellishing tones to be incomplete neighbors (below), working together in the double-neighbor figure they balance each other out and create a contiguous whole, with the overall stability of a complete neighbor. A double neighbor figure is typically unaccented.
 
@@ -47,7 +47,7 @@ An anticipation is essentially an otherwise stable tone that comes too early. An
 
 ## Syncopation (SYN)
 
-![](Graphics/embellishingTones/syncopatedNote.png)
+![](/images/embellishingTones/syncopatedNote.png)
 
 [Syncopation](http://openmusictheory.com/syncopation.html) occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Like the anticipation, the syncopated note is an early arrival — it tends to belong to the chord on the following beat. Unlike the anticipation, the syncopation is tied into a note in that chord; it is not rearticulated. Rather than anticipating a note in the chord that follows, a syncopation is simply an early arrival.
 
@@ -63,11 +63,11 @@ A suspension is formed of three critical parts: the *preparation* (accented or u
 
 A retardation is essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the example). Instead of *RET*, it is preferable to notate the intervallic pattern in the thoroughbass figures.
 
-[passing]: Graphics/embellishingTones/passingTone.png 
-[neighbor]: Graphics/embellishingTones/neighborTone.png
-[INT]: Graphics/embellishingTones/INT.png
-[appoggiatura]: Graphics/embellishingTones/appoggiatura.png
-[escape]: Graphics/embellishingTones/escapeTone.png
-[anticipation]: Graphics/embellishingTones/anticipation.png
-[suspension]: Graphics/embellishingTones/suspension.png
-[retardation]: Graphics/embellishingTones/retardation.png
+[passing]: /images/embellishingTones/passingTone.png 
+[neighbor]: /images/embellishingTones/neighborTone.png
+[INT]: /images/embellishingTones/INT.png
+[appoggiatura]: /images/embellishingTones/appoggiatura.png
+[escape]: /images/embellishingTones/escapeTone.png
+[anticipation]: /images/embellishingTones/anticipation.png
+[suspension]: /images/embellishingTones/suspension.png
+[retardation]: /images/embellishingTones/retardation.png

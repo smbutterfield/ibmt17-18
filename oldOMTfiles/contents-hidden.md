@@ -67,7 +67,7 @@ title: Table of Contents
 ###### Handouts and charts ######
 
 [Lead-sheet and figured-bass symbols.][LSandFBsymbols]  
-[Harmonies (Roman numerals and functional bass) by bass scale degree.](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
+[Harmonies (Roman numerals and functional bass) by bass scale degree.](/images/Handouts/HarmoniesByBassScaleDegree.pdf)
 
 
 ## Form ##
@@ -161,7 +161,7 @@ Tranpositional Symmetry.
 ## Performance ##
 
 [Melodic sequentials.](melodicSequentials.html)  
-[Harmonic sequentials.](Graphics/harmonicSequential.pdf)  
+[Harmonic sequentials.](/images/harmonicSequential.pdf)  
 [Chromatic solfège syllables and sequentials.](chromaticSolfege.html)  
 [Sight-singing tips.][sightSinging]  
 
@@ -207,8 +207,8 @@ Tranpositional Symmetry.
 [applied]: appliedChords.html
 [embellishingTones]: embellishingTones.html
 [cadenceTypes]: cadenceTypes.html
-[LSandFBsymbols]: Graphics/Handouts/LSandFBsymbols.pdf
-[funcBassChart]: Graphics/Handouts/funcBassChart.pdf
+[LSandFBsymbols]: /images/Handouts/LSandFBsymbols.pdf
+[funcBassChart]: /images/Handouts/funcBassChart.pdf
 [classicalThemes]: classicalThemes.html
 [MinuetForm]: MinuetForm.html
 [Modulation]: Modulation.html
@@ -231,4 +231,4 @@ Tranpositional Symmetry.
 [atonal]: atonal.html
 [twelveTone]: twelveTone.html
 [atonalGloss]: atonalGlossary.html
-[clocks]: Graphics/blankClockFaces.pdf
+[clocks]: /images/blankClockFaces.pdf

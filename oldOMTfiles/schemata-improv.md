@@ -7,7 +7,7 @@ The [classical sentence](sentence.html) lends itself well to *galant* schemata. 
 
 Take the opening theme from Haydn's Piano Sonata in G Major, Hob. XVI:27, third movement.
 
-[![](Graphics/HaydnXVI27.png)](Graphics/HaydnXVI27.png)  
+[![](/images/HaydnXVI27.png)](/images/HaydnXVI27.png)  
 *Public domain score excerpted from [IMSLP](http://www.imslp.org). Click image to enlarge.*
 
 Bars 1–4 (the presentation phrase) give an embellishment of the Meyer schema. Note the two-bar basic idea that is repeated in mm. 3–4, transposed up a step (for the most part).

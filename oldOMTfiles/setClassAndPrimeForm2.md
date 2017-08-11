@@ -9,7 +9,7 @@ _Theoretically_, the concept is useful because it provides a prism through which
 
 Most of these set-class lists are organized similarly. Set classes that have the same number of notes in them (we say that they have the same "cardinality") are grouped together: trichords (three-note pitch-class sets) sit together, as do nonachords (nine-note pitch-class sets), and so on. 
 
-[![](Graphics/postTonal/trichordsAndNonachords.png)](Graphics/postTonal/trichordsAndNonachords.png)
+[![](/images/postTonal/trichordsAndNonachords.png)](/images/postTonal/trichordsAndNonachords.png)
 
 Prime form for each set class is show in parenthesis. The "Forte Number" (3-1, 9-1, etc.), often adjacent to the prime form, was given to each set class by the famous music theorist [Allen Forte][4], who was one of the first to describe the set class list.
 

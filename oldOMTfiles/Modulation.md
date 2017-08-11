@@ -45,8 +45,8 @@ When a chord expresses dominant function in the new key and is an applied chord 
 
 A pivot-chord modulation is notated in a special way. The pivot chord receives its analytical symbol for the old key, as usual. Below that symbol is the new key, colon, and the analytical symbol for the pivot chord in the new key. When using notation software, a two-layered analysis is fine: use the lyrics tool to create multiple "verses" of harmonic analysis, one for each key, overlapping on the pivot chord. When analyzing by hand, use a bracket like the one shown in the following example.
 
-<img src="Graphics/harmony/pivot.png" alt="Pivot chord bracket notation: VII of D minor becomes V of F major." style="width:75%" />
+<img src="/images/harmony/pivot.png" alt="Pivot chord bracket notation: VII of D minor becomes V of F major." style="width:75%" />
 
 
 [Applied]: appliedChords.html
-[mod]: Graphics/harmony/modEx.png
+[mod]: /images/harmony/modEx.png

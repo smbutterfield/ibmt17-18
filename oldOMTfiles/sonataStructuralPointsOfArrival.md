@@ -15,7 +15,7 @@ In the following example (from Mozart's Piano Sonata in D major, K. 284), the tr
 
 **Mozart Piano Sonata in D major, K. 284, i**
 
-[![](Graphics/form/medialCaesura.png)](Graphics/form/medialCaesura.png)
+[![](/images/form/medialCaesura.png)](/images/form/medialCaesura.png)
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:2DuicS9kJJcP1sIyIGxGpE" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 

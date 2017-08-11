@@ -9,13 +9,13 @@ Inversion occurs when we *subtract* each pitch class of the row from a constant 
 
 Twelve-tone rows can be _retrograded_ as well, symbolized as *R*. To retrograde a row we read it backwards. Reading **P11** backwards results in the row form shown below **P11** in the example: R11. (Remember that retrograde rows are labeld according to their *final* pitch class.) Reading **I0** backwards results in **RI0**—just below it in the example.
 
-[![](Graphics/postTonal/operations.png)](Graphics/postTonal/operations.png)
+[![](/images/postTonal/operations.png)](/images/postTonal/operations.png)
 
 It's important that you know the difference between *operations* and row forms, because they are often labeled similarly. In these resources *operations* like transposition and inversion will always be italicized. ***Row forms*** will be bolded.
 
 You need to memorize the effect of transposing, inverting, or retrograding any particular type of row. That is, you should know what kind of ***row form*** results when you perform any *operation* on it. For example, if you *transpose* a **P-form,** what kind of row form results? What about when you retrograde an **RI-form**? The flowchart below will be helpful:
 
-[![](Graphics/postTonal/abstractedRowClass.png)](Graphics/postTonal/abstractedRowClass.png)
+[![](/images/postTonal/abstractedRowClass.png)](/images/postTonal/abstractedRowClass.png)
 
  
 

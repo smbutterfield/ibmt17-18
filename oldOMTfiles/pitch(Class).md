@@ -25,7 +25,7 @@ Pitch classes are *pitches* under octave equivalence that are also spelled the s
 
 **Pitch Space**
 
-[![](Graphics/postTonal/Pitch-Space.jpg)](Graphics/postTonal/Pitch-Space.jpg)
+[![](/images/postTonal/Pitch-Space.jpg)](/images/postTonal/Pitch-Space.jpg)
 
 ## Integer notation
 
@@ -35,7 +35,7 @@ This type of pitch-class, which assumes octave and enharmonic equivalence is eas
 
 **Pitch-Class Space**
 
-[![](Graphics/postTonal/Pitch-class-Space.jpg)](Graphics/postTonal/Pitch-class-Space.jpg)
+[![](/images/postTonal/Pitch-class-Space.jpg)](/images/postTonal/Pitch-class-Space.jpg)
 
 ## Disclaimer!
 

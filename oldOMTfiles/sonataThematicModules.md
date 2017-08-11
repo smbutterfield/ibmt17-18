@@ -40,7 +40,7 @@ In the following example from Beethoven's Piano Sonata in G minor, Op. 49, No. 1
 
 **Beethoven, Piano Sonata in G minor, Op. 49, No. 1, i**
 
-[![](Graphics/form/TR.png)](Graphics/form/TR.png)
+[![](/images/form/TR.png)](/images/form/TR.png)
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:5NSEaoEaSNdD3XQM54e0C6" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 

@@ -13,23 +13,23 @@ Think of pitch symmetry in terms of a musical “mirror.” In the passage below
 
 **Bartók, *Music for Strings, Percussion, and Celesta***
 
-[![](Graphics/postTonal/upper.png)](Graphics/postTonal/upper1.png)
+[![](/images/postTonal/upper.png)](/images/postTonal/upper1.png)
 
-[![](Graphics/postTonal/upperSymmetry.png)](Graphics/postTonal/upperSymmetry.png)
+[![](/images/postTonal/upperSymmetry.png)](/images/postTonal/upperSymmetry.png)
 
 Pitch symmetry always implies an *axis of symmetry*. Maintaining our mirror metaphor, this is the place in pitch space where the mirror exists. In the case of the example above, the mirror is located at B4. Below, you’ll see the same gesture in the lower strings. The pitch-space line shows that it has a different *axis of symmetry* — around E2.
 
 
-[![](Graphics/postTonal/lower.png)](Graphics/postTonal/upper1.png)
+[![](/images/postTonal/lower.png)](/images/postTonal/upper1.png)
 
-[![](Graphics/postTonal/lowerSymmetry.png)](Graphics/postTonal/upperSymmetry.png)
+[![](/images/postTonal/lowerSymmetry.png)](/images/postTonal/upperSymmetry.png)
 
 ## Pitch-Class Symmetry
 
 Pitch-class symmetry is very similar to pitch symmetry, but understood in [pitch-class space](pitch(Class)). Below you’ll see another passage from the same piece by Bartók. As above the lower strings have an ascending gesture that mirrors the descending gesture in the upper strings.
 
-[![](Graphics/postTonal/bartok.png)](Graphics/postTonal/bartok.png)
+[![](/images/postTonal/bartok.png)](/images/postTonal/bartok.png)
 
 Mapping this on the pitch-class circle shows the passage’s pitch-class symmetry. Look at this circular diagram very carefully. You’ll notice that the passage is pitch-class symmetrical around *both 2 and 8*. Unlike pitch space, pitch-class axes are always located at *two different points* in the pitch-class circle.
 
-[![](Graphics/postTonal/pitchClassAxes.png)](Graphics/postTonal/pitchClassAxes.png)
+[![](/images/postTonal/pitchClassAxes.png)](/images/postTonal/pitchClassAxes.png)

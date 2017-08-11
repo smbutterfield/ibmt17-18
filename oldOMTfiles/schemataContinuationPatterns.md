@@ -10,13 +10,13 @@ The three schema below were described first by the eighteenth-century theorist J
 
 A *Fonte* (It. for "fountain" or "well"—think *going down*) is a common pattern to begin the *contrasting middle* of a small ternary form. In other words, it follows the double-bar in a minuet, minuet trio, or rounded-binary theme. A Fonte is a *model/sequence* schema: a two-bar pattern is immediately repeated one step lower than the original.
 
-[![](Graphics/form/fonte.png)](Graphics/form/fonte.png)
+[![](/images/form/fonte.png)](/images/form/fonte.png)
 
 Harmonically, the first two-bar unit (the *model*) contains two chords, one per bar: an applied dominant chord, and the tonicized chord to which the applied dominant points. The most common chord pattern for the Fonte's model is **D7/II T1/II** *of the home key*, with the **D7** being a chord of the sixth and the **T1** being a chord of the fifth. (Other "inversions" are possible, such as **D4/II T3/II**.) When the model composes out **D7/II II**, the sequence will transpose it down to tonic: **D7 T1** *of the home key*.
 
 As an example, the functional-bass analysis of a typical Fonte in a small ternary whose home key is G major looks like:
 
-[![](Graphics/form/Haydn27fonteAnnotated.png)](Graphics/form/Haydn27fonteAnnotated.png)
+[![](/images/form/Haydn27fonteAnnotated.png)](/images/form/Haydn27fonteAnnotated.png)
 
 Note the non-cadential progressions, **D7–T1**. Normally such progressions would need to be interpreted as prolonging a tonal function (i.e., tonic function), which would be difficult to interpret here. Schemata often contain such progressions. Simply analyze the chords individually and label the schema, rather than trying to interpret these progressions as prolongational. (Indeed, they are not.)
 
@@ -30,7 +30,7 @@ The Fonte is a quick and easy way for a composer to transition from the key of t
 
 A *Monte* (It. for "mountain"—think *going up*) functions similarly to a Fonte. It typically occurs as part of the *contrasting middle* section of a minuet or other small ternary, it is a model/sequence schema, and it involves an applied chord resolving to a tonicized chord—typically a **D7 T1** pattern. The difference is that where a Fonte goes *down* (**D7/II T1/II D7 T1**), a Monte goes *up* (**D7/IV T1/IV D7/V T1/V**). And where a Fonte is almost exclusively four bars long (one model followed by one transposed repetition), a Monte sometimes extends to six or more bars (one model followed by one *or more* transposed repetitions).
 
-[![](Graphics/form/monte.png)](Graphics/form/monte.png)
+[![](/images/form/monte.png)](/images/form/monte.png)
 
 # Ponte #
 
@@ -43,4 +43,4 @@ Caplin, William. *Classical Form*. Oxford University Press, 2000.
 
 Gjerdingen, Robert O. *Music in the Galant Style*. Oxford University Press, 2007.
 
-[Haydn27]: Graphics/Schemata/Haydn27fonteAnnotated.png width="75%"
+[Haydn27]: /images/Schemata/Haydn27fonteAnnotated.png width="75%"

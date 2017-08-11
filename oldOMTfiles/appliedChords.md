@@ -86,6 +86,6 @@ In functional bass, use the functional label before the slash and the Roman nume
 *Exercise: on the bullet list above, determine which solfège syllable(s) are the functional dissonance for each applied chord.*
 
 
-[D7ofV]: Graphics/D7ofV.png
+[D7ofV]: /images/D7ofV.png
 [alteredSubdominants]: alteredSubdominants.html
-[appliedBassLine]: Graphics/appliedChordBassLine.png
+[appliedBassLine]: /images/appliedChordBassLine.png

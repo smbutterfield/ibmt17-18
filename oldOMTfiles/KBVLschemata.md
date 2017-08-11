@@ -84,16 +84,16 @@ Instead, leave *la*/*le* out of the **S4** chord and double the bass. This will 
 ![][S4dropThird]
 
 
-[deceptive]: Graphics/harmony/deceptive.png
-[deceptive7]: Graphics/harmony/deceptive7.png
-[D4i]: Graphics/harmony/D4i.png
-[Champagne]: Graphics/harmony/Champagne.png
-[D5dropFifth]: Graphics/harmony/D5dropFifth.png
-[D5problem]: Graphics/harmony/D5problem.png
-[ParallelTenths]: Graphics/harmony/ParallelTenths.png
-[PinkChampagne]: Graphics/harmony/PinkChampagne.png
-[S4dropThird]: Graphics/harmony/S4dropThird.png
-[S4problem]: Graphics/harmony/S4problem.png
-[T1dropFifth]: Graphics/harmony/T1dropFifth.png
-[VE63]: Graphics/harmony/VE63.png
-[VE64]: Graphics/harmony/VE64.png
+[deceptive]: /images/harmony/deceptive.png
+[deceptive7]: /images/harmony/deceptive7.png
+[D4i]: /images/harmony/D4i.png
+[Champagne]: /images/harmony/Champagne.png
+[D5dropFifth]: /images/harmony/D5dropFifth.png
+[D5problem]: /images/harmony/D5problem.png
+[ParallelTenths]: /images/harmony/ParallelTenths.png
+[PinkChampagne]: /images/harmony/PinkChampagne.png
+[S4dropThird]: /images/harmony/S4dropThird.png
+[S4problem]: /images/harmony/S4problem.png
+[T1dropFifth]: /images/harmony/T1dropFifth.png
+[VE63]: /images/harmony/VE63.png
+[VE64]: /images/harmony/VE64.png
