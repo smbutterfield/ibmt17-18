@@ -8,7 +8,7 @@
 # jekyll theme partly based on Lanyon, https://github.com/poole/lanyon
 
 # site info
-title: Open Music Theory
+title: Inquiry-Based Music Theory
 tagline: OER Text Book
 description: "an open, interactive, online textbook for college music theory"
 keywords: music theory, OER, university of idaho
@@ -24,9 +24,9 @@ baseurl: ''
 
 # collections
 collections:
-  01-pitches-clefs:
+  01-pitches-clefs-int:
     output: true
-  02-ints-scales-keys-triads-7chords:
+  02-scales-keys-triads-7chords:
     output: true
   03-intro-rhythm:
     output: true
