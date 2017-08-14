@@ -39,10 +39,10 @@ Chords of the sixth that take the figure 6/4/2 (or its abbreviation 4/2 or simpl
 ![][42chords]
 
 
-[53chords]: /images/Inversions/5-3chords.png
-[63chords]: /images/Inversions/6-3chords.png
-[65chords]: /images/Inversions/6-5chords.png
-[7chords]: /images/Inversions/7chords.png
-[64chords]: /images/Inversions/6-4chords.png
-[43chords]: /images/Inversions/4-3chords.png
-[42chords]: /images/Inversions/4-2chords.png
+[53chords]: {{ site.baseurl }}/images/Inversions/5-3chords.png
+[63chords]: {{ site.baseurl }}/images/Inversions/6-3chords.png
+[65chords]: {{ site.baseurl }}/images/Inversions/6-5chords.png
+[7chords]: {{ site.baseurl }}/images/Inversions/7chords.png
+[64chords]: {{ site.baseurl }}/images/Inversions/6-4chords.png
+[43chords]: {{ site.baseurl }}/images/Inversions/4-3chords.png
+[42chords]: {{ site.baseurl }}/images/Inversions/4-2chords.png

@@ -63,11 +63,11 @@ A suspension is formed of three critical parts: the *preparation* (accented or u
 
 A retardation is essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the example). Instead of *RET*, it is preferable to notate the intervallic pattern in the thoroughbass figures.
 
-[passing]: /images/embellishingTones/passingTone.png 
-[neighbor]: /images/embellishingTones/neighborTone.png
-[INT]: /images/embellishingTones/INT.png
-[appoggiatura]: /images/embellishingTones/appoggiatura.png
-[escape]: /images/embellishingTones/escapeTone.png
-[anticipation]: /images/embellishingTones/anticipation.png
-[suspension]: /images/embellishingTones/suspension.png
-[retardation]: /images/embellishingTones/retardation.png
+[passing]: {{ site.baseurl }}/images/embellishingTones/passingTone.png 
+[neighbor]: {{ site.baseurl }}/images/embellishingTones/neighborTone.png
+[INT]: {{ site.baseurl }}/images/embellishingTones/INT.png
+[appoggiatura]: {{ site.baseurl }}/images/embellishingTones/appoggiatura.png
+[escape]: {{ site.baseurl }}/images/embellishingTones/escapeTone.png
+[anticipation]: {{ site.baseurl }}/images/embellishingTones/anticipation.png
+[suspension]: {{ site.baseurl }}/images/embellishingTones/suspension.png
+[retardation]: {{ site.baseurl }}/images/embellishingTones/retardation.png

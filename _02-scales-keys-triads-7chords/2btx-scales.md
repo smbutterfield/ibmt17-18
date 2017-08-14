@@ -25,7 +25,7 @@ While ISO notation allows us to label a pitch in its specific register, it is of
 
 Scale degrees are labeled with Arabic numerals and carets (^). The illustration below shows a D-major scale and corresponding ISO notation, scale degrees, and solfège syllables.
 
-<a href="/images/sdsf.png"><img src="/images/sdsf.png"></a>
+<a href="{{ site.baseurl }}/images/sdsf.png"><img src="{{ site.baseurl }}/images/sdsf.png"></a>
 
 ### The minor scale ###
 
@@ -33,24 +33,24 @@ Another scale with which you are likely very familiar is the minor scale. There 
 
 The natural minor scale consists of seven whole (W) and half (H) steps in the following succession: W-H-W-W-H-W-W. Note the changes in solfège syllables.
 
-<a href="/images/sdsf-naturalMinor.png"><img src="/images/sdsf-naturalMinor.png"></a>
+<a href="{{ site.baseurl }}/images/sdsf-naturalMinor.png"><img src="{{ site.baseurl }}/images/sdsf-naturalMinor.png"></a>
 
 If you sing through the above example, you'll notice that the ending lacks the same sense of closure you heard in the major scale. This closure is created in the major scale, in part, by the ascending semitone between *ti* and *do*. Composers often want to have this sense of closure when using the minor mode, too. They're able to achieve this by applying an accidental to the seventh scale degree, raising it by a semitone. If you do this within the context of the natural minor scale, you get something called the *harmonic minor* scale.
 
-<a href="/images/sdsf-harmonicMinor.png"><img src="/images/sdsf-harmonicMinor.png"></a>
+<a href="{{ site.baseurl }}/images/sdsf-harmonicMinor.png"><img src="{{ site.baseurl }}/images/sdsf-harmonicMinor.png"></a>
 
 Now the last two notes of the scale sound much more conclusive, but you might have found it difficult to sing *le* to *ti*. When writing melodies in a minor key, composers often "corrected" this by raising *le* by a semitone to become *la* when approaching the note *ti*. When the melody descended from *do*, the closure from *ti* to *do* isn't needed; likewise, it is no longer necessary to "correct" *le*, so the natural form of the minor scale is used again. Together, these different ascending and descending versions are called the *melodic minor* scale.
 
 When ascending, the *melodic minor* scale uses *la* and *ti*.
 
-<a href="/images/sdsf-melodicMinorAsc.png"><img src="/images/sdsf-melodicMinorAsc.png"></a>
+<a href="{{ site.baseurl }}/images/sdsf-melodicMinorAsc.png"><img src="{{ site.baseurl }}/images/sdsf-melodicMinorAsc.png"></a>
 
 When descending, the *melodic minor* scale uses the "natural" *te* and *le*. 
 
-<a href="/images/sdsf-melodicMinorDesc.png"><img src="/images/sdsf-melodicMinorDesc.png"></a>
+<a href="{{ site.baseurl }}/images/sdsf-melodicMinorDesc.png"><img src="{{ site.baseurl }}/images/sdsf-melodicMinorDesc.png"></a>
 
 Truth be told, most composers don't really think about three different "forms" of the minor scale. The *harmonic minor* scale simply represents composers' tendency to use *ti* when building harmonies that include the seventh scale degree in the minor mode. Likewise, the *melodic minor* scale is derived from composers' desire to avoid the melodic augmented second interval (more on this in the [intervals](intervals.html) section) between *le* and *ti* (and some chose not to avoid this!). In reality, there is only one "version" of the minor scale. Context determines when a composer might use *la* and *ti* when writing music in a minor key. 
 
-[chromaticscale]: /images/chromaticscale.png
-[majorscale]: /images/majorscale.png
-[minorscale]: /images/minorscale.png
+[chromaticscale]: {{ site.baseurl }}/images/chromaticscale.png
+[majorscale]: {{ site.baseurl }}/images/majorscale.png
+[minorscale]: {{ site.baseurl }}/images/minorscale.png

@@ -13,7 +13,7 @@ Music in the classical tradition was quite often less subservient to the two- an
 When a two-measure basic idea or contrasting idea is expanded, that expansion is often accomplished through motivic repetition within the basic idea: a motive or other small melodic figure is repeated, either exactly or with simple embellishment, causing the overall length of the sub-phrase to be larger than the expected.  
 
 <figure>	
-  <img src="/images/form/k494.png">
+  <img src="{{ site.baseurl }}/images/form/k494.png">
   <figcaption>Sub-phrase Expansion: Mozart, Rondo, K. 494, mm. 1–12</figcaption>
 </figure>
 	
@@ -30,7 +30,7 @@ In other words, [*irregular lengths*](internalExpansions.html#non-standard-lengt
 Phrases are often expanded by repetition as well—most often in the concluding portion of a theme as a means to delay cadential arrival.
 		
 <figure>	
-  <img src="/images/form/op2no3.png">
+  <img src="{{ site.baseurl }}/images/form/op2no3.png">
   <figcaption>Phrase Expansion: Beethoven, Piano Sonata, Op. 2, No. 3</figcaption>
 </figure>
 	
@@ -43,7 +43,7 @@ The main theme's first eight measures form a simple sentence. But at the moment 
 In the example above, the cadence in m. 8 gave rise to an expansion because as it was weaker than expected. ([Primary themes](sonataThematicModules.html#primary-theme-module-p) rarely conclude with IACs.) This is one of the most common musical motivations for a phrase expansion. In addition to IACs, deceptive cadences can lead to expanded phrases, and not uncommonly, an expected cadence never materializes at all—an event often called an "evaded cadence."
 
 <figure>	
-  <img src="/images/form/k309.png">
+  <img src="{{ site.baseurl }}/images/form/k309.png">
   <figcaption>Phrase Expansion: Mozart, Piano Sonata in C major, K. 309, III</figcaption>
 </figure>
 

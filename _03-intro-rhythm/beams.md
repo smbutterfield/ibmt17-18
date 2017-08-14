@@ -8,11 +8,11 @@ It's important to remember that notation is intended to be read by performers. Y
 
 In this example, the eighth notes are not grouped with beams, making it difficult to interpret the triple meter. 
 
-<a href="/images/withoutbeams.png"><img src="/images/withoutbeams.png" width="70%"></a>
+<a href="{{ site.baseurl }}/images/withoutbeams.png"><img src="{{ site.baseurl }}/images/withoutbeams.png" width="70%"></a>
 
 If we re-notate the above example so that the notes that fall within the same beat are grouped together with a beam, it makes the music much easier to read. 
 
-<a href="/images/beams.png"><img src="/images/beams.png" width="70%"></a>
+<a href="{{ site.baseurl }}/images/beams.png"><img src="{{ site.baseurl }}/images/beams.png" width="70%"></a>
 
 ### Borrowed divisions ###
 
@@ -20,8 +20,8 @@ Typically, a meter is defined by the presence of a consistent beat division: div
 
 *Triplets* are borrowed from compound meter, and may occur at both the beat division and subdivision levels, as seen below.
 
-<a href="/images/triplets.png"><img src ="/images/triplets.png" width="70%"></a>
+<a href="{{ site.baseurl }}/images/triplets.png"><img src ="{{ site.baseurl }}/images/triplets.png" width="70%"></a>
 
 Likewise, *duplets* can be imported from simple meter into a compound meter.
 
-<a href="/images/duplets.png"><img src="/images/duplets.png" width="70%"></a>
+<a href="{{ site.baseurl }}/images/duplets.png"><img src="{{ site.baseurl }}/images/duplets.png" width="70%"></a>

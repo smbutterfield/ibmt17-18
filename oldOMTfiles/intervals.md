@@ -140,8 +140,8 @@ All other *harmonic* intervals are *dissonant*, and must be employed in very spe
 - All sevenths
 - Perfect fourths
 
-[c4e4]: /images/intervals/C4E4.png 
-[thirds]: /images/intervals/thirds.png
-[compound]: /images/intervals/compound.png
-[inversion]: /images/intervals/inversion.png
-[intervalChart]: /images/intervals/intervalTable.png
+[c4e4]: {{ site.baseurl }}/images/intervals/C4E4.png 
+[thirds]: {{ site.baseurl }}/images/intervals/thirds.png
+[compound]: {{ site.baseurl }}/images/intervals/compound.png
+[inversion]: {{ site.baseurl }}/images/intervals/inversion.png
+[intervalChart]: {{ site.baseurl }}/images/intervals/intervalTable.png

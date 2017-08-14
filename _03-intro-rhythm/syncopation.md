@@ -64,6 +64,6 @@ The following video walks through the process of transcribing straight syncopati
 <iframe src="http://player.vimeo.com/video/52491312?badge=0" width="500" height="281" class="aligncenter" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/>
 
 
-[quarterToEighth]: /images/syncopation/quarterToEighth.png
-[halfToQuarter]: /images/syncopation/halfToQuarter.png
-[eighthToSixteenth]: /images/syncopation/eighthToSixteenth.png
+[quarterToEighth]: {{ site.baseurl }}/images/syncopation/quarterToEighth.png
+[halfToQuarter]: {{ site.baseurl }}/images/syncopation/halfToQuarter.png
+[eighthToSixteenth]: {{ site.baseurl }}/images/syncopation/eighthToSixteenth.png

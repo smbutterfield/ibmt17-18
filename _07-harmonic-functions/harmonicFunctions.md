@@ -27,11 +27,11 @@ If you are already comfortable with Roman numerals, you can generally think of *
 
 To visualize these functional categories, think of the usual triads in C major arranged on a circle of thirds. Note that each chord sits between the two triads that share the most tones in common — C major (C, E, G) sits between E minor (E, G, B) and A minor (A, C, E), both of which share two tones in common with C.
 
-<a href="/images/harmony/circleOfThirds-leadSheet.png"><img src="/images/harmony/circleOfThirds-leadSheet.png" style="max-width: 400px; border: 1px;" alt="Diatonic chords of C major positioned on the circle of thirds."></a>
+<a href="{{ site.baseurl }}/images/harmony/circleOfThirds-leadSheet.png"><img src="{{ site.baseurl }}/images/harmony/circleOfThirds-leadSheet.png" style="max-width: 400px; border: 1px;" alt="Diatonic chords of C major positioned on the circle of thirds."></a>
 
 Convert these chords to Roman numerals (in C major), and we can see the functions. Since the function is determined by the tendencies of the tones that they share, and since on this graph chords are grouped together by notes they have in common, they are also grouped together by function.
 
-<a href="/images/harmony/circleOfThirds-functions.png"><img src="/images/harmony/circleOfThirds-functions.png" style="max-width: 400px; border: 1px;" alt="Diatonic chords of any major key represented by Roman numerals positioned on the circle of thirds with harmonic functions labeled."></a>
+<a href="{{ site.baseurl }}/images/harmony/circleOfThirds-functions.png"><img src="{{ site.baseurl }}/images/harmony/circleOfThirds-functions.png" style="max-width: 400px; border: 1px;" alt="Diatonic chords of any major key represented by Roman numerals positioned on the circle of thirds with harmonic functions labeled."></a>
 
 *Triads arranged on the circle of thirds, labeled by harmonic functions.*
 

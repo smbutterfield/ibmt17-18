@@ -5,7 +5,7 @@ title: Chromatically altered subdominant chords
 
 The most common chromatically altered subdominant chords (aside from the applied dominant of V) are the *Neapolitan chord* and the various *augmented-sixth chords*. 
 
-<img src="/images/N-AugSixths.png" alt="Neapolitan chord and augmented sixth chords, as described below, notated on a staff in basso-continuo style in G minor or major." style="width: 75%; display: block; margin: auto;" />
+<img src="{{ site.baseurl }}/images/N-AugSixths.png" alt="Neapolitan chord and augmented sixth chords, as described below, notated on a staff in basso-continuo style in G minor or major." style="width: 75%; display: block; margin: auto;" />
 
 ## Neapolitan chord
 
@@ -17,7 +17,7 @@ In a functional bass analysis, **N.** is placed below the functional designation
 
 Several prominent Neapolitan chords occur in "Der Müller und der Bach" from Schubert's song cycle, *Die schöne Müllerin* (song no. 19). On the score below (mm. 7–10 of the song), the tonic triad (G minor) is followed by a Neapolitan, then a dominant-seventh chord, and then tonic: T – S – D – T.
 
-<img src="/images/DMUDB.png" alt="Neapolitan chord in mm. 7–10 of Schubert's Der Müller und der Bach." style="width: 75%; display: block; margin: auto;" />
+<img src="{{ site.baseurl }}/images/DMUDB.png" alt="Neapolitan chord in mm. 7–10 of Schubert's Der Müller und der Bach." style="width: 75%; display: block; margin: auto;" />
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A4vKJZfXIU7c3qPKMegSDBW" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
@@ -35,7 +35,7 @@ When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under
 
 The following example is from Beethoven's Bagatelle, Op. 119, No. 1, mm. 1–4. In m. 3, the Italian augmented-sixth chord falls on beat 3, immediately before the dominant chord.
 
-<img src="/images/Op119-1.png" alt="Italian augmented-sixth chord in mm. 1–4 of Beethoven's Op. 119, No. 1." style="width: 75%; display: block; margin: auto;" />
+<img src="{{ site.baseurl }}/images/Op119-1.png" alt="Italian augmented-sixth chord in mm. 1–4 of Beethoven's Op. 119, No. 1." style="width: 75%; display: block; margin: auto;" />
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A79GyMHrNnQuFaov2JL7Tih" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
@@ -49,7 +49,7 @@ When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under
 
 The following example is from Mozart's String Quartet, "Dissonance," K. 465, iv., mm. 10–16. The French augmented-sixth chord occurs on beat 2 of m. 14. In this passage, a "milder" subdominant chord (**IV<sup>6</sup>**) progresses to the more intense French sixth, which progresses into the cadential 6/4 before the final **V–I.**
  
-<img src="/images/K465-iv.png" alt="French augmented-sixth chord in mm. 10–16 of Mozart's String Quartet, K. 465, iv." style="width: 75%; display: block; margin: auto;" />
+<img src="{{ site.baseurl }}/images/K465-iv.png" alt="French augmented-sixth chord in mm. 10–16 of Mozart's String Quartet, K. 465, iv." style="width: 75%; display: block; margin: auto;" />
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A36zKxZUavyuStSq0R4T4IH" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
@@ -65,7 +65,7 @@ The German sixth is almost always used in minor and followed by a cadential 6/4 
 
 In Beethoven's Piano Sonata in E Major, Op. 109, iii., a German augmented-sixth chord occurs on the last beat of m. 7 and carries over into m. 8 before releasing tension into the half cadence at the end of m. 8.
 
-<img src="/images/Op109-iii.png" alt="German augmented-sixth chord in mm. 1–8 of Beethoven's Piano Sonata, Op. 109, iii." style="width: 75%; display: block; margin: auto;" />
+<img src="{{ site.baseurl }}/images/Op109-iii.png" alt="German augmented-sixth chord in mm. 1–8 of Beethoven's Piano Sonata, Op. 109, iii." style="width: 75%; display: block; margin: auto;" />
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A00Vxoqv6oGhrcmugk7TAXB" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 

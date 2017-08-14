@@ -85,6 +85,6 @@ Keep in mind that some chords have abbreviated figures. For example, it is commo
 
 
 [triadsSevenths]: triads.html
-[full]: /images/harmony/figuresFull.png
-[abbrev]: /images/harmony/figuresAbbrev.png
-[chrom]: /images/harmony/figuresChrom.png
+[full]: {{ site.baseurl }}/images/harmony/figuresFull.png
+[abbrev]: {{ site.baseurl }}/images/harmony/figuresAbbrev.png
+[chrom]: {{ site.baseurl }}/images/harmony/figuresChrom.png

@@ -19,7 +19,7 @@ These functional requirements tend to result in three types of compound period.
 Both sentences in the compound period will have the same basic idea, each exhibiting presentation function. In the first sentence, the presentation is followed by a continuation that ends with a weak cadence. In the second, the continuation culminates in a strong cadence, most commonly a PAC.
 
 
-<img src="/images/ClassicalThemes/16period-sent.svg" onerror="this.src='/images/ClassicalThemes/16period-sent.png'" />
+<img src="{{ site.baseurl }}/images/ClassicalThemes/16period-sent.svg" onerror="this.src='/images/ClassicalThemes/16period-sent.png'" />
 
 
 <figure>	
@@ -39,7 +39,7 @@ The large antecedent is constructed as a sentence whose basic idea is a presenta
 If the initiating phrase is composed of an antecedent, rather than a presentation, the 8-bar antecedent phrase will be a hybrid of the ["antecedent + continuation"](hybridThemes.html#hybrid-1) variety. 
 
 
-<img src="/images/ClassicalThemes/16period-hybrid1.svg" onerror="this.src='/images/ClassicalThemes/16period-hybrid1.png'" />
+<img src="{{ site.baseurl }}/images/ClassicalThemes/16period-hybrid1.svg" onerror="this.src='/images/ClassicalThemes/16period-hybrid1.png'" />
 
 
 <figure>	
@@ -57,6 +57,6 @@ In this example the large antecedent begins with a small antecedent, comprising 
 By contrast, if the initiating phrase is composed of a ["compound basic idea"](hybridThemes.html#the-compound-basic-idea), the large antecedent will be a type-3 hybrid: compound basic idea + continuation. This type of compound period is *very similar* to the previous variety. The only distinction is that the initiating phrase will not culminate in a cadence, thus giving the theme's initiation a looser quality.
 
 
-<img src="/images/ClassicalThemes/16period-hybrid3.svg" onerror="this.src='/images/ClassicalThemes/16period-hybrid3.png'" />
+<img src="{{ site.baseurl }}/images/ClassicalThemes/16period-hybrid3.svg" onerror="this.src='/images/ClassicalThemes/16period-hybrid3.png'" />
 
 

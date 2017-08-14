@@ -51,4 +51,4 @@ Before composing a *cantus firmus* from scratch, try building a well formed *can
 
 <iframe class="trinket" src="https://trinket.io/embed/music/2df65adf8b" width="100%" height="240" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-[CFs]: /images/counterpoint/cantusFirmi.pdf
+[CFs]: {{ site.baseurl }}/images/counterpoint/cantusFirmi.pdf

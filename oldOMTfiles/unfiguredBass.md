@@ -13,4 +13,4 @@ The following chart provides the most common functions for each diatonic scale d
 ![][figs]
 [*View chart full size.*][figs]
 
-[figs]: /images/defaultFigures.png
+[figs]: {{ site.baseurl }}/images/defaultFigures.png

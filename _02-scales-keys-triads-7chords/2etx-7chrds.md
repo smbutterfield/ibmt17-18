@@ -27,4 +27,4 @@ Following are the lead-sheet abbreviations for seventh-chord qualities:
 -   diminished seventh: dim7 or °7 (D<sup>dim7</sup> or D<sup>°7</sup>)
 -   half-diminished seventh: ⦰7 (A<sup>⦰7</sup>)
 
-[circleOfThirds-seventhRTFS]: /images/triadsSeventhChords/circleOfThirds-seventhRTFS.svg
+[circleOfThirds-seventhRTFS]: {{ site.baseurl }}/images/triadsSeventhChords/circleOfThirds-seventhRTFS.svg

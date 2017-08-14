@@ -20,4 +20,4 @@ A C-major triad’s lead-sheet symbol is simply **C**. A C-minor triad is **Cm**
 
 ![Four qualities of triads with lead-sheet symbols.][triads-LS]
 
-[triads-LS]: /images/triadsSeventhChords/triads-LS.png
+[triads-LS]: {{ site.baseurl }}/images/triadsSeventhChords/triads-LS.png

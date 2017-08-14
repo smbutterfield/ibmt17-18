@@ -115,22 +115,22 @@ Some atonal composers like to make use of sets that invert and/or transpose onto
 
 [intervals]: Intervals.html
 [clock]: //images/postTonal/clockFace.png
-[Cmajor]: /images/postTonal/clockFace-diatonic.png
-[acoustic]: /images/postTonal/acoustic.png
-[dualDiatonicFaFi]: /images/postTonal/dualDiatonicFaFi.png
-[dualDiatonicTeTi]: /images/postTonal/dualDiatonicTeTi.png
-[frenchSixth]: /images/postTonal/frenchSixth.png
-[hexatonic]: /images/postTonal/hexatonic.png
-[major]: /images/postTonal/major.png
-[minor]: /images/postTonal/minor.png
-[octatonic]: /images/postTonal/octatonic.png
-[pentatonicBlack]: /images/postTonal/pentatonicBlack.png
-[pentatonicWhite]: /images/postTonal/pentatonicWhite.png
-[wholeTone]: /images/postTonal/wholeTone.png
-[xCell]: /images/postTonal/xCell.png
-[yCell]: /images/postTonal/yCell.png
-[zCell]: /images/postTonal/zCell.png
-[melodyUp]: /images/postTonal/melodyUp.png
-[melodyDown]: /images/postTonal/melodyDown.png
-[tetra]: /images/postTonal/clockFace-tetraChord.png
-[tetraInverted]: /images/postTonal/clockFace-tetraChordInverted.png
+[Cmajor]: {{ site.baseurl }}/images/postTonal/clockFace-diatonic.png
+[acoustic]: {{ site.baseurl }}/images/postTonal/acoustic.png
+[dualDiatonicFaFi]: {{ site.baseurl }}/images/postTonal/dualDiatonicFaFi.png
+[dualDiatonicTeTi]: {{ site.baseurl }}/images/postTonal/dualDiatonicTeTi.png
+[frenchSixth]: {{ site.baseurl }}/images/postTonal/frenchSixth.png
+[hexatonic]: {{ site.baseurl }}/images/postTonal/hexatonic.png
+[major]: {{ site.baseurl }}/images/postTonal/major.png
+[minor]: {{ site.baseurl }}/images/postTonal/minor.png
+[octatonic]: {{ site.baseurl }}/images/postTonal/octatonic.png
+[pentatonicBlack]: {{ site.baseurl }}/images/postTonal/pentatonicBlack.png
+[pentatonicWhite]: {{ site.baseurl }}/images/postTonal/pentatonicWhite.png
+[wholeTone]: {{ site.baseurl }}/images/postTonal/wholeTone.png
+[xCell]: {{ site.baseurl }}/images/postTonal/xCell.png
+[yCell]: {{ site.baseurl }}/images/postTonal/yCell.png
+[zCell]: {{ site.baseurl }}/images/postTonal/zCell.png
+[melodyUp]: {{ site.baseurl }}/images/postTonal/melodyUp.png
+[melodyDown]: {{ site.baseurl }}/images/postTonal/melodyDown.png
+[tetra]: {{ site.baseurl }}/images/postTonal/clockFace-tetraChord.png
+[tetraInverted]: {{ site.baseurl }}/images/postTonal/clockFace-tetraChordInverted.png

@@ -207,8 +207,8 @@ Tranpositional Symmetry.
 [applied]: appliedChords.html
 [embellishingTones]: embellishingTones.html
 [cadenceTypes]: cadenceTypes.html
-[LSandFBsymbols]: /images/Handouts/LSandFBsymbols.pdf
-[funcBassChart]: /images/Handouts/funcBassChart.pdf
+[LSandFBsymbols]: {{ site.baseurl }}/images/Handouts/LSandFBsymbols.pdf
+[funcBassChart]: {{ site.baseurl }}/images/Handouts/funcBassChart.pdf
 [classicalThemes]: classicalThemes.html
 [MinuetForm]: MinuetForm.html
 [Modulation]: Modulation.html
@@ -231,4 +231,4 @@ Tranpositional Symmetry.
 [atonal]: atonal.html
 [twelveTone]: twelveTone.html
 [atonalGloss]: atonalGlossary.html
-[clocks]: /images/blankClockFaces.pdf
+[clocks]: {{ site.baseurl }}/images/blankClockFaces.pdf

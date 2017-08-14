@@ -8,7 +8,7 @@ A period is one type of theme, like the [sentence](sentence.html), common to the
 
 The period is generally eight measures long and contains two four-measure phrases, called  *antecedent* and *consequent*.
 
-<img src="/images/ClassicalThemes/period.svg" onerror="this.src='/images/ClassicalThemes/period.png'">
+<img src="{{ site.baseurl }}/images/ClassicalThemes/period.svg" onerror="this.src='/images/ClassicalThemes/period.png'">
 
 The period is characterized by balance and symmetry. Its antecedent phrase is initiated by a basic idea that recurs at the beginning of the consequent phrase. Unlike the sentence, which exhibits a single cadence, the period contains *two cadences*, a weak one to end the *antecedent* and a strong one to end the *consequent*.
 

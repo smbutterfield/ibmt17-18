@@ -5,7 +5,7 @@ title: The sentence
 
 The prototypical sentence is eight measures long and contains two four-measure phrases. The first of these is called the *presentation phrase* and the second is the *continuation phrase*.
 
-<img src="/images/ClassicalThemes/sentence.svg" onerror="this.src='/images/ClassicalThemes/sentence.png'">
+<img src="{{ site.baseurl }}/images/ClassicalThemes/sentence.svg" onerror="this.src='/images/ClassicalThemes/sentence.png'">
 
 ## Presentation phrase (mm. 1–4)
 

@@ -9,7 +9,7 @@ Hybrid themes mixes the [functional features](themeFunctions.html) of [sentences
 
 Hybrid 1 combines an [antecedent phrase](themeFunctions.html#antecedent) with a [continuation phrase](themeFunctions.html#continuation).
 
-<img src="/images/ClassicalThemes/hybrid1.svg" onerror="this.src='/images/ClassicalThemes/hybrid1.png'">
+<img src="{{ site.baseurl }}/images/ClassicalThemes/hybrid1.svg" onerror="this.src='/images/ClassicalThemes/hybrid1.png'">
 
 <!--This results in a complete presentation–continuation–cadential function progression in the antecedent phrase followed by an incomplete continuation–cadential function progression. On the large scale, the antecedent phrase functions like a big presentation function zone (like the presentation phrase does).-->
 
@@ -26,7 +26,7 @@ A prototypical example is found in the first eight measures of Mozart's Piano So
 
 Hybrid 2 combines an antecedent phrase with a four-measure cadential progression.
 
-<img src="/images/ClassicalThemes/hybrid2.svg" onerror="this.src='/images/ClassicalThemes/hybrid2.png'">
+<img src="{{ site.baseurl }}/images/ClassicalThemes/hybrid2.svg" onerror="this.src='/images/ClassicalThemes/hybrid2.png'">
 
 <figure>	
   <img src="//images/form/haydn-III-66-ii.png">
@@ -52,7 +52,7 @@ Just as we sometimes find composers combining different features of the two prim
 
 The third hybrid type strongly resembles the [first hybrid](hybridThemes.html#hybrid-1). Rather than beginning with an initiating antecedent, however, its first phrase is a [CBI](hybridThemes.html#the-compound-basic-idea). Following the CBI, Hybrid 3 concludes with a continuation that ends with a cadence.
 
-<img src="/images/ClassicalThemes/hybrid3.svg" onerror="this.src='/images/ClassicalThemes/hybrid3.png'">
+<img src="{{ site.baseurl }}/images/ClassicalThemes/hybrid3.svg" onerror="this.src='/images/ClassicalThemes/hybrid3.png'">
 
 <figure>	
   <img src="//images/form/beethoven_op30.png">
@@ -70,7 +70,7 @@ The concluding phrase is a typical continuation expressed through fragmentation,
 
 Hybrid 4 resembles the period, with the exception that the first phrase is comprised of a "compound basic idea" rather than an antecedent. Following the [CBI](hybridThemes.html#the-compound-basic-idea), the concluding phrase expresses the function of a consequent, typically altering the return of the contrasting idea so that the theme ends with a strong cadence.
 
-<img src="/images/ClassicalThemes/hybrid4.svg" onerror="this.src='/images/ClassicalThemes/hybrid4.png'">
+<img src="{{ site.baseurl }}/images/ClassicalThemes/hybrid4.svg" onerror="this.src='/images/ClassicalThemes/hybrid4.png'">
 
 <figure>	
   <img src="//images/form/beethoven_18_2.png">

@@ -50,7 +50,7 @@ When all the members of the triad are as close to the bass note as they can be, 
 
 Each triad quality has its own distinct sound, and to an extent that sound is preserved even when the chord is *inverted* (when the pitch classes are arranged so that a pitch class other than the root is in the lowest voice). As you practice identifying and writing triads, be sure to play the triads, both to check your analysis/writing and to develop the ability to identify chord qualities quickly by ear.
 
-[circleOfSteps-triad]: /images/triadsSeventhChords/circleOfSteps-triad.png
-[circleOfThirds-triad]: /images/triadsSeventhChords/circleOfThirds-triad.svg
-[circleOfThirds-triadRTF]: /images/triadsSeventhChords/circleOfThirds-triadRTF.svg
-[triads]: /images/triadsSeventhChords/triads.png
+[circleOfSteps-triad]: {{ site.baseurl }}/images/triadsSeventhChords/circleOfSteps-triad.png
+[circleOfThirds-triad]: {{ site.baseurl }}/images/triadsSeventhChords/circleOfThirds-triad.svg
+[circleOfThirds-triadRTF]: {{ site.baseurl }}/images/triadsSeventhChords/circleOfThirds-triadRTF.svg
+[triads]: {{ site.baseurl }}/images/triadsSeventhChords/triads.png

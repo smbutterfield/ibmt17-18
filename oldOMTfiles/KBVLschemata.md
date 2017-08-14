@@ -84,16 +84,16 @@ Instead, leave *la*/*le* out of the **S4** chord and double the bass. This will 
 ![][S4dropThird]
 
 
-[deceptive]: /images/harmony/deceptive.png
-[deceptive7]: /images/harmony/deceptive7.png
-[D4i]: /images/harmony/D4i.png
-[Champagne]: /images/harmony/Champagne.png
-[D5dropFifth]: /images/harmony/D5dropFifth.png
-[D5problem]: /images/harmony/D5problem.png
-[ParallelTenths]: /images/harmony/ParallelTenths.png
-[PinkChampagne]: /images/harmony/PinkChampagne.png
-[S4dropThird]: /images/harmony/S4dropThird.png
-[S4problem]: /images/harmony/S4problem.png
-[T1dropFifth]: /images/harmony/T1dropFifth.png
-[VE63]: /images/harmony/VE63.png
-[VE64]: /images/harmony/VE64.png
+[deceptive]: {{ site.baseurl }}/images/harmony/deceptive.png
+[deceptive7]: {{ site.baseurl }}/images/harmony/deceptive7.png
+[D4i]: {{ site.baseurl }}/images/harmony/D4i.png
+[Champagne]: {{ site.baseurl }}/images/harmony/Champagne.png
+[D5dropFifth]: {{ site.baseurl }}/images/harmony/D5dropFifth.png
+[D5problem]: {{ site.baseurl }}/images/harmony/D5problem.png
+[ParallelTenths]: {{ site.baseurl }}/images/harmony/ParallelTenths.png
+[PinkChampagne]: {{ site.baseurl }}/images/harmony/PinkChampagne.png
+[S4dropThird]: {{ site.baseurl }}/images/harmony/S4dropThird.png
+[S4problem]: {{ site.baseurl }}/images/harmony/S4problem.png
+[T1dropFifth]: {{ site.baseurl }}/images/harmony/T1dropFifth.png
+[VE63]: {{ site.baseurl }}/images/harmony/VE63.png
+[VE64]: {{ site.baseurl }}/images/harmony/VE64.png
