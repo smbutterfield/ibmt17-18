@@ -1,0 +1,11 @@
+.chapter {
+    cursor: pointer;
+}
+.chapter-contents {
+    display: none;
+}
+.active-chapter {
+    .chapter-contents {
+        display: block;
+    }
+}

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Open Music Theory
+title: Inquiry-Based Music Theory
 ---
 
-This is a fork of Kris Shaffer, Bryn Hughes, and Brian Moseley, *Open Music Theory*, [Hybrid Pedagogy](http://www.digitalpedagogylab.com/hybridped/) 2014+.
+This is a fork of Kris Shaffer, Bryn Hughes, and Brian Moseley, [*Open Music Theory*](http://openmusictheory.com/), [Hybrid Pedagogy](http://www.digitalpedagogylab.com/hybridped/) 2014+ ([github repository](https://github.com/openmusictheory/openmusictheory.github.io)).
 This version is for test purposes, exploring adapting OER text for the classroom.
 Thanks to everyone who worked on the original!
 
 [**About this textbook**](about.html)  
-[**Table of contents**](contents.html)
+[**Table of contents**](toc.html)
 
 **Open Music Theory** is an open-source, interactive, online "text"book for college-level music theory courses. OMT was built on resources authored by Kris Shaffer, Bryn Hughes, and Brian Moseley. It is edited by Kris Shaffer and Robin Wharton, and is published by [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing). 
 

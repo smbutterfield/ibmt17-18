@@ -1,11 +1,6 @@
 ---
 layout: page
-title: About Open Music Theory
-image:
-  feature: openBooksOnPath.jpg
-  thumb: openBooksOnPath-square.jpg
-  credit: muffin9101985
-  creditlink: 
+title: About Open Music Theory 
 ---
 
 ## Inverted (or flipped) music theory

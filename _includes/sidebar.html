@@ -6,21 +6,22 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == "/" %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-    <a class="sidebar-nav-item{% if page.url == "/about.html" %} active{% endif %}" href="{{ site.baseurl }}/about.html">About</a>
     <a class="sidebar-nav-item{% if page.url == "/toc.html" %} active{% endif %}" href="{{ site.baseurl }}/toc.html">Table of Contents</a>
 
     {% for chapter in site.collections %}
     {% if chapter.label != 'posts' %}
-    <div class="sidebar-nav-item{% if page.url == chapter.url %} active{% endif %}">{{ chapter.label }}
-    <ul>
-      {% for lesson in chapter.docs %}
-      <li><a href="{{ lesson.url | prepend: site.baseurl }}">{{ lesson.title }}</a>
-      {% endfor %}
-    </ul>
+    {% assign loc = page.url | split: "/" %}
+    <div class="sidebar-nav-item chapter{% if loc[1] == chapter.label %} active active-chapter{% endif %}" onclick="toggleChapter(this);">{{ chapter.label }}
+      <ul class="chapter-contents">
+        {% for lesson in chapter.docs %}
+        <li><a href="{{ lesson.url | prepend: site.baseurl }}">{{ lesson.title }}</a>
+        {% endfor %}
+      </ul>
     </div>
     {% endif %}
     {% endfor %}
-
+    
+    <a class="sidebar-nav-item{% if page.url == "/about.html" %} active{% endif %}" href="{{ site.baseurl }}/about.html">About</a>
     <a class="sidebar-nav-item" href="{{ site.github-repo }}">GitHub project</a>
   </nav>
 

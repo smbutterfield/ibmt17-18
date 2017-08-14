@@ -27,6 +27,9 @@
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
+      function toggleChapter(e) {
+        e.firstElementChild.style.display = (e.firstElementChild.style.display === "block") ? "none" : "block";
+      }
       (function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
         var sidebar = document.querySelector('#sidebar');
