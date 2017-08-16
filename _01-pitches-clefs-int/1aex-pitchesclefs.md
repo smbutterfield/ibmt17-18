@@ -4,12 +4,19 @@ title: 1a Examples - Pitches and Clefs
 ---
 
 {% include abc-example.html abc="X: 1
-T: Cooley's
-M: 4/4
-L: 1/8
-R: reel
-K: Emin
-|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|
-EBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|
-|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|
-eB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|" %}
+T: Pitches and Clefs
+M:2/2
+L:1/2
+K:C
+V:1 name="Treble Clef"
+e a f b g ^c G|]
+w: E A F B G C# G
+V:2 name="Alto Clef" clef="alto"
+E A F B G ^C G,|]
+w: E A F B G C# G
+V:3 name="Tenor Clef" clef="tenor"
+E, A, F, B, G, ^C, G,,|]
+w: E A F B G C# G
+V:4 name="Bass Clef" clef="bass"
+E, A, F, B, G, ^C, G,,|]
+w: E A F B G C# G" %}

@@ -3,6 +3,14 @@ layout: page
 title: 1b Lesson - Labeling Pitches
 ---
 
+## Class Discussion
+
+Our discussion will be written and edited here.
+
+# Further Reading
+
+## From *Open Music Theory*
+
 ### The Keyboard ###
 
 The keyboard is great for helping you develop a visual, aural, and tactile understanding of music theory. On the illustration below, the *pitch-class* letter names are written on the keyboard. 
