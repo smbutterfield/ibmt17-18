@@ -26,33 +26,46 @@ baseurl: '/theory-draft-1'
 collections:
   01-pitches-clefs-int:
     output: true
-    name: Pitches Clefs Intro
+    name: Pitches, Clefs, and Intervals
   02-scales-keys-triads-7chords:
     output: true
+    name: Scales, Keys, Triads, and Seventh Chords
   03-intro-rhythm:
     output: true
+    name: Rhythm and Regular Meters
   04-counterpoint-part1:
     output: true
+    name: Counterpoint 1
   05-counterpoint-part2:
     output: true
+    name: Counterpoint 2 and Embellishing Shapes
   06-intro-harmonic:
     output: true
+    name: Introduction to Harmonic Analysis
   07-harmonic-functions:
     output: true
+    name: Harmonic Function
   08-overtones:
     output: true
+    name: The Overtone Series
   09-partwriting-root-first:
     output: true
+    name: Voice-leading Using Root Position and First-inversion Triads
   10-partwriting-second-7chords:
     output: true
+    name: Voice-leading Using Seventh Chords and Second-inversion Chords
   11-ncts-embellishments:
     output: true
+    name: Non-chord tones and embellishments
   12-phrasing-texture:
     output: true
+    name: Phrasing and Texture
   13-sequences-voiceleading-exceptions:
     output: true
+    name: Sequences and Voice-leading Exceptions in Diatonic Harmony
   14-inst-ranges-trans-score-reduction:
     output: true
+    name: Instrument Ranges, Transposition, and Score Reduction
 
 # ignore stuff
 exclude: [oldOMTfiles]
