@@ -17,3 +17,11 @@ Collaborators will need to accept the invitation sent to their email.
 - On the file's page, click the pencil icon to open the web editor.
 - add class discussion notes under a `## Class Discussion` section.
 - save the notes by scrolling down and using "Commit changes". Please add a description of the commit with ??, then click the green "Commit changes" button.
+
+## Resources
+
+The textbook's content is written in [Markdown](https://daringfireball.net/projects/markdown/), a simple mark up format designed to render to HTML text.
+
+- [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html)
+- [Mastering Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Tutorial](http://www.markdowntutorial.com/)
