@@ -1,20 +1,26 @@
 .abcjs-inline-midi {
-    max-width: 400px;
+    height: 30px;
 }
-#embed {
+.embed {
     width: 100%;
     margin: auto;
     border: solid 1px grey;
     border-radius: 4px;
     padding: 6px;
 }
-#abc-text {
+.abc-rendered {
+    width: 100%;
+    height: auto;
+    overflow-x: scroll;
+}
+.abc-text {
     margin-top: 5px;
+    width: 100%;
     background-color:#cdcdcd;
 }
-#notation svg {
+.abc-rendered svg {
     max-width: 100%;
 }
-#warnings {
+.abc-warnings {
     color: red;
 }
