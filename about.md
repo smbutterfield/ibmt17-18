@@ -1,7 +1,33 @@
 ---
 layout: page
-title: About Open Music Theory 
+title: About Inquiry-Based Music Theory
 ---
+
+intro stuff here?
+
+## Technical 
+
+The source code for Inquiry-Based Music Theory is hosted in a [GitHub repository]({{ site.github-repo }}).
+This allows the textbook to be easily shared, adapted, and modified by anyone, an [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources).
+
+The website is built using [Jekyll](http://jekyllrb.com/) static site generator and is hosted on [GitHub Pages](https://pages.github.com/).
+The content is written in [Markdown](https://daringfireball.net/projects/markdown/), a simple mark up language written in [plain text](https://en.wikipedia.org/wiki/Plain_text).
+
+Interactive musical notation and midi play back is added to the site using [abcjs](https://github.com/paulrosen/abcjs) to render [ABC Music Notation](http://abcnotation.com/).
+
+## About Open Music Theory
+
+This book was inspired by and partially adapted from [*Open Music Theory*](http://openmusictheory.com/). 
+
+> Kris Shaffer, Bryn Hughes, and Brian Moseley, [*Open Music Theory*](http://openmusictheory.com/), [Hybrid Pedagogy](http://www.digitalpedagogylab.com/hybridped/) 2014+ ([github repository](https://github.com/openmusictheory/openmusictheory.github.io)).
+
+*Open Music Theory* was built on resources authored by Kris Shaffer, Bryn Hughes, and Brian Moseley. It is edited by Kris Shaffer and Robin Wharton, and is published by [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing). 
+HPP seeks to do more than simply reproduce print publishing in digital form. Rather, we ask, *what can a digital "book" do that a print book cannot?* As we state on our website, 
+
+> Writing and reading are social acts. Hybrid Pedagogy Publishing seeks to encourage active public discourse by publishing works that are born out of, or facilitate, community (inter)action — works that are crowdsourced or collaboratively authored, openly accessible, encourage remixing and republishing, and/or blur the lines between author and reader.
+
+
+## Old OMT stuff, delete or adapt:
 
 ## Inverted (or flipped) music theory
 
@@ -28,24 +54,3 @@ Rather than create "a fixed tome of knowledge, shared across institutional bound
 This means that at times (and increasingly as more contribute to the text), multiple perspectives will be provided on a single issue. Also, the license (and to the greatest extent possible, the technology) permits an instructor—and even a student—to tweak and rewrite the text. And rather than arbitrate standards across institutional boundaries, we hope that the online nature of the text, and the accompanying hashtag [#OpenMusicTheory](https://twitter.com/search?f=realtime&q=%23OpenMusicTheory), will help build *community* across institutional boundaries, rather than uniformity.
 
 While there are three authors and an editor listed on this text as of first "publication," we hope that the technology and the license encourage otherss to contribute new material to this volume. Though Kris, Bryn, Brian, and Robin are the original authors and editors, we have chosen a license and platform that essentially give the community of music scholars and students ownership over the textbook.
-
-## Hybrid Pedagogy Publishing
-
-This textbook is published by [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing), under editors [Robin Wharton](http://www.robinwharton.com) and [Kris Shaffer](http://kris.shaffermusic.com). 
-
-HPP seeks to do more than simply reproduce print publishing in digital form. Rather, we ask, *what can a digital "book" do that a print book cannot?* As we state on our website, 
-
-> Writing and reading are social acts. Hybrid Pedagogy Publishing seeks to encourage active public discourse by publishing works that are born out of, or facilitate, community (inter)action — works that are crowdsourced or collaboratively authored, openly accessible, encourage remixing and republishing, and/or blur the lines between author and reader.
-
-Textbooks are nearly unparalleled in the degree to which they are attached to a community. And so we hope that this textbook and the communities that use it will be a vibrant starting point for us as we re-examine what it means to read, write, and engage texts critically in a digitally connected age.
-
-For more information about HPP, [follow @HybridPub on Twitter](http://twitter.com/HybridPub).
-
-## Supporters
-
-As this book grew out of a crowdfunding effort, we are proud to acknowledge those who contributed financially to the writing, editing, and designing of this book. We are extremely grateful for their support. 
-
-We are also beyond grateful to have the financial and technological support from the team at [Trinket](http://www.trinket.io), who provided a matching donation in the amount of $2500, and who built the technology behind the interactive musical notation modules that appear in this text.
-
-**Financial supporters of the open, interactive music theory textbook (non-anonymous donors of $15 or more):**  
-Adam Heidebrink, Andrew Charlton, Alex Dunn, Andre Mount, Ben Lloyd Pearson, Benjamin Zwickl, Brian Bennett, Brian Moseley, Chris Ogden, Christopher Edwards, Daniel Shanahan, Daniel Stevens, Dave Easley, David Huron, David Kulma, David MacDonald, The Marca Development Team, Jesse Stommel, Jill T. Brasky, John Moore, Jon Scott Smith, Joseph Casamento, Julia Silge, Kyle Gullings, Lindsey Sudbury, Maeve Sterbenz, Marianne Kielian-Gilbert, Mark Easley, Sr., Mark McGuire, martinlugton (screen name), Max August, Moeruze.Burning (screen name), Molly Sweet, Pandel Collaros, Paul Bond, Paul David Johnson, Peter Kaminsky, Peter Newbury, Philip Duker, pkay3 (screen name), Robert Kelley, Robert Talbert, Rolin Moe, Trevor Pittman, Trevor Rowe, University of Delaware Dept. of Academic Technology Services, University of Delaware Dept. of Music, University of Colorado Dept. of Music Theory, Wanda Terral, William O’Hara, and several anonymous donors.
