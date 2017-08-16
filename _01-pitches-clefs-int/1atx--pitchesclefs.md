@@ -29,10 +29,6 @@ Notes *still* can't convey their pitch information if the staff doesn't include 
 A clef indicates which pitches are assigned to the lines and spaces on a staff. 
 The two most commonly used clefs are the *treble* and *bass* clef; others that you'll see relatively frequently are *alto* and *tenor* clef. 
 
-Here is the pitch C4 placed on the treble, bass, alto, and tenor clefs.
-
-<img src="{{ site.baseurl }}/images/clefs.png" width="50%" height="50%">
-
 ### Grand staff
 
 The grand staff consists of two staves, one that uses a treble clef, and one that uses a bass clef. 

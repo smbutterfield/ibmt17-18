@@ -27,6 +27,10 @@ When specifying a particular pitch precisely, we also need to know the *register
 
 We will follow the International Standards Organization (ISO) system for register designations. In that system, middle C (the first ledger line above the bass staff or the first ledger line below the treble staff) is C4. An octave higher than middle C is C5, and an octave lower than middle C is C3. 
 
+Here is the pitch C4 placed on the treble, bass, alto, and tenor clefs.
+
+<img src="{{ site.baseurl }}/images/clefs.png" width="50%" height="50%">
+
 The tricky bit about this system is that the octave starts on C and ends on B. So an ascending scale from middle C contains the following pitch designations: 
 
 ![][C4toC5]
