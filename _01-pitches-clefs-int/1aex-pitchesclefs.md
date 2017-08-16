@@ -1,9 +1,10 @@
 ---
 layout: page
 title: 1a Examples - Pitches and Clefs
+abc: true
 ---
 
-{% include abc-example.html abc="X: 1
+{% include abc-example.html abc='X: 1
 T: Pitches and Clefs
 M:2/2
 L:1/2
@@ -19,4 +20,4 @@ E, A, F, B, G, ^C, G,,|]
 w: E A F B G C# G
 V:4 name="Bass Clef" clef="bass"
 E, A, F, B, G, ^C, G,,|]
-w: E A F B G C# G" %}
+w: E A F B G C# G' %}

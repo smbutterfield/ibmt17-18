@@ -1,0 +1,20 @@
+.abcjs-inline-midi {
+    max-width: 400px;
+}
+#embed {
+    width: 100%;
+    margin: auto;
+    border: solid 1px grey;
+    border-radius: 4px;
+    padding: 6px;
+}
+#abc-text {
+    margin-top: 5px;
+    background-color:#cdcdcd;
+}
+#notation svg {
+    max-width: 100%;
+}
+#warnings {
+    color: red;
+}

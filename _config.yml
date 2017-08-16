@@ -68,4 +68,4 @@ collections:
     name: Instrument Ranges, Transposition, and Score Reduction
 
 # ignore stuff
-exclude: [oldOMTfiles]
+exclude: [oldOMTfiles, docs]

@@ -11,7 +11,7 @@
     {% for chapter in site.collections %}
     {% if chapter.label != 'posts' %}
     {% assign loc = page.url | split: "/" %}
-    <div class="sidebar-nav-item chapter{% if loc[1] == chapter.label %} active active-chapter{% endif %}" onclick="toggleChapter(this);">{{ chapter.label }}
+    <div class="sidebar-nav-item chapter{% if loc[1] == chapter.label %} active active-chapter{% endif %}" onclick="toggleChapter(this);">{{ chapter.name }}
       <ul class="chapter-contents">
         {% for lesson in chapter.docs %}
         <li><a href="{{ lesson.url | prepend: site.baseurl }}">{{ lesson.title }}</a>
