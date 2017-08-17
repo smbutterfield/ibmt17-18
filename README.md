@@ -4,4 +4,4 @@ This is a fork of Kris Shaffer, Bryn Hughes, and Brian Moseley, [*Open Music The
 
 Thanks to everyone who worked on the original!
 
-<https://drbutterfield.github.io/theory-draft-1/>
+<https://smbutterfield.github.io/theory-draft-1/>

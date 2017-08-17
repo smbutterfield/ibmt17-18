@@ -1,3 +1,4 @@
+/* add chapter styles for sidebar */
 .chapter {
     cursor: pointer;
 }
@@ -9,3 +10,7 @@
         display: block;
     }
 }
+/* fix theme background color bug */
+.theme-base-0d .sidebar-toggle:active,
+.theme-base-0d #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #555; }
