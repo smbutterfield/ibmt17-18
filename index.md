@@ -9,7 +9,7 @@ The project was inspired by and partially adapted from [*Open Music Theory*](htt
 
 The textbook is designed to maximize flexibility and support an inquiry-based model of instruction. For a simple explanation of this model as well as how to best utilize this textbook's structure, please view:
 
-[**About this textbook**]({{ site.baseurl }}about.md)
+[**About this textbook**](../about.html)
 
 If you are already familiar with the inquiry-based model, you can begin exploring the textbook using the side bar navigation or by accessing the table of contents:
 
