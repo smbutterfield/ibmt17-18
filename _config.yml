@@ -1,11 +1,14 @@
 # Inquiry-Based Music Theory
-# OER Music text book, by Sean Butterfield and Evan Williams
+# OER Music text book, by Sean Butterfield and Evan Williamson
 # a fork of Kris Shaffer, Bryn Hughes, and Brian Moseley, Open Music Theory, Hybrid Pedagogy 2014+. 
 # http://openmusictheory.com/
 # https://github.com/openmusictheory/openmusictheory.github.io
 # http://www.hybridpedagogy.org/#publishing
 
 # jekyll theme partly based on Lanyon, https://github.com/poole/lanyon
+# OER Music text book, content adapted and created by smbutterfield
+# jekyll theme adapted from Lanyon, https://github.com/poole/lanyon
+# project set up by evanwill
 
 # site info
 title: Inquiry-Based Music Theory
@@ -20,9 +23,10 @@ github-repo: https://github.com/smbutterfield/theory-draft-1
 # urls
 url: https://smbutterfield.github.io
 baseurl: '/theory-draft-1'
-# baseurl: ''
 
 # collections
+# each chapter of the book is a collection
+# each chapter collection should be given a name value
 collections:
   01-pitches-clefs-int:
     output: true
