@@ -18,11 +18,11 @@ keywords: music theory, OER, university of idaho, inquiry-based
 owner: Sean Butterfield
 email: sbutterfield@uidaho.edu
 published: 2017
-github-repo: https://github.com/smbutterfield/theory-draft-1
+github-repo: https://github.com/smbutterfield/ibmt17-18
 
 # urls
 url: https://smbutterfield.github.io
-baseurl: /theory-draft-1
+baseurl: /ibmt17-18
 
 # collections
 # each chapter of the book is a collection

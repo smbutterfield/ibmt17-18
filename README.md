@@ -1,7 +1,7 @@
-# Open Music Theory OER
+# Inquiry-Based Music Theory OER
 
-This is a fork of Kris Shaffer, Bryn Hughes, and Brian Moseley, [*Open Music Theory*](http://openmusictheory.com/), [Hybrid Pedagogy](http://www.digitalpedagogylab.com/hybridped/) 2014+ ([github repository](https://github.com/openmusictheory/openmusictheory.github.io)).
+*Inquiry-Based Music Theory* is an [open-source]({{site.github-repo }}), interactive, online textbook for college-level music theory courses written and designed by Sean Butterfield and Evan Williamson.
+It was developed with support of the [Think Open Fellowship](https://open.lib.uidaho.edu/) from the University of Idaho. 
+The project was inspired by and partially adapted from [*Open Music Theory*](http://openmusictheory.com/).
 
-Thanks to everyone who worked on the original!
-
-<https://smbutterfield.github.io/theory-draft-1/>
+<https://smbutterfield.github.io/ibmt17-18/>
