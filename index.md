@@ -9,11 +9,11 @@ The project was inspired by and partially adapted from [*Open Music Theory*](htt
 
 The textbook is designed to maximize flexibility and support an inquiry-based model of instruction. For a simple explanation of this model as well as how to best utilize this textbook's structure, please view:
 
-[**About this textbook**](../about.html)
+[**About this textbook**](/about.md)
 
 If you are already familiar with the inquiry-based model, you can begin exploring the textbook using the side bar navigation or by accessing the table of contents:
 
-[**Table of contents**]({{ site.baseurl }}toc.md)
+[**Table of contents**](/toc.md)
 
 If you have questions about this textbook or curriculum, please feel free to contact Sean Butterfield via email:
 

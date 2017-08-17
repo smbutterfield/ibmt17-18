@@ -22,7 +22,7 @@ github-repo: https://github.com/smbutterfield/theory-draft-1
 
 # urls
 url: https://smbutterfield.github.io
-baseurl: '/theory-draft-1'
+baseurl: /theory-draft-1
 
 # collections
 # each chapter of the book is a collection
