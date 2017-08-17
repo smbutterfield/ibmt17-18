@@ -9,8 +9,8 @@ abc: true
 {% include abc-example.html number="1" abc='X:1
 T: Enharmonic Equivalence
 T: Each measure contains two notes that are enharmonically equivalent.
-M:2/2
-L:1/2
+M:
+L:1/4
 K:C
 V:1 name="Treble Clef"
 _B ^A |f ^e |^^E ^F |]
@@ -25,8 +25,8 @@ _D, ^C, |^B,, C, |D, ^^E,|]' %}
 
 {% include abc-example.html number="2" abc='X:1
 T: Pitches and Clefs
-M:2/2
-L:1/2
+M:
+L:1/4
 K:C
 V:1 name="Treble Clef"
 e a f b g ^c B|]
