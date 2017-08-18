@@ -1,34 +1,111 @@
 ---
-layout: default
-title: print
+title: ABC Playground
+abc: true
 ---
+<!DOCTYPE html>
+<html lang="en-us">
 
-<script src="{{ site.baseurl }}/assets/js/abcjs_basic_midi_3.1.2-min.js" type="text/javascript"></script>
+  {% include head.html %}
 
-<div id="notation"></div>
-<div id="print" style="width:100%;position:absolute;top:0;left:0;"></div>
-<button id="test" onclick="printDiv()">print</button>
+  <body class="theme-base-0d">
+      <style>
+          #playground {
+              width: 90%;
+              margin: auto;
+          }
+        </style>
+<div id="no-print">
+    {% include sidebar.html %}
+
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
+    </div>
+
+<div id="playground">
+		<div id="notation" class="abc-rendered"></div>
+    <div id="play"></div>
+		<div id="warnings" class="abc-warnings"></div>
+<textarea name="abc" id="abc-text" class="abc-text" rows="14">
+</textarea>
+<button type="button" onclick="resetAbc();">Reset</button>
+<button type="button" onclick="printAbc();">Print</button>
+<button type="button" id="midi-download"></button>
+<br>
+<p>For help, check the <a href="{{ site.baseurl }}/abc-tutorial.html">ABC Tutorial</a>.</p>
+</div>
+
+</div>
+
+<div id="print-abc"></div>
+
 <script type="text/javascript">
+// set soundfonts location
+window.ABCJS.midi.soundfontUrl = "{{ site.baseurl }}/assets/soundfont/";
 var start = `X:1
-T:Speed the Plough
+T:ABC Playground
 M:4/4
-C:Trad.
+L:1/4
+Q: 1/4=90
 K:G
-|:GABc dedB|dedB dedB|c2ec B2dB|c2A2 A2BA|c2ec B2dB|c2A2 A2BA|
-GABc dedB|dedB dedB|c2ec B2dB|A2F2 G4:|c2ec B2dB|c2A2 A2BA|
-|:g2gf gdBd|g2f2 e2d2|c2ec B2dB|c2A2 A2df|c2ec B2dB|c2A2 A2BA|
-g2gf g2Bd|g2f2 e2d2|c2ec B2dB|A2F2 G4:|c2ec B2dB|c2A2 A2BA||`;
+|G||`;
+function resetAbc() {
+    document.getElementById("abc-text").value = start;
+    initEditor();
+}
+function printAbc() {
+     var currentAbc = document.getElementById('abc-text').value;
+     new ABCJS.renderAbc("print-abc", currentAbc, {print:true});
+     document.getElementById("no-print").style.display = "none";
+     window.print();
+     document.getElementById("no-print").style.display = "block";
+     document.getElementById("print-abc").innerHTML = '';
+}
+document.getElementById("abc-text").value = start;
+
 function initEditor() {
-    new ABCJS.renderAbc("notation", start);
+    new ABCJS.Editor("abc-text", { paper_id: "notation",
+        generate_midi: true,
+        midi_id:"play",
+        midi_download_id: "midi-download",
+        generate_warnings: true,
+        warnings_id:"warnings",
+        midi_options: {
+          generateDownload: true
+        }
+    });
 }
+
 window.addEventListener("load", initEditor, false);
-function printDiv() {
-    var originalContents = document.body.innerHTML;
-    new ABCJS.renderAbc("print", start, {print:true});
-    var printContents = document.getElementById('print').innerHTML;
-    document.body.innerHTML = printContents;
-    window.print();
-    document.body.innerHTML = originalContents;
-}
 </script>
 
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      function toggleChapter(e) {
+        e.firstElementChild.style.display = (e.firstElementChild.style.display === "block") ? "none" : "block";
+      }
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>

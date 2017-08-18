@@ -14,7 +14,7 @@ abc: true
               margin: auto;
           }
         </style>
-
+<div id="no-print">
     {% include sidebar.html %}
 
     <div class="wrap">
@@ -36,10 +36,13 @@ abc: true
 </textarea>
 <button type="button" onclick="resetAbc();">Reset</button>
 <button type="button" onclick="printAbc();">Print</button>
-<button type="button" id="midi-download">
+<button type="button" id="midi-download"></button>
 <br>
 <p>For help, check the <a href="{{ site.baseurl }}/abc-tutorial.html">ABC Tutorial</a>.</p>
 </div>
+
+</div>
+
 <div id="print-abc"></div>
 
 <script type="text/javascript">
@@ -49,6 +52,7 @@ var start = `X:1
 T:ABC Playground
 M:4/4
 L:1/4
+Q: 1/4=90
 K:G
 |G||`;
 function resetAbc() {
@@ -56,13 +60,12 @@ function resetAbc() {
     initEditor();
 }
 function printAbc() {
-     var printContents = document.getElementById('notation').innerHTML;
      var currentAbc = document.getElementById('abc-text').value;
-     var originalContents = document.body.innerHTML;
-     document.body.innerHTML = printContents;
+     new ABCJS.renderAbc("print-abc", currentAbc);
+     document.getElementById("no-print").style.display = "none";
      window.print();
-     document.body.innerHTML = originalContents;
-     document.getElementById('abc-text').value = currentAbc;
+     document.getElementById("no-print").style.display = "block";
+     document.getElementById("print-abc").innerHTML = '';
 }
 document.getElementById("abc-text").value = start;
 
