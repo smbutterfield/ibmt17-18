@@ -8,7 +8,7 @@ abc: true
 
 ABC notation is a text-based system created by Chris Walshaw for entering musical notation. 
 Due to its simple but powerful interface, developers have been able to create software that renders ABC notation into standard musical notation while also providing editable, instant playback. 
-This website uses a javascript engine built by Gregory Dyke and Paul Rosen.
+This website uses [abcjs](https://github.com/paulrosen/abcjs), a javascript package developed by Gregory Dyke and Paul Rosen.
 
 ### Known Technical Issues
 
@@ -98,7 +98,7 @@ C,| F, E,/2-D,/2 C,| G, G,,|" %}
 
 ### Existing Tutorials
 
-Because ABC notation is a well-established notation method, there are many websites that offer excellent tutorials on how to enter music using this method.
+Because ABC notation is a well-established notation standard, there are many websites that offer excellent tutorials on how to enter music using this method.
 If you would like to learn more about the advanced capabilities of ABC Notation, please visit:
 
 [**Steve Manfsfield's ABC Notation tutorial**](http://www.lesession.co.uk/abc/abc_notation.htm) - an excellent place to start
