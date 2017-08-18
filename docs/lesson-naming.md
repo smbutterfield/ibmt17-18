@@ -3,15 +3,14 @@
 Content is organized in to chapters, each represented by one directory of files, which become a Jekyll Collection. 
 The chapters are given a name in the `_config.yml` under collections.
 
-Each chapter is split into multiple topics, given a letter.
-Each topic is split in to sections: Overview, Examples, and Lesson.
+Each Chapter is split into multiple Topics, given a letter.
+Each Topic is split into three Parts: Overview, Examples, and Lesson.
 
 - Overview:
     Skeleton text that prepares the student to learn from the exemplars by hinting at specific concepts the student should explore
     Introduces the topic without actually defining the rules
 - Exemplars:
     Images that will be used in class to introduce each concept
-    Needs to be a way to easily upload image files (.jpg?)
     Separate from topic overview text so that I can have them viewing these without looking at the text
 - Lesson (concepts and rules):
     Editable space in which TA can take notes on class discussion

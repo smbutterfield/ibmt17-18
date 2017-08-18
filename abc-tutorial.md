@@ -37,7 +37,7 @@ T: Happy Birthday
 M: 3/4
 L: 1/4
 Q: 1/4=90
-V:1 clef="bass"
+V:1 clef=bass
 K: G
 D,/2>D,/2| E, D, G,| F,2 D,/2>D,/2| E, D, A,| G,2 D,/2>D,/2| 
 d, B, G,| F, E, c,/2>c,/2| B, G, A,| G,2|]" %}
@@ -86,14 +86,14 @@ M:2/2
 Q:1/4=60
 L:1/4
 K:C
-V:1 name="Violin 1"
+V:1 name=Violin
 G/2>G/2| A G c| B2 |
-w: Ha-ppy birth-day to you
-V:2 name="Violin 2"
+w: Hap-py birth-day to you
+V:2 name=Violin
 E| F G2| G2|
-V:3 name="Viola" clef="alto"
+V:3 name=Viola clef=alto
 C| B,2 E| D2|
-V:4 name="Cello" clef="bass"
+V:4 name=Cello clef=bass
 C,| F, E,/2-D,/2 C,| G, G,,|" %}
 
 ### Existing Tutorials

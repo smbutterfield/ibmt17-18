@@ -13,7 +13,7 @@ abc: true
 
 Where you want to add an ABC editor, use the `abc-example.html` include. 
 The include must have two variables, `number` and `abc`. 
-- `number` must be a unique number on the page, used to make each ABC editor seporate.
+- `number` must be a unique number on the page, used to make each ABC editor separate.
 - `abc` is the ABC notation. Make sure to give it with no indentation and no extra blank lines. Take care of which quotes you use on the outside, they can not match any quote used inside the notation. i.e. if you use `"` for `clef="alto"` in the notation, you can not use `"` to enclose the variable. Use `'` instead.
 
 For example:
