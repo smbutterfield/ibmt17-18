@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ABC-notation Tutorial
+title: ABC Notation Tutorial
 abc: true
 ---
 
@@ -23,16 +23,17 @@ If you place your cursor in the editor's textbox, it will highlight the correspo
 After you have tried to play with it for a bit, continue reading below for a basic overview of the editor functions.
 (**Once you make many changes, the editor may lock. Simply hit the reset button below the editor to continue. If you'd like to save your changes and continue, you simply need to copy your all the text in the textbox, and then paste it over the old text after you hit reset.**)
 
-{% include abc-example.html number="1" abc='X: 1
+{% capture ex1 %}X: 1
 T: Happy Birthday
 M: 3/4
 L: 1/4
 Q: 1/4=90
 K: G
 D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2| 
-d B G| F E c/2>c/2| B G A| G2|]' %}
+d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
 
-{% include abc-example.html number="2" abc='X: 2
+{% capture ex2 %}X: 2
 T: Happy Birthday
 M: 3/4
 L: 1/4
@@ -40,7 +41,8 @@ Q: 1/4=90
 V:1 clef="bass"
 K: G
 D,/2>D,/2| E, D, G,| F,2 D,/2>D,/2| E, D, A,| G,2 D,/2>D,/2| 
-d, B, G,| F, E, c,/2>c,/2| B, G, A,| G,2|]' %}
+d, B, G,| F, E, c,/2>c,/2| B, G, A,| G,2|]{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
 
 ### Basic Entry
 
@@ -78,8 +80,7 @@ The body contains the actual musical notes as well as bar lines and repeats.
 The last basic function that you may want to use is adding voices and changing clefs.
 Both of these things are done using the "voice" command in the header. Take the following example
 
-
-{% include abc-example.html number="3" abc='X:3
+{% capture ex3 %}X:3
 T: Happy Birthday
 T: for String Quartet
 M:2/2
@@ -94,7 +95,12 @@ E| F G2| G2|
 V:3 name="Viola" clef="alto"
 C| B,2 E| D2|
 V:4 name="Cello" clef="bass"
-C,| F, E,/2-D,/2 C,| G, G,,|' %}
+C,| F, E,/2-D,/2 C,| G, G,,|{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
+
+### Have fun
+
+Try creating new music and printing it at the [ABC Playground]({{ site.baseurl }}/abc-playground.html).
 
 ### Existing Tutorials
 

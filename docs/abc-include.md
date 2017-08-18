@@ -14,7 +14,7 @@ abc: true
 Where you want to add an ABC editor, use the `abc-example.html` include, `{% include abc-example.html number="1" abc=ex1 %}`. 
 The include must have two variables, `number` and `abc`. 
 - `number` must be a unique number on the page, used to make each ABC editor separate.
-- `abc` is the ABC notation. To create the `abc` variable, use a Liquid capture statement before the include, and use the captured variable in the include.
+- `abc` is the ABC notation. To create the `abc` variable, quote the notation inline, or use a Liquid capture statement before the include and use the captured variable in the include.
 
 > String variables can be passed to the include, however they must be quoted with `'` or `"`. 
 > Since ABC notation uses both quote symbols (e.g. `clef="alto"` and `a'`), it can not be reliably quoted inline.
@@ -23,12 +23,11 @@ The include must have two variables, `number` and `abc`.
 For example:
 
 ```
-{% capture ex1 %}X: 1
+{% include abc-example.html number="1" abc='X: 1
 M: 4/4
 L: 1/8
 K: Emin
-|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|{% endcapture %}
-{% include abc-example.html number="1" abc=ex1 %}
+|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|' %}
 ```
 
 ```
