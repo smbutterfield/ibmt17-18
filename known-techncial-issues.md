@@ -5,9 +5,10 @@ title: Known Technical Issues
 
 ### Browser compatibility
 
-To ensure all musical examples are rendered correctly, we recommend [Chrome](https://www.google.com/chrome) or [Firefox](https://www.mozilla.org/firefox/) when using this website. 
-Safari is capable of rendering the music, but does not support the MIDI playback function. 
-This also means that iPhones will not be able to use the MIDI playback, because they force all browsers, including Chrome and Firefox for iOS, to use Safari's engine. 
+To ensure all musical examples are rendered correctly, we recommend [Chrome](https://www.google.com/chrome) or [Firefox](https://www.mozilla.org/firefox/) when using this website.
+- Chrome browser supports all abcjs functionality.
+- Firefox browser does not support MIDI download.
+- Safari browser does not support MIDI playback or download. This also means that iPhones will not be able to use the MIDI playback, because they force all browsers, including Chrome and Firefox for iOS, to use Safari's engine. 
 
 ### Current Known Technical Issues
 
