@@ -6,7 +6,7 @@ abc: true
 
 {% include abc-example.html abc='X: 1
 T: Pitches and Clefs
-M:
+M:C
 L:1/4
 K:C
 V:1 name="Treble Clef"

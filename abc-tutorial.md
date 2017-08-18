@@ -82,7 +82,7 @@ Both of these things are done using the "voice" command in the header. Take the 
 {% include abc-example.html number="3" abc="X:3
 T: Happy Birthday
 T: for String Quartet
-M:2/2
+M:3/4
 Q:1/4=60
 L:1/4
 K:C
