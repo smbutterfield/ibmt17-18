@@ -7,8 +7,12 @@ title: Inquiry-Based Music Theory
 It was developed with support of the [Think Open Fellowship](https://open.lib.uidaho.edu/) from the University of Idaho. 
 The project was inspired by and partially adapted from [*Open Music Theory*](http://openmusictheory.com/).
 
-<div markdown="1" class="index-buttons">[About]({{ site.baseurl }}/about.html) [Table of contents]({{ site.baseurl }}/toc.html) [ABC Tutorial]({{ site.baseurl }}/abc-tutorial.html)
-</div>
+<ul class="index-buttons">
+<li><a href="{{ site.baseurl }}/about.html">About</a></li>
+<li><a href="{{ site.baseurl }}/toc.html">Table of contents</a></li>
+<li><a href="{{ site.baseurl }}/abc-tutorial.html">ABC Tutorial</a></li>
+<li><a href="{{ site.baseurl }}/abc-playground.html">ABC Playground</a></li>
+</ul>
 
 The textbook is designed to maximize flexibility and support an inquiry-based model of instruction. 
 For a simple explanation of this model as well as how to best utilize this textbook's structure, please view [About this textbook]({{ site.baseurl }}/about.html).
