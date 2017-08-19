@@ -6,18 +6,21 @@ abc: true
 
 ### Overview of ABC Notation
 
-ABC notation is a text-based system created by Chris Walshaw for entering musical notation. 
+[ABC notation](http://abcnotation.com/) is a text-based system created by Chris Walshaw for recording musical notation. 
 Due to its simple but powerful interface, developers have been able to create software that renders ABC notation into standard musical notation while also providing editable, instant playback. 
 This website uses [abcjs](https://github.com/paulrosen/abcjs), a javascript package developed by Gregory Dyke and Paul Rosen.
 
 ### Known Technical Issues
 
 You may view our [Known Technical Issues]({{ site.baseurl }}/known-technical-issues.html) page if you are having technical difficulties with any portion of the website.
+Chrome browser has the most complete support for abcjs functionality.
 
 ### Introducing the Editor
 
-It would probably be overwhelming to try to learn **all** the commands and entry nuances of our ABC javascript editor, so instead, we recommend that you just play with some examples to see how it works.
-Try playing with these two basic examples to see what a change in the textbox does to the music.
+Interactive examples are embedded in the text using an ABC editor powered by [abcjs](https://github.com/paulrosen/abcjs). 
+It would be overwhelming to try to learn **all** the commands and entry nuances of our ABC javascript editor, so instead, we recommend that you just play with some examples to see how it works.
+Try playing with the two basic examples below to see what a change in the textbox does to the music.
+
 When you click on an object in the music, it will highlight the appropriate text in the editor.
 If you place your cursor in the editor's textbox, it will highlight the corresponding object in the music.
 After you have tried to play with it for a bit, continue reading below for a basic overview of the editor functions.
@@ -72,13 +75,15 @@ The body contains the actual musical notes as well as bar lines and repeats.
     - To shorten a note, add a back-slash and a number **after** the pitch name and the editor will divde your note length by that amount.
         - If you set a default note length of a quarter note `L: 1/4` in your header, but would like an eighth-note, you only need to add a `/2` after a note name. If you add a `/4` after a note name, you will get a sixteenth-note. Etc.
 - Beaming is controlled by adding or subtracting spaces between notes.
-- Barlines must be manually added by added a pipe. `|`
+- Barlines must be manually added using a pipe, `|`.
 - You can start a new system by hitting enter and continuing your note-entry on the following line.
+- Blank lines indicate the end of a song. Avoid blank lines in the editor!
 
 ## Adding Voices and Changing Clefs
 
 The last basic function that you may want to use is adding voices and changing clefs.
-Both of these things are done using the "voice" command in the header. Take the following example
+Both of these are done using the "voice" `V:` option.
+Take the following example:
 
 {% capture ex3 %}X:3
 T: Happy Birthday
@@ -100,17 +105,16 @@ C,| F, E,/2-D,/2 C,| G, G,,|{% endcapture %}
 
 ### Have fun
 
-Try creating new music and printing it at the [ABC Playground]({{ site.baseurl }}/abc-playground.html).
+Try creating new music at the [ABC Playground]({{ site.baseurl }}/abc-playground.html).
+Use Chrome browser for the full functionality, allowing you to enter ABC, render notation, play music, and download MIDI. 
+Click the "print" button to print out your rendered notation or save as PDF.
 
 ### Existing Tutorials
 
 Because ABC notation is a well-established notation standard, there are many websites that offer excellent tutorials on how to enter music using this method.
 If you would like to learn more about the advanced capabilities of ABC Notation, please visit:
 
-[**Steve Manfsfield's ABC Notation tutorial**](http://www.lesession.co.uk/abc/abc_notation.htm) - an excellent place to start
-
-[**ABC Notation Home Page**](http://abcnotation.com/) - good help forums
-
-[**ABC Standard Notation Wiki**](http://abcnotation.com/wiki/abc:standard:v2.1#abc_tutorials) - very detailed
-
-[**Paul Rosen's and Gregory Dyke's explanation of their javascript, abcjs**](https://abcjs.net/#how)
+- [**Steve Manfsfield's ABC Notation tutorial**](http://www.lesession.co.uk/abc/abc_notation.htm) - an excellent place to start
+- [**ABC Notation Home Page**](http://abcnotation.com/) - good help forums
+- [**ABC Standard Notation Wiki**](http://abcnotation.com/wiki/abc:standard:v2.1#abc_tutorials) - very detailed
+- [**Paul Rosen's and Gregory Dyke's explanation of their javascript, abcjs**](https://abcjs.net/#how)
