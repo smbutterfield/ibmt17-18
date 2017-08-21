@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 1c Examples - Identifying and Labeling Intervals
+abc: true
 ---
 
 ## Intervals
@@ -12,7 +13,7 @@ M:1/4
 L:1/4
 K:C
 V:1 name=Harmonic
-[_e _B]| [_B A]| [^f ^F]| [D_A]| [_d^F]| [c e]||
+[ _e _B ]| [ _B A]| [^f ^F]| [D_A]| [_d^F]| [c e]||
 w: P4 m2 P8 d5 d6 M3
 V:2 name=Melodic
 e/2_B/2| B/2A/2| f/2^F/2| _D/2_A/2| F/2_d/2| c/2^e/2||

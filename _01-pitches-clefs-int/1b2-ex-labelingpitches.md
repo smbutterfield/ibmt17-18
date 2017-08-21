@@ -9,7 +9,7 @@ abc: true
 {% capture ex1 %}X:1
 T:Enharmonic Equivalence
 T:Each measure contains two notes that are enharmonically equivalent.
-M: 2/4
+M:2/4
 L:1/4
 K:C
 V:1 name="Treble Clef"
