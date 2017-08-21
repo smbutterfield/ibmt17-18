@@ -5,7 +5,7 @@ title: 1c Examples - Identifying and Labeling Intervals
 
 ## Intervals
 
-{% capture ex1 %}X:1
+{% capture ex1 %}"X:1
 T:Intervals
 T:P = perfect, M = major, m = minor, A = augmented, d = diminished
 M:1/4
