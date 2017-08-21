@@ -10,7 +10,7 @@
 <script type="text/javascript">
 // set soundfonts location
 window.ABCJS.midi.soundfontUrl = "{{ site.baseurl }}/assets/soundfont/";
-var start{{ include.number }} = `{{ include.abc }}`;
+var start{{ include.number }} = `{{ include.abc | strip }}`;
 function resetAbc{{ include.number }}() {
     document.getElementById("abc-text{{ include.number }}").value = start{{ include.number }};
     initEditor{{ include.number }}();

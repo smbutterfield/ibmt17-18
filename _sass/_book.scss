@@ -13,4 +13,14 @@
 /* fix theme background color bug */
 .theme-base-0d .sidebar-toggle:active,
 .theme-base-0d #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #555; }
+  background-color: #555; 
+}
+
+.index-buttons li {
+    list-style: none;
+    display: inline-block;
+    border: solid 1px #6a9fb5;
+    border-radius: 5px;
+    padding: 2px 5px;
+    margin: 4px 2px 2px 2px;
+}

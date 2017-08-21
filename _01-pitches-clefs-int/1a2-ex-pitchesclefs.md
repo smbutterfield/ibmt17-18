@@ -4,9 +4,9 @@ title: 1a Examples - Pitches and Clefs
 abc: true
 ---
 
-{% include abc-example.html abc='X: 1
+{% capture ex1 %}X: 1
 T: Pitches and Clefs
-M:C
+M: 4/4
 L:1/4
 K:C
 V:1 name="Treble Clef"
@@ -20,4 +20,5 @@ E, A, F, B, G, ^C, G,,|]
 w: E A F B G C# G
 V:4 name="Bass Clef" clef="bass"
 E, A, F, B, G, ^C, G,,|]
-w: E A F B G C# G' %}
+w: E A F B G C# G{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}

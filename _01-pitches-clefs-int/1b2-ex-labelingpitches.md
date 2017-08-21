@@ -6,10 +6,10 @@ abc: true
 
 ## Accidentals and Enharmonic Equivalence
 
-{% include abc-example.html number="1" abc='X:1
+{% capture ex1 %}X:1
 T: Enharmonic Equivalence
 T: Each measure contains two notes that are enharmonically equivalent.
-M:C
+M: 4/4
 L:1/4
 K:C
 V:1 name="Treble Clef"
@@ -19,13 +19,14 @@ V:2 name="Alto Clef" clef="alto"
 V:3 name="Tenor Clef" clef="tenor"
 ^F, _G, |F, _E, |D, ^^C,|]
 V:4 name="Bass Clef" clef="bass"
-_D, ^C, |^B,, C, |D, ^^E,|]' %}
+_D, ^C, |^B,, C, |D, ^^E,|]{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
 
 ## Labeling Octaves and Clef Relationships
 
-{% include abc-example.html number="2" abc='X:1
+{% capture ex2 %}X:1
 T: Pitches and Clefs
-M:C
+M: 4/4
 L:1/4
 K:C
 V:1 name="Treble Clef"
@@ -39,4 +40,5 @@ E, A, F, B, G, ^C, B,,|]
 w: E3 A3 F3 B3 G3 C#3 B2
 V:4 name="Bass Clef" clef=bass
 E, A, F, B, G, ^C, B,,|]
-w: E3 A3 F3 B3 G3 C#3 B2' %}
+w: E3 A3 F3 B3 G3 C#3 B2{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
