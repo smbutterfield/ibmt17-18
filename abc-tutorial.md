@@ -27,22 +27,22 @@ After you have tried to play with it for a bit, continue reading below for a bas
 (**Once you make *many* changes, the editor may lock. Simply hit the reset button below the editor to continue. If you'd like to save your changes and continue, you simply need to copy your all the text in the textbox, and then paste it over the old text after you hit reset.**)
 
 {% capture ex1 %}X: 1
-T: Happy Birthday
-M: 3/4
-L: 1/4
-Q: 1/4=90
-K: G
+T:Happy Birthday
+M:3/4
+L:1/4
+Q:1/4=90
+K:G
 D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2| 
 d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 {% capture ex2 %}X: 2
-T: Happy Birthday
-M: 3/4
-L: 1/4
-Q: 1/4=90
+T:Happy Birthday
+M:3/4
+L:1/4
+Q:1/4=90
+K:G
 V:1 clef=bass
-K: G
 D,/2>D,/2| E, D, G,| F,2 D,/2>D,/2| E, D, A,| G,2 D,/2>D,/2| 
 d, B, G,| F, E, c,/2>c,/2| B, G, A,| G,2|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
@@ -89,7 +89,7 @@ Take the following example:
 T: Happy Birthday
 T: for String Quartet
 M:3/4
-Q:1/4=60
+Q:1/4=90
 L:1/4
 K:C
 V:1 name=Violin
