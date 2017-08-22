@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: The Singer/Songwriter chord progression
 ---
 

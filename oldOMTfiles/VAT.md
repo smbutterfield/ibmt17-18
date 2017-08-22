@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Using Variations Audio Timeliner
 ---
 

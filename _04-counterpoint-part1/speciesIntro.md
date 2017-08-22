@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Introduction to strict voice-leading
 ---
 

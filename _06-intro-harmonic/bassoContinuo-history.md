@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: A brief history of basso continuo keyboard-style voice-leading
 ---
 

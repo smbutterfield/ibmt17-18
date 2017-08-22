@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: 1c Overview - Identifying and Labeling Intervals
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Twelve-Tone Theory — Basics
 ---
 

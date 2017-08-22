@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Creating a musical graphic and importing it into a text document
 ---
 

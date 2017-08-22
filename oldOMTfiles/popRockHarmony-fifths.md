@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Circle-of-fifths progression, minor mode
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Beams and borrowed divisions
 ---
 ### Beams ###

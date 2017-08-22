@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Form in pop/rock music – Overview
 ---
 

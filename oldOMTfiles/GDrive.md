@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Uploading and sharing a file via Google Drive
 ---
 

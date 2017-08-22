@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Style and tendency
 author: Kris Shaffer
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Minor-pentatonic-based pop/rock tonality
 ---
 

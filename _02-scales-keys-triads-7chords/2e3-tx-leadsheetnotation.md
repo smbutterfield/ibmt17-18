@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: 2f Lesson - Leadsheet Notation
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Analyzing 12-tone music
 ---
 

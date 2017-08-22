@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: 1b Lesson - Labeling Pitches
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Realizing a figured bass in strict basso continuo style
 ---
 

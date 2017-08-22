@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Syncopation in pop/rock music
 ---
 

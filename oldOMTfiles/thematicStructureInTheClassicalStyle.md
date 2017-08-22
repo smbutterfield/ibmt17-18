@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Thematic Structure in the Classical Style
 ---
 

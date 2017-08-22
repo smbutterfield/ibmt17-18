@@ -4,10 +4,8 @@
 }
 .embed {
     width: 100%;
-    margin: auto;
-    //border: solid 1px grey;
-    border-bottom: solid 1px grey;
-    //border-radius: 4px;
+    margin: 1rem auto 1rem;
+    border-bottom: solid 1px #eee;
     padding: 6px;
 }
 .abc-rendered {
@@ -18,7 +16,7 @@
 .abc-text {
     margin-top: 5px;
     width: 100%;
-    background-color:#cdcdcd;
+    background-color:#e6e6e6;
 }
 .abc-rendered svg {
     max-width: 100%;

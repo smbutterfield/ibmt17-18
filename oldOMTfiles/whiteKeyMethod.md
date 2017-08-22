@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Calculating Intervals&#58; The White-Key Method
 ---
 

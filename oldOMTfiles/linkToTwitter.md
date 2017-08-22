@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Posting a blog link to Twitter
 ---
 

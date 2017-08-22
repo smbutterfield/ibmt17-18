@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: The "50s doo-wop" progression
 ---
 

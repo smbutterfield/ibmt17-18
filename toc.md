@@ -3,7 +3,11 @@ title: Table of Contents
 layout: page
 ---
 
-## [About]({{ site.baseurl }}/about.html)
+<ul class="index-buttons">
+<li><a href="{{ site.baseurl }}/about.html">About</a></li>
+<li><a href="{{ site.baseurl }}/abc-tutorial.html">ABC Tutorial</a></li>
+<li><a href="{{ site.baseurl }}/abc-playground.html">ABC Playground</a></li>
+</ul>
 
 {% for chapter in site.collections %}
 {% if chapter.label != 'posts' %}

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Composing in basso-continuo style
 ---
 

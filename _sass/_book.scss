@@ -15,7 +15,7 @@
 .theme-base-0d #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #555; 
 }
-
+/* index page link buttons */
 .index-buttons li {
     list-style: none;
     display: inline-block;
@@ -23,4 +23,22 @@
     border-radius: 5px;
     padding: 2px 5px;
     margin: 4px 2px 2px 2px;
+}
+/* chapter navigation */
+#chapter-nav {
+    color: #c0c0c0;
+    font-size: 16px;
+    text-align: right;
+    line-height: 1.25;
+    a { color: #c0c0c0;
+    }
+
+}
+#chapter-toc {
+    border: solid 1px #eee;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 16px;
+    .active { color: #515151; }
+    li { list-style: none; }
 }

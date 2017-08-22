@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: 2c Lesson - Key Signatures
 ---
 

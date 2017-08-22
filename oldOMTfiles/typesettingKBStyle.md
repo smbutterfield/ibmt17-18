@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Typesetting a keyboard-style voice-leading exercise
 ---
 

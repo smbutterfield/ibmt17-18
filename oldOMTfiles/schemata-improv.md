@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Improvising a sentence with galant schemata
 ---
 

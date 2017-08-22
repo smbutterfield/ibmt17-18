@@ -1,4 +1,4 @@
 ---
-layout: page
+layout: chapter
 title: 5b Overview - Embellishing Shapes
 ---

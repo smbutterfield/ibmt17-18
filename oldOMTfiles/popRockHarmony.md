@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Harmony in pop/rock music
 ---
 

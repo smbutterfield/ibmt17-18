@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Composing a second-species counterpoint
 ---
 

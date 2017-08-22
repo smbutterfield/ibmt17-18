@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Adding a Creative Commons license to a blog post
 ---
 

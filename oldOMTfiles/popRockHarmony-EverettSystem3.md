@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Pop/rock tonality with modal borrowing
 ---
 

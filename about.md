@@ -33,7 +33,7 @@ The source code for Inquiry-Based Music Theory is hosted in a [GitHub repository
 This allows the textbook to be easily shared, adapted, and modified by anyone, an [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources).
 
 The website is built using [Jekyll](http://jekyllrb.com/) static site generator and is hosted on [GitHub Pages](https://pages.github.com/).
-The content is written in [Markdown](https://daringfireball.net/projects/markdown/), a simple mark up language written in [plain text](https://en.wikipedia.org/wiki/Plain_text).
+The content is created in [Markdown](https://daringfireball.net/projects/markdown/), a simple mark up language written in [plain text](https://en.wikipedia.org/wiki/Plain_text).
 
 Interactive musical notation and midi play back is added to the site using [abcjs](https://github.com/paulrosen/abcjs) to render [ABC Music Notation](http://abcnotation.com/).
 

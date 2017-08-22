@@ -99,14 +99,9 @@ V:2 name=Violin
 E| F G2| G2|
 V:3 name=Viola clef=alto
 C| B,2 E| D2|
-<<<<<<< HEAD
 V:4 name=Cello clef=bass
-C,| F, E,/2-D,/2 C,| G, G,,|" %}
-=======
-V:4 name="Cello" clef="bass"
 C,| F, E,/2-D,/2 C,| G, G,,|{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
->>>>>>> refs/remotes/origin/master
 
 ### Have fun
 

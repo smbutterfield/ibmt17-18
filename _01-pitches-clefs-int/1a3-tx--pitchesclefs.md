@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: 1a Lesson - Pitches and Clefs
 ---
 

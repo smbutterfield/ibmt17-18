@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Pop/rock tonality that draws on diatonic modes
 ---
 

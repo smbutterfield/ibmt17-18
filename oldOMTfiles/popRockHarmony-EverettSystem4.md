@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Blues-based pop/rock tonality
 ---
 
