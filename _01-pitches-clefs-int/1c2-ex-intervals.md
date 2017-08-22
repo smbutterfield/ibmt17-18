@@ -4,11 +4,11 @@ title: 1c Examples - Identifying and Labeling Intervals
 abc: true
 ---
 
-## Intervals
-
-Labels: P = perfect, M = major, m = minor, A = augmented, d = diminished
-
 In the example below, each interval represents the concept stated at the beginning of its staff, but each measure also has an important intervallic relationship to the measures above and below it.
+
+### Important concepts
+
+*Qualities*: P = perfect, M = major, m = minor, A = augmented, d = diminished
 
 *Diatonic intervals in the examples below*
 - Major 3rd from the harmonic intervals
