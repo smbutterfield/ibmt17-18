@@ -13,7 +13,7 @@ At its core, enharmonic equivalence is an easy concept: When two pitches sound t
 
 ## Labeling Octaves
 
-When labeling pitches, we also need a way to refer to specific octaves or registers. We will be using the system used by the International Standard Organization (ISO). In this system, middle C is labeled as C4. Using the examples under for this topic, determine:
+When labeling pitches, we also need a way to refer to specific octaves or registers. We will be using the system used by the International Standard Organization (ISO). In this system, middle C is labeled as C4. Using the examples on the next page, determine:
 - where C4 lies in each clef
 - what the numeral refers to in this system
 - how the numerals interact with letters to create a repeating system

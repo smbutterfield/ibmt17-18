@@ -15,15 +15,10 @@ Our discussion will be written and edited here.
 
 An *interval* is the distance between two pitches, usually measured as a number of steps on a scale.
 
-A *dyad* is a pair of pitches sounding together (in other words, a two-note chord). Since a dyad is defined by the interval between the two pitches, dyads are often simply called intervals.
+A *dyad* is a pair of pitches sounding together (in other words, a two-note chord). 
+Since a dyad is defined by the interval between the two pitches, dyads are often simply called intervals.
 
 Thus, the term *interval* regularly refers both to the distance between two pitches on a scale and to a dyad whose pitches are separated by that distance.
-
-### Chromatic intervals 
-
-The simplest way to measure intervals, particularly at the keyboard, is to count the number of half-steps, or *semitones*, between two pitches. To determine the chromatic interval between C4 and E4, for example, start at C4 and ascend the chromatic scale to E4, counting steps along the way: C#4, D4, D#4, E4. E4 is four semitones higher than C4. Chromatic intervals are notated with a lower-case **i** followed by an Arabic numeral for the number of semitones. C4–E4 is four semitones, or **i4**.
-
-![Chromatic steps from C4 to E4.][c4e4]
 
 ### Diatonic intervals 
 
@@ -70,6 +65,12 @@ For example, C4–E4 is a generic third, and has a chromatic interval of i4. A t
 Note that some generic intervals can be augmented, perfect, or diminished, and other intervals can be augmented, major, minor, or diminished. There is no generic interval that can be both major/minor and perfect; if it can be major or minor, it cannot be perfect, and if it can be perfect, it cannot be major or minor. An augmented version of an interval is always one semitone wider than major or perfect; diminished is always one semitone smaller than minor or perfect.
 
 Solfège can also help to determine the specific interval. Each pair of solfège syllables will have the same interval, no matter what the key, as long as it is clear which syllable is the lower pitch and which is the upper pitch. Memorizing the intervals between solfège pairs can help speed along your analysis of dyads as they appear in music. For example, knowing that *do*–*mi*, *fa*–*la*, and *sol*–*ti* are always major thirds and knowing that *re*–*fa*, *mi*–*sol*, *la*–*do*, and *ti*–*re* are always minor thirds will allow for faster analysis of dyads in major keys.
+
+### Chromatic intervals 
+
+The simplest way to measure intervals, particularly at the keyboard, is to count the number of half-steps, or *semitones*, between two pitches. To determine the chromatic interval between C4 and E4, for example, start at C4 and ascend the chromatic scale to E4, counting steps along the way: C#4, D4, D#4, E4. E4 is four semitones higher than C4. Chromatic intervals are notated with a lower-case **i** followed by an Arabic numeral for the number of semitones. C4–E4 is four semitones, or **i4**.
+
+![Chromatic steps from C4 to E4.][c4e4]
 
 ### Compound intervals 
 

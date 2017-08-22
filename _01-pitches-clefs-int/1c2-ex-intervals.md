@@ -6,11 +6,22 @@ abc: true
 
 ## Intervals
 
+Labels: P = perfect, M = major, m = minor, A = augmented, d = diminished
+
+In the example below, each interval represents the concept stated at the beginning of its staff, but each measure also has an important intervallic relationship to the measures above and below it.
+
+*Diatonic intervals in the examples below*
+- Major 3rd from the harmonic intervals
+- Major 2nd from the melodic intervals
+- Major 6th from simple intervals
+- Perfect 15th and major 10th from the compound intervals
+- Minor 6th from the inversion pairs
+
+*Chromatic intervals in the examples below*
+- All other intervals
+
 {% capture ex1 %}X:1
 T:Intervals
-T:P = perfect, M = major, m = minor, A = augmented, d = diminished
-T:Each measure represents the concept stated at the beginning of its staff, 
-T:but each measure also has a relationship to the measures above and below it.
 M:1/4
 L:1/4
 K:C
@@ -27,6 +38,6 @@ V:4 name=Compound clef=bass
 [_E_B,,]| [_B,A,,]| [FF,,]| _A,/2D,,/2| F,,/2_D/2| [C,E]||
 w: P11 m11 P15 d5 _ m13 _ M10||
 V:5 name=Inversions
-[_E_B]| [_B,A]| [^F^F]| [d_A]| [_df]| [cE]||
+[_E_B]| [_B,A]| [^f^F]| [d_A]| [_df]| [cE]||
 w: P5 M7 P1 A4 M3 m6{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}

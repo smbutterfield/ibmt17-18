@@ -10,7 +10,7 @@ Clefs are an essential way for a composer to communicate range, so it is imperat
 Alto and tenor clefs are known as the C-clefs. 
 Similarly, treble clef can be called a G-clef, and bass clef can be called an F-clef.
 
-In the examples for this topic, try to determine:
+In the examples for this topic, use the examples on the next page to:
 - the order of pitch names for each clef's lines and spaces
 - why alto and tenor clefs are called C-clefs
 - any tips or tricks that may make recognizing these clefs easier and reading these clefs simpler
