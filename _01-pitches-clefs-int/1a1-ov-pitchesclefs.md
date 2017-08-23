@@ -4,14 +4,14 @@ title: 1a Overview - Pitches and Clefs
 ---
 
 Most college music students are familiar with basic music notation -- treble and bass clefs, staves, ledger lines, and accidentals -- although they are usually far more comfortable when working in the clef most associated with their primary instrument or voice-part. 
-It is vital that music students be fluent in not only these two most common clefs, but also with two additional clefs: alto clef and tenor clef. These clefs are commonly used for instruments such as viola, cell, trombone, and bassoon. 
-Clefs are an essential way for a composer to communicate range, so it is imperative that you become as comfortable reading music in all of the most common clefs.
+It is vital that music students be fluent in not only these two most common clefs, but also with two additional clefs: alto clef and tenor clef. These clefs are commonly used for instruments such as viola, cello, trombone, and bassoon. 
+Clefs are an essential way for a composer to communicate range while limiting ledger lines, so it is imperative that you become as comfortable reading music in all of the most common clefs.
 
-Alto and tenor clefs are known as the C-clefs. 
-Similarly, treble clef can be called a G-clef, and bass clef can be called an F-clef.
+Alto and tenor clefs are known as the *C-clefs*. 
+Similarly, treble clef can be called a *G-clef*, and bass clef can be called an *F-clef*.
 
-In the examples for this topic, use the examples on the next page to find:
+Use the examples on the next page to find:
 - the order of pitch names for each clef's lines and spaces.
 - why treble clef is a G-clef, why bass clef is an F-clef, and why alto and tenor clefs are C-clefs.
-- any tips or tricks that may make differentiating and reading clefs simpler.
-    - Many students begin their studies of clefs by relating the unfamiliar clefs to their most familiar clef.
+- any tips or tricks that may help in differentiating and reading clefs.
+    - Hint: Many students begin their studies of clefs by relating the unfamiliar clefs to their most familiar clef.

@@ -5,7 +5,10 @@ title: 1a Lesson - Pitches and Clefs
 
 ## Class Discussion
 
-Our discussion will be written and edited here.
+- the order of pitch names for each clef's lines and spaces.
+- why treble clef is a G-clef, why bass clef is an F-clef, and why alto and tenor clefs are C-clefs.
+- any tips or tricks that may help in differentiating and reading clefs.
+    - Hint: Many students begin their studies of clefs by relating the unfamiliar clefs to their most familiar clef.
 
 # Further Reading
 

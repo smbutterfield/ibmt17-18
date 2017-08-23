@@ -5,7 +5,10 @@ title: 1b Lesson - Labeling Pitches
 
 ## Class Discussion
 
-Our discussion will be written and edited here.
+- three enharmonic equivalences for every pitch class
+- where C4 lies in each clef
+- what the numeral refers to in the ISO system for labeling octaves
+- how these numerals interact with letters
 
 # Further Reading
 

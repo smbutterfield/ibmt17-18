@@ -55,6 +55,7 @@ The header contains all the information needed to setup musical notation such as
 Each component in the header will consist of an abbreviation, a colon, and an instruction.
 The abbreviation tells the editor **what you are editing** and the instruction tells the editor **what to do**.
 For example, `M: 4/4` will give you a meter of 4/4.
+Note that the `X:` field is a place-holder necessary for the website implementation and does not affect the musical notation.
 
 The body contains the actual musical notes as well as bar lines and repeats.
 - Note names are entered as letter names.
