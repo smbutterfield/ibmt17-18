@@ -1,27 +1,31 @@
 ---
 layout: chapter
 title: 1a Lesson - Pitches and Clefs
+abc: true
 ---
 
 ## Class Discussion
 
 Given that the class is already familiar with note names and staff notation, the discussion was a brief, simple dictation of the note names divided into lines and spaces for each clef. They were:
 
-Treble Clef
-- Lines: EGBDF
-- Spaces: FACE
-
-Bass Clef
-- Lines: GBDFA
-- Spaces: ACEG
-
-Alto Clef
-- Lines: FACEG
-- Spaces: GBDF
-
-Tenor Clef
-- Lines: DFACE
-- Spaces: EGBD
+{% capture ex1 %}X: 1
+T:Pitch Names for Each Clef
+M:C
+L:1/4
+K:C
+V:1 name="Treble Clef"
+E G B d f| F A c e|]
+w: E G B D F F A C E
+V:2 name="Alto Clef" clef="alto"
+F, A, C E G| G, B, D F|]
+w: F A C E G G B D F
+V:3 name="Tenor Clef" clef="tenor"
+D, F, A, C E| E, G, B, D|]
+w: D F A C E E G B D
+V:4 name="Bass Clef" clef="bass"
+G,, B,, D, F, A,| A,, C, E, G,|]
+w: G B D F A A C E G{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
 
 The discussion of why each clef has a secondary name centered around a pitch -- particularly the treble clef as a G-clef -- prompted various suggestions. For the treble clef, one student suggested that the clef is a stylized *G* and another pointed out that the clef encircles the G on the second line of the staff. Both of these are correct.
 
