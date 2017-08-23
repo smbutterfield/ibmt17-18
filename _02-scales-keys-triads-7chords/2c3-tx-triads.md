@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 2d Lesson - Triads
+title: 2c Lesson - Triads
 ---
 
 A chord is any combination of three or more pitch classes that sound simultaneously.

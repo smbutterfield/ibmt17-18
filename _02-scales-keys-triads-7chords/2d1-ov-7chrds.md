@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 2e Overview - Seventh Chords
+title: 2d Overview - Seventh Chords
 ---

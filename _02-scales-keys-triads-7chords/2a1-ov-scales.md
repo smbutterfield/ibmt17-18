@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 2b Overview - Scales and Scale Degrees - Major, Minor, and Chromatic
+title: 2a Overview - Scales and Scale Degrees - Major, Minor, and Chromatic
 ---

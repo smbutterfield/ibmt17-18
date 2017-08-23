@@ -1,4 +1,5 @@
 ---
 layout: chapter
-title: 2e Examples - Seventh Chords
+title: 2d Examples - Seventh Chords
+abc: true
 ---

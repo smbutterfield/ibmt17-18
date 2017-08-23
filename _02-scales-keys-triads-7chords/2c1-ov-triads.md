@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 2d Overview - Triads
+title: 2c Overview - Triads
 ---

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 2b Lesson - Scales and Scale Degrees - Major, Minor, and Chromatic
+title: 2a Lesson - Scales and Scale Degrees - Major, Minor, and Chromatic
 ---
 
 A scale is a succession of pitches ascending or descending in steps. There are two types of steps: *half steps* and *whole steps*. A half step (H) consists of two adjacent pitches on the keyboard. A whole step (W) consists of two half steps. Usually, the pitches in a scale are each notated with different letter names, though this isn't always possible or desirable. 

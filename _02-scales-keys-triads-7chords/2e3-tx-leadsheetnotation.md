@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 2f Lesson - Leadsheet Notation
+title: 2e Lesson - Leadsheet Notation
 ---
 
 ### Lead-sheet symbols ###
