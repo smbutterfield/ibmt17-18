@@ -27,11 +27,13 @@ layout: default
   <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
 
-  <div id="chapter-toc">
-    <h4>Chapter {{ chap_info.name }}:</h4>
-    <ul>{% for section in chap_info.docs %}
-        <li><a href="{{ section.url | prepend: site.baseurl }}" class="{% if section.title == page.title %}active{% endif %}">{{ section.title }}</a></li>{% endfor %}
-    </ul>
+  <div id="chapter-buttons">
+    {% if prevurl %}<div class="topic-nav prev">
+        <a href="{{ prevurl | prepend: site.baseurl }}"> ❮ Previous</a>
+    </div>{% endif %}
+    {% if nexturl %}<div class="topic-nav next">
+        <a href="{{ nexturl | prepend: site.baseurl }}" >Next ❯</a>
+    </div>{% endif %}
   </div>
 
 </div>
