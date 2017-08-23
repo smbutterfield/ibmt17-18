@@ -11,25 +11,31 @@ title: 1a Lesson - Pitches and Clefs
     - Hint: Many students begin their studies of clefs by relating the unfamiliar clefs to their most familiar clef.
 
 ### Clef Shapes
+
 Why is the Treble Clef  called a G clef?
 - It’s a stylized G.
 - It circles around G on the staff  MOST 
 - 3 line staff?
+
 Why is Bass Clef called an F clef?
 - The two dots are on either side of F on the staff.
 - It circles around F.
+
 Why are Alto Clef and Tenor Clef called C clefs?
 - The middle of the clef points at C. 
 
 Treble Clef: 
 - Lines: EGBDF
 - Spaces: FACE
+
 Bass Clef:
 - Lines: GBDFA
 - Spaces: ACEG
+
 Alto Clef:
 - Lines: FACEG
 - Spaces: GBDF
+
 Tenor Clef
 - Lines: DFACE
 - Spaces: EGBD
