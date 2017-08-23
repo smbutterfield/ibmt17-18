@@ -24,7 +24,7 @@ Try playing with the two basic examples below to see what a change in the textbo
 When you click on an object in the music, it will highlight the appropriate text in the editor.
 If you place your cursor in the editor's textbox, it will highlight the corresponding object in the music.
 After you have tried to play with it for a bit, continue reading below for a basic overview of the editor functions.
-(**Once you make *many* changes, the editor may lock. Simply hit the reset button below the editor to continue. If you'd like to save your changes and continue, you simply need to copy your all the text in the textbox, and then paste it over the old text after you hit reset.**)
+(**Once you make *many* changes, the editor may lock. To fix this, hit the reset button below the editor to continue. If you'd like to save your changes and continue, you simply need to copy your all the text in the textbox, and then paste it over the old text after you hit reset.**)
 
 {% capture ex1 %}X: 1
 T:Happy Birthday
