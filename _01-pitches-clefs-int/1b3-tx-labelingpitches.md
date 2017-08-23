@@ -10,6 +10,11 @@ title: 1b Lesson - Labeling Pitches
 - what the numeral refers to in the ISO system for labeling octaves
 - how these numerals interact with letters
 
+### Pitch Classes and Enharmonic Equivalents
+Pitch Class: Attaching a number to a letter. 
+- Every pitch class has 3 possible notes: the natural, flat, and sharp.
+- There are 12 pitch classes, with 3 notes per pitch class. 
+
 # Further Reading
 
 ## From *Open Music Theory*

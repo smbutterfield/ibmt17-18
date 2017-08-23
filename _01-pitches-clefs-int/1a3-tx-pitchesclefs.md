@@ -5,34 +5,17 @@ title: 1a Lesson - Pitches and Clefs
 
 ## Class Discussion
 
-- the order of pitch names for each clef's lines and spaces.
-- why treble clef is a G-clef, why bass clef is an F-clef, and why alto and tenor clefs are C-clefs.
-- any tips or tricks that may help in differentiating and reading clefs.
-    - Hint: Many students begin their studies of clefs by relating the unfamiliar clefs to their most familiar clef.
+Given that the class is already familiar with note names and staff notation, the discussion was a brief, simple dictation of the note names divided into lines and spaces for each clef. They were:
 
-### Clef Shapes
-
-Why is the Treble Clef  called a G clef?
-- It’s a stylized G.
-- It circles around G on the staff  MOST 
-- 3 line staff?
-
-Why is Bass Clef called an F clef?
-- The two dots are on either side of F on the staff.
-- It circles around F.
-
-Why are Alto Clef and Tenor Clef called C clefs?
-- The middle of the clef points at C. 
-
-Treble Clef: 
+Treble Clef
 - Lines: EGBDF
 - Spaces: FACE
 
-Bass Clef:
+Bass Clef
 - Lines: GBDFA
 - Spaces: ACEG
 
-Alto Clef:
+Alto Clef
 - Lines: FACEG
 - Spaces: GBDF
 
@@ -40,15 +23,16 @@ Tenor Clef
 - Lines: DFACE
 - Spaces: EGBD
 
-How can we use shortcuts to read clefs we are not used to?
-- Review the pitches with flashcards or sight reading exercises. 
-- Be aware of C, and read the pitches in relation to C.
-- Think in thirds.
+The discussion of why each clef has a secondary name centered around a pitch -- particularly the treble clef as a G-clef -- prompted various suggestions. For the treble clef, one student suggested that the clef is a stylized *G* and another pointed out that the clef encircles the G on the second line of the staff. Both of these are correct.
 
-### Pitch Classes and Enharmonic Equivalents
-Pitch Class: Attaching a number to a letter. 
-- Every pitch class has 3 possible notes: the natural, flat, and sharp.
-- There are 12 pitch classes, with 3 notes per pitch class. 
+This led immediately immediately to the quick assumption that the F-clef uses its "dots" to enclose the F on the fourth line of the staff, and the C-clefs have an "arrow" that points to C at all times. This arrow points to different lines for both alto and tenor clef.
+
+For well-researched, short article on the evolution of clefs, I suggest reading Jimmy Stamp's [The Evolution of the Treble Clef](http://www.smithsonianmag.com/arts-culture/the-evolution-of-the-treble-clef-87122373/) from the Smithsonian website.
+
+The tips and tricks for mastering clefs could be broken into three categories:
+- Memorization - The most widely used method uses flash cards or other repetitive devices to practice identifying notes on each clef to ensure a quick and efficient memorization.
+- Relative note identifications - Another student remembers one important note for each clef and then visually "counts" through the alphabet upward or downward to find pitches in unfamiliar clefs. One student suggested remembering where C is and counting by steps (letter names), but another suggested memorizing how thirds are stacked to move around more quickly. While this is a fine method for beginning to familiarize yourself with clefs, it will ultimately be too slow and inconsistent to be practical.
+- The final suggestion was to determine the relationship of your weaker clefs to your strongest clef, and then use this to read in the clef. For example, if you are primarily comfortable in treble-clef, you could remember that alto-clef moves all of the pitches down by a step relative to treble clef. (This ignores octave displacement, of course.) In this case, if you read the alto clef as a treble clef but *up* a step, this compensates and gives you a quick visual method for reading the clef. Like the relative note identification method above, this could be slow or inconsistent, but if one regularly transposes, this could be used.
 
 # Further Reading
 
