@@ -86,8 +86,8 @@ Both of these are done using the "voice" `V:` option.
 Take the following example:
 
 {% capture ex3 %}X:3
-T: Happy Birthday
-T: for String Quartet
+T:Happy Birthday
+T:for String Quartet
 M:3/4
 Q:1/4=90
 L:1/4
