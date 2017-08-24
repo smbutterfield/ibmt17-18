@@ -6,7 +6,7 @@ abc: true
 
 ## Class Discussion
 
-Given that the class is already familiar with note names and staff notation, the discussion was a brief, simple dictation of the note names divided into lines and spaces for each clef. They were:
+Given that the class is already familiar with note names and staff notation, the discussion of identifying pitches on clefs was a brief, simple dictation of the note names divided into lines and spaces for each clef. They were:
 
 {% capture ex1 %}X: 1
 T:Pitch Names for Each Clef
@@ -27,7 +27,7 @@ G,, B,, D, F, A,| A,, C, E, G,|]
 w: G B D F A A C E G{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-The discussion of why each clef has a secondary name centered around a pitch -- particularly the treble clef as a G-clef -- prompted various suggestions. For the treble clef, one student suggested that the clef is a stylized *G* and another pointed out that the clef encircles the G on the second line of the staff. Both of these are correct.
+The discussion of the secondary name for each clef -- particularly the treble clef as a G-clef -- prompted various suggestions. For the treble clef, one student suggested that the clef is a stylized *G* and another pointed out that the clef encircles the G on the second line of the staff. Both of these are correct.
 
 This led immediately immediately to the quick assumption that the F-clef uses its "dots" to enclose the F on the fourth line of the staff, and the C-clefs have an "arrow" that points to C at all times. This arrow points to different lines for both alto and tenor clef.
 
