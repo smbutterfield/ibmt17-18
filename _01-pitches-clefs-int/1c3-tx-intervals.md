@@ -5,13 +5,12 @@ title: 1c Lesson - Identifying and Labeling Intervals
 
 ## Class Discussion
 
-- the *interval* between two pitches as represented by a numeral
+- the *size* of the interval between two pitches as represented by a numeral
 - the *quality* of the interval as represented by the labels *perfect, major, minor, diminshed, and augmented*
-- which *intervals* can use which *qualities*
-- the hierarchy of *qualities*
+- which *sizes* can use which *qualities* as well as the hierarchy of *qualities* for each *size*
 - *chromatic* versus *diatonic* intervals
-- *simple* versus *compound* intervals
-- how the *interval* and *quality* change when the upper and lower pitches of an interval are inverted
+- *simple* versus *compound* intervals and how this affects classifying of *quality* and *size*
+- how the *size* and *quality* change when the upper and lower pitches of an interval are inverted
 
 # Further Reading
 
