@@ -10,6 +10,38 @@ title: 1b Lesson - Labeling Pitches
 - what the numeral refers to in the ISO system for labeling octaves
 - how these numerals interact with letters
 
+### Enharmonic Equivalents and Pitch Classes
+
+There are three enharmonic equivalents for every pitch class. 
+There are twelve pitch classes. 
+  
+  Ex: A, Bbb, Gx
+  - They're all the same frequency, but they function differently within the context of the surrounding music.
+
+All pitch classes and their enharmonic equivalents: 
+C, B#, Dbb; Db, C#, Bx; D, Cx, Ebb; Eb, D#, Fbb; E, Fb, Dx; F, E#, Gbb; F#, Gb, Ex; G#, Ab; Bb, A#, Cx; B, Ax, Cb.
+
+Letters are important.
+We have 7 letters, and 12 pitches for all of music. 
+
+C4 is middle C. 
+
+  - Middle C on the treble clef is on the ledger line below the staff. 
+  - Middle C on the bass clef is on the ledger line above the staff. 
+  - Having both bass and treble clef allows for lower or higher notes to be played without using ledger lines. 
+  - Alto clef and tenor clef are used for mid range instruments without using ledger lines. 
+
+**Each number ends on B.
+Each number starts on C.**
+They are grouped by octave.
+
+A 440 is A4 on the staff. 
+A3 is at 220, half the speed of the 440 wavelength. 
+That is the ISO octave system.
+If you have a machine that measures oscilation, you have pitches.
+
+
+
 ### Pitch Classes and Enharmonic Equivalents
 Pitch Class: Attaching a number to a letter. 
 - Every pitch class has 3 possible notes: the natural, flat, and sharp.
