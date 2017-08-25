@@ -7,6 +7,8 @@ title: 1c Overview - Identifying and Labeling Intervals
 
 Intervals are the fundamental building blocks of melody and harmony. At their simplest,intervals need only measure the distance between two pitches, but there are many variables in music for which we must account. 
 
+## Goals for this topic
+
 Using the examples on the next page, develop a simple explanation for how we find each of the following:
 - the *size* of the interval between two pitches as represented by a numeral
 - the *quality* of the interval as represented by the labels *perfect, major, minor, diminshed, and augmented*

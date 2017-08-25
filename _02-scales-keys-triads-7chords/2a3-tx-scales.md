@@ -1,7 +1,10 @@
 ---
 layout: chapter
-title: 2a Lesson - Scales and Scale Degrees - Major, Minor, and Chromatic
+title: 2a Lesson - Scales and Scale Degrees - Diatonic and Chromatic
 ---
+
+## Class discussion
+
 
 
 # Further Reading

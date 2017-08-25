@@ -17,9 +17,9 @@ _B ^A |f ^e |^^E ^F |]
 V:2 name="Alto Clef" clef="alto"
 ^G _A |B, _C |^^G, A,|]
 V:3 name="Tenor Clef" clef="tenor"
-^F, _G, |F, _E, |D, ^^C,|]
+^F, _G, |F, ^E, |D, ^^C,|]
 V:4 name="Bass Clef" clef="bass"
-_D, ^C, |^B,, C, |D, ^^E,|]{% endcapture %}
+_D, ^C, |^B,, C, |D, __E,|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 ## Labeling Octaves and Clef Relationships

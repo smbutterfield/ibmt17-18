@@ -1,5 +1,5 @@
 ---
 layout: chapter
-title: 2a Examples - Scales and Scale Degrees - Major, Minor, and Chromatic
+title: 2a Examples - Scales and Scale Degrees - Diatonic and Chromatic
 abc: true
 ---
