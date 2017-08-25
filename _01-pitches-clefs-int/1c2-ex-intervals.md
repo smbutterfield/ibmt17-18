@@ -36,7 +36,7 @@ V:3 name=Simple
 w: d4 d2 A8 A5 _ M6 _ m3
 V:4 name=Compound clef=bass
 [_E_B,,]| [_B,A,,]| [FF,,]| _A,/2D,,/2| F,,/2_D/2| [C,E]||
-w: P11 m11 P15 d5 _ m13 _ M10||
+w: P11 m9 P15 d5 _ m13 _ M10||
 V:5 name=Inversions
 [_E_B]| [_B,A]| [^f^F]| [d_A]| [_df]| [cE]||
 w: P5 M7 P1 A4 M3 m6{% endcapture %}
