@@ -44,7 +44,7 @@ T:Middle C in each clef
 M:C
 L:1
 K:C
-C| [V:1 clef=alto]C| [V:1 clef=tenor]C| [V:1 clef=bass]C|]{% endcapture %}
+C| [K:clef=alto]C| [K:clef=tenor]C| [K:clef=bass]C|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 From this, it is easy to see the necessity of clefs. Ledger lines are an important notational tool, but too many ledger lines becomes difficult to read quickly. Therefore, each clef highlights a specific range that can be written without employing ledger lines. Alto clef is typically employed as a lower treble clef, while tenor clef is a higher bass clef. Of course, alto and tenor clef have similar ranges and one of the other could likely be eliminated with little issue, but because both of these clefs have been widely used for more than a century, it is necessary for all musicians to at least be familiar with reading them.
