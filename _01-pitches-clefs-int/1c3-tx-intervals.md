@@ -12,6 +12,38 @@ title: 1c Lesson - Identifying and Labeling Intervals
 - *simple* versus *compound* intervals and how this affects classifying of *quality* and *size*
 - how the *size* and *quality* change when the upper and lower pitches of an interval are inverted
 
+### Intervals
+
+If you combine 2 pitches, it creates an interval. 
+Some call it a diad. 
+
+Every interval has a quality and a size. 
+- m2 
+   The **m** indicates minor, and the **2** indicates the distance between the two pitches.
+   
+Interval Sizes: How do you measure the size of the intervals as represented by a numeral?
+ 
+  - count lines and spaces
+  - count letter names
+     - you include the bottom letter when counting 
+ 
+ **Letter names determine interval sizes.**
+  
+Interval Quality: 
+ 
+  - If it is within a major scale, it is a minor, major, or perfect interval.
+     Perfect is it's own thing. 
+     If you raise a perfect interval by a half step, it becomes augmented. 
+     If you lower a perfect interval by a half step it becomes diminished. 
+     
+  - 1, 4, 5, and 8 can be perfect, augmented, or diminished.
+  - 2, 3, 6, and 7 can be major or minor.
+  
+### Chromatic vs. Diatonic
+
+- chromatic intervals need accidentals
+- diatonic intervals are in the key
+
 # Further Reading
 
 ## From *Open Music Theory*
