@@ -28,7 +28,7 @@ w:^1 ^2 ^3 ^4 ^5 ^6 ^7 ^1 ^2 ^3 ^4 ^5 ^6 ^7
 "Melodic" G A B c d =e ^f| g =f _e d c B A|| "Pentatonic" G B c d f ||
 w:^1 ^2 ^3 ^4 ^5 ^6 ^7 ^1 ^7 ^6 ^5 ^4 ^3 ^2 ^1 ^3 ^4 ^5 ^7 
 w:do re me fa sol la ti do te le sol fa me re do me fa sol te{% endcapture %}
-{% include abc-example.html number="2" abc=ex2
+{% include abc-example.html number="2" abc=ex2 %}
 
 # Further Reading
 

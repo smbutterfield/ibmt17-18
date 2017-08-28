@@ -37,7 +37,7 @@ w:sol sol le sol do te sol sol le sol re do sol sol
 d B G| F E c/2>c/2| B G A| G2|]
 w:^5 ^3 ^1 ^7 ^6 ^4 ^4 ^3 ^1 ^2 ^1
 w:sol me do te le fa fa me do re do{% endcapture %}
-{% include abc-example.html number="2" abc=ex2
+{% include abc-example.html number="2" abc=ex2 %}
 
 ### Harmonic minor
 
@@ -54,7 +54,7 @@ w:sol sol le sol do ti sol sol le sol re do sol sol
 B G E| ^D C A/2>A/2| G E F| E2|]
 w:^5 ^3 ^1 ^#7 ^6 ^4 ^4 ^3 ^1 ^2 ^1
 w:sol me do ti le fa fa me do re do{% endcapture %}
-{% include abc-example.html number="3" abc=ex3
+{% include abc-example.html number="3" abc=ex3 %}
 
 ### Melodic minor
 
@@ -73,7 +73,7 @@ w:sol sol le sol do ti sol sol le sol re do sol sol
 d B G| F HE c/2>c/2| B G A/4D/4=E/4^F/4| G2|]
 w:^5 ^3 ^1 ^7 ^6 ^4 ^4 ^3 ^1 ^2 ^5 ^#6 ^#7 ^1
 w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
-{% include abc-example.html number="4" abc=ex4
+{% include abc-example.html number="4" abc=ex4 %}
 
 ### Major pentatonic
 
@@ -91,7 +91,7 @@ w:sol sol la sol do sol sol sol la sol re do sol sol
 d B G| D E d/2>d/2| B G A| G2|]
 w:^5 ^3 ^1 ^5 ^6 ^5 ^5 ^3 ^1 ^2 ^1
 w:sol mi do sol la sol sol mi do re do{% endcapture %}
-{% include abc-example.html number="5" abc=ex5
+{% include abc-example.html number="5" abc=ex5 %}
 
 ### Minor pentatonic
 
@@ -109,4 +109,4 @@ w:sol sol te sol do sol sol sol te sol me do sol sol
 d c B| G HF c/2>c/2| B G F| G2|]
 w:^5 ^4 ^3 ^1 ^7 ^4 ^4 ^3 ^1 ^7 ^1
 w:sol fa me do te fa fa me do te do{% endcapture %}
-{% include abc-example.html number="6" abc=ex6
+{% include abc-example.html number="6" abc=ex6 %}
