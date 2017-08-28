@@ -8,6 +8,8 @@ The following examples demonstrate how the tune of *Happy Birthday* would be wri
 
 ### Major
 
+(Because ABC notation does not support scale degrees, I have placed a `^` in front of each scale degree. In normal scale degree notation, the `^` would appear above the numeral for each scale degree.)
+
 {% capture ex1 %}X: 1
 T:Happy Birthday in G major
 M:3/4
@@ -58,7 +60,7 @@ w:sol me do ti le fa fa me do re do{% endcapture %}
 
 ### Melodic minor
 
-Note: When first determining your basic rules for melodic minor, you may want to choose to ignore 'le' in measure 6. That pitch is serving a harmonic goal at that moment as part of a *cadence*, rather than a melodic function.
+When first determining your basic rules for melodic minor, you may want to choose to ignore 'le' in measure 6. That pitch serves a harmonic goal as part of a *cadence*, rather than a melodic function.
 
 {% capture ex4 %}X:4
 T:Happy Birthday in G melodic minor
@@ -77,7 +79,7 @@ w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
 
 ### Major pentatonic
 
-This is more of a teaching example rather than an actual conversion, because the major scale and major pentatonic scales do not share the same type of relationship that major and minor do.
+This is more of a teaching example rather than an actual modal shift, because the major scale and major pentatonic scales do not share the same type of relationship that the major and minor scales have. Certain scale degrees do not exist in the pentatonic scale, so it requires some "artistic license" to translate any tune that utilizes all seven scale degrees.
 
 {% capture ex5 %}X:5
 T:Happy Birthday in G major pentatonic
@@ -95,7 +97,7 @@ w:sol mi do sol la sol sol mi do re do{% endcapture %}
 
 ### Minor pentatonic
 
-The same can be stipulation applies to the minor pentatonic scale that applied to the major pentatonic scale. These scales do not correlate to their seven-note counterparts in the same manor that the major and minor scales do.
+The same can be stipulation applies to the minor pentatonic scale that applied to the major pentatonic scale. These scales do not correlate directly to their seven-note counterparts, so this is more of a re-imagining of Happy Birthday.
 
 {% capture ex6 %}X:6
 T:Happy Birthday in G minor pentatonic
@@ -110,3 +112,20 @@ d c B| G HF c/2>c/2| B G F| G2|]
 w:^5 ^4 ^3 ^1 ^7 ^4 ^4 ^3 ^1 ^7 ^1
 w:sol fa me do te fa fa me do te do{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
+
+### Chromatic scale
+
+This final example is a heavily ornamented version of *Happy Birthday* that demonstrates every possible solfege as well as the correct resolution for all chromatic tones. This arrangement is still technically in G major, because strictly speaking, the chromatic scale is a collection of pitches and does not necessarily center around one tone. (Note that because ABC notation has no way to represent scale degrees, I was forced to omit the `^` that would normally appear above each scale degree and to use a `b` to represent a flat and a `#` to represent a sharp. Please forgive the misuses.)
+
+{% capture ex7 %}X:7
+T:Happy Birthday in G major
+T:decorated to demonstrate all possible scale degrees and solfege
+M:3/4
+L:1/4
+Q:1/4=90
+K:G
+"5"D/2>"#5"^D/2| "6"E/2"b6"_E/2 "5"D "1"G/2"#6"^E/2| "7"F2 (3"5"D/2"#4"^C/2"5"D/2| "6"E/4"b7"=F/4"6"E/4"b6"_E/4 "5"D "2"A/2"7"^F/2| "1"G2 "5"D/2>"5"D/2|
+w:sol si la le sol do li ti sol fi sol la te la le sol re ti do sol sol
+"5"d/2"b5"_d/4"4"c/4 "3"B/2"b3"_B/4"2"A/4 "1"G| "7"F/2"#5"^D/2 "6"HE "4"c/2>"4"c/2| (3"3"B/2"#2"^A/2"3"B/2 "1"G/2"#1"^G/2 "2"=A/2"b2"_A/2| "1"G2|]
+w:sol se fa me me re do ti si la fa fa mi ri mi do di re ra do{% endcapture %}
+{% include abc-example.html number="7" abc=ex7 %}
