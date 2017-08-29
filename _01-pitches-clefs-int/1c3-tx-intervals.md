@@ -5,44 +5,71 @@ title: 1c Lesson - Identifying and Labeling Intervals
 
 ## Class Discussion
 
-- the *size* of the interval between two pitches as represented by a numeral
-- the *quality* of the interval as represented by the labels *perfect, major, minor, diminshed, and augmented*
-- which *sizes* can use which *qualities* as well as the hierarchy of *qualities* for each *size*
-- *chromatic* versus *diatonic* intervals
-- *simple* versus *compound* intervals and how this affects classifying of *quality* and *size*
-- how the *size* and *quality* change when the upper and lower pitches of an interval are inverted
+Now that we have formalized our notation of the most basic level of music notation -- a single pitch -- we must find a method to measure the distance between two pitches. Any two-note combination is called a *dyad*, and the distance between the two pitches of a dyad is called an *interval*.
 
-### Intervals
+Our goal when measuring intervals is intrinsically tied to the tonal system that we use, diatonic harmony. The simplest way to measure the distance between two intervals would be to measure the distance by the least common multiple of our octave -- in this case, a half-step (minor second). While easily understandable, this method does not relate to our concept of tonality. Instead, counting half-steps creates *interval-classes* in which intervals are considered equal regardless of the pitches. For example, the interval of `G` to `D-flat` has six half-steps which is identical to the interval from `C-sharp` to `G`. Both even use the same pitch-classes, however, any person familiar with diatonic harmony will immediately associate these two intervals with different key centers. (`G` to `D-flat` is strongly associated with the key of `A-flat`, whereas `C-sharp` to `G` likely implies D.) The context of these two intervals is critical in determining their function in tonal harmony, so we must use a system that differentiates between the two.
 
-If you combine 2 pitches, it creates an interval. 
-Some call it a diad. 
+In a diatonic labeling system, every interval has a *size* and a *quality*. 
 
-Every interval has a quality and a size. 
-- m2 
-   The **m** indicates minor, and the **2** indicates the distance between the two pitches.
-   
-Interval Sizes: How do you measure the size of the intervals as represented by a numeral?
- 
-  - count lines and spaces
-  - count letter names
-     - you include the bottom letter when counting 
- 
- **Letter names determine interval sizes.**
-  
-Interval Quality: 
- 
-  - If it is within a major scale, it is a minor, major, or perfect interval.
-     Perfect is it's own thing. 
-     If you raise a perfect interval by a half step, it becomes augmented. 
-     If you lower a perfect interval by a half step it becomes diminished. 
-     
-  - 1, 4, 5, and 8 can be perfect, augmented, or diminished.
-  - 2, 3, 6, and 7 can be major or minor.
-  
+For example, in a minor second, labeled `m2`, the **m** indicates the *quality*  or the interval and the **2** indicates the *size* of the interval.
+
+### Interval size
+
+After much discussion, the class determined that *size* can be determined by considering either:
+- lines and spaces
+- letter names
+Both these ideas get the same result, although counting letter names can yield results without requiring the presence (or imagination) of a staff. Do not forget that you must include the bottom letter when counting.
+
+This means that any interval that has two letters in the same order will always have the same *size* regardless of key signatures and/or accidentals. Using our previous example, the *size* of the interval between `G` and `D-flat` is a fifth. We can change the bottom note to any other `G` (`G-sharp, G-flat`, etc.) and the top note to any other `D` (`D-sharp, D-natural`, etc.), but the *size* of that interval will **always** be a fifth. Yet if we exchange the `D-flat` for its enharmonic equivalent, `C-sharp`, we alter the letters and turn the *size* of the interval into a fourth.
+
+### Interval quality
+
+(If you are completely unfamiliar with scales, you may want to skip one topic ahead to [2a - scales.]({{ site.baseurl }}/2a1-ov-scales.html), and then return to this after beginning to understand the construction of the major scale. For a method that does not rely on knowledge of major scales, you can also scroll to the bottom of this section and read an interesting method from the writers of *Open Music Theory*.) 
+
+Interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys. One student succinctly explained her straightforward method for finding the *quality*, and it revolved around a strong familiarity of the twelve major scales:
+- **Please remember that each of the following steps only works if you consider `do` as the bottom pitch of the interval.**
+- When looking at an interval, consider the bottom pitch of the interval as `do`of a major scale.
+- If the top pitch of the interval is a note that already exists in that major scale, it is either a major or perfect interval. Whether major or perfect depends on the *size*.
+   - Unisons, fourths, fifths, and octaves occur naturally as *perfect* intervals within the major scale.
+  - Seconds, thirds, sixths, and sevenths occur naturally as *major* intervals within the major scale.
+- Any alteration from the basic major and perfect intervals can then be labeled by looking at the direction of alteration and the number of half-steps that the interval was altered.
+  - If the original interval is *perfect*:
+    - Raising the interval by a half-step creates an *augmented* interval.
+    - Lowering the interval by a half-step creates a *diminished* interval.
+  - If the original interval is *major*:
+    - Raising the interval by a half-step creates an *augmented* interval.
+    - Lowering the interval by a half-step creates a *minor* interval.
+    - Lowering the interval by a 2 half-steps creates a *diminished* interval.
+
+From this, our interval hierarchies were grouped as:
+- Interval *sizes* of 1, 4, 5, and 8 can only have the *qualities* of perfect, augmented, or diminished.
+- Interval *sizes* of 2, 3, 6, and 7 can only have the *qualities* of major, minor, augmented, or diminished.
+
+Some examples using this method:
+- `C` to `E`:
+  - We counted letter names to find that the *size* is a third. (C, D, E = 3)
+  - We next considered the bottom note to be `do` of a major scale putting us into C major.
+  - On the scale of C major, E is the third, so we know that this is a **major third (M3)** because thirds use the *major/minor* hierarchy of qualities.
+- `D` to `G-sharp`
+  - Counting the letter names confirmed that the *size* is a fourth (D, E, F, G = 4)
+  - By using the lower pitch, `D`, as `do`, we know that the naturally occurring `G` in the key of D major is `G-natural`.
+  - Because this is a fourth, we know that the naturally occurring note must use the *perfect* hierarchy, so therefore, `G-natural` would be a P4 above D.
+  - Because `G-sharp` is one half-step above the *perfect* interval, we know that this interval is an **augmented fourth (A4)**.
+- `F` to `E-double-flat`
+  - Counting the letter names confirmed that the *size* is a seventh (F, G, A, B C, D, E = 7)
+  - By using the lower pitch, `F`, as `do`, we know that the naturally occurring `E` in the key of F major is `E-natural`.
+  - Because this is a seventh, we know that the naturally occurring note must use the *major* hierarchy, so therefore, `E-natural` would be a M7 above F.
+  - Because `E-double-flat` is two half-steps below the *major* interval, we know that this interval is an **diminished seventh (d7)**.
+
+Note that even though *perfect* intervals use a different hierarchy than *major/minor* intervals, but both hierarchies share the terms *diminished* and *augmented*. 
+
+### Melodic vs. Harmonic
+
+### Simple vs. Compound
+
 ### Chromatic vs. Diatonic
 
-- chromatic intervals need accidentals
-- diatonic intervals are in the key
+The difference between chromatic and diatonic was perhaps the easiest of the classifications for the class to explain. Simply put, *diatonic* intervals use only the notes of the given key signature, while *chromatic* intervals have accidentals to alter one of both of the pitches.
 
 # Further Reading
 
