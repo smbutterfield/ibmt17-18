@@ -28,6 +28,7 @@ w:sol mi do ti la fa fa mi do re do{% endcapture %}
 ### Natural minor
 
 {% capture ex2 %}X:2
+%%staffsep 75%
 T:Happy Birthday in G natural minor
 T:using the parallel minor to G major
 M:3/4
@@ -45,6 +46,7 @@ w:sol me do te le fa fa me do re do{% endcapture %}
 ### Harmonic minor
 
 {% capture ex3 %}X:3
+%%staffsep 75%
 T:Happy Birthday in E harmonic minor
 T:using the relative minor to G major
 M:3/4
@@ -84,6 +86,7 @@ w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
 This is more of a teaching example rather than an actual modal shift, because the major scale and major pentatonic scales do not share the same type of relationship that the major and minor scales have. Certain scale degrees do not exist in the pentatonic scale, so it requires some "artistic license" to translate any tune that utilizes all seven scale degrees.
 
 {% capture ex5 %}X:5
+%%staffsep 75%
 T:Happy Birthday in G major pentatonic
 M:3/4
 L:1/4
@@ -102,6 +105,7 @@ w:sol mi do sol la sol sol mi do re do{% endcapture %}
 The same can be stipulation applies to the minor pentatonic scale that applied to the major pentatonic scale. These scales do not correlate directly to their seven-note counterparts, so this is more of a re-imagining of Happy Birthday.
 
 {% capture ex6 %}X:6
+%%staffsep 75%
 T:Happy Birthday in G minor pentatonic
 M:3/4
 L:1/4
@@ -120,6 +124,7 @@ w:sol fa me do te fa fa me do te do{% endcapture %}
 This final example is a heavily ornamented version of *Happy Birthday* that demonstrates every possible solfege as well as the correct resolution for all chromatic tones. This arrangement is still technically in G major, because strictly speaking, the chromatic scale is a collection of pitches and does not necessarily center around one tone. (Note that because ABC notation has no way to represent scale degrees, I was forced to omit the `^` that would normally appear above each scale degree and to use a `b` to represent a flat and a `#` to represent a sharp. Please forgive the misuses.)
 
 {% capture ex7 %}X:7
+%%staffsep 75%
 T:Happy Birthday in G major
 T:decorated to demonstrate all possible scale degrees and solfege
 M:3/4
