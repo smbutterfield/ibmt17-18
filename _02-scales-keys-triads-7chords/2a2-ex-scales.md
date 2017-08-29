@@ -11,15 +11,16 @@ The following examples demonstrate how the tune of *Happy Birthday* would be wri
 (Because ABC notation does not support scale degrees, I have placed a `^` in front of each scale degree. In normal scale degree notation, the `^` would appear above the numeral for each scale degree.)
 
 {% capture ex1 %}X: 1
+%%staffsep 100%
 T:Happy Birthday in G major
 M:3/4
 L:1/4
 Q:1/4=90
 K:G
-D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
+"dominant"D/2>D/2| "submediant"E D "tonic"G| "leading tone"F2 D/2>D/2| E D "supertonic"A| G2 D/2>D/2|
 w:^5 ^5 ^6 ^5 ^1 ^7 ^5 ^5 ^6 ^5 ^2 ^1 ^5 ^5
 w:sol sol la sol do ti sol sol la sol re do sol sol
-d B G| F E c/2>c/2| B G A| G2|]
+d "mediant"B G| F E "submediant"c/2>c/2| B G A| G2|]
 w:^5 ^3 ^1 ^7 ^6 ^4 ^4 ^3 ^1 ^2 ^1
 w:sol mi do ti la fa fa mi do re do{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
@@ -63,16 +64,17 @@ w:sol me do ti le fa fa me do re do{% endcapture %}
 When first determining your basic rules for melodic minor, you may want to choose to ignore 'le' in measure 6. That pitch serves a harmonic goal as part of a *cadence*, rather than a melodic function.
 
 {% capture ex4 %}X:4
+%%staffsep 100%
 T:Happy Birthday in G melodic minor
-T:using the relative minor to G major
+T:using the parallel minor to G major
 M:3/4
 L:1/4
 Q:1/4=90
 K:Bb
-D/2>D/2| E D G| ^F2 D/2>D/2| E D A| G2 D/2>D/2|
+"dominant"D/2>D/2| "submediant"E D "tonic"G| "leading tone"^F2 D/2>D/2| E D "supertonic"A| G2 D/2>D/2|
 w:^5 ^5 ^6 ^5 ^1 ^#7 ^5 ^5 ^6 ^5 ^2 ^1 ^5 ^5
 w:sol sol le sol do ti sol sol le sol re do sol sol
-d B G| F HE c/2>c/2| B G A/4D/4=E/4^F/4| G2|]
+d "mediant"B G| "subtonic"F HE "subdominant"c/2>c/2| B G A/4D/4"raised submediant"=E/4^F/4| G2|]
 w:^5 ^3 ^1 ^7 ^6 ^4 ^4 ^3 ^1 ^2 ^5 ^#6 ^#7 ^1
 w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
