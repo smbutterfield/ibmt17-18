@@ -18,20 +18,21 @@ For example, in a minor second, labeled `m2`, the **m** indicates the *quality* 
 After much discussion, the class determined that *size* can be determined by considering either:
 - lines and spaces
 - letter names
+
 Both these ideas get the same result, although counting letter names can yield results without requiring the presence (or imagination) of a staff. Do not forget that you must include the bottom letter when counting.
 
 This means that any interval that has two letters in the same order will always have the same *size* regardless of key signatures and/or accidentals. Using our previous example, the *size* of the interval between `G` and `D-flat` is a fifth. We can change the bottom note to any other `G` (`G-sharp, G-flat`, etc.) and the top note to any other `D` (`D-sharp, D-natural`, etc.), but the *size* of that interval will **always** be a fifth. Yet if we exchange the `D-flat` for its enharmonic equivalent, `C-sharp`, we alter the letters and turn the *size* of the interval into a fourth.
 
 ### Interval quality
 
-(If you are completely unfamiliar with scales, you may want to skip one topic ahead to [2a - scales.]({{ site.baseurl }}/02-scales-keys-triads-7chords/2a1-ov-scales.html), and then return to this after beginning to understand the construction of the major scale. For a method that does not rely on knowledge of major scales, you can also scroll to the bottom of this section and read an interesting method from the writers of *Open Music Theory*.) 
+(If you are completely unfamiliar with scales, you may want to skip one topic ahead to [2a - Scales]({{ site.baseurl }}/02-scales-keys-triads-7chords/2a1-ov-scales.html), and then return to this after beginning to understand the construction of the major scale. For a method that does not rely on knowledge of major scales, you can also scroll to the bottom of this section and read an interesting method from the writers of *Open Music Theory*.) 
 
 Interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys. One student succinctly explained her straightforward method for finding the *quality*, and it revolved around a strong familiarity of the twelve major scales:
 - **Please remember that each of the following steps only works if you consider `do` as the bottom pitch of the interval.**
 - When looking at an interval, consider the bottom pitch of the interval as `do`of a major scale.
 - If the top pitch of the interval is a note that already exists in that major scale, it is either a major or perfect interval. Whether major or perfect depends on the *size*.
-   - Unisons, fourths, fifths, and octaves occur naturally as *perfect* intervals within the major scale.
-  - Seconds, thirds, sixths, and sevenths occur naturally as *major* intervals within the major scale.
+- Unisons, fourths, fifths, and octaves occur naturally as *perfect* intervals within the major scale.
+- Seconds, thirds, sixths, and sevenths occur naturally as *major* intervals within the major scale.
 - Any alteration from the basic major and perfect intervals can then be labeled by looking at the direction of alteration and the number of half-steps that the interval was altered.
   - If the original interval is *perfect*:
     - Raising the interval by a half-step creates an *augmented* interval.
@@ -47,9 +48,9 @@ From this, our interval hierarchies were grouped as:
 
 Some examples using this method:
 - `C` to `E`:
-  - We counted letter names to find that the *size* is a third. (C, D, E = 3)
-  - We next considered the bottom note to be `do` of a major scale putting us into C major.
-  - On the scale of C major, E is the third, so we know that this is a **major third (M3)** because thirds use the *major/minor* hierarchy of qualities.
+  - Counting the letter names confirmed that the *size* is a third (C, D, E = 3)
+  - By using the lower pitch, `C`, as `do`, we know that the naturally occurring `E` in the key of C major is `E-natural`.
+  - Because this is a third, we know that the naturally occurring note must use the *major* hierarchy, so therefore, `E-natural` would be a **major third *(M3)** above C.
 - `D` to `G-sharp`
   - Counting the letter names confirmed that the *size* is a fourth (D, E, F, G = 4)
   - By using the lower pitch, `D`, as `do`, we know that the naturally occurring `G` in the key of D major is `G-natural`.
