@@ -24,7 +24,7 @@ This means that any interval that has two letters in the same order will always 
 
 ### Interval quality
 
-(If you are completely unfamiliar with scales, you may want to skip one topic ahead to [2a - scales.]({{ site.baseurl }}/2a1-ov-scales.html), and then return to this after beginning to understand the construction of the major scale. For a method that does not rely on knowledge of major scales, you can also scroll to the bottom of this section and read an interesting method from the writers of *Open Music Theory*.) 
+(If you are completely unfamiliar with scales, you may want to skip one topic ahead to [2a - scales.]({{ site.baseurl }}/02-scales-keys-triads-7chords/2a1-ov-scales.html), and then return to this after beginning to understand the construction of the major scale. For a method that does not rely on knowledge of major scales, you can also scroll to the bottom of this section and read an interesting method from the writers of *Open Music Theory*.) 
 
 Interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys. One student succinctly explained her straightforward method for finding the *quality*, and it revolved around a strong familiarity of the twelve major scales:
 - **Please remember that each of the following steps only works if you consider `do` as the bottom pitch of the interval.**
