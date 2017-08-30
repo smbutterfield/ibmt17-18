@@ -30,6 +30,46 @@ w:^1 ^2 ^3 ^4 ^5 ^6 ^7 ^1 ^7 ^6 ^5 ^4 ^3 ^2 ^1 ^3 ^4 ^5 ^7
 w:do re me fa sol la ti do te le sol fa me re do me fa sol te{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
+### Class Notes
+
+#### Simple vs. Compound
+
+- Compound intervals > octave
+- Simple intervals < octave
+    
+    If you see a compound interval, subtract 7 for the simple interval. 
+
+#### Harmonic vs. Melodic
+
+Harmonic intervals occur at the same time, while melodic intervals occur at different times.
+- Harmonic intervals are vertical
+- Melodic intervals are horizontal
+    - Harmonic and melodic intervals can not happen at the same time.
+    - Harmonic and melodic intervals can both be simple or compound. 
+ 
+#### Inversions
+
+ When you invert:
+  - diminihed becomes augmented
+ - major becomes minor 
+ - perfect becomes perfect
+   - 4 inverts to 5
+   - 3 inverts to 6
+   - 2 inverts to 7
+   - 1 inverts to 8
+   
+   **All inversions add up to 9.**
+   
+*Music is organized sound.*
+
+Music is all built around pitch classes.
+Tonality is organizing sound around a central pitch. 
+
+  Not all scales conform to tonality. 
+ 
+    ex: Whole tone scale
+
+
 # Further Reading
 
 ## From *Open Music Theory*
