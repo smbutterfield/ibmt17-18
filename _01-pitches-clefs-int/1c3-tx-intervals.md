@@ -66,11 +66,42 @@ Note that even though *perfect* intervals use a different hierarchy than *major/
 
 ### Melodic vs. Harmonic
 
+Melodic and harmonic intervals were the easiest differentation for the students, although the use of terminology was mildly problematic. The first student described harmonic intervals as occurring "at the same time" while melodic intervals occur "at different times". All students agreed that this was the simplest explanation, but we must be careful in how we apply the terms *interval* and *pitches*. The interval is the space between the two pitches, therefore, the interval cannot occur "at the same time" or "at different times". The pitches can occur simultaneously or consecutively, but the interval always exists as a fixed measurement. This is how we can label harmonic and melodic intervals using the same system.
+
+I recommended that we think of intervals as existing on either a horizontal or vertical axis, because we can visualize axes (as in the plural of axis) easily on musical staff notation. If two pitches occur "at the same time", they will be aligned vertically on a staff. If two pitches occur consecutively, they will represent unique points on a horizontal line that runs parallel to the lines of the staff. This may seem overly technical, but it is an important distinction.
+
+The final note was that melodic intervals can have two modifiers attached to them: *ascending* or *descending*. Ascending intervals start with the lower of the two pitches, whereas descending intervals start on the the higher pitch. Harmonic intervals cannot be ascending or descending.
+ 
 ### Simple vs. Compound
+
+The students immediatly discerned that simple intervals include any interval that is equal to or smaller than an octave. Compound intervals are any interval larger than an octave.
+
+To label compound intervals, we count letter names as we do for simple intervals. We can find a compound interval by adding 7 to any simple interval. For example, a 2nd becomes a 9th. A 4th becomes an 11th. An 8ve (octave) becomes a 15th.
+
+Conversely, if we see a compound interval, we can find its simple equivalent by subtracting 7. A 12th is a 5th plus an 8ve. A 10th is a 3rd plus an 8ve.
+
+One student asked why we don't add eight considering that we are adding an octave. The problem lies in how we find the *size* of intervals. When we find interval *size*, we count the letter names *and include the starting note*. When we add an octave, we have already used the top note so we are missing one letter. For example, a fifth from A to E includes the letters `A B C D E`. If we add an octave, the first `E` was already included in the first interval of the 5th, so we are only adding seven letters `F G A B C D E`.
 
 ### Chromatic vs. Diatonic
 
-The difference between chromatic and diatonic was perhaps the easiest of the classifications for the class to explain. Simply put, *diatonic* intervals use only the notes of the given key signature, while *chromatic* intervals have accidentals to alter one of both of the pitches.
+The difference between chromatic and diatonic was the most straightforward of the classifications for the class to explain. Simply put, *diatonic* intervals use only the notes of the given key signature, while *chromatic* intervals have accidentals to alter one of both of the pitches.
+
+### Inversions
+
+The class figured out both of their guidelines for inversions quickly. For this discussion, we are considering an inversion to be an interval in which one pitch is fixed and the other is displaced by an octave toward the fixed pitch.
+
+To determine the *size* of an inverted interval, the first student pointed out that you could create a grid of size pairs, so:
+- 4 inverts to 5
+- 3 inverts to 6
+- 2 inverts to 7
+- 1 inverts to 8
+
+A second student pointed out that each of these pairs add up to nine, so if you would like to not memorize this grid, you can find an inversion by simply subtracting the size from 9. For example, if there is a written 3rd, subtract 3 from 9 to find that the inversion of a 3rd is a 6th. Note that for compound intervals, you must use subtract from 16 or use negative numbers and absolute values. Because of this, it is easier to reduce compound intervals to a simple interval before inverting.
+
+For qualities, all students agreed that memorizing three pairs is the easiest method:
+- diminished becomes augmented
+- major becomes minor 
+- perfect becomes perfect
 
 # Further Reading
 
