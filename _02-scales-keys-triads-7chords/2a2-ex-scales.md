@@ -4,11 +4,11 @@ title: 2a Examples - Scales and Scale Degrees - Diatonic, Pentatonic, and Chroma
 abc: true
 ---
 
-The following examples demonstrate how the tune of *Happy Birthday* would be written using various scales. Scale degrees are notated below each pitch as well as solfege using movable "do". When determining your pitch collections, pay particular attention to the differences of the sixth and seventh scale degrees.
+The following examples demonstrate how the tune of *Happy Birthday* would be written in various modes, scales, and tonalities. In all examples, scale degrees are numbered below each pitch as well as solfege using movable "do". Additionally,scale degrees are named above the pitches for the examples in major and melodic minor. When determining your pitch collections, pay particular attention to the differences of the sixth and seventh scale degrees.
 
 ### Major
 
-(Because ABC notation does not support scale degrees, I have placed a `^` in front of each scale degree. In normal scale degree notation, the `^` would appear above the numeral for each scale degree.)
+(Because ABC notation does not support scale degrees, I have placed a `^` in front of each scale degree. In normal scale degree notation, the `^` would appear *above* the numeral for each scale degree, not before it.)
 
 {% capture ex1 %}X: 1
 %%staffsep 100%
