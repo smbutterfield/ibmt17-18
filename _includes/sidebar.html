@@ -13,7 +13,7 @@
     <div class="sidebar-nav-item chapter{% if page.collection == chapter.label %} active active-chapter{% endif %}" onclick="toggleChapter(this);">{{ chapter.name }}
       <ul class="chapter-contents">
         {% for lesson in chapter.docs %}
-        <li><a href="{{ lesson.url | prepend: site.baseurl }}">{{ lesson.title }}</a>
+        <li><a href="{{ lesson.url | prepend: site.baseurl }}">{{ lesson.title }}</a></li>
         {% endfor %}
       </ul>
     </div>
@@ -21,6 +21,8 @@
     {% endfor %}
     
     <a class="sidebar-nav-item{% if page.url == "/about.html" %} active{% endif %}" href="{{ site.baseurl }}/about.html">About</a>
+    <a class="sidebar-nav-item{% if page.url == "/abc-tutorial.html" %} active{% endif %}" href="{{ site.baseurl }}/abc-tutorial.html">ABC Tutorial</a>
+    <a class="sidebar-nav-item{% if page.url == "/abc-playground.html" %} active{% endif %}" href="{{ site.baseurl }}/abc-playground.html">ABC Playground</a>
     <a class="sidebar-nav-item" href="{{ site.github-repo }}">GitHub project</a>
   </nav>
 
