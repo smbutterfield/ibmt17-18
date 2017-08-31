@@ -25,19 +25,19 @@ baseurl: /ibmt17-18
 # each chapter of the book is a collection
 # each chapter collection should be given a name value
 collections:
-  01-pitches-clefs-int:
+  01-pitches-clefs:
     output: true
     name: 1) Pitches, Clefs, and Intervals
-  02-scales-keys-triads-7chords:
+  02-int-scales-keys:
     output: true
     name: 2) Scales, Keys, Triads, and Seventh Chords
-  03-intro-rhythm:
+  03-triads-7chords-leadsheet:
     output: true
     name: 3) Rhythm and Regular Meters
-  04-counterpoint-part1:
+  04-intro-rhythm:
     output: true
     name: 4) Counterpoint 1
-  05-counterpoint-part2:
+  05-counterpoint-embell-shapes:
     output: true
     name: 5) Counterpoint 2 and Embellishing Shapes
   06-intro-harmonic:
