@@ -6,13 +6,34 @@ abc: true
 
 ## Class discussion
 
+To begin our discussion, I asked for definitions of music. The first definition offered was 
+
+> Music is organized sound.
+
+In my opinion, this is the simplest explanation that separates music from sound and/or noise. It also provides a great launching point for discussing pitch collections and scales. If we accept that music is "organized sound", then the method used to organize it will define any style of composition. For this course, we will be studying *tonal* music, because *tonal* describes the organizational method of this music.
+
+Tonal music is organized around a central tone called the *tonic*.
+
+Once we have chosen a central pitch around which we build a tonality, every pitch in the tonality can be summarized by its relationship to that pitch. It is these intervallic relationships that create pitch collections, and if that pitch collection has certain properties, it can be further categorized. For the majority of this course, we will be discussing *diatonic* music which is a subset of tonal music. The term *diatonic* can have a variety of meanings depending on context, but for this course, we will be using to refer to music built around a tonic, includes all seven pitch names, and has a specific order of intervals that create a scale.
+
+Put simply, our musical hierarchy is:
+
+- *Music* - organized sound
+    - *Tonal music* - music organized around a central pitch
+        - *Diatonic music* - tonal music that uses all seven letter names only once and follows a specific order of intervals
+            - *Scale* - an condensed ordering of all seven pitches in a diatonic pitch collection where all intervals are either minor 2nds or major 2nds
+
+Now that we have defined what a scale is and how it is different
+
+
 {% capture ex1 %}X:1
 T:Major scales
 M:4/4
 L:1/8
 K:G
 "Major" G A B c d e f|| "Pentatonic" G A B d e ||
-w:^1 ^2 ^3 ^4 ^5 ^6 ^7 ^1 ^2 ^3 ^5 ^6 
+w:^1 ^2 ^3 ^4 ^5 ^6 ^7 ^1 ^2 ^3 ^5 ^6
+w:tonic supertonic mediant 
 w:do re mi fa sol la ti do re mi sol la{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
@@ -30,47 +51,8 @@ w:^1 ^2 ^3 ^4 ^5 ^6 ^7 ^1 ^7 ^6 ^5 ^4 ^3 ^2 ^1 ^3 ^4 ^5 ^7
 w:do re me fa sol la ti do te le sol fa me re do me fa sol te{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-### Class Notes
-
-#### Simple vs. Compound
-
-- Compound intervals > octave
-- Simple intervals < octave
-    
-    If you see a compound interval, subtract 7 for the simple interval. 
-
-#### Harmonic vs. Melodic
-
-Harmonic intervals occur at the same time, while melodic intervals occur at different times.
-- Harmonic intervals are vertical
-- Melodic intervals are horizontal
-    - Harmonic and melodic intervals can not happen at the same time.
-    - Harmonic and melodic intervals can both be simple or compound. 
- 
-#### Inversions
-
- When you invert:
-  - diminihed becomes augmented
- - major becomes minor 
- - perfect becomes perfect
-   - 4 inverts to 5
-   - 3 inverts to 6
-   - 2 inverts to 7
-   - 1 inverts to 8
-   
-   **All inversions add up to 9.**
-   
-*Music is organized sound.*
-
-Music is all built around pitch classes.
-Tonality is organizing sound around a central pitch. 
-
-  Not all scales conform to tonality. 
- 
-    ex: Whole tone scale
-
-
-# Further Reading
+Further Reading
+======
 
 ## From *Open Music Theory*
 

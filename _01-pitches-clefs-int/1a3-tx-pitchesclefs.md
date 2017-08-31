@@ -38,7 +38,8 @@ The tips and tricks for mastering clefs could be broken into three categories:
 - Relative note identifications - Another student remembers one important note for each clef and then visually "counts" through the alphabet upward or downward to find pitches in unfamiliar clefs. One student suggested remembering where C is and counting by steps (letter names), but another suggested memorizing how thirds are stacked to move around more quickly. While this is a fine method for beginning to familiarize yourself with clefs, it will ultimately be too slow and inconsistent to be practical.
 - The final suggestion was to determine the relationship of your weaker clefs to your strongest clef, and then use this to read in the clef. For example, if you are primarily comfortable in treble-clef, you could remember that alto-clef moves all of the pitches down by a step relative to treble clef. (This ignores octave displacement, of course.) In this case, if you read the alto clef as a treble clef but *up* a step, this compensates and gives you a quick visual method for reading the clef. Like the relative note identification method above, this could be slow or inconsistent, but if one regularly transposes, this could be used.
 
-# Further Reading
+Further Reading
+======
 
 ## From *Open Music Theory*
 

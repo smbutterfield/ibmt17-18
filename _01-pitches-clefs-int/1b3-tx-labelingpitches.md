@@ -53,7 +53,8 @@ From this, it is easy to see the necessity of clefs. Ledger lines are an importa
 
 At the end our discussion, we began an interresting conversation on why the ISO system is based of C rather than A. Of course, this is almost entirely related to the evolution of the musical notation system and how the non-accidental pitches (i.e. "white keys" of the keyboard) form a major scale. We began a brief discussion of the physics of sound, and how pitch is a mental construct of the human mind in order to internalize and make sense of the mathematics of the vibrations that enter our ear. While this is a fascinating topic, it is somewhat beyond the purview of this chapter, but I hope to finish this discussion in a later class.
 
-# Further Reading
+Further Reading
+======
 
 ## From *Open Music Theory*
 

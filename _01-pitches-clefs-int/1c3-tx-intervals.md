@@ -103,7 +103,8 @@ For qualities, all students agreed that memorizing three pairs is the easiest me
 - major becomes minor 
 - perfect becomes perfect
 
-# Further Reading
+Further Reading
+======
 
 ## From *Open Music Theory*
 
