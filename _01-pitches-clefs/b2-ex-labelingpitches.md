@@ -4,6 +4,15 @@ title: Examples 1b - Labeling Pitches
 abc: true
 ---
 
+## Goals for this topic
+
+Using the examples below, determine:
+- three *enharmonic equivalents* for every *pitch-class*
+    - one *pitch-class* only has two enharmonic equivalents if only using the five most common accidentals
+- where C4 lies in each clef
+- what the numeral refers to in the ISO system for labeling octaves
+- how these numerals interact with letters
+
 ## Accidentals and Enharmonic Equivalence
 
 {% capture ex1 %}X:1

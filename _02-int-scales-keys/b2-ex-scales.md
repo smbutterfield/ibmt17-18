@@ -4,6 +4,16 @@ title: Examples 2b - Scales and Scale Degrees - Diatonic, Pentatonic, and Chroma
 abc: true
 ---
 
+## Goals for this topic:
+
+Using the examples below, create definitions and/or simple explanations for:
+- the intervallic pattern of the *major* scale and all forms of *minor* scales
+- how major and minor *pentatonic* scales relate to the major and minor scales
+- why *natural, melodic,* and *harmonic* minors are named as they are
+- the names for each scale degree (i.e. tonic) as well as the corresponding numeral notation
+    - how the names for each scale degree are derived (e.g. How are dominant and subdominant scale degrees related?)
+- the Latin spelling for every solfege
+
 The following examples demonstrate how the tune of *Happy Birthday* would be written in various modes, scales, and tonalities. In all examples, scale degrees are numbered below each pitch as well as solfege using movable "do". Additionally,scale degrees are named above the pitches for the examples in major and melodic minor. When determining your pitch collections, pay particular attention to the differences of the sixth and seventh scale degrees.
 
 ### Major

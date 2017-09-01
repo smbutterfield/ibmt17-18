@@ -13,11 +13,3 @@ Even though most college music students are familiar with reading music, they ar
 
 Treble clef is sometimes referred to as a *G-clef*, and bass clef can be called an *F-clef*.
 Alto and tenor clefs are known as the *C-clefs*. 
-
-## Goals for this topic
-
-Use the examples on the next page to find:
-- the order of pitch names for each clef's lines and spaces.
-- why treble clef is a G-clef, why bass clef is an F-clef, and why alto and tenor clefs are C-clefs.
-- any tips or tricks that may help in differentiating and reading clefs.
-    - Hint: Many students begin their studies of clefs by relating the unfamiliar clefs to their most familiar clef.

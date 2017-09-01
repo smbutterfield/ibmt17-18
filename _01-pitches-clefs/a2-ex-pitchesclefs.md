@@ -3,6 +3,13 @@ layout: chapter
 title: Examples 1a - Pitches and Clefs
 abc: true
 ---
+## Goals for this topic
+
+Use the examples below to find:
+- the order of pitch names for each clef's lines and spaces.
+- why treble clef is a G-clef, why bass clef is an F-clef, and why alto and tenor clefs are C-clefs.
+- any tips or tricks that may help in differentiating and reading clefs.
+    - Hint: Many students begin their studies of clefs by relating the unfamiliar clefs to their most familiar clef.
 
 {% capture ex1 %}X: 1
 T: Pitches and Clefs
