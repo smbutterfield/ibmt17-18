@@ -3,6 +3,13 @@ layout: chapter
 title: Lesson 2c - Key Signatures
 ---
 
+## Class Discussion
+
+Further reading
+======
+
+## From *Open Music Theory*
+
 When you're writing in a single key for an extended period of time, it gets tedious to write out the accidentals over and over again. 
 
 Here is a simple melody in D major, without a key signature. 

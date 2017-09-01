@@ -7,7 +7,7 @@ title: Lesson 2a - Identifying and Labeling Intervals
 
 Now that we have formalized our notation of the most basic level of music notation -- a single pitch -- we must find a method to measure the distance between two pitches. Any two-note combination is called a *dyad*, and the distance between the two pitches of a dyad is called an *interval*.
 
-Our goal when measuring intervals is intrinsically tied to the tonal system that we use, diatonic harmony. The simplest way to measure the distance between two intervals would be to measure the distance by the least common multiple of our octave -- in this case, a half-step (minor second). While easily understandable, this method does not relate to our concept of tonality. Instead, counting half-steps creates *interval-classes* in which intervals are considered equal regardless of the pitches. For example, the interval of `G` to `D-flat` has six half-steps which is identical to the interval from `C-sharp` to `G`. Both even use the same pitch-classes, however, any person familiar with diatonic harmony will immediately associate these two intervals with different key centers. (`G` to `D-flat` is strongly associated with the key of `A-flat`, whereas `C-sharp` to `G` likely implies D.) The context of these two intervals is critical in determining their function in tonal harmony, so we must use a system that differentiates between the two.
+Our goal when measuring intervals is intrinsically tied to the tonal system that we use, diatonic harmony. The simplest way to measure the distance between two intervals would be to measure the distance by the least common multiple of our octave -- in this case, a half-step (minor second). While easily understandable, this method does not relate to our concept of tonality. Instead, counting half-steps creates *interval-classes* in which intervals are considered equal regardless of the pitches. For example, the interval of `G` to `D-flat` has six half-steps which is identical to the interval from `C-sharp` to `G`. Both even use the same pitch-classes, however, any person familiar with diatonic harmony will immediately associate these two intervals with different key centers. (`G` to `D-flat` is strongly associated with the key of A-flat major/minor, whereas `C-sharp` to `G` likely implies D major/minor.) The context of these two intervals is critical in determining their function in tonal harmony, so we must use a system that differentiates between the two.
 
 In a diatonic labeling system, every interval has a *size* and a *quality*. 
 
@@ -25,7 +25,7 @@ This means that any interval that has two letters in the same order will always 
 
 ### Interval quality
 
-(If you are completely unfamiliar with scales, you may want to skip one topic ahead to [2a - Scales]({{ site.baseurl }}/02-scales-keys-triads-7chords/2a1-ov-scales.html), and then return to this after beginning to understand the construction of the major scale. For a method that does not rely on knowledge of major scales, you can also scroll to the bottom of this section and read an interesting method from the writers of *Open Music Theory*.) 
+(If you are completely unfamiliar with scales, you may want to skip one topic ahead to [scales (2b)]({{ site.baseurl }}/02-int-scales-key/b1-ov-scales.html), and then return to this after beginning to understand the construction of the major scale. For a method that does not rely on knowledge of major scales, you can also scroll to the bottom of this section and read a useful method from the writers of *Open Music Theory*.) 
 
 Interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys. One student succinctly explained her straightforward method for finding the *quality*, and it revolved around a strong familiarity of the twelve major scales:
 - **Please remember that each of the following steps only works if you consider `do` as the bottom pitch of the interval.**
@@ -98,7 +98,7 @@ To determine the *size* of an inverted interval, the first student pointed out t
 
 A second student pointed out that each of these pairs add up to nine, so if you would like to not memorize this grid, you can find an inversion by simply subtracting the size from 9. For example, if there is a written 3rd, subtract 3 from 9 to find that the inversion of a 3rd is a 6th. Note that for compound intervals, you must use subtract from 16 or use negative numbers and absolute values. Because of this, it is easier to reduce compound intervals to a simple interval before inverting.
 
-For qualities, all students agreed that memorizing three pairs is the easiest method:
+To find the qualities of inverted intervals, the students agreed that memorizing three pairs is the easiest method:
 - diminished becomes augmented
 - major becomes minor 
 - perfect becomes perfect

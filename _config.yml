@@ -1,6 +1,6 @@
 # Inquiry-Based Music Theory
 # OER Music text book, by Sean Butterfield and Evan Williamson
-# project was inspired by and partially adapted from Open Music Theoryhttps://github.com/openmusictheory/openmusictheory.github.io
+# project was inspired by and partially adapted from Open Music Theory https://github.com/openmusictheory/openmusictheory.github.io
 
 # jekyll theme partly based on Lanyon, https://github.com/poole/lanyon
 # OER Music text book, content adapted and created by smbutterfield
@@ -22,24 +22,24 @@ url: https://smbutterfield.github.io
 baseurl: /ibmt17-18
 
 # collections
-# each chapter of the book is a collection
-# each chapter collection should be given a name value
+# each unit of the book is a collection
+# each unit collection should be given a name value
 collections:
   01-pitches-clefs:
     output: true
-    name: 1) Pitches, Clefs, and Intervals
+    name: 1) Pitches and Clefs
   02-int-scales-keys:
     output: true
-    name: 2) Scales, Keys, Triads, and Seventh Chords
+    name: 2) Intervals, Scales, and Keys
   03-triads-7chords-leadsheet:
     output: true
-    name: 3) Rhythm and Regular Meters
+    name: 3) Triads, Seventh Chords, and Leadsheet Notation
   04-intro-rhythm:
     output: true
-    name: 4) Counterpoint 1
+    name: 4) Rhythm and Regular Meters
   05-counterpoint-embell-shapes:
     output: true
-    name: 5) Counterpoint 2 and Embellishing Shapes
+    name: 5) Counterpoint and Embellishing Shapes
   06-intro-harmonic:
     output: true
     name: 6) Introduction to Harmonic Analysis

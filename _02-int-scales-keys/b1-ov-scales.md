@@ -9,6 +9,8 @@ Whereas intervals are the most basic building blocks of all music, *scales* repr
 
 We will explore some extended scales later in this course, but certain scales are at the core of all common practice harmony, and as a music student, you are likely already familiar with these: *major, minor, pentatonic, and chromatic*.
 
+## Goals for this topic:
+
 Using the examples on the next page, create definitions and/or simple explanations for:
 - the intervallic pattern of the *major* scale and all forms of *minor* scales
 - how major and minor *pentatonic* scales relate to the major and minor scales
