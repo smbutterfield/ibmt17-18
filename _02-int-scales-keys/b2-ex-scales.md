@@ -32,7 +32,7 @@ K:G
 "dominant"D/2>D/2| "submediant"E D "tonic"G| "leading tone"F2 D/2>D/2| E D "supertonic"A| G2 D/2>D/2|
 w:^5 ^5 ^6 ^5 ^1 ^7 ^5 ^5 ^6 ^5 ^2 ^1 ^5 ^5
 w:sol sol la sol do ti sol sol la sol re do sol sol
-d "mediant"B G| F E "submediant"c/2>c/2| B G A| G2|]
+d "mediant"B G| F E "subdominant"c/2>c/2| B G A| G2|]
 w:^5 ^3 ^1 ^7 ^6 ^4 ^4 ^3 ^1 ^2 ^1
 w:sol mi do ti la fa fa mi do re do{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}

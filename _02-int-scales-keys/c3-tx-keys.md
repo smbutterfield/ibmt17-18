@@ -5,46 +5,6 @@ title: Lesson 2c - Key Signatures
 
 ## Class Discussion
 
-### Scales
-
-A scale is a particular collection of half steps and whole steps. 
-A pitch collection can be any number or arrangement of pitches. 
-
-  - you can have 4 pitches in a pitch collection
-  - you can have 11 pitches in a pitch collection
-
-**A scale is a collection of pitches, but pitch collections are not necessarily scales.**
-
-A scale is centralized around a tonic. 
-Pitch collection is an umbrella term that *can* include scales.
-
-What is the hierarchy of scale degrees and why?
-
-1. Tonic 
-2. Supertonic
-3. Mediant
-4. Subdominant
-5. Dominant
-6. Submediant
-7. Leading Tone (in a major key)
-
-  - if the 7th scale degree is a half step from the tonic, it is always called the Leading Tone
-  
-G major and G minor are in the same key.
-If two scales share the same tonic, they are modes of each other, thus mode mixture. 
-
-Melodic minor has ascending and descending versions so it can pull to the tonic. 
-Removing La and Ti takes away important functionality.
-
-If you can hear where tonic is, you can fina any other pitch. 
-
-Pentatonic Scales:
-
-  - if you spend a lot of time in major pentatonic, La starts to have a pull toward the tonic in the absence of Ti.
-  - if you spend a lot of time in minor pentatonic, Te starts to have a pull toward the tonic in the absence of Ti.
-  
-- Li and Te may be enharmonically equivalent, but they function completely differently from each other
-
 #### Key Signatures
 
 When adding sharps to a key, it adds a sharp to the 7th scale degree, creating Ti. 

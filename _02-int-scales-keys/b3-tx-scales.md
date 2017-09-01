@@ -10,34 +10,116 @@ To begin our discussion, I asked for definitions of music. The first definition 
 
 > Music is organized sound.
 
-In my opinion, this is the simplest explanation that separates music from sound and/or noise. It also provides a great launching point for discussing pitch collections and scales. If we accept that music is "organized sound", then the method used to organize it will define any style of composition. For this course, we will be studying *tonal* music, because *tonal* describes the organizational method of this music.
+This is possibly the most succinct explanation that differentiates music from sound and/or noise. It also provides a great launching point for discussing pitch collections and scales. If we accept that music is "organized sound", then the method used to organize it will define any *style* of composition. For this course, we will be studying *tonal* music, because *tonal* describes the organizational method of this music.
 
 Tonal music is organized around a central tone called the *tonic*.
 
-Once we have chosen a central pitch around which we build a tonality, every pitch in the tonality can be summarized by its relationship to that pitch. It is these intervallic relationships that create pitch collections, and if that pitch collection has certain properties, it can be further categorized. For the majority of this course, we will be discussing *diatonic* music which is a subset of tonal music. The term *diatonic* can have a variety of meanings depending on context, but for this course, we will be using to refer to music built around a tonic, includes all seven pitch names, and has a specific order of intervals that create a scale.
+Once we have chosen a central pitch around which we build a tonality, every pitch in the tonality can be summarized by its relationship to that pitch. It is these intervallic relationships that create pitch collections, and if that pitch collection has certain properties, it can be further categorized. 
+
+For the majority of this course, we will be discussing *diatonic* music which is a subset of tonal music. The term *diatonic* can have a variety of meanings depending on context, but for this course, we will be using this term to refer to music that:
+- is built around a tonic
+- includes all seven pitch names (i.e. letters)
+- has a specific order of intervals that create a scale
 
 Put simply, our musical hierarchy is:
 
 - *Music* - organized sound
     - *Tonal music* - music organized around a central pitch
         - *Diatonic music* - tonal music that uses all seven letter names only once and follows a specific order of intervals
-            - *Scale* - an condensed ordering of all seven pitches in a diatonic pitch collection where all intervals are either minor 2nds or major 2nds
+            - *Scale* - a condensed ordering of all seven pitches in a diatonic pitch collection where all intervals are either minor 2nds or major 2nds
 
-Now that we have defined what a scale is and how it is different
+### Scales
 
+In diatonic music, each scale has seven pitches. All seven letters can be used once, and no letter can be used more than once. This creates a series of 2nds, and it is the alternation of major 2nds (whole-steps) and minor 2nds (half-steps) that create our scale.
 
-{% capture ex1 %}X:1
+Major scales have an intervallic pattern of:
+
+*(W = whole-step, H = half-step, A = augmented 2nd)*
+
+W - W - H - W - W - W - H
+
+Natural minor scales have an intervallic pattern of:
+
+W - H - W - W - H - W - W
+
+Harmonic minor scales have an intervallic pattern of:
+
+W - H - W - W - H - A - H
+
+Melodic minor scales have both an ascending and descending form. The descending melodic minor intervallic pattern is identical to natural minor. (This necessity of this seemingly redundant pattern is discussed below as to why we *need* different forms of minor.) The ascending melodic minor intervallic pattern is:
+
+W - H - W - W - W - W - H
+
+### Scale degrees
+
+When discussing scales, we need a method to communicate pitches of the scale that is not key-specific. One method is to use the names of the functions of each pitch as it relates to tonic. These names are derived from centuries of theory treatises from scholars such as Rameau, Riemann, Secther, Schoenberg, and Schenker. If interested, you may explore the evolution of these names easily.
+
+They are:
+1. Tonic 
+2. Supertonic
+3. Mediant
+4. Subdominant
+5. Dominant
+6. Submediant
+7. Leading-tone/Subtonic
+
+Notice the relationship between any term and its counterpart as denoted by the prefix `sub`. The dominant is a fifth above the tonic; the subdominant is a fifth below the tonic. The mediant is a third above the tonic; the submediant is a third below the tonic. 
+
+The supertonic is a 2nd above the tonic, but because of the importance and function of the leading-tone, the scale degree names changes to reflect the difference between a major 2nd below the tonic versus the minor 2nd below the tonic. If the 2nd below the tonic is a whole-step, we call it the subtonic. If the 2nd below the tonic is a half-step, we call it the leading-tone. This is true in both major and minor.
+
+## Tonal centers and modes
+
+We consider a key to be defined by its tonic, so if two scales share a tonic, they are considered to be the same key but different *modes* of each other. For example, G major and G minor are the same key, but different modes.
+
+## Why do we need three minor scales?
+
+Most intermediate music students understand that they must learn different forms of the minor scale, but they do not often give much thought as to why. 
+
+Natural minor is the most obvious. It uses all of the naturally occurring notes from the key signature.
+
+We will discuss the role of harmonic minor more when we begin analyzing chords, but as the name implies, it is a form of minor that uses the most common scale degrees from a harmonic standpoint.
+
+However, we used the "Happy Birthday" examples from the previous page to explore the role of melodic minor. By keeping the interval sizes from "Happy Birthday" but changing the pitches to fit the various minor modes, we created three similar but distinct versions of "Happy Birthday". When the class listened to the natural minor version, they felt that `te` did not work with the tune. In the harmonic minor version, the augmented 2nd that occurs between `ti` and `le` surprised them and "felt wrong". Finally, the melodic minor version sounded entirely correct (although one student didn't like the depressing change to a happy song...)
+
+This easily highlighted the role of melodic minor -- to create melodies in minor. By having both an ascending and descending version, we can resolve the sixth and seventh scale degrees upward and downward by relying on the tendency of those scale degrees. `Te` and `le` both have a strong downward pull and almost always resolve downward. `Ti` and `la` both have a strong upward pull and tend to resolve upward. These are general rules and are occasionally broken, but I encourage you to play with the example below to hear how "strange" the piece becomes if you do not allow the sixth and seventh scale degrees to account for their resolutions. (Try putting `la` in for every sixth scale degree for the most obviously jarring version.)
+
+{% capture ex` %}X:1
+%%staffsep 100%
+T:Happy Birthday in G melodic minor
+T:using the parallel minor to G major
+M:3/4
+L:1/4
+Q:1/4=90
+K:Bb
+D/2>D/2| E D G| ^F2 D/2>D/2| E D A| G2 D/2>D/2|
+w:^5 ^5 ^6 ^5 ^1 ^#7 ^5 ^5 ^6 ^5 ^2 ^1 ^5 ^5
+w:sol sol le sol do ti sol sol le sol re do sol sol
+d B G| F HE c/2>c/2| B G A/4D/4=E/4^F/4| G2|]
+w:^5 ^3 ^1 ^7 ^6 ^4 ^4 ^3 ^1 ^2 ^5 ^#6 ^#7 ^1
+w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
+
+##Pentatonic Scales:
+
+  - if you spend a lot of time in major pentatonic, La starts to have a pull toward the tonic in the absence of Ti.
+  - if you spend a lot of time in minor pentatonic, Te starts to have a pull toward the tonic in the absence of Ti.
+  
+- Li and Te may be enharmonically equivalent, but they function completely differently from each other
+
+If we were to put attach all of these ideas to staff notation, we get:
+
+{% capture ex2 %}X:2
 T:Major scales
 M:4/4
 L:1/8
 K:G
 "Major" G A B c d e f|| "Pentatonic" G A B d e ||
 w:^1 ^2 ^3 ^4 ^5 ^6 ^7 ^1 ^2 ^3 ^5 ^6
-w:tonic supertonic mediant 
+w:tonic supertonic mediant subdominant dominant submediant "leading tone"
 w:do re mi fa sol la ti do re mi sol la{% endcapture %}
-{% include abc-example.html number="1" abc=ex1 %}
+{% include abc-example.html number="2" abc=ex2 %}
 
-{% capture ex2 %}X:2
+{% capture ex3 %}X:3
 T:Minor scales
 M:4/4
 L:1/8
@@ -49,7 +131,7 @@ w:^1 ^2 ^3 ^4 ^5 ^6 ^7 ^1 ^2 ^3 ^4 ^5 ^6 ^7
 "Melodic" G A B c d =e ^f| g =f _e d c B A|| "Pentatonic" G B c d f ||
 w:^1 ^2 ^3 ^4 ^5 ^6 ^7 ^1 ^7 ^6 ^5 ^4 ^3 ^2 ^1 ^3 ^4 ^5 ^7 
 w:do re me fa sol la ti do te le sol fa me re do me fa sol te{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
+{% include abc-example.html number="3" abc=ex3 %}
 
 Further Reading
 ======
