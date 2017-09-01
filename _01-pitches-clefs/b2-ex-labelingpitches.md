@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 1b Examples - Labeling Pitches
+title: Examples 1b - Labeling Pitches
 abc: true
 ---
 

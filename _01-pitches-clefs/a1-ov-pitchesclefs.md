@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 1a Overview - Pitches and Clefs
+title: Overview 1a - Pitches and Clefs
 ---
 
 ## A Starting Place

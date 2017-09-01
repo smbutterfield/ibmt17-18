@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 1b Overview - Labeling Pitches
+title: Overview 1b - Labeling Pitches
 ---
 
 ## Accidentals

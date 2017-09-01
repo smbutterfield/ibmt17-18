@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 1a Examples - Pitches and Clefs
+title: Examples 1a - Pitches and Clefs
 abc: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 1b Lesson - Labeling Pitches
+title: Lesson 1b - Labeling Pitches
 abc: true
 ---
 
