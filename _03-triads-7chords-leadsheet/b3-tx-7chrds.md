@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 2d Lesson - Seventh Chords
+title: Lesson 3b - Seventh Chords
 ---
 
 ## Seventh chords ##

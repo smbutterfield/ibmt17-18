@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 2b Lesson - Key Signatures
+title: Lesson 2c - Key Signatures
 ---
 
 When you're writing in a single key for an extended period of time, it gets tedious to write out the accidentals over and over again. 

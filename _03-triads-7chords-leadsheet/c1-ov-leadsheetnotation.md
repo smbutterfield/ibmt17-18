@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 2e Overview - Leadsheet Notation
+title: Overview 3c - Leadsheet Notation
 ---

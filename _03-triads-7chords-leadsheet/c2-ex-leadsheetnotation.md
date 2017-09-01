@@ -1,5 +1,5 @@
 ---
 layout: chapter
-title: 2e Examples - Leadsheet Notation
+title: Examples 3c - Leadsheet Notation
 abc: true
 ---

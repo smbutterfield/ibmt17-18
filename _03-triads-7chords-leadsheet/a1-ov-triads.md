@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 2c Overview - Triads
+title: Overview 3a - Triads
 ---
 
 Using the examples on the next page, try to:

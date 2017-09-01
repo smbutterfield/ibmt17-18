@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 2b Overview - Key Signatures
+title: Overview 2c - Key Signatures
 ---
 
 Scales represent a pitch collection that centralizes around the tonic pitch. Because we can transpose 

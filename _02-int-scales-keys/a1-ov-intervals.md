@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 1c Overview - Identifying and Labeling Intervals
+title: Overview 2a - Identifying and Labeling Intervals
 ---
 
 ## Introduction to Intervals

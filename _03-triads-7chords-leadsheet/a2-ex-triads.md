@@ -1,5 +1,5 @@
 ---
 layout: chapter
-title: 2c Examples - Triads
+title: Examples 3a - Triads
 abc: true
 ---

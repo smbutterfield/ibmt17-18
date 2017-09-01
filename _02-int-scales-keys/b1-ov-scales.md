@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 2a Overview - Scales and Scale Degrees - Diatonic, Pentatonic, and Chromatic
+title: Overview 2b - Scales and Scale Degrees - Diatonic, Pentatonic, and Chromatic
 ---
 
 In this course, we will be studying many styles of music, but all of these will have roots in the harmonic and melodic practices of the common practice period. The common practice period is generally accepted to include Western art music from the Renaissance through the late Romantic eras, but much of modern popular music can be analyzed using similar tools.

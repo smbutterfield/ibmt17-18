@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 1c Examples - Identifying and Labeling Intervals
+title: Examples 2a - Identifying and Labeling Intervals
 abc: true
 ---
 
