@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 3b Examples - Compound Meters
+title: Examples 4b - Compound Meters
 ---

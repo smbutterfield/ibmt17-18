@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 3e Examples - Syncopation
+title: Examples 4e - Syncopation
 ---

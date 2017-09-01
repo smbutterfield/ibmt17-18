@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 3e Lesson - Syncopation
+title: Lesson 4e - Syncopation
 ---

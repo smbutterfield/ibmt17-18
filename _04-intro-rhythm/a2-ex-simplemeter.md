@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 3a Examples - Simple Meters
+title: Examples 4a - Simple Meters
 ---

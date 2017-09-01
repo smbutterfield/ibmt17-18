@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 3d Lesson - Beams and Borrowed Divisions
+title: Lesson 4d - Beams and Borrowed Divisions
 ---

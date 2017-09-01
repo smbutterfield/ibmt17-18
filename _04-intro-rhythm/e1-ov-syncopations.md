@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 3e Overview - Syncopation
+title: Overview 4e - Syncopation
 ---

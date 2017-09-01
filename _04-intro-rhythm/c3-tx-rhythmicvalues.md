@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 3c Lesson - Rhythmic Values
+title: Lesson 4c - Rhythmic Values
 ---

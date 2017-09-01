@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 3d Examples - Beams and Borrowed Divisions
+title: Examples 4d - Beams and Borrowed Divisions
 ---

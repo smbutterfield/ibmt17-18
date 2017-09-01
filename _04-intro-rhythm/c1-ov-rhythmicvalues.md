@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 3c Overview - Rhythmic Values
+title: Overview 4c - Rhythmic Values
 ---

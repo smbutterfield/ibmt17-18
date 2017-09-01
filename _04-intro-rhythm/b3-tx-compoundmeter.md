@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 3b Lesson - Compound Meters
+title: Lesson 4b - Compound Meters
 ---

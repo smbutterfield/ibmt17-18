@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 3b Overview - Compound Meters
+title: Overview 4b - Compound Meters
 ---

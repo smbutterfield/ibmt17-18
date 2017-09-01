@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 3a Lesson - Simple Meters
+title: Lesson 4a - Simple Meters
 ---

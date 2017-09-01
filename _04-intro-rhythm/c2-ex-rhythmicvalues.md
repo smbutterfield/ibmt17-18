@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 3c Examples - Rhythmic Values
+title: Examples 4c - Rhythmic Values
 ---
