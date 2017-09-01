@@ -15,6 +15,10 @@ In the examples below, you will find sets of three keys. Use these to find:
 - a method for determining the *relative* and *parallel* minor keys from a major key
     - as well as the *relative* and *parallel* major keys from a minor key
 
+## A caveat
+
+Please note that any *scale* that shares a tonic note is considered to be one key. Even though this may contradict your intuitive thoughts, this means that G major and G minor are considered the same **key**! Instead, we call them *modes* of each other, not different keys. The explanation for this terminology is best left for once we have more tools to examine it, but for now, practice using the correct terminology to avoid a confusing "re-learning" moment later in the course.
+
 ## Keys that use sharps and the minor keys that are related to them
 
 Use these examples to determine the order of sharps. Pay particular attention to which **scale degrees** are affected in each key as sharps are added. Is it the same scale degree in each key? How is this related to the tonic? If you continue the pattern, are you able to discern the name of the next key and which accidentals are added? You should also be able to determine the relationship between a major key and its parallel and relative minors.

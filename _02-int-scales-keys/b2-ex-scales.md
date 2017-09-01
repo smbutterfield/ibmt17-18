@@ -14,7 +14,9 @@ Using the examples below, create definitions and/or simple explanations for:
     - how the names for each scale degree are derived (e.g. How are dominant and subdominant scale degrees related?)
 - the Latin spelling for every solfege
 
-The following examples demonstrate how the tune of *Happy Birthday* would be written in various modes, scales, and tonalities. In all examples, scale degrees are numbered below each pitch as well as solfege using movable "do". Additionally,scale degrees are named above the pitches for the examples in major and melodic minor. When determining your pitch collections, pay particular attention to the differences of the sixth and seventh scale degrees.
+## Instructions for these examples
+
+The following examples demonstrate how the tune of *Happy Birthday* would be written if only using the notes from a particular scale. In all examples, scale degrees are numbered below each pitch as well as solfege using movable "do". Additionally,scale degrees are named above the pitches for the examples in major and melodic minor. When determining your pitch collections, pay particular attention to the differences of the sixth and seventh scale degrees.
 
 ### Major
 
@@ -34,6 +36,10 @@ d "mediant"B G| F E "submediant"c/2>c/2| B G A| G2|]
 w:^5 ^3 ^1 ^7 ^6 ^4 ^4 ^3 ^1 ^2 ^1
 w:sol mi do ti la fa fa mi do re do{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
+
+## Minor scales
+
+There are three forms of the minor scale, and each has a specific role. As you listen to these three melodies, only one of them will sound as if it has no surprising pitches. Once you have found the example that doesn't have a "surprise moment, consider the name of the mode. Does it give you some insight into why it sounds best playing this melody?
 
 ### Natural minor
 
@@ -135,7 +141,7 @@ This final example is a heavily ornamented version of *Happy Birthday* that demo
 
 {% capture ex7 %}X:7
 %%staffsep 75%
-T:Happy Birthday in G major
+T:Happy Birthday in G major (a la R. Strauss)
 T:decorated to demonstrate all possible scale degrees and solfege
 M:3/4
 L:1/4
