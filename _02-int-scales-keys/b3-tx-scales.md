@@ -46,13 +46,17 @@ Harmonic minor scales have an intervallic pattern of:
 
 W - H - W - W - H - A - H
 
-Melodic minor scales have both an ascending and descending form. The descending melodic minor intervallic pattern is identical to natural minor. (This necessity of this seemingly redundant pattern is discussed below as to why we *need* different forms of minor.) The ascending melodic minor intervallic pattern is:
+Melodic minor scales have both an ascending and descending form. The descending melodic minor intervallic pattern is identical to a descending natural minor scale. (The necessity of this seemingly redundant pattern is discussed below under "Why we *need* three minor scales".) The ascending melodic minor intervallic pattern is:
 
 W - H - W - W - W - W - H
 
 ### Scale degrees
 
-When discussing scales, we need a method to communicate pitches of the scale that is not key-specific. One method is to use the names of the functions of each pitch as it relates to tonic. These names are derived from centuries of theory treatises from scholars such as Rameau, Riemann, Secther, Schoenberg, and Schenker. If interested, you may explore the evolution of these names easily.
+When discussing scales, it is helpful to have a way to refer to pitches that does not reference the particular key. For example, the first "Happy Birthday" example on the previous page is written in G major, but there are eleven other keys in which we could write that melody. In order to reference the interval pattern rather than the actual pitches, we use *scale degrees*. 
+
+The most common way to communicate pitches of the scale is to use scale degree numbers. We denote these by placing a caret `^` above the scale degree number. For example, the pitch that is a fifth above the tonic would be called fifth scale degree and would be written as `^5`, although the caret would be above the numeral,not to the side. 
+
+Another traditional method is to use the names of the functions of each pitch as it relates to tonic. These names evolved over centuries of theory treatises from scholars such as Rameau, Riemann, Secther, Schoenberg, and Schenker. We will not use these names often in this course, but knowing them can help understand harmonic function when that concept is introduced.
 
 They are:
 1. Tonic 
@@ -69,17 +73,17 @@ The supertonic is a 2nd above the tonic, but because of the importance and funct
 
 ## Tonal centers and modes
 
-We consider a key to be defined by its tonic, so if two scales share a tonic, they are considered to be the same key but different *modes* of each other. For example, G major and G minor are the same key, but different modes.
+We consider a key to be defined by its tonic, so if two scales share a tonic, they are considered to be the same key but different *modes* of each other. For example,G major and G minor are the same key, but different modes.
 
-## Why do we need three minor scales?
+## Why we need three minor scales
 
 Most intermediate music students understand that they must learn different forms of the minor scale, but they do not often give much thought as to why. 
 
 Natural minor is the most obvious. It uses all of the naturally occurring notes from the key signature.
 
-We will discuss the role of harmonic minor more when we begin analyzing chords, but as the name implies, it is a form of minor that uses the most common scale degrees from a harmonic standpoint.
+We will discuss the role of harmonic minor more when we begin analyzing chords, but as the name implies, it is a form of minor that emphasizes the most common scale degrees from a harmonic standpoint.
 
-However, we used the "Happy Birthday" examples from the previous page to explore the role of melodic minor. By keeping the interval sizes from "Happy Birthday" but changing the pitches to fit the various minor modes, we created three similar but distinct versions of "Happy Birthday". When the class listened to the natural minor version, they felt that `te` did not work with the tune. In the harmonic minor version, the augmented 2nd that occurs between `ti` and `le` surprised them and "felt wrong". Finally, the melodic minor version sounded entirely correct (although one student didn't like the depressing change to a happy song...)
+However, the "Happy Birthday" examples from the previous page are perfect for exploring the imoprtance of melodic minor. By keeping the interval sizes from "Happy Birthday" but changing the pitches to fit the various forms of minor, I created three similar but distinct versions of "Happy Birthday". When the class listened to the natural minor version, they felt that the first `te` did not work with the tune. In the harmonic minor version, the augmented 2nd that occurs between `ti` and `le` surprised them and "felt wrong". Finally, the melodic minor version sounded entirely correct (although one student didn't like the depressing change to a happy song...)
 
 This easily highlighted the role of melodic minor -- to create melodies in minor. By having both an ascending and descending version, we can resolve the sixth and seventh scale degrees upward and downward by relying on the tendency of those scale degrees. `Te` and `le` both have a strong downward pull and almost always resolve downward. `Ti` and `la` both have a strong upward pull and tend to resolve upward. These are general rules and are occasionally broken, but I encourage you to play with the example below to hear how "strange" the piece becomes if you do not allow the sixth and seventh scale degrees to account for their resolutions. (Try putting `la` in for every sixth scale degree for the most obviously jarring version.)
 
@@ -99,8 +103,9 @@ w:^5 ^3 ^1 ^7 ^6 ^4 ^4 ^3 ^1 ^2 ^5 ^#6 ^#7 ^1
 w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-##Pentatonic Scales:
+## Pentatonic Scales:
 
+The pentatonic scale is one of the most prominent Major and minor pentatonic scales have a s
   - if you spend a lot of time in major pentatonic, La starts to have a pull toward the tonic in the absence of Ti.
   - if you spend a lot of time in minor pentatonic, Te starts to have a pull toward the tonic in the absence of Ti.
   
