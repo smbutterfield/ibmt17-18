@@ -6,7 +6,7 @@ abc: true
 
 ## Class discussion
 
-To begin our discussion, I asked for definitions of music. The first definition offered was 
+To begin our discussion, I asked for definitions of music. The first definition offered was:
 
 > Music is organized sound.
 
@@ -103,7 +103,7 @@ w:^5 ^3 ^1 ^7 ^6 ^4 ^4 ^3 ^1 ^2 ^5 ^#6 ^#7 ^1
 w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-## Pentatonic Scales:
+## Pentatonic Scales
 
 The pentatonic scale is a nearly universal sonority as demonstrated by Bobby McFerrin in the following clip.
 
@@ -119,11 +119,11 @@ Even though they do not function diatonically, there are two general concepts of
 
 ## Chromatic scale
 
-The chromatic scale is not a tonality, because it has no tonic. It is however, the ultimate pitch collection. Because it contains all twelve pitch-classes, it is a useful way to memorize all enharmonic equivalents.
+The chromatic scale is not a tonality, because it has no tonic. It is however, the ultimate pitch collection and functions as a useful way to familiarize a student with all twelve pitch-classes.
 
-The final "Happy Birthday" version on the previous page uses every scale degree in order to demonstrate resolution in a diatonic key, but it is not a "chromatic" tonality. That example is still in G major, but it is heavily embellished using chromatic tones.
+The final "Happy Birthday" version on the previous page uses every possible scale degree in order to demonstrate resolution in a diatonic key, but it is not a "chromatic" tonality. That example is still in G major, but it is heavily embellished using chromatic tones.
 
-Of particular note, the example demonstrates the importance of considering resolution when choosing which chromatic pitch to use. Generally, if a pitch is raised, it should resolve upward; if a pitch is lowered, it should resolve downward. For example, `li` and `te` may be enharmonically equivalent, but they function differently because their accidentals imply specific resolutions. `Li` should resolve to `ti`, but `te` should resolve to `la`. This is not only important in simplifying notation for harmonic analysis, but it also makes it easier for performers when reading heavily chromatic music.
+Of particular note, the example demonstrates the importance of considering resolution when choosing which chromatic pitch to use. Generally, if a pitch is raised, it should resolve upward; if a pitch is lowered, it should resolve downward. For example, `li` and `te` are enharmonically equivalent, but they function differently because their accidentals imply specific resolutions. `Li` should resolve to `ti`, but `te` should resolve to `la`. This is not only important in simplifying notation for harmonic analysis, but it also makes it easier for performers when reading heavily chromatic music.
 
 ## Putting it all together
 
@@ -165,6 +165,7 @@ w:do re me fa sol la ti do te le sol fa me re do
 w:^1 ^3 ^4 ^5 ^7 
 w: do me fa sol te{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
+
 
 Further Reading
 ======
