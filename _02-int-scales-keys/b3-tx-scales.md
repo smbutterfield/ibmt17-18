@@ -87,7 +87,7 @@ However, the "Happy Birthday" examples from the previous page are perfect for ex
 
 This easily highlighted the role of melodic minor -- to create melodies in minor. By having both an ascending and descending version, we can resolve the sixth and seventh scale degrees upward and downward by relying on the tendency of those scale degrees. `Te` and `le` both have a strong downward pull and almost always resolve downward. `Ti` and `la` both have a strong upward pull and tend to resolve upward. These are general rules and are occasionally broken, but I encourage you to play with the example below to hear how "strange" the piece becomes if you do not allow the sixth and seventh scale degrees to account for their resolutions. (Try putting `la` in for every sixth scale degree for the most obviously jarring version.)
 
-{% capture ex` %}X:1
+{% capture ex1 %}X:1
 %%staffsep 100%
 T:Happy Birthday in G melodic minor
 T:using the parallel minor to G major
