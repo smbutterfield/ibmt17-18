@@ -145,7 +145,7 @@ T:Happy Birthday in G major (a la R. Strauss)
 T:decorated to demonstrate all possible scale degrees and solfege
 M:3/4
 L:1/4
-Q:1/4=60
+Q:1/4=75
 K:G
 "5"D/2>"#5"^D/2| "6"E/2"b6"_E/2 "5"D "1"G/2"#6"^E/2| "7"F2 (3"5"D/2"#4"^C/2"5"D/2| "6"E "5"=D "2"A/2"7"^F/2| "1"G2 "5"D/2>"5"D/2|
 w:sol si la le sol do li ti sol fi sol la sol re ti do sol sol

@@ -105,37 +105,65 @@ w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
 
 ## Pentatonic Scales:
 
-The pentatonic scale is one of the most prominent Major and minor pentatonic scales have a s
-  - if you spend a lot of time in major pentatonic, La starts to have a pull toward the tonic in the absence of Ti.
-  - if you spend a lot of time in minor pentatonic, Te starts to have a pull toward the tonic in the absence of Ti.
-  
-- Li and Te may be enharmonically equivalent, but they function completely differently from each other
+The pentatonic scale is a nearly universal sonority as demonstrated by Bobby McFerrin in the following clip.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ne6tB2KiZuk" frameborder="0" allowfullscreen></iframe>
+
+Neither the major or minor form of the pentatonic scale relates strongly to the harmonic functions that we will study in this course, but their prominence in world and folk musics makes them an important part of our musical heritage. This alone justifies familarity with these colors.
+
+Major and minor pentatonic scales have a simple relationship to their major and minor counterparts. The major pentatonic scale uses the first, second, third, fifth, and sixth scale degrees of the major scale. The minor pentatonic scale uses the first, third, fourth, fifth, and seventh scale degrees of the minor scale. 
+
+Even though they do not function diatonically, there are two general concepts of harmony in pentatonic scales.
+1. The tonic and dominant scale degrees still function as the primary harmonic "poles" in a pentatonic scale.
+2. The lack of a leading tone in both forms is the primary reason that these do not function similarly to diatonic harmony. That being said, `la` in major pentatonic scales and `te` in minor pentatonic scales can take on a similar function by pulling toward the tonic in a melody. 
+
+## Chromatic scale
+
+The chromatic scale is not a tonality, because it has no tonic. It is however, the ultimate pitch collection. Because it contains all twelve pitch-classes, it is a useful way to memorize all enharmonic equivalents.
+
+The final "Happy Birthday" version on the previous page uses every scale degree in order to demonstrate resolution in a diatonic key, but it is not a "chromatic" tonality. That example is still in G major, but it is heavily embellished using chromatic tones.
+
+Of particular note, the example demonstrates the importance of considering resolution when choosing which chromatic pitch to use. Generally, if a pitch is raised, it should resolve upward; if a pitch is lowered, it should resolve downward. For example, `li` and `te` may be enharmonically equivalent, but they function differently because their accidentals imply specific resolutions. `Li` should resolve to `ti`, but `te` should resolve to `la`. This is not only important in simplifying notation for harmonic analysis, but it also makes it easier for performers when reading heavily chromatic music.
+
+## Putting it all together
 
 If we were to put attach all of these ideas to staff notation, we get:
 
 {% capture ex2 %}X:2
+%%staffsep 100%
 T:Major scales
 M:4/4
 L:1/8
 K:G
-"Major" G A B c d e f|| "Pentatonic" G A B d e ||
-w:^1 ^2 ^3 ^4 ^5 ^6 ^7 ^1 ^2 ^3 ^5 ^6
-w:tonic supertonic mediant subdominant dominant submediant "leading tone"
-w:do re mi fa sol la ti do re mi sol la{% endcapture %}
+"Major" G A B c d e f||
+w:do re mi fa sol la ti 
+w:^1 ^2 ^3 ^4 ^5 ^6 ^7
+w:tonic supertonic mediant subdominant dominant submediant leadingtone
+"Pentatonic" G A B d e ||
+w:^1 ^2 ^3 ^5 ^6
+w:do re mi sol la{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 {% capture ex3 %}X:3
+%%staffsep 100%
 T:Minor scales
 M:4/4
 L:1/8
 Q:1/8=60
 K:Bb
-"Natural" G A B c d e f|| "Harmonic" G A B c d e ^f|| 
-w:do re me fa sol le te do re me fa sol le ti 
-w:^1 ^2 ^3 ^4 ^5 ^6 ^7 ^1 ^2 ^3 ^4 ^5 ^6 ^7
-"Melodic" G A B c d =e ^f| g =f _e d c B A|| "Pentatonic" G B c d f ||
-w:^1 ^2 ^3 ^4 ^5 ^6 ^7 ^1 ^7 ^6 ^5 ^4 ^3 ^2 ^1 ^3 ^4 ^5 ^7 
-w:do re me fa sol la ti do te le sol fa me re do me fa sol te{% endcapture %}
+"Natural" G A B c d e f||
+w:do re me fa sol le te
+w:^1 ^2 ^3 ^4 ^5 ^6 ^7
+w:tonic supertonic mediant subdominant dominant submediant subtonic
+"Harmonic" G A B c d e ^f|| 
+w:do re me fa sol le ti
+w:^1 ^2 ^3 ^4 ^5 ^6 ^#7
+"Ascending Melodic" G A B c d =e ^f| "Descending Melodic" g =f _e d c B A||
+w:^1 ^2 ^3 ^4 ^5 ^#6 ^#7 ^1 ^7 ^6 ^5 ^4 ^3 ^2 
+w:do re me fa sol la ti do te le sol fa me re do 
+"Pentatonic" G B c d f ||
+w:^1 ^3 ^4 ^5 ^7 
+w: do me fa sol te{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
 Further Reading
