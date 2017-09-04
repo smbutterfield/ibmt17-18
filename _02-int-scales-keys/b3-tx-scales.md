@@ -138,7 +138,7 @@ K:G
 "Major" G A B c d e f||
 w:do re mi fa sol la ti 
 w:^1 ^2 ^3 ^4 ^5 ^6 ^7
-w:tonic supertonic mediant subdominant dominant submediant leadingtone
+w:tonic supertonic mediant subdominant dominant submediant leading~tone
 "Pentatonic" G A B d e ||
 w:^1 ^2 ^3 ^5 ^6
 w:do re mi sol la{% endcapture %}

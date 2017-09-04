@@ -5,7 +5,7 @@ title: Overview 1a - Pitches and Clefs
 
 ## A Starting Place
 
-Most college music students are familiar with basic music notation -- treble and bass clefs, staves, ledger lines, and accidentals. If you are comfortable with some aspect of these concepts, you can review the basics under the *Further Reading* section of [Lesson 1a]({{ site.baseurl }}/1ac-tx-pitchesclefs.html)
+Most college music students are familiar with basic music notation -- treble and bass clefs, staves, ledger lines, and accidentals. If you are uncomfortable with any of aspect of these concepts, you can review the basics under the *Further Reading* section of [Lesson 1a]({{ site.baseurl }}/1ac-tx-pitchesclefs.html)
 
 ## Clefs
 
