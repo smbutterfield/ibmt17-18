@@ -45,8 +45,8 @@ T:---------
 M:2/4
 L:1/2
 K:C
-"Root position"[D^FAc]| "First-inversion"[d^FAc]| "Second-inversion"[d^fAc]| "Third-inversion"[D^FAC]|
-w:7~(7/5/3) 6/5~(6/5/3) 4/3~(6/4/3) 4/2~(6/4/2)|{% endcapture %}
+"Root position"[D^FAc]| "First-inversion"[d^FAc]| "Second-inversion"[d^fAc]| "Third-inversion"[D^FAC]||
+w:7~(7/5/3) 6/5~(6/5/3) 4/3~(6/4/3) 4/2~(6/4/2){% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 ## Seventh chord voicings

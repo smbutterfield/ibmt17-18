@@ -21,7 +21,7 @@ Using the examples below:
 ## Triad qualities
 
 {% capture ex1 %}X:1
-T:Triad quality
+T:Triad qualities
 M:2/4
 L:1/2
 K:C clef=bass

@@ -3,7 +3,13 @@ layout: chapter
 title: Lesson 3b - Seventh Chords
 ---
 
-## Seventh chords ##
+### Class Discussion
+
+## Further Reading
+
+### From *Open Music Theory*
+
+#### Seventh chords
 
 A four-note chord whose pitch classes can be arranged as thirds is called a *seventh chord*.
 

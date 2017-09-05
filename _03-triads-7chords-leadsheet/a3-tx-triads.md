@@ -3,6 +3,12 @@ layout: chapter
 title: Lesson 3a - Triads
 ---
 
+### Class Discussion
+
+## Further Reading
+
+### From *Open Music Theory*
+
 A chord is any combination of three or more pitch classes that sound simultaneously.
 
 A three-note chord whose pitch classes can be arranged as thirds is called a *triad*.
