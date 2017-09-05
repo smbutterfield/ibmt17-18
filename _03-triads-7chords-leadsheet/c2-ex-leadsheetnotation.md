@@ -6,6 +6,10 @@ abc: true
 
 Using the examples below:
 - determine the standard methods for labeling all chord qualities
+    - match these to our current labels (e.g. Major minor (Mm) chords are the same as a dominant seventh chord which is then labeled as...)
+- determine the method for denoting inversions
+    - match these inversions to their corresponding inversion figures for both triads and seventh chords
+- figure out the difference between using *sub* and *add* in your leadsheet notation
 
 ## Labeling triads
 

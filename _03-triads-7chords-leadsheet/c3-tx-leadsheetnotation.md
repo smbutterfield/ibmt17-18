@@ -3,7 +3,13 @@ layout: chapter
 title: Lesson 3c - Leadsheet Notation
 ---
 
-### Lead-sheet symbols ###
+### Class Discussion
+
+## Further Reading
+
+### From *Open Music Theory*
+
+#### Lead-sheet symbols
 
 A triad can be summed up by a single symbol, such as a lead-sheet chord symbol. A lead sheet symbol includes information about both root quality, as well as which pitch class occurs in the lowest voice (called the *bass* regardless of who is singing or playing that pitch).
 
