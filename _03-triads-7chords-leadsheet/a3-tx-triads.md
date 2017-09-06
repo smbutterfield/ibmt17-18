@@ -5,6 +5,81 @@ title: Lesson 3a - Triads
 
 ### Class Discussion
 
+#### Keys 
+
+We have 7 letter names because once you get to the 8th letter, it repeats itself. 
+The 7th scale degree creates tonality in a diatonic scale. 
+
+An octave relationship means that the wavelength is doubled in size. 
+Octaves have a 2 to 1 ratio.
+
+C - G - D - A - E - B - F# - C#
+
+C - G - D - A - E - B - F - C
+
+*If you lower the 7th letter it still rotates to a C letter in the circle of descending perfect fourths.*
+
+Roman numberals are tied to function. 
+20th Century Chord Symbols tell you the letter names. 
+
+#### Triads
+
+4 different qualities of triads:
+
+- major 
+- minor
+- augmented
+- diminished
+
+Triadic Inversions:
+
+- root position
+  - the root of the chord is in the bass
+- first inversion
+  - the 3rd of the chord is in the bass
+- second inversion
+  - the 5th of the chord is in the bass
+
+In a major triad, there are 4 different intervals, depending on the iversion: 3rds, 4ths, 5ths, and 6ths.
+
+In root position, the 1st to the 3rd is a major 3rd, the 3rd to the 5th is a minor 3rd, and the root to the 5th is a perfect 5th.
+In first inversion, the 3rd to the 5th is a minor 3rd, the 5th to the root is a perfect 4th, and the 3rd to the root is a minor 6th.
+In second inversion, the 5th to the root is a perfect 4th, the root to the 3rd is a major 3rd, and the 5th to the 3rd is a major 6th. 
+
+Chord members and qualities:
+
+- 3rds determine major and minor (including perfect 5ths)
+- 5ths determine diminished or augmented
+   - diminished has a minor 3rd
+   - augmented has a major 3rd
+   
+Tertian harmony: harmony in thirds
+
+Root position triad intervals:
+
+- Major: M3 + m3
+- Minor: m3 + M3
+- Diminished: m3 + m3
+- Augmented: M3 + M3
+
+Inversions are determined by the bass note. 
+
+Inversion names:
+
+- Root position: 5/3 
+- First inversion: 6/3 (shortened to 6)
+- Second inversion: 6/4
+
+*The numbers are determined by the intervals from the lowest note to the other notes in the chord.*
+
+Triad voicings:
+
+- closed position uses simple intervals
+  - in closed position the notes are as close together as possible
+- open position uses compound intervals
+  - open voicing is spread out
+  - open position skips one of the voices
+
 ## Further Reading
 
 ### From *Open Music Theory*
