@@ -7,14 +7,14 @@ abc: true
 ## Goals for this topic
 
 Using the examples below:
-- determine what role each chord member plays in determining the quality of a triad
-- find all three intervals contained in a root-position triad for each chord quality
-- find the following interval sizes beteween chord members of a triad (Hint: This may involve moving some chord members up or down an octave)
+- determine what role each chord member -- root, third, and fifth -- plays in determining the quality of a triad
+- find all three intervals contained in a *root-position* triad for each chord quality
+- find the rest of the interval *sizes* beteween chord members of a triad (Hint: This may involve moving some chord members up or down an octave)
     - thirds (2)
     - fourth (1)
     - fifth (1)
     - sixths (2)
-- relate these intervals to our system for labeling triad inversions
+- relate these interval sizes to our system for labeling triad inversions
     - provide inversion figures for root position, first-inversion, and second-inversion triads
 - be able to explain how to turn any inverted and/or open-voiced triad into a root-position triad in a closed voicing
 
