@@ -75,7 +75,18 @@ Understanding the difference between the terms *root* and *bass* is the last pie
 
 Combining a knowledge of inversins and voicings is critical in finding chord qualities. Teachers often suggest to students that they can find chord qualities by putting a chord in root position, but a chord in root position can be spread across multiple staves and still difficult to parse. We really mean that they should put the chord in root position *and* closed voicing. This allows the student to look at the interval qualities and determine the quality of the triad based on their knowledgeo of triadic interval structures.
 
-### NEED FURTHER CLASS DISCUSSION
+If you can get it to root position closed voicing, you can figure out the chord. 
+A triad is 3 distict pitches, with root position only using thirds.
+
+Bass vs. Root
+- the bass note can be moved around, and determines inversion
+- the root is fixed, and decides how we name the chord
+
+Circle of Thirds
+- spelled: C E G B D F A
+- a tool to help spell triads in tertian harmony no matter the letter name
+- D, Db, D# are all spelled with a D, an F, and an A, with whatever appropriate accidental
+
 
 ## Further Reading
 
