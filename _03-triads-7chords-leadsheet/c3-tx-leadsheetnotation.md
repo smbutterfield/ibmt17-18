@@ -5,6 +5,19 @@ title: Lesson 3c - Leadsheet Notation
 
 ### Class Discussion
 
+Lead sheet notation goes above the staff, and gives us the chord name and quality in order to spell the chord
+
+- Major Triad: Bb
+- Minor Triad: Bb-, Bbm, Bbmin
+- Augmented Triad: Bb+, Bbaug
+- Diminished Triad: Bbdim, Bbo
+
+- Major Major Seventh Chord: Bbmaj7, BbM7
+- Major Minor (Dominant) Seventh Chord: Bb7
+- Minor Minor Seventh Chord: Bbm7, Bb-7, Bbmin7
+- Diminished Minor (Half Diminished) Seventh Chord: Bbo/, Bbo/7
+- Diminished Diminished (Fully Diminished) Seventh Chord: Bbo7 
+
 ## Further Reading
 
 ### From *Open Music Theory*

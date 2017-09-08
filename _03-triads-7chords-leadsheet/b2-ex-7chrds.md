@@ -7,12 +7,13 @@ abc: true
 ## Goals for this topic
 
 Using the examples below:
-- determine what role each chord member plays in determining the quality of a seventh chord
-- find all six intervals contained in a root-position seventh chord for all five chord qualities
+- determine what role each chordal member (e.g. root, third, fifth, etc.) plays in determining the quality of a seventh chord
+    - How does this relate to triads?
+- find all six intervals between the chordal members of a root-position seventh chord for each of the following chord qualities:
     - *major seventh, minor seventh, dominant seventh, half-diminished, fully-diminished*
-- explain the alternate names for each seventh chord
+- explain what each part of the the alternate names for each seventh chord
     - *Major major* (MM), *major minor* (Mm), *minor minor* (mm), *diminished minor* (dm), and *diminished diminshed* (dd)
-- find the following interval sizes between chord members of a seventh chord (Hint: This may involve moving some chord members up or down an octave)
+- find the following interval sizes between chordal members of a seventh chord (Hint: This may involve moving some chord members up or down an octave)
     - seconds (1)
     - thirds (3)
     - fourths (2)

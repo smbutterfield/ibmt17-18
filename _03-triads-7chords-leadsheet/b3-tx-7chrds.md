@@ -5,49 +5,33 @@ title: Lesson 3b - Seventh Chords
 
 ### Class Discussion
 
-#### Seventh Chords
+A seventh chord is a stack of 4 pitches, each seperated by a 3rd. As a reminder. 
 
-A seventh chord is a chord with 4 pitches, as opposed to a triad with 3, or a diad with 2. 
+There are 5 types of seventh chords, and we will be using both of the common terms for them:
+- *Major major* (abbreviated `MM`) or *major seventh chord*
+- *Major minor* (abbreviated `Mm`) or *dominant seventh chord*
+- *Minor minor* (abbreviated `mm`) or *minor seventh chord*
+- *Diminished minor (abbreviated `dm`) or *half-diminished seventh chord* 
+- *Diminished diminished* (abbreviated `dd`) or *fully-diminished seventh chord*
 
-There are 5 types of seventh chords:
+These terms are interchangeable but they are typically used in different circles. We will refer to them as the pedagogical name (e.g. major major, etc.) and common name (e.g. major seventh chord, etc.).
 
-- Major Major (MM)
-- Major Minor (Mm)or Dominant 7th
-- Minor Minor (mm)
-- diminished minor (dm) or half diminished 
-- diminished diminished (dd) or fully diminished
+The pedagogical names are useful in illustrating the structure of a seventh chord and is unsurprisingly often used by theory teachers. I asked the class to explain what the two words in "major major" meant, and the first suggestion was, "The first word is the triad quality (major triad on bottom), and the second word is the chord quality between the root and the 7th. This is close, but did not quite explain the true nature of the second word. The pedagogical naming system for seventh chords mixes a chord quality with an interval quality. The first word always describes the triad (the bottom three pitches) while the second word describes the *interval quality* between the root and the seventh chordal member. This interval is always a 7th.
 
-The first word is the triad quality (major triad), and the second word is the interval quality between the root and the 7th (M7). 
+- Major major (major seventh chord): major triad + M7
+- Major minor (dominant seventh chord): major triad + m7
+- Minor minor (minor seventh chord): minor triad +m7
+- Diminished minor (half-diminished seventh chord): diminished triad + m7
+- Diminished diminished (fully-diminished seventh chord): diminished triad + d7
 
-- Major Major: major triad + M7
-- Major Minor (Dominant): major triad + m7
-- Minor Minor: minor triad +m7
-- Diminished Minor (Half-diminished): diminished triad + m7
-- Diminished Diminished (Fully-diminished): diminished triad + d7
+Because the class had already been through a similar exercise for triads, they were able to quickly identifty the inversion figures as they relate to the intervals above the *bass*, not the *root* of the chord.
 
-Intervals in all inversions:
+- Root position: 7 (7/5/3)
+- First Inversion: 6/5 (6/5/3)
+- Second Inversion: 4/3 (6/4/3)
+- Third Inversion: 4/2 (6/4/2)
 
-- Root position: 7
-- First Inversion: 6/5
-- Second Inversion: 4/3
-- Third Inversion: 4/2 
-
-Figured Bass, Bass Position Symbols, Figures, and Inversion figures all represent the subscript numbers next to roman numerals.
-
-#### Lead Sheet Notation
-
-Lead sheet notation goes above the staff, and gives us the chord name and quality in order to spell the chord
-
-- Major Triad: Bb
-- Minor Triad: Bb-, Bbm, Bbmin
-- Augmented Triad: Bb+, Bbaug
-- Diminished Triad: Bbdim, Bbo
-
-- Major Major Seventh Chord: Bbmaj7, BbM7
-- Major Minor (Dominant) Seventh Chord: Bb7
-- Minor Minor Seventh Chord: Bbm7, Bb-7, Bbmin7
-- Diminished Minor (Half Diminished) Seventh Chord: Bbo/, Bbo/7
-- Diminished Diminished (Fully Diminished) Seventh Chord: Bbo7 
+As a reminder, we will be using the term *inversion figure* to discuss this shorthand method of identifying inversions. Other systems refer to these same superscript numbers as figured bass, bass position Symbols, or figures, but we need not argue about which name is better. As long as the student understands the difference between *inversion figures*, true *figured bass* (i.e. Baroque system for writing keyboard harmonies), and the shorthand used in *leadsheet notation*, it does not actually matter which term is used. 
 
 # Further Reading
 
