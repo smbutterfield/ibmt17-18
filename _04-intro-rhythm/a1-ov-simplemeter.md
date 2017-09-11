@@ -5,7 +5,7 @@ title: Overview 4a - Simple Meters
 
 Because we are assuming that you are already famililar with the basics of rhythmic notation, we will be skipping most of the basic rhythmic terminology. If you would like to review, I have included some materials from *Open Music Theory* at the bottom of this page.
 
-Instead, we will be skipping ahead into classifications for meters, and for this topic, we will be focusing exclusively on simple meters, one of the two classifications for *regular* meters. 
+Instead, we will be skipping ahead into classifications for meters. For today's topic, we will be focusing exclusively on simple meters, one of the two classifications for *regular* meters. 
 
 We must agree on a few basic terms. *Meter* is the manner in which we organize strong and weak pulses in music over time, and it is from this grouping that we determine the length of each *measure*. At its most basic, meter tells us two things:
 - how we divide the meter into regular or irregular pulses called *beats*

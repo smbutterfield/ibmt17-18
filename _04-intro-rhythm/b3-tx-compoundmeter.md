@@ -31,6 +31,10 @@ In a time signature, the *top number* (and the top number only!) describes the t
 - compound triple: 9
 - compound quadruple: 12
 
+### Notating meter
+
+In *compound meters*, the bottom number of the time signature corresponds to the type of note corresponding to *a single division of the beat*. If a compound meter is notated such that each dotted-quarter note corresponds to a beat, the eighth note is the division of the beat, and thus the bottom number of the time signature is 8. If a compound meter is notated such that each dotted-half note corresponds to a beat, the quarter note is the division of the beat, and thus the bottom number of the time signature is 4. Note that because the beat is divided into three in a compound meter, the beat is always three times as long as the division note, and *the beat is always dotted*.
+
 ### Compound duple meter
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:0qksx8mV28lztYIZ1om8ml" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><p class="caption">"Shiver," Radiohead</p>
