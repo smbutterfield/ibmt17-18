@@ -50,8 +50,6 @@ Admittedly, this method for notating half-diminished seventh chords is common en
 
 Cmin<sup>7(add&flat;13)</sup>
 
-
-
 ## Further Reading
 
 ### From *Open Music Theory*
