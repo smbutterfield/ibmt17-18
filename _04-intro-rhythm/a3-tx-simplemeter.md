@@ -3,6 +3,53 @@ layout: chapter
 title: Lesson 4a - Simple Meters
 ---
 
+### Class Discussion
+
+#### Meters
+
+Simple meter:
+
+- the top number in the time signature is divisible by 2
+
+Top and bottom numbers in a time signature:
+
+- the top number represents how many beats are in the measure.
+- the bottom number tells you with what rhythmic quality represents the beat.
+  - if a 4 is on the bottom, the beat is represented by a quarter note.
+  - if an 8 is on the bottom, the beat is represented by an eighth note.
+  
+Duple, Triple, and Quadruple meter:
+
+- duple meter: 2 
+  - ex: 2/4, 2/2, 2/8, 2/16
+- triple meter: 3
+  - ex: 3/4, 3/2, 3/8, 3/16
+- quadruple meter: 4
+  - ex: 4/4, 4/2, 4/8, 4/16
+  
+*Ideal* beaming:
+
+- shows where each beat occurs as an effort not to obscure the beat
+  - half notes and whole notes are the exception
+  - this applies more to eighth notes, sixteenth notes, and further divisions
+  
+**How you group a set of notes will make the reader's time easier or harder.** 
+
+Common Meters:
+
+- simple duple
+- simple triple
+- simple quadruple
+
+Common beat-counting system:
+
+- beats represented by numbers 
+- simple division by *and*
+- subdivision *1-e-&-a*
+
+
+
+
 # Further Reading
 
 ## From *Open Music Theory*
