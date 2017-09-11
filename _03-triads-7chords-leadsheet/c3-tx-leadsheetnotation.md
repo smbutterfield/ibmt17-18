@@ -26,9 +26,30 @@ The chord quality shorthand can vary greatly, so we have listed the more common 
 
 We are also able to show chord inversions in leadsheet notation by using *slash-chords*. To use slashchords, you use standard standard leadsheet notation followed by a slash (/) and then the *bass* note. This allows you to show any inversion. For example:
 
-C<sup>7</sup>/E is dominant seventh chord in first-inversion.
+- C<sup>7</sup>/E is a C dominant seventh chord in first-inversion.
+- C<sup>7</sup>/G is a C dominant seventh chord in second-inversion.
+- C<sup>7</sup>/B&flat; is a C dominant seventh chord in third-inversion.
+
+## Extended harmonies
+
+Some forms of tertian harmony use chords that have extensions beyond the seventh. Because we consider these extensions as stacked thirds continuing above the seventh chord, we typically uses the terms *ninth* for the second scale degree, *eleventh* for the fourth scale degree, and *thirteenth* for the sixth scale degree. If you have Cmin<sup>11</sup> implies that it has the normal minor seventh chord with both the diatonic ninth and eleventh added above it. 
+
+As with standard leadsheet notation for seventh chords, if you have a number alone, it always implies a dominant seventh chord with extensions. A C<sup>13</sup> is a dominant seventh chord with extensions up to the thirteenth. (One notable exception is the C<sup>6/9</sup> chord. This chord implies a major seventh.)
 
 ## *Sub* and *Add*
+
+The two commands *sub* and *add* are useful when writing leadsheet notation of non-standard chords. Admittedly, these will not be used much in diatonic harmony, but understanding their usage now will help when we move into chromatic harmonies.
+
+Because triads and seventh chords are built in thirds, every third above the root has a predetermined quality based on the chord quality and root. If you would like to alter one of those chordal members, you can use the *sub* followed by an altered chordal member to imply that you are *replacing* that chordal member. For example, the alternate method for half-diminished seventh chords comes from this. Because a diminished triad is a minor triad with a lowered fifth chordal member, you could use the leadsheet notation for a minor seventh chord and substitute a lowered 5th. This would look like:
+
+Cmin<sup>7(sub&flat;5)</sup>
+
+Admittedly, this method for notating half-diminished seventh chords is common enough that it is not required to use "sub" in this particular example, but this is still an excellent example of the proper way to use the sub command.
+
+*Add*, on the other hand, does not alter any of the chordal members, but insteads adds an extra chord tone. If you would like to add a lowered thirteenth to a minor 7th chord without adding the ninth and eleventh, you could use:
+
+Cmin<sup>7(add&flat;13)</sup>
+
 
 
 ## Further Reading
