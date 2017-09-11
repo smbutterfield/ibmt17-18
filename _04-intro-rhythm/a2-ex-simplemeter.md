@@ -5,11 +5,12 @@ abc: true
 ---
 
 Using the following examples, determine:
-- what all *simple* meters have in common
+- the characteristic that all *simple* meters have in common
 - what the top and bottom numbers mean in a simple time signature
-- what *duple*, *triple*, and *quadruple* mean they follow *simple*
-- how to determine where to beam in simple meters 
+- what *duple*, *triple*, and *quadruple* mean when describing a meter
+- "theoretically ideal" beaming in simple meters 
 - a list of common meters in *simple duple*, *simple triple*, and *simple quadruple*
+- the common beat-counting system that we'll be using in this course (written in the "Simple Quadruple" example)
 
 {% capture ex1 %}X:1
 T:Common examples of simple duple meters with correct beaming
@@ -42,7 +43,9 @@ M:4/4
 L:1/4
 K:C
 G G G G| z/2G/2 G/2G/2- G/2G/2 (3G/2G/2G/2|G- G/2G/2 G/4G/4G/4G/4 G/2G/4G/4||
+w:1 2 3 4 & 2 & _ & 4 & a 1 _ & 3 e & a 4 & a 
 [M:4/2][L:1/2] G G G G| z/2G/2 G/2G/2- G/2G/2 (3G/2G/2G/2|G- G/2G/2 G/4G/4G/4G/4 G/2G/4G/4||
+w:1 2 3 4 & 2 & _ & 4 & a 1 _ & 3 e & a 4 & a
 [M:4/8][L:1/8] G G G G| z/2G/2 G/2G/2- G/2G/2 (3G/2G/2G/2|G- G/2G/2 G/4G/4G/4G/4 G/2G/4G/4||
 [M:4/16][L:1/16] G G G G| z/2G/2 G/2G/2- G/2G/2 (3G/2G/2G/2|G- G/2G/2 G/4G/4G/4G/4 G/2G/4G/4||{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
