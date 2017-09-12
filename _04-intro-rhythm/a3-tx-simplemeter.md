@@ -5,43 +5,49 @@ title: Lesson 4a - Simple Meters
 
 ### Class Discussion
 
-#### Meters
+This was an interesting class because it was the first class at which I was not present for a majority of the class period, so the teaching assistants ran the exercises and discussion. I asked the graduate teaching assistant to start by ensuring that the class understood all of the terminology and definitions from Overview 4a. The following is my summation of the teaching assistants' notes and my addendums.
 
-Simple meter:
+In looking through the class notes, it does not seem that the class correctly identified the common characteristic of all simple meters. When asked to identify what all simple meters had in common, they landed on, "the top number of the time signature is divisible by two." Not only is this not true for all simple meters (e.g. 3/4) as shown in Examples 4a, it still would not differentiate this class of meters from compound meters. 6/8 and 12/8 are both compound time signatures that have a top number that is divisible by two.
 
-- the top number in the time signature is divisible by 2
+The definition is "simple"! (Music professor humor...) *Simple meters are any regular meters in which the beat is divided into exactly two equal parts.*
 
-Top and bottom numbers in a time signature:
 
-- the top number represents how many beats are in the measure.
-- the bottom number tells you with what rhythmic quality represents the beat.
-  - if a 4 is on the bottom, the beat is represented by a quarter note.
-  - if an 8 is on the bottom, the beat is represented by an eighth note.
-  
-Duple, Triple, and Quadruple meter:
+## Duple, Triple, and Quadruple
 
-- duple meter: 2 
+The class came up with the following collections of duple, triple, and quadruple meters:
+- simple duple meter: 2 
   - ex: 2/4, 2/2, 2/8, 2/16
-- triple meter: 3
+- simple triple meter: 3
   - ex: 3/4, 3/2, 3/8, 3/16
-- quadruple meter: 4
+- simple quadruple meter: 4
   - ex: 4/4, 4/2, 4/8, 4/16
+
+This is correct but it doesn't provide a definition of what these numbers mean. *These words are used to signify how many beats are in a measure.*
+
+## Simple time signatures
+
+The class succesfully described the function of the top and bottom numbers of the time signature. For simple meter time signatures:
+- the top number represents how many beats are in the measure
+- the bottom number denotes what rhythmic value represents the beat
+  - if a 4 is on the bottom, the beat is represented by a quarter note
+  - if an 8 is on the bottom, the beat is represented by an eighth note
+
+To easily figure out the bottom number's rhythmic value, I always tell students to imagine that the bottom note becomes the denominator (lower number) of a fraction under a numerator of 1. A bottom number of 4 becomes 1/4 -- a quarter. A bottom number of 2 becomes 1/2 -- a half.
   
-*Ideal* beaming:
+## Theoretically ideal beaming versus common practice
 
-- shows where each beat occurs as an effort not to obscure the beat
-  - half notes and whole notes are the exception
-  - this applies more to eighth notes, sixteenth notes, and further divisions
-  
-**How you group a set of notes will make the reader's time easier or harder.** 
+I returned to class at this point and assumed the lead role in the discussion. We had two more concepts to work through.
 
-Common Meters:
+In Examples 4a, I asked the class to look at two examples of something I termed "theoretically ideal" beaming versus two counterparts of the same rhythm beamed in a more commonly used manner. The class came up with the following ideas:
+- "Theoretically ideal" beaming shows where each beat occurs in an effort not to obscure the beat
+  - Half notes and whole notes are obvious exceptions.
+  - This focuses more on eighth notes, sixteenth notes, and further subdivisions.
 
-- simple duple
-- simple triple
-- simple quadruple
+This is very much inline with how I was hoping to start the group thinking. Well-engraved music is meant to look pleasing and be easy for a performer to read. This often leads to grouping rhythmic patterns according to non-rhythmic ideas: lyrics, spacing measures across the page, phrasing, a limited number of systems, etc. *Theoretically ideal* beaming would never obscure a beat in order to provide the easiest reading of harmony within a score. Of course, no musician will ever use this in its stricest form because it would become difficult to read in many situations; imagine not using a whole note in 4/4 time and instead using four tied quarter notes. 
 
-Common beat-counting system:
+That being said, it is important for students of music to begin trying to understand how grouping and beaming decisions are made, because in harmonic analysis, it is easy to sometimes miss voices because of obscured beats. It is also an excellent thought exercise to force students to begin demonstrating complete mastery of meters and rhythmic values.
+
+## Beat-counting system
 
 - beats represented by numbers 
 - simple division by *and*
