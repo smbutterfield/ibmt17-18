@@ -11,4 +11,4 @@ As a quick review, there are a few critical terms necessary for discussing these
 
 If we imagine meter as a hierarchy, *beats* are the highest level. Beats are then divided into *divisions*, and *divisions* can be further divided into *subdivisions*. A *regular* meter is one in which every *beat* is the same length.
 
-Finally, do remember that meter is somewhat subjective and can be greatly altered by many factors, especially tempo. Where one listener might listen to a piece with four quarter-notes per measure and feel that the quarter notes are the beat, another listener may listen to the same piece and hear the beat in a slow two with the half-note as the beat.
+Finally, do remember that meter is somewhat subjective and can be greatly altered by many factors, especially tempo. We will discuss this in the next topic, but where one listener might listen to a piece with four quarter-notes per measure and feel that the quarter notes are the beat, another listener may listen to the same piece and hear the beat in a slow two with the half-note as the beat.
