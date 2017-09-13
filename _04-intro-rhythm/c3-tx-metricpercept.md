@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 4c - Syncopation
+title: Lesson 4c - Metric perception
 ---
 
 # Further Reading
