@@ -5,6 +5,62 @@ title: Lesson 4b - Compound Meters
 
 ## Class discussion
 
+### Compound Meter
+
+measures: the separation of beats from one another based on the time signature
+
+beat: pulse
+ - there are strong and weak beats like there are strong and weak pulses
+  
+Regular Meters vs. Irregular Meters:
+ 
+ - regular meters: every beat has the same division
+  - ex: 4/4. Each quarter note can be broken up into 2 eighth notes.
+ - irregular meters: beats within the measure that have different divisions of the beat
+  - ex: 5/8. In a 2+3 5/8, the first beat is divided into 2 eighth notes, and the second beat is divided into 3 eighth notes.
+  
+Time Signature: 
+- top number: number of beats in the measure
+- bottom number: the note value held by the beat
+  
+Characteristics of compound meter:
+- all beats are divisible by 3
+
+Top and bottom numbers in a compound key signature:
+- top number: how many divisions are in the meter
+- bottom number: the rhythmic value of the division
+
+Duple, Triple, and Quadruple:
+
+In using the terms duple, triple, and quadruple, it refers to the number of strong beats. 
+- duple has 2 strong beats with 3 eighth notes per beat
+    - ex: 6/8
+- triple has 3 strong beats with 3 eighth notes per beat
+    - ex: 9/8
+- quadruple has 4 strong beats with 3 eighth notes per beat
+    - ex: 12/8
+  
+"Ideal" beaming in compound time:
+- each beat is separated 
+- similarly to simple meter, do not obscure the beat
+
+Common compound meters:
+- 6/8
+- 9/8
+- 12/8
+- 3/8
+
+Beat counting in compound time:
+- 1 la li (# la li)
+
+The key to meter is your perception when listening to it. 
+Depending on the tempo, 3/4 is a time signature that can be classified as a simple triple, or a compound single. 
+When the beat is in 3, it divides in two. 
+When the beat came to the measure level, it makes the beat a 1 with a division of 3, insteadd of a 3 that can be divided by 2. 
+
+
+
+
 # Further reading
 
 ## From *Open Music Theory*
