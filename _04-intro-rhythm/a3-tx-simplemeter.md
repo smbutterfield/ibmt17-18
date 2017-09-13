@@ -11,7 +11,6 @@ In looking through the class notes, it does not seem that the class correctly id
 
 The definition is "simple"! (Music professor humor...) *Simple meters are any regular meters in which the beat is divided into exactly two equal parts.*
 
-
 ## Duple, Triple, and Quadruple
 
 The class came up with the following collections of duple, triple, and quadruple meters:
@@ -34,27 +33,25 @@ The class succesfully described the function of the top and bottom numbers of th
 
 To easily figure out the bottom number's rhythmic value, I always tell students to imagine that the bottom note becomes the denominator (lower number) of a fraction under a numerator of 1. A bottom number of 4 becomes 1/4 -- a quarter. A bottom number of 2 becomes 1/2 -- a half.
   
-## Theoretically ideal beaming versus common practice
+## Beat-counting system in simple meters
 
-I returned to class at this point and assumed the lead role in the discussion. We had two more concepts to work through.
+It seems that for every unique syllable, there is a beat-counting system for affixing syllables to beats, divisions, and subdivisions. Each of these have their strengths and weaknesses, but for this theory course, we will be using the following for simple meters:
+- `beat numbers` for each beat (e.g. 1, 2, 3, etc.)
+- `&` for the division (e.g. 1-& 2-& etc.)
+- `e` (pronounced 'ee') and a (pronounced 'ah') for the first level subdivisions (e.g. 1-e-&-a 2-e-&-a)
+
+While this system can blend together aurally if said quickly, its primary benefit is that it has a unique syllable for each level through the first subdivision, and this makes communicating easier with higher specificity. For example, it is easy to ask, "Is the G4 on the 'e' of beat four a non-chord tone?", and this does not require further information.
+
+## Theoretically ideal beaming versus common practice
 
 In Examples 4a, I asked the class to look at two examples of something I termed "theoretically ideal" beaming versus two counterparts of the same rhythm beamed in a more commonly used manner. The class came up with the following ideas:
 - "Theoretically ideal" beaming shows where each beat occurs in an effort not to obscure the beat
   - Half notes and whole notes are obvious exceptions.
   - This focuses more on eighth notes, sixteenth notes, and further subdivisions.
 
-This is very much inline with how I was hoping to start the group thinking. Well-engraved music is meant to look pleasing and be easy for a performer to read. This often leads to grouping rhythmic patterns according to non-rhythmic ideas: lyrics, spacing measures across the page, phrasing, a limited number of systems, etc. *Theoretically ideal* beaming would never obscure a beat in order to provide the easiest reading of harmony within a score. Of course, no musician will ever use this in its stricest form because it would become difficult to read in many situations; imagine not using a whole note in 4/4 time and instead using four tied quarter notes. 
+This is very much inline with my general intention. Well-engraved music is meant to look pleasing and be easy for a performer to read. This often leads to grouping rhythmic patterns according to non-rhythmic ideas: lyrics, spacing measures across the page, phrasing, a limited number of systems, etc. *Theoretically ideal* beaming would never obscure a beat in order to provide the easiest reading of harmony within a score. Of course, no musician will ever use this in its stricest form because it would become difficult to read in many situations; imagine not using a whole note in 4/4 time and instead using four tied quarter notes. 
 
-That being said, it is important for students of music to begin trying to understand how grouping and beaming decisions are made, because in harmonic analysis, it is easy to sometimes miss voices because of obscured beats. It is also an excellent thought exercise to force students to begin demonstrating complete mastery of meters and rhythmic values.
-
-## Beat-counting system
-
-- beats represented by numbers 
-- simple division by *and*
-- subdivision *1-e-&-a*
-
-
-
+That being said, it is important for students of music to begin trying to understand how grouping and beaming decisions are made, because in harmonic analysis, it is easy to sometimes miss voices because of obscured beats. It is also an excellent thought exercise to help students to begin demonstrating mastery of meters and rhythmic values.
 
 # Further Reading
 
