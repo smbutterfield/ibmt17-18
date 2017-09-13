@@ -3,7 +3,7 @@ layout: page
 title: IBMT Forum Help
 ---
 
-The [IBMT forum]({{ site.baseurl }}/forum/test.html) is added to this site using the [Disqus](https://disqus.com/) community platform service.
+The [IBMT forum]({{ site.baseurl }}/forum/index.html) is added to this site using the [Disqus](https://disqus.com/) community platform service.
 This is a public forum intended to help students learn, communicate, and collaborate around IBMT.
 
 Get started by logging into Disqus using a Facebook, Twitter, Google, or Disqus account. 
