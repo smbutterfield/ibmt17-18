@@ -43,10 +43,11 @@ T:Meter changes are noted at the end of the previous line
 M:12/8
 L:1/8
 K:C
-G3 GGG G2G (2GG|G/2G/2G/2G/2G/2G/2 G/2G/2GG/2G/2 G/2GGGG/2 GGG||
-[M:12/4][L:1/4] G3 GGG G2G (2GG|G/2G/2G/2G/2G/2G/2 G/2G/2GG/2G/2 G/2GGGG/2 GGG||
-[M:12/16][L:1/16] G3 GGG G2G (2GG|G/2G/2G/2G/2G/2G/2 G/2G/2GG/2G/2 G/2GGGG/2 GGG||
-[M:12/32][L:1/32] G3 GGG G2G (2GG|G/2G/2G/2G/2G/2G/2 G/2G/2GG/2G/2 G/2GGGG/2 GGG||{% endcapture %}
+G3 GGG G2G (2GG|G/2G/2G/2G/2G/2G/2 G/2G/2GG/2G/2 G/2GGG/2 GGG||
+w:1 2 la li 3 li 4 & 1 to la ta li ti 2 to la li ti 3 to ta ti 4 la li
+[M:12/4][L:1/4] G3 GGG G2G (2GG|G/2G/2G/2G/2G/2G/2 G/2G/2GG/2G/2 G/2GGG/2 GGG||
+[M:12/16][L:1/16] G3 GGG G2G (2GG|G/2G/2G/2G/2G/2G/2 G/2G/2GG/2G/2 G/2GGG/2 GGG||
+[M:12/32][L:1/32] G3 GGG G2G (2GG|G/2G/2G/2G/2G/2G/2 G/2G/2GG/2G/2 G/2GGG/2 GGG||{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
 ## The problem with 3
