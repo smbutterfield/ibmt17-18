@@ -7,11 +7,17 @@ title: Lesson 4b - Compound Meters
 
 ### Compound Meter
 
+What is compound meter?
+
+Compound meter is any time signature divisible by 3. 
+This includes meters like 3/8, 6/8, 9/8, and 12/8. 
+This excludes any meter in 5 or 7, no matter the division of the beat.
+
 measures: the separation of beats from one another based on the time signature
 
 beat: pulse
  - there are strong and weak beats like there are strong and weak pulses
-  
+
 Regular Meters vs. Irregular Meters:
  
  - regular meters: every beat has the same division
@@ -56,7 +62,7 @@ Beat counting in compound time:
 The key to meter is your perception when listening to it. 
 Depending on the tempo, 3/4 is a time signature that can be classified as a simple triple, or a compound single. 
 When the beat is in 3, it divides in two. 
-When the beat came to the measure level, it makes the beat a 1 with a division of 3, insteadd of a 3 that can be divided by 2. 
+When the beat came to the measure level, it makes the beat a 1 with a division of 3, instead of a 3 that can be divided by 2. 
 
 
 
