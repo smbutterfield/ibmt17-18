@@ -5,6 +5,28 @@ title: Lesson 4c - Metric perception
 
 ## Class discussion
 
+### Syncopation
+
+Syncopation occurs when emphasis is put on the weak beats. 
+Putting space on the strong beat can also obscure the perception of there the beat is. 
+Sycopation is subjective. 
+It only exists in context to notes around it. 
+
+Implied syncopation: 
+
+- the illusion of time signature based on the shape of the melody
+- a passage in 3/4 can be alluded as 6/8 depending on the shape of the melody
+- patterened based music can skew your perception of time signature
+- other things that can cause implied syncopation:
+    - accent
+    - rest placement
+    - tempo
+    
+  Igor Sravinskii's Rite of Spring uses meter to cause the performers to unconsciously accent certain beats depending on the given      meter. 
+  The passage may not sound like the written meter, but by using different meters it changes how we play the same notes. 
+  
+What we hear first in an exerpt has the greatest effect on how we perceive music.
+
 ## Previous material affecting perception
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=138" frameborder="0" allowfullscreen></iframe>
