@@ -24,16 +24,9 @@ z/2 G G G G/2-| G/2G/2 G G c/2G/4F/4| G4|]{% endcapture %}
 
 ## Similar meters
 
-The following two excerpts demonstrate how two variations -- melodic shape and accents -- can affect listener perception. Each example contains a rhythmic pattern scored in two different meters. Aurally, both parts will sound identical regardless of the meter, but when looking at the scoring, one of the two halves will likely stand out as matching your aural perception. Discuss the differences between the two ways of notating the examples and which one best reflects your perception of the excerpt. After you hit play, do not follow the part in order to allow your ear to determine how it hears the meter.
+The following excerpt demonstrates how a variations -- in this example, melodic shape -- can affect listener perception. The example contains a rhythmic pattern scored in two different meters. Aurally, both parts will sound identical regardless of the meter, but when looking at the scoring, one of the two halves will likely stand out as matching your aural perception. Discuss the differences between the two ways of notating the examples and which one best reflects your perception of the excerpt. Are there other methods of which you can think that could alter a listener's perception of meter?
 
-{% capture ex2 %}X:2
-T:Accents and weight
-M:3/4
-L:1/8
-Q:1/4=100
-K:C
-LAA LAA LAA:| [M:6/8] LAALA ALAA:|]{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
+After you hit play, do not follow the part in order to allow your ear to determine how it hears the meter.
 
 {% capture ex3 %}X:3
 T:Melodic shape
@@ -45,4 +38,18 @@ EA eB df| EA eB df:| [M:6/8] EAe Bdf| EAe Bdf:|]{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 For melodic patterns, use arpeggios grouped into twos and threes to switch between 3/4 and 6/8
 
-It should be noted that many composers rely on using meters to evoke particular rhythmic biases in the performer, so it is disingenuous that meter is entirely subjective. Stravinsky was well-known to write the same passage in various meters (e.g. *Rite of Spring*, *L'histoire du Soldat*)
+It should be noted that many composers rely on using meters to evoke particular rhythmic biases in the performer, so it is disingenuous to say that meter is *entirely* subjective. Stravinsky was well-known to write the same passage in various meters (e.g. *Rite of Spring*, *L'histoire du Soldat*), so a good performer is aware of what the meter is trying to tell them.
+
+## How previous material affects perception
+
+Listen to the first 20 seconds of the following clip of *Sintra* from Snarky Puppy's incredible collaboration with the Metropole Orkest. How would you classify the meter? What can you tell about the performers' sense of the meter from their body language, particularly the conductor? Does it match yours?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=138" frameborder="0" allowfullscreen></iframe>
+
+The next clip starts slightly before the previous clip. How would you classify this meter? Does it affect how you perceive the material from the previous clip? What can you tell about the performers' sense of the meter from their body language, particularly the conductor? Does it match yours?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=126" frameborder="0" allowfullscreen></iframe>
+
+The final clip starts in the introduction of this piece. This is clearly in a different meter than the previous two clips but it segues smoothly into the new section. How does this affect your perception of the material from the previous two clips? What can you tell about the performers' sense of the meter from their body language, particularly the conductor? Does it match yours?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=47" frameborder="0" allowfullscreen></iframe>
