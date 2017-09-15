@@ -13,7 +13,7 @@ By starting at this particular point in the piece, most listeners will hear this
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=126" frameborder="0" allowfullscreen></iframe>
 
-By starting at this new point, many listeners will switch to a faster (double-time)simple triple meter. The listener may or may not carry this feel through the half-time section from the first clip, but given the conductor's beat pattern, we can be fairly certain that the orchestra is counting this section as if there is no change in meter. 
+By starting at this new point, many listeners will switch to a faster (double-time) simple triple meter. The listener may or may not carry this feel through the half-time section from the first clip, but given the conductor's beat pattern, we can be fairly certain that the orchestra is counting this section as if there is no change in meter. 
 
 Perhaps even more interesting is the effect on the listener when we move our starting point back into the the intro of the piece. 
 
