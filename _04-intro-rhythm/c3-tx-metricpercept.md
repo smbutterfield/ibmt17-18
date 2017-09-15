@@ -14,15 +14,15 @@ It only exists in context to notes around it.
 
 Implied syncopation: 
 
-- the illusion of time signature based on the shape of the melody
-- a passage in 3/4 can be alluded as 6/8 depending on the shape of the melody
-- patterened based music can skew your perception of time signature
-- other things that can cause implied syncopation:
+- the illusion of a time signature based on the shape of the melody
+- a passage in 3/4 can be alluded to as 6/8 depending on the shape of the melody
+- pattern based music can skew your perception of time signature
+- other things that cause implied syncopation:
     - accent
     - rest placement
     - tempo
     
-  Igor Sravinskii's Rite of Spring uses meter to cause the performers to unconsciously accent certain beats depending on the given      meter. 
+  Igor Stravinskii's Rite of Spring uses meter to cause the performers to unconsciously accent certain beats depending on the given      meter. 
   The passage may not sound like the written meter, but by using different meters it changes how we play the same notes. 
   
 What we hear first in an exerpt has the greatest effect on how we perceive music.
