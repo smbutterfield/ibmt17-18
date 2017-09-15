@@ -10,6 +10,7 @@ The project was inspired by and partially adapted from [*Open Music Theory*](htt
 <ul class="index-buttons">
 <li><a href="{{ site.baseurl }}/about.html">About</a></li>
 <li><a href="{{ site.baseurl }}/toc.html">Table of contents</a></li>
+<li><a href="{{ site.baseurl }}/forum/index.html">Forum</a></li>
 <li><a href="{{ site.baseurl }}/abc-tutorial.html">ABC Tutorial</a></li>
 <li><a href="{{ site.baseurl }}/abc-playground.html">ABC Playground</a></li>
 </ul>

@@ -15,6 +15,5 @@ To join the discussion, check out these treads:
 - [Homework Help]({{ site.baseurl }}/forum/homework.html) ([0 Comments]({{ "/forum/homework.html#disqus_thread" | absolute_url }}))
 - [General Concepts]({{ site.baseurl }}/forum/concepts.html) ([0 Comments]({{ "/forum/concepts.html#disqus_thread" | absolute_url }}))
 - [Typos and Website Suggestions]({{ site.baseurl }}/forum/suggestions.html) ([0 Comments]({{ "/forum/suggestions.html#disqus_thread" | absolute_url }}))
-- [test]({{ site.baseurl }}/forum/test.html) ([0 Comments]({{ "/forum/test.html#disqus_thread" | absolute_url }}))
 
 <script id="dsq-count-scr" src="//ibmt.disqus.com/count.js" async></script>
