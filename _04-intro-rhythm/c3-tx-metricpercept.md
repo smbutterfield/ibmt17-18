@@ -3,29 +3,19 @@ layout: chapter
 title: Lesson 4c - Metric perception
 ---
 
-## Class discussion
+# Class discussion
 
-### Syncopation
+## Syncopation
 
-Syncopation occurs when emphasis is put on the weak beats. 
-Putting space on the strong beat can also obscure the perception of there the beat is. 
-Sycopation is subjective. 
-It only exists in context to notes around it. 
+Syncopation occurs when emphasis is put on the weak beats of the meter, but the first example shows the subjectivity of this. When the class listened to the bottom line of the first example without the top line, every person heard it as starting on the beat. This may be obvious, but it is worth stating that strong and weak beats are determined by *context*, not by meter. Once the top line is added to the excerpt, the bottom line becomes a strongly syncopated rhythm. Syncopation can occur within a single line if the beat is established first and then off-beat rhythms are introduced, but this is still an example of establishing the strong beats for the listener before syncopation can begin.
 
-Implied syncopation: 
+## Written time signatures versus aural perception
 
-- the illusion of a time signature based on the shape of the melody
-- a passage in 3/4 can be alluded to as 6/8 depending on the shape of the melody
-- pattern based music can skew your perception of time signature
-- other things that cause implied syncopation:
-    - accent
-    - rest placement
-    - tempo
-    
-  Igor Stravinskii's Rite of Spring uses meter to cause the performers to unconsciously accent certain beats depending on the given      meter. 
-  The passage may not sound like the written meter, but by using different meters it changes how we play the same notes. 
-  
-What we hear first in an exerpt has the greatest effect on how we perceive music.
+The second excerpt demonstrated how a variation -- in this example, melodic shape -- can affect listener perception. Aurally, both parts sounded identical regardless of the meter, but when listening and not looking at the excerpt, most students felt that the piece was in a compound duple meter. This demonstrates that even though a pattern can be written in various meters, there are other factors that can strongly pull toward a particular meter. In this case, the motif is melodically grouped into two groups of three, so it pull most of the listeners toward a 6/8 feel. The one student that heard it in 3/4, heard it as heavily syncopated.
+
+The class noted that other factors such as accents, silence, and tempo can all have a strong effect on how a listener perceives a particular passage.
+
+It should be noted that many composers rely on using meters to evoke particular rhythmic biases in the performer, so it is disingenuous to say that meter is *entirely* subjective. Stravinsky was well-known to write the same passage in various meters (e.g. *Rite of Spring*, *L'histoire du Soldat*), so a good performer is aware of what the meter is trying to tell them.
 
 ## Previous material affecting perception
 

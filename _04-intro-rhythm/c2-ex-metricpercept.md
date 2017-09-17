@@ -22,9 +22,9 @@ z/2 G G G G/2-| G/2G/2 G G c/2G/4F/4| G4||
 z/2 G G G G/2-| G/2G/2 G G c/2G/4F/4| G4|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-## Similar meters
+## Meters with different beat lengths but identical numbers of divisions
 
-The following excerpt demonstrates how a variations -- in this example, melodic shape -- can affect listener perception. The example contains a rhythmic pattern scored in two different meters. Aurally, both parts will sound identical regardless of the meter, but when looking at the scoring, one of the two halves will likely stand out as matching your aural perception. Discuss the differences between the two ways of notating the examples and which one best reflects your perception of the excerpt. Are there other methods of which you can think that could alter a listener's perception of meter?
+The example contains a rhythmic pattern scored in two different meters. Discuss the differences between the two ways of notating the examples and which one best reflects your perception of the excerpt. Are there other methods of which you can think that could alter a listener's perception of meter?
 
 After you hit play, do not follow the part in order to allow your ear to determine how it hears the meter.
 
@@ -36,9 +36,6 @@ Q:1/4=100
 K:C
 EA eB df| EA eB df:| [M:6/8] EAe Bdf| EAe Bdf:|]{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
-For melodic patterns, use arpeggios grouped into twos and threes to switch between 3/4 and 6/8
-
-It should be noted that many composers rely on using meters to evoke particular rhythmic biases in the performer, so it is disingenuous to say that meter is *entirely* subjective. Stravinsky was well-known to write the same passage in various meters (e.g. *Rite of Spring*, *L'histoire du Soldat*), so a good performer is aware of what the meter is trying to tell them.
 
 ## How previous material affects perception
 

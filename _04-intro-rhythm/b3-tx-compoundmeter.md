@@ -18,70 +18,34 @@ Of course, this highlights the primary problem with our time signature system. I
 
 ## Duple, Triple, and Quadruple:
 
-The terms duple, triple, and quadruple refer to the number of beats in the measure. 
-What is compound meter?
-
-Compound meter is any time signature divisible by 3. 
-This includes meters like 3/8, 6/8, 9/8, and 12/8. 
-This excludes any meter in 5 or 7, no matter the division of the beat.
-
-measures: the separation of beats from one another based on the time signature
-
-beat: pulse
- - there are strong and weak beats like there are strong and weak pulses
-
-Regular Meters vs. Irregular Meters:
- 
- - regular meters: every beat has the same division
-  - ex: 4/4. Each quarter note can be broken up into 2 eighth notes.
- - irregular meters: beats within the measure that have different divisions of the beat
-  - ex: 5/8. In a 2+3 5/8, the first beat is divided into 2 eighth notes, and the second beat is divided into 3 eighth notes.
-  
-Time Signature: 
-- top number: number of beats in the measure
-- bottom number: the note value held by the beat
-  
-Characteristics of compound meter:
-- all beats are divisible by 3
-
-Top and bottom numbers in a compound key signature:
-- top number: how many divisions are in the meter
-- bottom number: the rhythmic value of the division
-
-Duple, Triple, and Quadruple:
-
-In using the terms duple, triple, and quadruple, it refers to the number of strong beats. 
-- duple has 2 strong beats with 3 eighth notes per beat
+The terms duple, triple, and quadruple refer to the number of beats in the measure. In compound time: 
+- duple has 2 strong beats with 3 eighth notes per beat.
     - ex: 6/8
-- triple has 3 strong beats with 3 eighth notes per beat
+- triple has 3 strong beats with 3 eighth notes per beat.
     - ex: 9/8
-- quadruple has 4 strong beats with 3 eighth notes per beat
+- quadruple has 4 strong beats with 3 eighth notes per beat.
     - ex: 12/8
- 
+
+Within a given meter classification, there are many different time signatures. For example, in compound duple, there is 6/8, 6/16, 6/4, and many others.
+
  ## Differentiating between compound and simple meters
 
- The simplest method to differentiating 
+ The simplest method to differentiating is to memorize the standard groupings of all meters. That being said it is fairly easy to remember that if the top number of the time signature is a multiple of three, then that is a compound meter, assuming that the tempo does not become too slow or too fast.
 
 ## "Theoretically ideal" beaming in compound time
 
-Like simple time, theoretically ideal beaming in compound time does not obscure beats. For whatever reason, compound time is written this way in common practice with only one notable exception. Occasionally a compound meter will create hemiola -- a sense of two against three -- by having three consecutive quarter notes. This figure will cover exactly two beats in compound time, and if written using quarter notes rather than tying two eighth notes together, this will obscure the second beat. The tune "America" from *West Side Story* highlights this rhythm as its primary melodic motif. 
+Like simple time, theoretically ideal beaming in compound time does not obscure beats. Unlike simple time, compound time is written this way in common practice with few exceptions and only one that is notable. Occasionally a compound meter will create hemiola -- a feel of two against three -- by having three consecutive groups of two divisions over two compound beats. The most common notation of this occurs in 6/8 when three quarter notes are placed in a row. If written using quarter notes rather than tying two eighth notes together, this will obscure the second beat. The tune "America" from *West Side Story* highlights this rhythm as its primary melodic motif. 
 
-Common compound meters:
-- 6/8
-- 9/8
-- 12/8
-- 3/8
+## Beat counting
 
-Beat counting in compound time:
-- 1 la li (# la li)
+As with simple meters, there are various systems for counting beats and their divisions. One of the most common systems condenses the method for counting beats in simple time to 1-&-a. The other most common counting method uses 1-la-li. For this course, we will use the -la-li method to help differentiate the counting from a simple meter.
 
-The key to meter is your perception when listening to it. 
-Depending on the tempo, 3/4 is a time signature that can be classified as a simple triple, or a compound single. 
-When the beat is in 3, it divides in two. 
-When the beat came to the measure level, it makes the beat a 1 with a division of 3, instead of a 3 that can be divided by 2. 
+The problem with both of these systems is that there is not a unique syllable for each subdivsion. Generally speaking, students are asked to insert "ta" between each of the division syllables creating 1-ta-la-ta-li-ta. This is adequate for practice aloud, but it is poor for specificity because there are three 'ta' syllables in each beat. For our class, we are going to try using:
+1-to-la-ta-li-ti 
 
+## Meters that have a '3' as the top number of the time signature
 
-
+After listening to the two examples in 3/4, the class easily identified that the two examples were identical except for the tempo. In the slower example, every person in the class heard it in a simple triple meter with the quarter note as the beat. For the faster example, all but one student changed to hear it as a fast compound single meter with the dotted half note as the beat. Meters such as 3/8, 3/4, and 3/2 are all dependent on tempo as to whether they are a compound or simple meter. While a good rule of thumb is to consider these meters as simple until you have listened to the piece at tempo, 3/8 meters are commonly fast and conducted in one. Make sure to look at the tempo if determining a meter's classification when only looking at the score.
 
 # Further reading
 
