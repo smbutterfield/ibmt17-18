@@ -55,9 +55,12 @@ _B_B|| GG|| _E_E|| _A_A||
 w:static
 _B_B|| Ge|| _E_E|| _AG||
 w:oblique
+_BA|| Ge|| _E_A|| _AG||
+w:similar
 V:2 clef=bass
 _B,F,|| C,A,|| _A,C|| DC||
 _B,F,|| C,B,,|| _A,C|| DE||
 _B,_B,|| C,C,|| C,C,|| DD||
-_B,F,|| C,C,|| _A,C|| DD||{% endcapture %}
+_B,F,|| C,C,|| _A,C|| DD||
+_B,F,|| C,D,|| _A,C|| D_B,||{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
