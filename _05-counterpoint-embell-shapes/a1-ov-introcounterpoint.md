@@ -24,7 +24,7 @@ The "fundamental musical problems" we will address in the study of counterpoint 
 The study of counterpoint will help us to engage several important musical "problems" in a limited context, so that we can master them compositionally and understand them analytically. Those problems arise as we seek to bring the following traits together:
 
 - smoothness  
-- independence and integrity or melodic lines  
+- independence and integrity of melodic lines  
 - tonal fusion (the preference for simultaneous notes to form a consonant unity)  
 - variety  
 - motion (towards a goal)

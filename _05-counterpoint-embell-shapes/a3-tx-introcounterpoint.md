@@ -9,7 +9,7 @@ title: Lesson 5a - Introduction to Counterpoint
 
 ## From *Open Music Theory*
 
-###Types of contrapuntal motion
+### Types of contrapuntal motion
 
 There are four types of contrapuntal motion between two musical lines. Differentiating these four types of motion is essential to generating good voice-leading, both strict and free.
 
