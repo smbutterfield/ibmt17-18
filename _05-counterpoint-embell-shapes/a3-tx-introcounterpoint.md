@@ -5,6 +5,55 @@ title: Lesson 5a - Introduction to Counterpoint
 
 # Class discussion
 
+### Counterpoint Overview
+
+Why study counterpoint in a tonal harmony class when counterpoint is a study of melody?
+You need to provide expectation, and you need to fulfill or deny it. 
+Music is a series of tension and release. 
+
+For composers who don't conform to the standard rules of tonal harmony (ae. Stravinskii, Babbitt, etc.), people have a harder time listening because it doesn't do what our ears expect it to. 
+The good composers of this style will create a new tonality for your ear to build expectations upon within every new piece. 
+
+Counterpoint deals with the relationship of two lines and how they interract with each other.
+Harmony came much later than counterpoint. 
+18th Century counterpoint is the base of what we study.
+
+Consonant and Dissonant Intervals:
+- Perfect Consonance:
+    - Perfect 5ths
+    - Perfect Octave
+    - Perfect Unison
+    
+    (Perfect 4th was mentioned, but is not a Perfect Consonance)
+- Imperfect Consonance:
+    - Major 3rd
+    - Minor 3rd
+    - Major 6th
+    - Minor 6th
+    
+    (Perfect 4th was mentioned again but is also not an Imperfect Consonance)
+- Dissonance:
+    - Major 2nd
+    - Minor 2nd
+    - Perfect 4th
+    - Augmented 4th
+    - Diminished 5th
+    - Major 7th
+    - Minor 7th
+    
+Perfect 4th's are very dissonant in 18th Century counterpoint. 
+A Perfect 4th undermines the key's structure because it does not pull toward the tonic. 
+It implies a pull toward a new key, which is not a factor in 18th Century counterpoint.
+
+Contrapuntal Motion:
+- paralell: two lines move in the same direction
+  - both lines move in the same interval
+  - interval size stays the same
+- contrary: two lines move in opposite motion from one another
+- static: two lines stay on the same notes 
+  - technically a type of paralell motion
+- oblique: one line stays the same and the other line moves in any direction
+
 # Further reading
 
 ## From *Open Music Theory*
