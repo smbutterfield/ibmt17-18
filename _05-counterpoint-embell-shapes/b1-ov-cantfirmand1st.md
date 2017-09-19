@@ -10,6 +10,13 @@ Exercises in strict voice-leading, or species counterpoint, begin with a single,
 - variety  
 - motion (towards a goal)
 
+## Describing melodic intervals
+
+We will consider three types of melodic intervals.
+- Movement by a 2nd is *stepwise* motion
+- Movement by 3rd is a *skip* and typically implies a triad.
+- Any movement of a 4th or larger is called a *leap* and has the most restrictions.
+
 ## 1:1 Counterpoint (first species)
 
 In first species counterpoint, we begin with a *cantus firmus* (new or existing) and compose a single new line—called the *counterpoint*—above or below the cantus firmus. That new line contains one note for every note in the cantus: both the cantus firmus and the counterpoint will be all whole notes. Thus, first species is sometimes called one-against-one or 1:1 counterpoint.
