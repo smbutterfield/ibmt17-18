@@ -6,7 +6,7 @@ abc: true
 
 Use the following examples of first-species (1:1) counterpoint to develop guidelines for writing in this style. Each of the following examples is in the major mode and has the counterpoint above the cantus firmus, but be aware that these two characteristics are not indicative of all counterpoint; we are using a simplified structure as our introduction. 
 
-**As you develop your rules for first-species counterpoint, look only at the *counterpoint (CP)* line; the *cantus firmus (CF)* was provided, so the counterpoint line is the only line that was created by following rules.**
+**As you develop your rules for first-species counterpoint, look only at the *counterpoint (CP)* line; the *cantus firmus (CF)* was provided, so the counterpoint line was written by following the stylistic rules.**
 
 Generally, your rules should be divided into three categories:
 - Constructing a *melodic line*
