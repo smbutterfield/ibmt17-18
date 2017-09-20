@@ -10,7 +10,7 @@ Exercises in strict voice-leading, or species counterpoint, begin with a single,
 - variety  
 - motion (towards a goal)
 
-The "rules" of counterpoint discussed in this course are compiled from the important writings and treatises of the eighteenth century, most notably Johann Joseph Fux. As with all historical studies, especially those that are spread across a continent over decades, there are inconsistencies between systems and styles. We will be looking at a simplified version of contrapuntal writing to focus our thoughts on melodic interaction, however I urge you to complete a full study of counterpoint in order to properly explore this critical facet of music. That being said, our discussion of this topic will be relatively brief, so do your best to absorb the method and overall importance of good counterpoint (voice-leading.
+The "rules" of counterpoint are compiled from the important writings and treatises of the eighteenth century, most notably Johann Joseph Fux. As with all historical studies, especially those that are spread across a continent over decades, there are inconsistencies between systems and styles. We will be looking at a simplified version of contrapuntal writing to focus our thoughts on melodic interaction, however I urge you to complete a full study of counterpoint in order to properly explore this critical facet of music. That being said, our discussion of this topic will be relatively brief, so do your best to absorb the method and overall importance of good counterpoint (voice-leading).
 
 ## Describing melodic intervals
 
