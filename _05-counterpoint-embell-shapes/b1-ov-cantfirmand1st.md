@@ -10,9 +10,11 @@ Exercises in strict voice-leading, or species counterpoint, begin with a single,
 - variety  
 - motion (towards a goal)
 
+The "rules" of counterpoint discussed in this course are compiled from the important writings and treatises of the eighteenth century, most notably Johann Joseph Fux. As with all historical studies, especially those that are spread across a continent over decades, there are inconsistencies between systems and styles. We will be looking at a simplified version of contrapuntal writing to focus our thoughts on melodic interaction, however I urge you to complete a full study of counterpoint in order to properly explore this critical facet of music. That being said, our discussion of this topic will be relatively brief, so do your best to absorb the method and overall importance of good counterpoint (voice-leading.
+
 ## Describing melodic intervals
 
-We will consider three types of melodic intervals.
+For counterpoint, we will consider three types of melodic intervals:
 - Movement by a 2nd is *stepwise* motion
 - Movement by 3rd is a *skip* and typically implies a triad.
 - Any movement of a 4th or larger is called a *leap* and has the most restrictions.
