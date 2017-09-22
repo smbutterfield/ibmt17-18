@@ -5,6 +5,86 @@ title: Lesson 5b - Cantus Firmus and 1:1 Counterpoint
 
 # Class discussion
 
+### Introduction to Melodic and Harmonic Motion within Counterpoint
+
+Melodic Intervals: intervals within the melody, or horizontal motion
+
+Harmonic Intervals: vertical motion
+
+Within counterpoint, there are rules for harmony and rules for melody. 
+It is important to be able to distinguish the two in discussion.
+
+Melodic Intervals: 
+- steps
+    - melodic motion in seconds
+- skips
+    - melodic motion in thirds
+- leaps 
+    - any melodic motion a fourth or larger
+Do not use these terms to describe harmonic motion. These terms are reserved for melodic motion.
+
+1st Species Counterpoint: 
+- two whole notes against each other
+
+Within two lines of 18th Century music, you have the counterpoint, and the cantus firmus
+You begin with the cantus firmus and write the counterpoint based off of the cantus firmus. 
+
+When you have two lines of counterpoint, though lacking triadic harmony, when you hear an example of music it implies other notes. 
+The reason we exclude P4's is because they destabilize our counterpoint.
+They don't imply forward motion, and pull toward a different tonic than we want. 
+
+The cantus firmus is fixed. 
+Counterpoint is the study of how the counterpoint line interracts with the cantus firmus, or more simply, how two lines interract with each other. 
+
+When writing counterpoint, you need to think of the intervals between the two lines. 
+In 1st species counterpoint, the intervals one can have between the two lines are limited.
+
+#### Melodic Line
+
+Length: 
+- 8 to 14 notes
+    
+Starting and ending pitches: 
+- P8
+- Tonic 
+- Can also be unison
+    
+Approaching final note: 
+- by step
+- ascending or descending
+- contrary motion
+- Ti and Re moving to Do
+
+Repeated pitches
+- generally no repeated notes
+- no oblique motion
+    
+Melodic intervals
+- leaps: 
+    - 4th or bigger
+    - too many leaps imply triadic harmony, and that didn't exist yet
+    - always leave a leap by step 
+    
+Range 
+
+Climax
+
+#### Intervals Between Lines
+
+Valid starting and ending harmonic intervals
+
+Approaching perfect intervals
+
+Approaching final pitch
+
+How many times can an interval size be consecutively?
+
+Perfect/imperfect
+
+#### Acceptable Motion Between Lines
+
+Types of motion
+
 # Further reading
 
 ## From *Open Music Theory*
