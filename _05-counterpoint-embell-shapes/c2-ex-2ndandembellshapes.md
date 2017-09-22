@@ -9,6 +9,16 @@ Use the following examples of second-species (2:1) counterpoint to develop guide
 **As you develop your rules for second-species counterpoint, look only at the *counterpoint (CP)* line; the *cantus firmus (CF)* was provided, so the counterpoint line was written by following the stylistic rules.**
 
 Generally, your rules should be divided into three categories:
+- Acceptable *harmonic intervals (intervals between lines)*
+    - Strong beats versus weak beats
+        - Are dissonances viable? If so, when?
+    - Starting and ending intervals
+    - Approaching the final pitch
+    - Approaching and leaving perfect intervals
+    - Number of times that an interval size can be used consecutively
+        - Differentiate between perfect and imperfect consonances
+- Acceptable *motion between lines*
+    - Acceptable types of motion
 - Constructing a *melodic line*
     - Length
     - Starting and ending pitches
@@ -17,17 +27,9 @@ Generally, your rules should be divided into three categories:
     - Melodic intervals
         - Leaps
         - Resolutions following leaps
+        - How would you describe the motion surrounding any dissonant intervals?
     - Range
     - Climax (position in melody and frequency)
-- Acceptable *intervals between lines*
-    - Valid harmonic intervals
-        - Particularly starting and ending intervals
-    - Approaching perfect intervals
-    - Approaching the final pitch
-    - Number of times that an interval size can be used consecutively
-        - Differentiate between perfect and imperfect consonances
-- Acceptable *motion between lines*
-    - Acceptable types of motion
 
 {% capture ex1 %}X:1
 T:Second species (2:1) examples
