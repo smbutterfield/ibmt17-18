@@ -57,7 +57,7 @@ Approaching final note:
 
 Repeated pitches
 - generally no repeated notes
-- no oblique motion
+- no oblique motion (in 1st Species)
     
 Melodic intervals
 - leaps: 
@@ -67,23 +67,61 @@ Melodic intervals
     
 Range 
 
-Climax
+Climax:
+- there is only one high point per line
+- there is only one low point per line 
+
+When approaching or leaving a high point or low point, approach and leave them by step when at all possible. 
+You can sometimes leap to and step from a high or low point. 
+You can sometimes step to and leap from a high or low point. 
+Never leap to or leap from a high or low point, as a general rule use stepwise motion as much as possible.
+Thirds or other leaps imply triadic harmony. 
 
 #### Intervals Between Lines
 
 Valid starting and ending harmonic intervals
+- consonant intervals
+    - perfect 8ve
+    - perfect 5th
 
 Approaching perfect intervals
+- only approach by oblique or contrary motion
+    - oblique motion is not allowed in 1st species
 
-Approaching final pitch
-
-How many times can an interval size be consecutively?
-
-Perfect/imperfect
+Perfect/Imperfect Intervals (consonant):
+- perfect:
+    - 8ve
+    - 5th
+- imperfect:
+    - 6th 
+    - 3rd
 
 #### Acceptable Motion Between Lines
 
 Types of motion
+- parallel 
+- contrary
+    - always okay
+- static
+- oblique
+- similar
+    mostly okay
+    - In 1st species counterpoint, because there are no repeated notes, that rules out static and oblique motion.
+    1st Species only uses parallel, contrary, and similar motion. 
+    - Similar motion is less common because it is easy to have part writing errors. 
+
+Types of Errors:
+- parallel octaves and fifths
+- contrary octaves and fifths
+- similar/direct/hidden octaves and fifths
+
+Parallel perfect octaves and fifths are not okay. Using the same pitch is the same as monophony.
+Contrary octaves are when you have two intervals of an octave in a row and they move in contrary motion. 
+You still have two octaves in a row, even if they were approached by contrary motion. 
+Similar motion is when you approach a perfect fifth or octave in similar motion from any interval. 
+Approaching a perfect interval by similar motion makes it more difficult to hear the interval and paints you into a corner when writing counterpoint as well. 
+Similar motion is also called direct motion, and hidden motion.
+
 
 # Further reading
 
