@@ -5,8 +5,6 @@ title: Lesson 5b - Cantus Firmus and 1:1 Counterpoint
 
 # Class discussion
 
-### Introduction to Melodic and Harmonic Motion within Counterpoint
-
 Melodic Intervals: intervals within the melody, or horizontal motion
 
 Harmonic Intervals: vertical motion
