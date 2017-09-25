@@ -22,6 +22,8 @@ We will consider three types of melodic intervals:
 - Movement by 3rd is a *skip* and typically implies a triad.
 - Any movement of a 4th or larger is called a *leap* and has the most restrictions.
 
+We use the terms *stepwise*, *skip*, and *leap* exclusively to describe melodic intervals; do not use these terms to describe harmonic intervals. For harmonic intervals, we use the types of motion (e.g. parallel, similar, etc.) combined with the size of the intervals (e.g. parallel 3rds, etc.)
+
 ## 1:1 Counterpoint (first species)
 
 In first species counterpoint, we begin with a *cantus firmus* (new or existing) and compose a single new line—called the *counterpoint*—above or below the cantus firmus. That new line contains one note for every note in the cantus: both the cantus firmus and the counterpoint will be all whole notes. Thus, first species is sometimes called one-against-one or 1:1 counterpoint.

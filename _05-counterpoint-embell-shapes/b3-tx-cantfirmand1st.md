@@ -5,71 +5,26 @@ title: Lesson 5b - Cantus Firmus and 1:1 Counterpoint
 
 # Class discussion
 
-Melodic Intervals: intervals within the melody, or horizontal motion
+Within counterpoint, it is helpful to divide our rules into categories that address melodic intervals. 
 
-Harmonic Intervals: vertical motion
-
-Within counterpoint, there are rules for harmony and rules for melody. 
-It is important to be able to distinguish the two in discussion.
-
-Melodic Intervals: 
-- steps
-    - melodic motion in seconds
-- skips
-    - melodic motion in thirds
-- leaps 
-    - any melodic motion a fourth or larger
-Do not use these terms to describe harmonic motion. These terms are reserved for melodic motion.
-
-1st Species Counterpoint: 
-- two whole notes against each other
-
-Within two lines of 18th Century music, you have the counterpoint, and the cantus firmus
-You begin with the cantus firmus and write the counterpoint based off of the cantus firmus. 
-
-When you have two lines of counterpoint, though lacking triadic harmony, when you hear an example of music it implies other notes. 
-The reason we exclude P4's is because they destabilize our counterpoint.
-They don't imply forward motion, and pull toward a different tonic than we want. 
-
-The cantus firmus is fixed. 
-Counterpoint is the study of how the counterpoint line interracts with the cantus firmus, or more simply, how two lines interract with each other. 
-
-When writing counterpoint, you need to think of the intervals between the two lines. 
-In 1st species counterpoint, the intervals one can have between the two lines are limited.
-
-#### Melodic Line
-
-Length: 
-- 8 to 14 notes
-    
-Starting and ending pitches: 
-- P8
-- Tonic 
-- Can also be unison
-    
-Approaching final note: 
-- by step
-- ascending or descending
-- contrary motion
-- Ti and Re moving to Do
-
-Repeated pitches
-- generally no repeated notes
-- no oblique motion (in 1st Species)
-    
-Melodic intervals
-- leaps: 
-    - 4th or bigger
+Melodic structure and melodic intervals:
+- Length
+    - 8 to 14 notes
+- Starting and ending pitches: 
+    - Starts and ends on P8 of the tonic pitch  
+- Approaching final note: 
+    - By stepwise contrary motion which means that one voice will have `ti` and the other `re`
+- Repeated pitches
+    - generally no repeated notes
+        - this means that static and oblique motion do not occur in first species because they both require at least one voice to repeat pitches
+- Climax
+    - The line should have a clear high (or low point) which means that the highest (or lowest) pitch  
+- Leaps
+    - should be used sparingly because
     - too many leaps imply triadic harmony, and that didn't exist yet
     - always leave a leap by step 
-    
-Range 
 
-Climax:
-- there is only one high point per line
-- there is only one low point per line 
 
-When approaching or leaving a high point or low point, approach and leave them by step when at all possible. 
 You can sometimes leap to and step from a high or low point. 
 You can sometimes step to and leap from a high or low point. 
 Never leap to or leap from a high or low point, as a general rule use stepwise motion as much as possible.
