@@ -3,15 +3,15 @@ layout: chapter
 title: Lesson 5b - Cantus Firmus and 1:1 Counterpoint
 ---
 
-# Class discussion
+## Class discussion
 
-Within counterpoint, it is helpful to divide our rules into categories that address melodic intervals. 
+As the class developed rules, their observations were naturally divided by whether they were looking within a line versus when they compared the two lines. Horizontal versus vertical. Melodic versus harmonic.
 
-Melodic structure and melodic intervals:
+### Melodic intervals and structure
 - Length
     - 8 to 14 notes
 - Starting and ending pitches: 
-    - Starts and ends on P8 of the tonic pitch  
+    - Starts and ends on a perfect 8ve (or unison) of the tonic pitch  
 - Approaching final note: 
     - By stepwise contrary motion which means that one voice will have `ti` and the other `re`
 - Repeated pitches
@@ -30,7 +30,7 @@ You can sometimes step to and leap from a high or low point.
 Never leap to or leap from a high or low point, as a general rule use stepwise motion as much as possible.
 Thirds or other leaps imply triadic harmony. 
 
-#### Intervals Between Lines
+#### Harmonic intervals and structure
 
 Valid starting and ending harmonic intervals
 - consonant intervals

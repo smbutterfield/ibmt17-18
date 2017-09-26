@@ -3,7 +3,7 @@ layout: chapter
 title: Lesson 3a - Triads
 ---
 
-### Class Discussion
+# Class Discussion
 
 After agreeing on the terminology discussed in the Overview 3a, our first goal was to come up with a way to define each triad quality. The first suggestion for classifying triads attempted to break the triad qualities into two groups based on the defining chord members of the triads.
 
@@ -32,7 +32,7 @@ Therefore, if a triad is in root position, you can determine triad qualities by 
 - Diminished: m3 + m3
 - Augmented: M3 + M3
 
-## Inversions and their labels
+### Inversions and their labels
 
 Having identified the intervallic structures of each triad, we moved to the example of various *inversions* of the same triad. This meant we needed to know the names of inversions, the shorthand method for labeling inversions, and how to determine a chord quality of a triad that is not presented in root position (stacked as two thirds on top of each other.) From the simple presentation of this example, they were able to identify that it is not necessary to know each interval within a triad to determine the inversion, but instead, you only need to identify the chordal member in the bass.
 
@@ -51,7 +51,7 @@ Of note, there are six different possible intervals in a triad, depending on the
 - The fifth always exists between root-fifth
 - The fourth is the inversion of the fifth, so between fifth-root
 
-## Chordal voicings
+### Chordal voicings
 
 While this information is all correct, it assumes that you already know what the root of the triad. To develop a method for finding the root of an unnamed chord, we must first understand how the *inversion* interacts with the chord's *voicing*. 
 
@@ -67,11 +67,11 @@ The final definition combined these three ideas.
 - Closed voicings are stacked in the closest possible groupings and skip no chord members.
 - Open voicings can be stacked in any order and skip chord members.
 
-## *Root* versus *bass*
+### *Root* versus *bass*
 
 Understanding the difference between the terms *root* and *bass* is the last piece of information necessary to find the quality of any chord; students often confuse the two. The term *bass* **always** refers to the lowest voice of any chord. The *root* is the lowest member of the chord **if the chord is in root position**, meaning that the triad is stacked as two thirds. If a chord is in root position, the *root* and *bass* will be the same pitch, however if a triad is in first- or second- inversion, the *root* and *bass* will be different pitches.
 
-## Finding a chord quality while inverted
+### Finding a chord quality while inverted
 
 Combining a knowledge of inversins and voicings is critical in finding chord qualities. Teachers often suggest to students that they can find chord qualities by putting a chord in root position, but a chord in root position can be spread across multiple staves and still difficult to parse. We really mean that they should put the chord in root position *and* closed voicing. This allows the student to look at the interval qualities and determine the quality of the triad based on their knowledgeo of triadic interval structures.
 
@@ -88,9 +88,9 @@ Circle of Thirds
 - D, Db, D# are all spelled with a D, an F, and an A, with whatever appropriate accidental
 
 
-## Further Reading
+# Further Reading
 
-### From *Open Music Theory*
+## From *Open Music Theory*
 
 A chord is any combination of three or more pitch classes that sound simultaneously.
 
@@ -104,11 +104,11 @@ To quickly determine whether a three-note chord is a triad, arrange the three no
 
 ![A triad (A, C, E) on the diatonic circle of thirds.][circleOfThirds-triad]
 
-## Identifying and labeling triads ##
+## Identifying and labeling triads
 
 Triads are identified according to their *root* and *quality*.
 
-### Triad roots ###
+### Triad roots
 
 To find a triad’s root, arrange the pitch classes on a circle of thirds (mentally or on paper). The root is the *lowest* in the three-pitch-class clump. Expressed another way, if the circle *ascends* by thirds as it moves clockwise, the root is the “earliest” note (thinking like a literal clock), and the other pitch classes come “later.”
 
@@ -116,7 +116,7 @@ To find a triad’s root, arrange the pitch classes on a circle of thirds (menta
 
 Once you know the root, you can identify the remaining notes as the *third* of the chord (a third above the root) and the *fifth* of the chord (a fifth above the root).
 
-### Triad qualities ###
+### Triad qualities
 
 To find a triad’s quality, identify the interval between the root and the other members of the chord. There are four qualities of triads that appear in major and minor scales, each with their own characteristic intervals.
 
@@ -127,7 +127,7 @@ To find a triad’s quality, identify the interval between the root and the othe
 
 ![Four qualities of triads.][triads]
 
-## Building a triad ##
+### Building a triad
 
 To build a triad on the staff, identify the root, quality, and bass note from the lead-sheet symbol. The root and quality will tell you what three pitch classes belong to the triad. For example, **C<sup>+</sup>** tells you the root is C, and the quality is augmented. Since the quality is augmented, there is a major third above the root (E) and an augmented fifth above the root (G-sharp). Since there is no bass note appended to the lead-sheet symbol, the bass note is the same as the root: C. Write a C on the staff (in any comfortable register), then write the other chord tones (E and G-sharp) *above* the C (see the Caug triad in the above figure).
 
@@ -135,7 +135,7 @@ For **Cm/E&#9837;**, the root is C, and the quality is minor. Since the quality 
 
 When all the members of the triad are as close to the bass note as they can be, the chord is in what is called *close position* (C, Cm/E&#9837;, and Cdim/G&#9837; above). When there are spaces between chord tones, the chord is in *open position* (Caug above). (In certain musical situations, only one of those positions will be useful or desirable.)
 
-## Listening to triads ##
+### Listening to triads
 
 Each triad quality has its own distinct sound, and to an extent that sound is preserved even when the chord is *inverted* (when the pitch classes are arranged so that a pitch class other than the root is in the lowest voice). As you practice identifying and writing triads, be sure to play the triads, both to check your analysis/writing and to develop the ability to identify chord qualities quickly by ear.
 
@@ -143,3 +143,48 @@ Each triad quality has its own distinct sound, and to an extent that sound is pr
 [circleOfThirds-triad]: {{ site.baseurl }}/images/triadsSeventhChords/circleOfThirds-triad.svg
 [circleOfThirds-triadRTF]: {{ site.baseurl }}/images/triadsSeventhChords/circleOfThirds-triadRTF.svg
 [triads]: {{ site.baseurl }}/images/triadsSeventhChords/triads.png
+
+### Inversions
+Both bass lines and root progressions are important for the study and mastery of tonal harmony. Most of our work will focus on the bass lines, and what follows will help you analyze the root progressions present in any figured bass line. In other words, this will help you perform a Roman numeral analysis of a figured bass line. 
+
+Note that on the charts below, generic capital Roman numerals are provided. 
+
+### Chords of the fifth
+
+In any chord of the fifth ("root position": 5/3 or 7/5/3 chord), the bass note and the root of the chord are the same. The Roman numeral to be assigned to any chord of the fifth, then, is the scale degree of its bass note. If *do* is in the bass, the bass is scale-degree 1, and the Roman numeral is **I**. If *re* is in the bass, the Roman numeral is **II**. And so on.
+
+![][53chords]
+
+![][7chords]
+
+
+### "First-inversion" chords of the sixth
+
+Chords of the sixth that take the figures 6/3 or 6/5/3 are *first-inversion* chords. They are so named because the third of the chord (the next chord member above the root) is in the lowest voice. However, thinking about inversions while performing an analysis can be cumbersome. It is often simpler to remember that if the figure is 6/3 or 6/5/3 (or an abbreviation such as 6 or 6/5), *the root of the chord is the sixth above the bass*. If *mi* is in the bass, and the figure is "6", the root is *do*, and the Roman numeral is **I**. If *fa* is in the bass and the figure is "6/5", the root is *re*, and the Roman numeral is **II**. And so on.
+
+![][63chords]
+
+![][65chords]
+
+### "Second-inversion" chords of the sixth
+
+Chords of the sixth that take the figures 6/4 or 6/4/3 (or an abbreviation such as 4/3) are *second-inversion* chords. They are so named because the fifth of the chord (the second member of the chord above the root) is in the lowest voice. Again, it is often simpler to remember that for 6/4, 6/4/3, and 4/3 chords, *the root is the fourth above the bass*. If *re* is in the bass, and the figure is 4/3, the root is *sol*, and the Roman numeral is **V**.
+
+![][64chords]
+
+![][43chords]
+
+### "Third-inversion" chords of the sixth
+
+Chords of the sixth that take the figure 6/4/2 (or its abbreviation 4/2 or simply 2) are *third-inversion* chords. Their root is a second, or a step, above the bass. The most common 4/2 chord has *fa* in the bass, and *sol* is its root, making its Roman numeral **V**.
+
+![][42chords]
+
+
+[53chords]: {{ site.baseurl }}/images/Inversions/5-3chords.png
+[63chords]: {{ site.baseurl }}/images/Inversions/6-3chords.png
+[65chords]: {{ site.baseurl }}/images/Inversions/6-5chords.png
+[7chords]: {{ site.baseurl }}/images/Inversions/7chords.png
+[64chords]: {{ site.baseurl }}/images/Inversions/6-4chords.png
+[43chords]: {{ site.baseurl }}/images/Inversions/4-3chords.png
+[42chords]: {{ site.baseurl }}/images/Inversions/4-2chords.png
