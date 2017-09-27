@@ -5,7 +5,9 @@ title: Class reading - An introduction to basso continuo keyboard-style voice-le
 
 # Class reading
 
-## From *Open Music Theory* by Kris Shaffer
+## From *Open Music Theory*
+
+### Edited by Sean Butterfield
 
 *Basso continuo* emerged in the seventeenth century as a shorthand notation for keyboardists (typically church organists) who were accompanying a soloist or small ensemble performing a work originally composed for a larger group. For example, if two or three singers were tasked with performing an eight-voice choral work, they could select the most prominent parts to sing, while an organist could cover the rest. Performing five or six lines of contrapuntal choral music could be a significant challenge, so organists needed a way to condense the texture while still preserving the core musical structure to support the vocalists.
 
@@ -25,42 +27,9 @@ Though most music students are not Baroque keyboard specialists in training, tho
 
 *Basso continuo* (It. for "continuous bass" or "thoroughbass") is essentially a chordal version of first-species counterpoint. However, instead of composing a single line above a cantus firmus, one composes a succession of chords (performed in the right hand) above a bass line (performed in the left hand). *Basso continuo* writing, also referred to as *realizing a figured bass*, gives no consideration to melody, only to the use of proper chords and the smoothest voice-leading possible. Thus, *basso continuo* style is a simple place to begin engaging the "fundamental musical problems" that arise when more than two lines are combined. 
 
-### Chord voicing
-
-In strict keyboard-style writing, there are four voices: the bass line (which is usually a given in *basso continuo* style), and three *upper voices*: the *melody* or *soprano*, the *alto*, and the *tenor* (from highest to lowest). Since all three upper voices must be played by a single hand, they should never span more than an octave.
-
-The melody always has an upward-pointing stem. Alto and tenor share a downward-pointing stem. If the alto and tenor share a note, that note receives a single downward-pointing stem. (See m. 1 of the example below.) If melody and alto share a note, that notehead is double-stemmed. (See m. 4 of the example below.)
-
-[![]({{ site.baseurl }}/images/BCModel.png)]({{ site.baseurl }}/images/BCModel.png)
-
-When choosing the notes to place in the upper voices above a figured bass, use the bass and figures to determine the pitch classes present in the chord. (When realizing an *unfigured bass*, you must determine appropriate figures before realizing.) If the chord is a four-note chord, use each chord member once, including the bass (exceptions will be noted later). If a chord has three pitch-classes (a triad, for instance), use each pitch-class once, and "double" one of them according to the following principles:
-
-- If the figure is 6/4, 5/3, or other chord of the fifth, double the bass pitch class.  
-- If the figure is 6/3 and the bass is a *fixed scale degree* (*do*, *re*, *fa*, or *sol*), double the bass pitch class.  
-- If the figure is 6/3 and the bass is a *variable scale degree* (*mi*/*me*, *la*/*le*, or *ti*/*te*) or a chromatically altered pitch, double one of the upper voices at the octave or unison.  
-- Generally, do not double a variable scale degree or a chromatically altered pitch.
-
-In *basso continuo* style, if the chord is properly voiced (correct pitch classes and correct doublings), two key principles of voice-leading will ensure good counterpoint between the voices most of the time:
-
-- *The law of the shortest way* (a term coined by composer Arnold Schoenberg): move each voice as little as possible. Prefer repetition to steps, steps to leaps, and one leap at a time to several voices leaping at the same time.  
-- *Move the right hand in contrary or oblique motion to the bass.* When the bass leaps by fourth or fifth, though, this rule can be ignored.
-
-In some cases, these rules cannot be followed absolutely (such as when a functional dissonance must be resolved, or when a melody makes it impossible—two cases to be considered later). In all cases, observe the following:
-
-- No parallel fifths or octaves between any pair of voices.  
-- No contrary fifths or octaves between outer voices.  
-- Do not approach an octave between the outer voices by similar motion unless the melody moves by step. (All other direct/hidden fifths and octaves are permissible.)
-
-A *thoroughbass* (It. *Basso continuo*, Ger. *Generalbaß*, also called a *figured bass*) is a harmonic shorthand of a musical passage or work. It is composed of a bass line, and chord symbols—called *figures*. It is called a "thorough" bass or "continuous" bass line because it includes the lowest sounding note at any given moment, *regardless of the instrument or voice sounding the note*. It usually corresponds to a single instrument or vocal part, but not always.
-
-[![]({{ site.baseurl }}/images/Bach1033.png)]({{ site.baseurl }}/images/Bach1033.png)
-
-*J.S. Bach, Flute Sonata in C Major, ii., BWV 1033. The upper part is played by the flute, the lower part is the* basso continuo *line, played by a keyboardist who uses the numbers below the staff (figures) to guide the chords played above this bass line.*
-
 The historical origin of the thoroughbass part was in church settings where a piece for 6–8 singers was to be performed by one or two voices with a keyboard instrument. The keyboardist, rather than play the 4–7 remaining parts, would transcribe the lowest note and shorthand figures to indicate the (simple) intervals present above that lowest voice. This would allow the keyboardist to play one or two of the more important lines, and fill the rest of the texture with blocked or arpeggiated chords. (Think seventeenth-century lead sheet.) A good keyboardist, who knew their harmony and voice-leading, could simply follow the bass line without figures (an *unfigured bass*) and listen to the melody, improvising the rest. Less experienced keyboardists, however, could manage otherwise complicated pieces by reading a bass line and memorizing a small number of figures and basic voice-leading rules.
 
 Coming after species counterpoint in our studies, *basso continuo* exercises provide a new, more complicated environment in which to practice mediating the demands of smoothness, independence of lines, tonal fusion (now considering triads and seventh chords), variety, and motion. New considerations of performability are introduced, and the presence of dissonances within the core harmonies themselves will call for new approaches to harmonic dissonance in this style.
-
 
 We will use thoroughbass lines for a number of purposes in this book:
 
