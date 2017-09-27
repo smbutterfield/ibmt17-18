@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 7b Examples - Diatonic Progressions Derived from Circle-of-fifths Voice-leading
+title: Examples 7b - Diatonic Progressions Derived from Circle-of-fifths Voice-leading
 ---

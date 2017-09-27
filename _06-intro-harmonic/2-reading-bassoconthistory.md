@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: An introduction to basso continuo keyboard-style voice-leading
+title: Class reading - An introduction to basso continuo keyboard-style voice-leading
 ---
 
 # Class reading

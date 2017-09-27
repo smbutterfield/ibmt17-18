@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 6e Lesson - Cadences
+title: Lesson 7a - Cadences
 ---
 
 # Class discussion

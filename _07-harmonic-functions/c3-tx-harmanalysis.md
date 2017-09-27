@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 7c Lesson - Performing a Harmonic Analysis
+title: Lesson 7c - Performing a Harmonic Analysis
 ---
