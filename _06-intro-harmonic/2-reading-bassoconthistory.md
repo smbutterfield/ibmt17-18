@@ -15,7 +15,7 @@ A good musician could perform this bass line, and with an eye (or ear) on the vo
 
 As this technique grew, publishers began publishing thoroughbass reductions of large-ensemble pieces to support smaller groups of musicians. In these publications, *figures* (numbers above or below the bass line) were included—sometimes only for difficult or non-standard chords, and eventually for most chords, enabling more amateur musicians, as well as students, to make use of the technique. These bass lines with figures became known as "figured bass" lines.
 
-[![](/images/Bach1033.png)](/images/Bach1033.png)
+[![](/images/Bach1033.png)]({{ site.baseurl }}/images/Bach1033.png)
 
 *J.S. Bach, Flute Sonata in C Major, ii., BWV 1033. The upper part is played by the flute, the lower part is the* basso continuo *line, played by a keyboardist who uses the numbers below the staff (figures) to guide the chords played above this bass line.*
 
@@ -31,7 +31,7 @@ In strict keyboard-style writing, there are four voices: the bass line (which is
 
 The melody always has an upward-pointing stem. Alto and tenor share a downward-pointing stem. If the alto and tenor share a note, that note receives a single downward-pointing stem. (See m. 1 of the example below.) If melody and alto share a note, that notehead is double-stemmed. (See m. 4 of the example below.)
 
-[![](/images/BCModel.png)](/images/BCModel.png)
+[![](/images/BCModel.png)]({{ site.baseurl }}/images/BCModel.png)
 
 When choosing the notes to place in the upper voices above a figured bass, use the bass and figures to determine the pitch classes present in the chord. (When realizing an *unfigured bass*, you must determine appropriate figures before realizing.) If the chord is a four-note chord, use each chord member once, including the bass (exceptions will be noted later). If a chord has three pitch-classes (a triad, for instance), use each pitch-class once, and "double" one of them according to the following principles:
 
