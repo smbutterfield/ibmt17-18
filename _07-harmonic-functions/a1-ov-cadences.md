@@ -3,4 +3,5 @@ layout: chapter
 title: Overview 7a - Cadences
 ---
 
-demonstrate standard cadences
+classify standard cadences
+PAC, IAC, half, deceptive, plagal, phrygian

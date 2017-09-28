@@ -4,6 +4,7 @@ title: Overview 6a - Roman Numerals in Harmonic Analysis
 ---
 
 Using Roman numerals and inversion figures to label harmonies
-determining which notes in a chord are functional
-introduction to non-chord tones
-  passing, neighbor, suspensions
+
+Differences between major and minor
+
+Differentiate from leadsheet and figured bass (implies function and contextual relationships rather than just form of a pitch collection)

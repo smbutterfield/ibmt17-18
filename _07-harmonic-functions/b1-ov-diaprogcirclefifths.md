@@ -3,7 +3,7 @@ layout: chapter
 title: Overview 7b - Diatonic Progressions Derived from Circle-of-fifths Voice-leading
 ---
 
-why we have tonic, dominant, pre-dominant functions
+why we have tonic, dominant, predominant functions
   view as an expansion of cadences
 Kostka-Payne circle-of-fifths chart
 
