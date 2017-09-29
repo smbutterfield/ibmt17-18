@@ -4,29 +4,54 @@ title: Examples 6a - Roman Numerals in Harmonic Analysis
 abc: true
 ---
 
+
 Using the examples below, determine:
-- how Roman numerals are determined and written.
+- what are the diatonic qualities of all triads in seventh chords in major and minor
+  - Does every diatonic quality occur naturally?
+- how Roman numerals are created and labeled
+  - What information does each part  (e.g. Roman numeral, lower-case vs. upper-case, inversion figures, etc.) of the Roman numeral convey?
 - how inversion figures work with Roman numerals
 - what differentiates leadsheet notation and Roman numerals
-  - why not use leadsheet notation for everythingk
+- what the diatonic chord qualities are in major and minor
+  - Are there any notable differences between major and minor?
 
-T:Standard cadences
-T:Old hundredth psalm
+**Note that the ABC notation used in these examples has limitations on what kind of text can be entered. In this system, everything other than the Roman numeral itself should be written as superscript.**
+
+{% capture ex1 %}X:1
+%%staffsep 75%
+T:Diatonic chord qualities with Roman numerals
+M:C
+L:1/2
+K:C
+"triads"[CEG]"in major" [DFA]| [EGB] [FAc]| [GBd] [Ace]| [Bdf] [ceg]||
+w:I ii iii IV V vi viio I
+"seventh"[CEGB]"chords"[DFAc]|"in major" [EGBd] [FAce]| [GBdf] [Aceg]| [Bdfa] [cegb]||
+w:IM7 ii7 iii7 IVM7 V7 vi7 vii\/o7 IM7
+[K:Eb]"triads"[CEG]"in minor"[DFA]| [EGB] [FAc]| [G=Bd] [Ace]| [=Bdf] [ceg]||
+w:i iio III iv V VI viio i
+[K:Eb]"seventh"[CEGB]"chords"[DFAc]| "in minor"[EGBd] [FAce]| [G=Bdf] [Aceg]| [=Bdfa] [cegb]||
+w:i7 ii\/o7 IIIM7 iv7 V7 VIM7 viio7 i7{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
+
+{% capture ex2 %}X:2
+T:Altering Roman numerals for non-diatonic chord qualities
+T:(Each of these examples is in the key of C.)
 M:4/4
-L:1/4
-Q:1/4=80
-K:G
+L:1
+K:C
 V:1
-[GD]| [GD] [FD] [EB,] [DD]| [GB,] [AD] H[BD]
-[BD]| [BD] [BG] [AF] [GG]| [cG] [BG] H[AF]
-[GG]| [AF] [GB] [AF] [DG]| [EE] [FD] H[GD]
-[dD]| [BD] [GG] [AF] [cA]| [GB] [AF] H[GG]|]
-V:2 clef=bass
-[G,B,]| [G,B,] [A,D,] [E,G,] [B,,G,]| [E,G,] [D,F,] H[G,G,,]
-w: _ _ _ _ _ _ _ HC
-[G,G,]| [G,G,] [G,D] [DD,] [E,B,]| [C,E] [G,,D] H[DD,]
-w:  _ _ _ _ _ _ _ IAC
-[E,B,]| [D,D] [G,D] [D,D] [B,,G]| [C,G,] [D,C] H[B,G,,]
-w: _ _ _ _ _ _ _ DC
-[G,B,]| [G,G,] [E,B,] [D,D] [A,,E]| [D/2B,,/2]-[D/2C,/2] [D/2D,/2]-[C/2D,/2] H[G,,B,]|]
-w: _ _ _ _ _ _ _ PAC
+[Ace]| [_Ace]| [Aceg]| [_Ac_eg]| [^D^F^A]|
+w:  vi bVI vi7 bVIM7 #ii{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
+
+{% capture ex3 %}X:3
+%%staffsep 100%
+T:Using inversion figures with Roman numerals
+M:C
+L:1/2
+K:C
+"triads"[CEG] [dFA]| [egB] [FAc]| [gBd] [ACE]| [BDF] [cEG]||
+w:I ii6 iii6/4 IV V6 vi6/4 viio6/4 I6
+"seventh"[CEGB]"chords"[dFAc]| [egBd] [FAcE]| [GBDF] [Aceg]| [BdfA] [cEGB]||
+w:IM7 ii6/5 iii4/3 IVM4/2 V4/3 vi7 vii\/o4/2 IM6/5{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
