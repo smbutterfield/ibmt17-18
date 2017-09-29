@@ -40,8 +40,8 @@ M:4/4
 L:1
 K:C
 V:1
-[Ace]| [_Ace]| [Aceg]| [_Ac_eg]| [^D^F^A]|
-w:  vi bVI vi7 bVIM7 #ii{% endcapture %}
+[Ace]| [A^ce]| [_Ace]| [Aceg]| [_Ac_eg]| [^D^F^A]|
+w:  vi VI bVI vi7 bVIM7 #ii{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 {% capture ex3 %}X:3

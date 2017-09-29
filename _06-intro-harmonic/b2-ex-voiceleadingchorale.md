@@ -35,15 +35,15 @@ V:2 clef=bass
 **The suspension is another type of non-chord tone. Each of the measures in the next example are grouped in pairs and to demonstrate how suspensions are formed. The first measure is a simple two-voice harmony from the examples above, but the next measure has an added suspension. How would you define a suspension? What are the three parts of any suspension? How do we determine the labels?**
 
 {% capture ex3 %}X:3
-T:Chord skips and passing/neighbor non-chord tones
+T:Suspensions
 M:4/4
 L:1/2
 Q:1/4=80
 K:C
 V:1
-Bc|| F/2D/2E|| d/2f/2e|| Bc|| G/2F/2E|| G/2A/2G|]
+FE| F-"sus4-3"F/2E/2|| dc|| d-"sus9-8"d/2c/2|| GE|| GE|]
 V:2 clef=bass
-"M3"G,/2"M6"D,/2"P8"C,|| "m7"G,/2"P5"G,/2"M3"C,|| "P5"G,/2"m7"G,/2"M3"C,|| "+4"F,/2"M6"D,/2"m6"E,|| "m6"B,,/2"d5"B,,/2"M3"C,|| "M2"F,/2"M3"F,/2"m3"E,|]{% endcapture %}
+G,C,| G,C,|| G,C,| G,C,|| D,C,|| D,-"sus2-3"D,/2C,/2|]{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
 **Our final voice-leading considerations arise when adding inner voices to our soprano-bass counterpoint. In the following example, each system highlights a different voicing error. Compare the correct measures to the incorrect measures to come up with descriptions of the three basic voicing rules: doubling, spacing, and range.**

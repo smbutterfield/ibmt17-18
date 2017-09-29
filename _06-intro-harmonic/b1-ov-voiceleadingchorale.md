@@ -10,7 +10,7 @@ In diatonic music, we will use three basic categories of harmonic function: *ton
   - This is primarily the I chord, but in rare circumstances, this can include the vi and iii chords.
 - *Dominant* harmonies feel unsettled and have a strong tonal gravity to resolve to the *tonic* harmony*
   - This includes the V and vii<sup>&oslash;</sup> chords.
-- Pre-dominant harmonies are harmonies are unstable and have a tonal gravity to resolve to the *dominant* harmonies.
+- *Pre-dominant* harmonies are harmonies are unstable and have a tonal gravity to resolve to the *dominant* harmonies.
   - This includes the ii and IV chords, but can occasionally include the vi chord.
 
 Counterpoint provides a clear starting point for this exploration. We began by studying individual pitches, then combined pitches into intervals,simultaneous intervals into chords, and sequential intervals into melodies. The simplified version of counterpoint that we studied began looking at how rules that govern the vertical aspect of music could be used to create a horizontal line. This provides a framework for understanding harmony, but it does not seek to establish the vertical aspect of music as its own function.
