@@ -5,6 +5,16 @@ title: Lesson 6b - Voice-leading Considerations in Chorale-style Harmony
 
 # Class discussion
 
+The tonic chord is I. 
+Tonic function can sometimes be a applied to a minor six (vi). 
+
+The dominant chord is V.
+Dominant function also includes the diminished 7 chord (viio).
+
+Pre-dominant: a chord that functions by leading to the dominant.
+  - pre-dominant chords include a minor two and major four (ii and IV) in major.
+
+
 # Further reading
 
 ## From *Open Music Theory*
