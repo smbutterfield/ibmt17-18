@@ -28,8 +28,34 @@ They would read a bass line and see small numbers or accidentals and assume the 
 It is important not to mix Lead Sheet Notation, Figured Bass, and Roman Numeral Analysis.
 Firgured bass does not exist without a bass line. 
 Roman numerals tell you the bass line and give us context.
-Lead sheet notation gives you absolutes and tell you the exact pitches to use. 
+Lead sheet notation gives you absolutes and tells you the exact pitches to use. 
+
+Diatonic Qualities of Triads and Seventh Chords:
+
+The diatonic qualities of triads and seventh chords should become automatic. 
+In diatonic harmony, the minor 5 (v) in minor does not exist. 
+The 5th needs the raised 7th scale degree to pull towards the tonic. 
+The leading tone is the main altered tone in minor, and the reason why we have multiple forms of minor.
+
+#### What do the parts of the Roman Numeral convey?
+
+Roman Numerals:
+- capitial: either major or augmented
+- lowercase: either minor or diminished
+
+  Both are distinguished by the quality of the 3rd of the chord. 
   
+If you have an accidental in front of the Roman Numeral, that alters the root of the chord. 
+An altered 5th is assumed if you alter the root of the chord. 
+
+- inversions: when you have any inversion for a seventh chord, you no longer need the subscript 7 
+  - the new figured bass takes the place of the subscript 7. 
+  
+Example of seventh chord consistancies:
+MM7 chords in Major: I, IV
+MM7 chords in Minor: III, VI
+
+ 
 # Further Reading
 
 ## From *Open Music Theory*
