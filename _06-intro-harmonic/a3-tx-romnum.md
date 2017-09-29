@@ -4,9 +4,18 @@ title: Lesson 6a - Roman Numerals in Harmonic Analysis
 ---
 
 # Class discussion
+ 
+If you have an accidental in front of the Roman Numeral, that alters the root of the chord. 
+An altered 5th is assumed if you alter the root of the chord. 
 
-
+- inversions: when you have any inversion for a seventh chord, you no longer need the subscript 7 
+  - the new figured bass takes the place of the subscript 7. 
   
+Example of seventh chord consistancies:
+MM7 chords in Major: I, IV
+MM7 chords in Minor: III, VI
+
+ 
 # Further Reading
 
 ## From *Open Music Theory*
