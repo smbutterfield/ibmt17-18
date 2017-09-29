@@ -7,15 +7,15 @@ abc: true
 
 Using the examples below, determine:
 - what are the diatonic qualities of all triads in seventh chords in major and minor
-  - Does every diatonic quality occur naturally?
+  - If we consider these examples to be "diatonic", does every quality occur naturally or do some require accidentals?
+  - What is the relationship between chords in major and minor?
 - how Roman numerals are created and labeled
   - What information does each part  (e.g. Roman numeral, lower-case vs. upper-case, inversion figures, etc.) of the Roman numeral convey?
-- how inversion figures work with Roman numerals
-- what differentiates leadsheet notation and Roman numerals
-- what the diatonic chord qualities are in major and minor
-  - Are there any notable differences between major and minor?
+  - Are the inversion figures identical to the figured bass discussed in the class reading from this unit? If not, how do they differ?
+  - How do leadsheet notation and Roman numerals differ in the information that they convey?
 
-**Note that the ABC notation used in these examples has limitations on what kind of text can be entered. In this system, everything other than the Roman numeral itself should be written as superscript.**
+
+**Note that the ABC notation used in these examples has limitations on what kind of text can be entered. In the Roman numeral system, everything other than the Roman numeral itself should be written as superscript.**
 
 {% capture ex1 %}X:1
 %%staffsep 75%
