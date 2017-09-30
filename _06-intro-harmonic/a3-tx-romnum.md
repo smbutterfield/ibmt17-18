@@ -5,17 +5,22 @@ title: Lesson 6a - Roman Numerals in Harmonic Analysis
 
 # Class discussion
  
-If you have an accidental in front of the Roman Numeral, that alters the root of the chord. 
-An altered 5th is assumed if you alter the root of the chord. 
+Most of the class was familiar with the basics of using Roman numerals to label diatonic chords, but we broke the system into its fundamental components.
+- *Root* - The number associated with a Roman numeral denotes the scale degree on which the chord is built.
+  - If there is no accidental in front of the Roman numeral, the chord is built off the diatonic scale degree.
+    - The only exception to this rule is the vii<sup>&oslash;</sup> chord in minor; this chord is built off of `ti` (raised seventh scale degree), and this is considered the diatonic function. The naturally-occurring VII chord serves little diatonic purpose.
+  - If there is an accidental in front of the Roman numeral, this affects only the root of the chord by raising or lowering it.
+    - The vii<sup>&oslash;</sup> chord in minor does not require an accidental because it is assumed because of its diatonic function.
+- *Chordal third* - The case (i.e. upper-case versus lower-case) of the Roman numeral denotes the quality of the chordal third.
+  - All upper-case Roman numerals have a major third. This includes major triads, augmented triads, major major chords, and major minor chords.
+  - All lower-case Roman numerals have a minor third. This includes all minor triads, diminished triads, minor minor chords, diminished minor chords, and diminished diminished chords.
+- *Chordal fifth* - The chordal fifth is altered by adding either a <sup>&oslash;</sup> for lowered fifths or a <sup>+</sup> for raised fifths.
+- *Chordal sevenths* - Simply having an inversion figure that implies a seventh chord (i.e. <sup>7, 6/5, 4/3, or 4/2</sup>) is all that is needed for a seventh chord.
+  - A <sup>M</sup> is added as a courtesy for all major seventh chords, even though they occur naturally. This helps to differentiate these from dominant chords once secondary dominants are introduced.
+  - If necessary, the chordal seventh could be raised or lowered by adding a flat or sharp sign respectively in front of the appropriate interval of the inversion figure. This is almost never necessary in diatonic harmony.
 
-- inversions: when you have any inversion for a seventh chord, you no longer need the subscript 7 
-  - the new figured bass takes the place of the subscript 7. 
+When you add an inversion to a seventh chord, you do not need a <sup>7</sup> anymore. The inversion implies the seventh.
   
-Example of seventh chord consistancies:
-MM7 chords in Major: I, IV
-MM7 chords in Minor: III, VI
-
- 
 # Further Reading
 
 ## From *Open Music Theory*
