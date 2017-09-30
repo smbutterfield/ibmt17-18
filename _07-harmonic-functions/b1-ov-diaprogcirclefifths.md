@@ -6,6 +6,7 @@ title: Overview 7b - Diatonic Progressions Derived from Circle-of-fifths Voice-l
 why we have tonic, dominant, predominant functions
   view as an expansion of cadences
 Kostka-Payne circle-of-fifths chart
+make the point that this is the most useful tool in determining whether a note is an NCT or not, and this is the fundamental crux of analysis: how do we determine what we hear when there is a subjective element
 
 ## From *Open Music Theory*
 

@@ -4,6 +4,10 @@ title: Overview 7c - Performing a Harmonic Analysis
 ---
 
 using standard progresions to determine whether a note is an NCT or not
+use C major triad with A-B above it in eight notes
+  which is the NCT?
+  create two settings, one where the A is the passing tone, the other where the B is the passing tone
+   
 
 ## From *Open Music Theory*
 

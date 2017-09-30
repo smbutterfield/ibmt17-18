@@ -4,6 +4,12 @@ title: Examples 7b - Diatonic Progressions Derived from Circle-of-fifths Voice-l
 abc: true
 ---
 
+show V-I, then ii-V-I, then add vi, etc.
+  use cyclical voice-leading for each
+  then do the same for seventh chords
+
+add exceptions
+
 T:Standard cadences
 T:Old hundredth psalm
 M:4/4
