@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 7c - Performing a Harmonic Analysis
+title: Lesson 7b - Performing a Harmonic Analysis
 ---
 
 ## The three common-practice harmonic functions

@@ -46,7 +46,7 @@ V:2 clef=bass
 G,C,| G,C,|| G,C,| G,C,|| D,C,|| D,-"sus2-3"D,/2C,/2|]{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-**Our final voice-leading considerations arise when adding inner voices to our soprano-bass counterpoint. In the following example, each staff system highlights a different voicing error. Compare the correct measures to the incorrect measures to come up with descriptions of the three basic voicing rules: doubling, spacing, and range.**
+**Our final voice-leading considerations arise when adding inner voices to our soprano-bass counterpoint. In the following example, each staff system highlights a different voicing error. Compare the correct measures to the incorrect measures to come up with descriptions of the first two basic voicing rules of *doubling* and *spacing*. Because *range* is a simple maximum and minimum, I have listed conservative estimates for each voice part. These can vary widely depending on the skill level of the intended performers but will be sufficient for our early exercises in part-writing.**
 
 {% capture ex4 %}X:4
 %%staffsep75%%

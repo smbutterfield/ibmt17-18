@@ -1,8 +1,14 @@
 ---
 layout: chapter
-title: Examples 7c - Performing a Harmonic Analysis
+title: Examples 7a - Diatonic Progressions Derived from Circle-of-fifths Voice-leading
 abc: true
 ---
+
+show V-I, then ii-V-I, then add vi, etc.
+  use cyclical voice-leading for each
+  then do the same for seventh chords
+
+add exceptions
 
 T:Standard cadences
 T:Old hundredth psalm

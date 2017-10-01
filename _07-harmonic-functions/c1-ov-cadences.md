@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Overview 7a - Cadences
+title: Overview 7c - Cadences
 ---
 
 Music is often compared to language, and nowhere is that comparison more apt than in studying how phrases end. If a musical phrase is equivalent to a sentence, then the *cadence* is the period at the end of the sentence. All cadences finish a phrase, but not all cadence provide closure and stability. In fact, some cadences are purposefully unsettled.

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Examples 7a - Cadences
+title: Examples 7c - Cadences
 abc: true
 ---
 

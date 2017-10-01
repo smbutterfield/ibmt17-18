@@ -1,14 +1,16 @@
 ---
 layout: chapter
-title: Examples 7b - Diatonic Progressions Derived from Circle-of-fifths Voice-leading
+title: Examples 7b - Performing a Harmonic Analysis
 abc: true
 ---
 
-show V-I, then ii-V-I, then add vi, etc.
-  use cyclical voice-leading for each
-  then do the same for seventh chords
+use C major triad with A-B above it in eight notes
+  which is the NCT?
+  create two settings, one where the A is the passing tone, the other where the B is the passing tone
 
-add exceptions
+then show harmonic analysis of Old Hundredth
+    have chords under the first line, then ask the class to complete it
+
 
 T:Standard cadences
 T:Old hundredth psalm
