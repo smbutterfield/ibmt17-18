@@ -9,6 +9,58 @@ title: Lesson 6b - Voice-leading Considerations in Chorale-style Harmony
   - Easy to see root movement in bass of first three measures
   - Emphasizes the gravity of `ti` to `do` as well as `fa` to `mi`
 
+- the 5th of the chord is the least important chord member
+- the quality of the 3rd (and the 7th in a seventh chord) is more important for classifying the chord than the 5th
+
+The V to I motion in the bass is what makes a strong cadence. 
+The V to I motion in any inversion will still be strong, but not as final as each in root position.
+This comes from the bass line moving from Sol up to Do. 
+
+#### Non-Chord Tones in Cadential Motion
+
+In C, a V - I with passing motion of G - F - E (sol - fa - mi) in the soprano line could be debated as to whether or not it is a non-chord tone. 
+The F (fa) in passing motion could be considered part of the chord as an implied 7 on the V.
+It also may just be a passing tone in a regular V - I. 
+
+In C, a V4/2 - I6 with an A as an upper neighbor tone between the two chords, is not a chord tone. 
+When looking for non-chord tones, you need to make sure it isn't a part of the chord. 
+Looking for shapes is important, but an analysis of the surrounding chords is equally as important. 
+
+#### Suspensions
+
+A Suspension as a non-chord tone exists with or without ties connecting over the bar line. 
+The note from the previous chord is still carried over into the new chord until it is resolved on the next beat. 
+This creates a dissonance in the new chord until it is resolved soon after.
+
+#### 3 Parts of the Suspension:
+
+1. Preparation
+2. Suspension
+  - must be a non-chord tone
+3. Resolution
+  - must be by step in downward motion
+
+#### Doubling:
+
+When you have 4-part harmony and you're voicing triads, one note of the triad needs to be doubled.
+- Octaves are necessary in doubling
+
+1. Doubling the root is the ideal choice.
+2. Doubling the fifth is the second best option.
+3. Doubling the third is BAD. 
+
+- You can triple the root if necessary, most commonly being used in the ending chord of the piece (often after a V7).
+
+Doubling in a seventh chord:
+- you always need the root, third, and seventh in the chord when voicing
+- the fifth is omittable if necessary to avoid part writing errors
+
+Doubling the root of the seventh chord is ideal. 
+
+#### Spacing:
+- the bass can be by itself in 4-part harmony
+- tenor and alto cannot have more than an octave between them
+- soprano and alto cannot have more than an octave between them
 
 # Further reading
 
