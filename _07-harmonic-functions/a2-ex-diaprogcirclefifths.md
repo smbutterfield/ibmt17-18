@@ -81,3 +81,5 @@ V:2 clef=bass
 [D,D]| [G,,D]| [C,C]|| [A,,C]| [B,,D]| [C,C]|]
 w:C:ii7 V7 I IV6 viio I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
+
+**These examples allow you to create a basic framework for diatonic harmonic progressions. Use these progressions here to create a flowchart for standard diatonic progressions that includes all diatonic harmonies. Note that there are many notable exceptions that are often made, so please discuss this with your instructor to add the missing exceptions.**
