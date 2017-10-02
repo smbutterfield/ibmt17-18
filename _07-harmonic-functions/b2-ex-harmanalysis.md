@@ -11,7 +11,7 @@ use C major triad with A-B above it in eight notes
 then show harmonic analysis of Old Hundredth
     have chords under the first line, then ask the class to complete it
 
-
+{% capture ex1 %}X:1
 T:Standard cadences
 T:Old hundredth psalm
 M:4/4
@@ -31,4 +31,5 @@ w:  _ _ _ _ _ _ _ IAC
 [E,B,]| [D,D] [G,D] [D,D] [B,,G]| [C,G,] [D,C] H[B,G,,]
 w: _ _ _ _ _ _ _ DC
 [G,B,]| [G,G,] [E,B,] [D,D] [A,,E]| [D/2B,,/2]-[D/2C,/2] [D/2D,/2]-[C/2D,/2] H[G,,B,]|]
-w: _ _ _ _ _ _ _ PAC
+w: _ _ _ _ _ _ _ PAC{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}

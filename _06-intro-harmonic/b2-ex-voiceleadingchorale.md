@@ -32,7 +32,7 @@ V:2 clef=bass
 "M3"G,/2"M6"D,/2"P8"C,|| "m7"G,/2"P5"G,/2"M3"C,|| "P5"G,/2"m7"G,/2"M3"C,|| "+4"F,/2"M6"D,/2"m6"E,|| "m6"B,,/2"d5"B,,/2"M3"C,|| "M2"F,/2"M3"F,/2"m3"E,|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-**The suspension is another type of non-chord tone. Each of the measures in the next example are grouped in pairs to demonstrate how suspensions are formed. The first measure is a simple two-voice harmony from the examples above, but the next measure has an added suspension. How would you define a suspension? What are the three parts of any suspension? How do we determine the labels?**
+**The suspension is another type of non-chord tone. Each of the measures in the next example are grouped in pairs to demonstrate how suspensions are formed. The first measure is a simple two-voice harmony from the examples above, but the next measure adds a suspension to that framework. How would you define a suspension? What are the three parts of any suspension? How do we determine the labels (i.e. numbers after the word *sus*)?**
 
 {% capture ex3 %}X:3
 T:Suspensions
