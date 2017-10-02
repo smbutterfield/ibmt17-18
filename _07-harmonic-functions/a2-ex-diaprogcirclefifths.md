@@ -4,13 +4,7 @@ title: Examples 7a - Diatonic Progressions Derived from Circle-of-fifths Voice-l
 abc: true
 ---
 
-show V-I, then ii-V-I, then add vi, etc.
-  use cyclical voice-leading for each
-  then do the same for seventh chords
-
-add exceptions
-
-**This example has two idealized progressions of a V chord resolving to a I chord, one as a triads and the other with a seventh chord. Study how each voice resolves. It is tempting to focus on which scale degree resolves to which scale degree, but this does not provide a complete explanation. Instead focus on which chordal members resolve to which chordal members.**
+**This example has two idealized progressions of a V chord resolving to a I chord: one as triads and the other with a seventh chord. Study how each voice resolves. It is tempting to focus on which scale degree resolves to which scale degree, but this does not provide a complete explanation. Instead focus on which chordal members resolve to which chordal members.**
 
 {% capture ex1 %}X:1
 T:Basic V to I progressions
@@ -66,9 +60,9 @@ V:2 clef=bass
 w:C:iii vi ii V I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-**Beyond the iii chord, the voice-leading runs into an issue with harmonic function. While it is possible to continue this pattern through these two chords, in tonal harmony, the IV and vii<sup>o</sup> chords actually function most often as if are extensions of the ii7 and V7 chords respectively. Look at the following example to see voice-leading using both of these chords. The first measure uses the ii7 and V7 chords as part of a diatonic progression, but the second progression substitutes the IV for the ii<sup>7</sup> chord and the vii<sup>o</sup> chord for the V<sup>7</sup> chord. After looking at this example, explain why IV and vii<sup>o</sup> function similarly to ii<sup>7</sup> and V<sup>7</sup>.**
+**Beyond the iii chord, the voice-leading runs into an issue with harmonic function. While it is possible to continue this pattern through these two chords, in tonal harmony, the IV and vii<sup>o</sup> chords actually function most often as if they are extensions of the ii<sup>7</sup> and V<sup>7</sup> chords respectively. Look at the following example to see voice-leading using both of these chords. The first measure uses the ii<sup>7</sup> and V<sup>7</sup> chords as part of a diatonic progression, but the second progression substitutes the IV for the ii<sup>7</sup> chord and the vii<sup>o</sup> chord for the V<sup>7</sup> chord. After looking at this example, explain why IV and vii<sup>o</sup> function similarly to ii<sup>7</sup> and V<sup>7</sup>.**
 
-**Please note that to demonstrate how closely related these chords are, many voice-leading rules are being broken in this example -- most notably the parallel octaves between the soprano and bass between vii<sup>o</sup> and I. This is for a demo only, do not assume that this is good example of voice-leading for IV or vii<sup>o</sup>.
+*Please note that to demonstrate how closely related these chords are, many voice-leading rules are being broken in this example -- most notably the parallel octaves between the soprano and bass between vii<sup>o</sup> and I. This is for demonstration purposes only, do not assume that this good voice-leading for IV or vii<sup>o</sup>.*
 
 {% capture ex5 %}X:5
 T:Adding the IV and viio chords
@@ -82,4 +76,4 @@ V:2 clef=bass
 w:C:ii7 V7 I IV6 viio I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
-**These examples allow you to create a basic framework for diatonic harmonic progressions. Use these progressions here to create a flowchart for standard diatonic progressions that includes all diatonic harmonies. Note that there are many notable exceptions that are often made, so please discuss this with your instructor to add the missing exceptions.**
+**These examples allow you to create a basic framework for diatonic harmonic progressions. Use these progressions here to create a flowchart for standard diatonic progressions that includes all diatonic harmonies. Note that there are notable exceptions that are commonly used in diatonic harmony, so please discuss these with your instructor to add the missing exceptions.**
