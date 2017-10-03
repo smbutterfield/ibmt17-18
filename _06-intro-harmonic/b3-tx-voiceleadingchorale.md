@@ -75,6 +75,8 @@ Spacing is a relatively straightfoward idea, but it took the class quite a few t
   - When the tenor and soprano are within an octave of each other, we call this a *closed voicing*.
   - When the tenor and soprano are more than an octave apart, we call this an *open voicing*.
 
+In general, a good voicing will mimic the overtone series on which our harmony is created. This details of this concept are discussed in Unit 8, but a general rule of good voicing is to allow wider intervals between lower voices and narrower intervals between high voices.
+
 ### Range
 
 The ranges for each voice in the examples are conservative, but will serve us well in our beginning part-writing. These are highly dependent on the intended performers.
