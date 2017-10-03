@@ -5,62 +5,83 @@ title: Lesson 6b - Voice-leading Considerations in Chorale-style Harmony
 
 # Class discussion
 
-- Chords are V and I in first example
-  - Easy to see root movement in bass of first three measures
-  - Emphasizes the gravity of `ti` to `do` as well as `fa` to `mi`
+### Implied harmony in two-parts
 
-- the 5th of the chord is the least important chord member
-- the quality of the 3rd (and the 7th in a seventh chord) is more important for classifying the chord than the 5th
+After some discussion, the class agreed that all of the two-voice counterpoints in the first example implied harmonies of V moving to I in the key of C major. The bass movement of the first three measures highlighted this, but even when the bass movement changed, the class still heard the same progression of V to I. From this, we drew the conclusion that two lines -- in this case the soprano and bass lines -- are enough to imply tonality. One student also pointed out that the chordal fifth was the least common chordal member in these examples, and as we will see when we begin voicing four-part harmony, the chordal fifth is indeed expendable. The root and third are best at implying a triad, and the seventh is obviously necessary to create a seventh chord.
 
-The V to I motion in the bass is what makes a strong cadence. 
-The V to I motion in any inversion will still be strong, but not as final as each in root position.
-This comes from the bass line moving from Sol up to Do. 
+The last bit of discussion on the first example revolved around the strength of cadences. There was no general concensus amongst the class about an absolute ranking, but in general, bass movement was a key factor in strength. For example, measures 1 and 3 were considered to be much stronger than the last measure. The last measure not only lacked `sol` to `do` in the bass, it also did not have a tonic in the final chord.
 
-#### Non-Chord Tones in Cadential Motion
+### Non-Chord Tones in Cadential Motion
 
-In C, a V - I with passing motion of G - F - E (sol - fa - mi) in the soprano line could be debated as to whether or not it is a non-chord tone. 
-The F (fa) in passing motion could be considered part of the chord as an implied 7 on the V.
-It also may just be a passing tone in a regular V - I. 
+As we first begin to study non-chord tones, the most important thing to remember is what the name "non-chord tone" emphasizes. **NCTs must not belong to the chord.** The first four measures added decorations that were simply part of the V or V<sup>7</sup> chords that were already implied. Of note, all students heard the added `F` in measures 3 and 4 as changing the harmony from V to V<sup>7</sup>, meaning that the harmony was altered rather than embellished.
 
-In C, a V4/2 - I6 with an A as an upper neighbor tone between the two chords, is not a chord tone. 
-When looking for non-chord tones, you need to make sure it isn't a part of the chord. 
-Looking for shapes is important, but an analysis of the surrounding chords is equally as important. 
+Measure 5 continued this idea, but for teaching purposes, I asked them to consider this strictly as a triadic V chord. What does that make the `F`? Of course, it becomes a non-chord tone called a *passing tone*. A *passing tone* is *approached by step* and *left by step in the same direction*. 
 
-#### Suspensions
+One astute student then asked what would happen if we applied the same logic to measures 3 and 4. This was admittedly beyond the scope of what I intended to cover, but because we had briefly discussed the idea of the term *appogiatura* to describe a melodic shape when discussing second species counterpart, I admitted that if the `F` was considered to be a non-chord tone, both measures 3 and 4 would be considered to have a non-chord tone of an *appogiatura*. An *appogiatura* is a non-chord tone that is *approached by leap* and then *left by stepwise motion in the opposite direction*.
 
-A Suspension as a non-chord tone exists with or without ties connecting over the bar line. 
-The note from the previous chord is still carried over into the new chord until it is resolved on the next beat. 
-This creates a dissonance in the new chord until it is resolved soon after.
+The final measure clearly contained an NCT, because the `A` could not be incorporated into a V or V<sup>7</sup> chord. This is an example of a *neighbor tone*: a non-chord tone that is *approached by step* and *left by step in the opposite direction*.
 
-#### 3 Parts of the Suspension:
+My final reminder to students when looking for non-chord tones: Always make sure that the pitch is not actually a chord tone! This is one of the most common mistakes for beginning analysts.
 
-1. Preparation
-2. Suspension
-  - must be a non-chord tone
-3. Resolution
-  - must be by step in downward motion
+### Suspensions
 
-#### Doubling:
+After looking at the examples for suspensions, the first suggestion was that a *suspension* is a pitch that is tied over from the previous chord. This is on the right track, but defining a suspension requires considerably more information. The first and most easily dispelled misconception is that it must be *tied*; the tone can be re-articulated. From this point, the class was able to come up with three basic ideas for a full definition of a suspension:
+- It must start as a chord tone in the previous chord
+- It must be carried into the following chord and create a non-chord tone at the beginning of the chord.
+- It must then resolve down by step to a chord tone in the new chord.
 
-When you have 4-part harmony and you're voicing triads, one note of the triad needs to be doubled.
-- Octaves are necessary in doubling
+These three ideas directly relate to the standardized terminology for the three basic components of a suspension:
+- *Preparation* - A chord tone that occurs as part of a separate chord before the suspension.
+- *Suspension* - A non-chord tone that occurs at the moment that all other voices change to the new chord. This tone must be carried over from the previous chord, but it can be re-articulated.
+- *Resolution* - The non-chord tone then resolves downward by step to a chord tone.
+
+There are many common mistakes when creating or analyzing suspensions:
+- There must be two chords. You cannot have a suspension with only one chord.
+- It must resolve downward. If it resolves upward, it is a different kind of NCT.
+- It must resolve by step.
+
+Once you have familiarized yourself with these three concepts, review the examples on the previous page to ensure that you understand the form of a suspension. While doing this, you will notice that each of the suspensions is labeled with a pair of numbers in addition to the word *sus*. The class easily figured out that the numbers correspond to the intervals created by the suspension and its resolution *against the bass*. It is important to remember the difference between the terms *root* and *bass*. The root of the chord may be in a higher voice, but you will still measure the suspension against the bass. Always use the bass! The most common suspensions are the 4-3, 7-6, and 9-8 suspensions, but others can exist. 
+
+If the suspension is in the bass voice, you must measure the suspension against the most dissonant voice -- this always creates a 2-3 suspension. There are two important things to notice here:
+- The intervals go from small to large (2-3), but when the suspension is in an upper voice, the intervals go from large to small. This is because suspensions always resolve *down* by step. When you measure a downward resolution against a lower voice, the intervals get smaller as the upper voice moves *closer* to the bass. When you measure a downward resolution against a higher voice, the intervals get larger as the bass moves *away* from the upper voice.
+- Assuming that there are more than two voices, there will always be a second and a third present above a suspension in the bass. We say that you measure it against the most dissonant interval, but the reality is that it is always a 2-3 suspension if the suspension is in the bass.
+
+### Adding inner voices
+
+To this point, everything that we have discussed has been based on a two-voice model, but to move into full diatonic harmony, we need to add inner voices and fully flesh out the harmonies. When doing this, there are certain rules that create better voice-leading and voicings when followed, but please note that these rules are generally strong suggestions rather than hard and fast rules. Good composers constantly bend or break these rules if it better serves their ideas.
+
+### Doubling
+
+When voicing triads in four-part harmony, at least one note must be doubled.
 
 1. Doubling the root is the ideal choice.
 2. Doubling the fifth is the second best option.
-3. Doubling the third is BAD. 
+3. Doubling the third is generally *unacceptable*, although there are certain corner cases in which this can be necessary. As a rule of thumb, try to never double the third. The reason for this will be clear after we talk about chordal resolutions in Unit 7a.
+4. If you need to omit a voice, the fifth is the only option, because the root and third are required to define the chord. Diminished triads are the only diatonic harmony that require a fifth as well.
+4. You can triple the root if necessary, but this creates a difficult voicing to continue writing afterwards. This is most commonly used as an ending chord of the piece (often after a V7).
 
-- You can triple the root if necessary, most commonly being used in the ending chord of the piece (often after a V7).
+Doubling in a seventh chord is similar, but because you have four notes for four voices, there is less freedom.
+1. There must always be a root, third, and seventh in the chord, because without any of them, the chord is no longer a functioning seventh chord.
+2. If necessary, you can omit the fifth.
+3. If the fifth is ommitted, the root is the only chord tone that can be doubled. Never double the third or the seventh.
 
-Doubling in a seventh chord:
-- you always need the root, third, and seventh in the chord when voicing
-- the fifth is omittable if necessary to avoid part writing errors
+### Spacing
 
-Doubling the root of the seventh chord is ideal. 
+Spacing is a relatively straightfoward idea, but it took the class quite a few tries to come up with working definitions based on the examples. The final conclusions were:
+- The bass *can* be as far from the tenor as needed.
+- Tenor and alto *cannot* have more than an octave between them.
+- Soprano and alto *cannot* have more than an octave between them.
+- Tenor and soprano *can* have more than an octave between them.
+  - When the tenor and soprano are within an octave of each other, we call this a *closed voicing*.
+  - When the tenor and soprano are more than an octave apart, we call this an *open voicing*.
 
-#### Spacing:
-- the bass can be by itself in 4-part harmony
-- tenor and alto cannot have more than an octave between them
-- soprano and alto cannot have more than an octave between them
+### Range
+
+The ranges for each voice in the examples are conservative, but will serve us well in our beginning part-writing. These are highly dependent on the intended performers.
+
+### Voice-crossing
+
+There was no easy way to notate this in the examples, but voice-crossing should be avoided unless absolutely necessary. It is almost never absolutely necessary.
 
 # Further reading
 
