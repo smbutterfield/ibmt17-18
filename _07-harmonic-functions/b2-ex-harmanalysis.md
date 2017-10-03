@@ -4,10 +4,6 @@ title: Examples 7b - Performing a Harmonic Analysis
 abc: true
 ---
 
-use C major triad with A-B above it in eight notes
-  which is the NCT?
-  create two settings, one where the A is the passing tone, the other where the B is the passing tone
-
 **Look at the following chorale. Provide an analysis of this music by analyzing each chord and writing a Roman numeral and an inversion figure below every new harmony. As you go through this process, keep track of the questions that you solve and that make this difficult.**
 
 {% capture ex1 %}X:1
@@ -39,7 +35,7 @@ V:2 clef=bass
 
 **We use chorales to begin studying analysis because of the vertical nature of the writing. Every chord in this composition is aligned to where it can be easily parsed visually, and almost every tone is functional. In the final measure of the piece, did every note belong to the chord? If not, how did you decide which notes did not?**
 
-**Analyze the following chorale-style progression. Pay particular attention to the how your decision process as you decide how analyze the third beat. Are there any non-chord tones there? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic (Unit 7a).**
+**Analyze the following chorale-style progression. Pay particular attention to the how your decision process as you decide how analyze the third beat. Are there any non-chord tones there? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic (Unit 7a). Does the voice-leading -- i.e. how each chordal member resolves -- work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
 
 {% capture ex2 %}X:2
 T:Sample progression
