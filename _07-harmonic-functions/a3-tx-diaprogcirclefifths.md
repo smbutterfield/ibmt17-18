@@ -5,6 +5,74 @@ title: Lesson 7a - Diatonic Progressions Derived from Circle-of-fifths Voice-lea
 
 # Class discussion
 
+Upper voices cannot be more than an octave apart from each other. 
+The soprano voice cannot be more than an octave apart from the alto voice, and the alto voice cannot be more than an octave apart from the tenor voice.
+The bass voice can go wherever it wants. 
+Voice crossing is generally frowned upon.
+
+Previously, you had learned which scale degree wants to resolve to another scale degree.
+BUT, in the context of chordal harmony, those rules don't always apply. 
+One of the most common chord progressions we hear in popular music is IV - V - I. 
+Often times the bassline will move Fa - Sol - Do. 
+That bassline breaks the tentancy that Fa wants to move to Mi. 
+
+Instead, you have to think what chordal members resolve to other chordal members. 
+
+Circle of Fifths Progression:
+- chordal movement along the circle of fifths
+
+#### Observations of Chordal Movement
+
+In a circle of fifths progressions:
+- the 7th of one chord resolves to the 3rd of the next chord
+- the third of the chord resolves to the root of the next chord
+- in root position, the bass voice wants the root to resolve to the root of the next chord
+
+Including the ii chord in a V - I progression:
+- ii - V - I
+
+How would you voice the ii chord to smoothly lead to the V (in C)?
+- middle line D in the bass to move to a G
+- D in the tenor to stay at a D
+- F in the alto to move to a G
+- A in the soprano to move to a B
+
+How would you voice the vi chord to smoothly lead to the ii (in C)?
+- top line A in the bass to move to a D
+- C in the tenor to move to a D
+- E in the alto to move to a F
+- A in the soprano to stay on an A
+
+How would you voice the iii chord to smoothly lead to the vi (in C)?
+- third space E in the bass to move to an A
+- B in the tenor to move to a C
+- E in the alto to stay on an E
+- G in the soprano to move to an A
+
+You've just created a circle of fifths progression.
+  
+  I - iii - vi - ii - V - I 
+
+We also find that IV and viio function the same way as two other chords.
+The IV can also function as a ii, and the viio can also function as the V.
+
+  I - iii - vi - [ii/IV] - [V/viio] - I
+
+The circle of fifths is where tonality comes from.
+Not only is it built into our overtone system, but it is how we hear harmony. 
+
+Common exceptions:
+- V can go to vi (in the use of a cadence)
+- iii can go to IV (rarely)
+- IV can go to I (in the use of a cadence)
+
+In minor:
+
+i - III - VI - [iio/iv] - [V/viio] - i
+
+- the same exceptions in chordal movement that apply to major also apply to minor
+
+
 # Further reading
 
 ## From *Open Music Theory*
