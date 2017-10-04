@@ -93,6 +93,8 @@ There are a few common exceptions that should be added to this progression flowc
 - RARE: iii can move to IV
     - It is difficult to use this without creating multiple voice-leading issues, so in your early attempts at part-writing, do not attempt to use this.
 
+## Changes in Minor
+
 Minor follows all of the same progressions, but the chord qualities change to match the naturally occurring pitches in the key signature. Please remember that minor keys must have a major V chord and diminished vii chord to function diatonically. This means that both of these chords are built using the raised seventh scale degree.
 
 | (*unnamed*) | (*unnamed*) | pre-dominant | dominant | tonic |
