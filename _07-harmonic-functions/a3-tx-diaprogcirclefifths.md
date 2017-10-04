@@ -6,6 +6,8 @@ abc: true
 
 # Class discussion
 
+As we looked at implied harmony in two-voice counterpoint, we demonstrated that simple voice-leading is all that is necessary to *imply* diatonic function. If we take that further, we should be able to create the fundamentals of harmonic progression using the voice-leading inherent in diatonic systems.
+
 Beginning theory students often learn two general rules of thumb for voice-leading:
 - `ti` resolves to `do`
 - `fa` resolves to `mi`
@@ -25,9 +27,9 @@ F,G,| C,2
 w:IV V I|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-In this progression the movement of the bass voice has `fa` moving to `sol`, and this is a normal, acceptable progression. This implies that there is far more detail necessary to understand voice-leading in harmony than a general rule of thumb.
+In this progression the movement of the bass voice has `fa` moving to `sol`, and this is a normal, acceptable progression. This implies that there is far more detail necessary to understand voice-leading in harmony than general rules of thumb.
 
-## Observations of Chordal Movement
+## Developing Progressions Based on Voice-leading
 
 By studying the voice-leading of a simple V (or V<sup>7</sup>) to I progression, the students proposed a couple of rules -- that *do not* rely on scale degrees -- to explain the voice-leading between the two chords.
 - For chords that have roots separated by a P5:
@@ -68,7 +70,9 @@ V:2 clef=bass
 w:C:iii vi ii V I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-It is possible to continue this pattern backwards to add the last two diatonic chords, IV and vii<sup>o</sup>, but these chords actually function differently. Instead, the IV and vii<sup>o</sup> chords function similarly to there two functional counterparts, ii<sup>7</sup> and V<sup>7</sup>. The logic is fairly simple, if you remove the root from a ii<sup>7</sup> chord, `D-F-A-C`, you are left with a IV chord, `F-A-C`. If you remove the root from a V<sup>7</sup> chord, you are left with a vii<sup>o</sup> chord. When we add these to our harmonic progression flowchart, we get our basic outline for harmonic progressions.
+## Adding IV and vii<sup>o</sup>
+
+It is possible to continue this pattern backwards to add the last two diatonic chords, IV and vii<sup>o</sup>, but these chords actually function differently. Instead, the IV and vii<sup>o</sup> chords function similarly to there two functional counterparts, ii<sup>7</sup> and V<sup>7</sup>. The logic is fairly simple, if you remove the root from a ii<sup>7</sup> chord, `D-F-A-C` in C major, you are left with a IV chord, `F-A-C` in C major. Likewise, if you remove the root from a V<sup>7</sup> chord, you are left with a vii<sup>o</sup> chord. When we add these to our harmonic progression flowchart, we get our basic outline for harmonic progressions.
 
 | (*unnamed*) | (*unnamed*) | pre-dominant | dominant | tonic |
 --- | --- | --- | --- | --- |
@@ -76,6 +80,8 @@ It is possible to continue this pattern backwards to add the last two diatonic c
 | | | IV | vii<sup>o</sup> | |
 
 Using just this flowchart, you can build basic chordal progressions for a given melody by harmonizing the pitches with the correct progressions. Please note that the I chord can go jump back to anywhere in the progressions.
+
+## Adding in the Common Exceptions
 
 There are a few common exceptions that should be added to this progression flowchart. We will discuss how these are used as we work through their appropriate topics (e.g. cadences, chordal substitutions), but for now, please add them to your list of possible progressions.
 - chords that have the same function can move to each other
