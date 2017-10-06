@@ -3,6 +3,42 @@ layout: chapter
 title: Lesson 7b - Performing a Harmonic Analysis
 ---
 
+# Class Discussion
+
+### Harmonic Analysis 
+
+When performing a harmonic analysis, you have to think about three things: harmonic rhythm, chord tones vs. non-chord tones (NCT), and missing notes. 
+A general harmonic analysis includes roman numerals, lead sheet notation, and non-chord tones identification. 
+
+If you look at a standard vocal chorale, it will follow our roman numeral flow chart. 
+
+iii - vi - [ii/IV] - [V/viio] - I
+
+- iii can go to IV
+- V can go to vi
+- IV can go to I
+- I can go anywhere
+
+Harmonic Rhythm:
+- how often the chords change based on the beat in which a new chord hits
+  - the class example has quarter notes as the harmonic rhythm
+ 
+
+Chord Tones vs. Non-Chord Tones (NCT):
+- when looking for non-chord tones, list the note names and figure out which one doesn't fit within triadic harmony and chord shape
+- to nontate non-chord tones, put a small parenthesis around the note head and label the NCT with its abbreviation
+  - ex: 
+     - pt (passing tone)
+     - nt (neighbor tone)
+     - sus (suspension)
+ - if you see a V chord with a possible m7 in a moving line, it is up to personal judgement to decide if it sounds like it has a dominant function
+  - if you choose to leave out the 7th, you have to label it as a non-chord tone and write V for the roman numberal
+  - if you choose to include the 7th, leave the tone alone and label it as a V7 for the roman numeral
+- if you have a question about which note is a non-chord tone within a chord, refer back to the roman numeral flow chart
+  - listening or playing through the examples is another good way to hear which chord has which function
+
+# Further Reading
+
 ## The three common-practice harmonic functions
 
 In common-practice music, harmonies tend to cluster around three high-level categories of harmonic function. These categories are traditionally called *tonic* (**T**), *subdominant* (**S** — also called *predominant*, **P** or **PD**), and *dominant* (**D**). Each of these functions has their own characteristic scale degrees, with their own characteristic tendencies. And each of these functions tend to participate in certain kinds of chord progressions more than others.
