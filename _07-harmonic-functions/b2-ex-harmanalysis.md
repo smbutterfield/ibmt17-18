@@ -37,14 +37,15 @@ V:2 clef=bass
 
 **Analyze the following chorale-style progression. Pay particular attention to the how your decision process as you decide how analyze the third beat. Are there any non-chord tones there? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic (Unit 7a). Does the voice-leading -- i.e. how each chordal member resolves -- work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
 
+**There is one more type of cadence classification that is commonly used, although this is more of a sub-category of a half-cadence: the *phrygian half-cadence*. It only occurs in minor, and the approach to the half-cadence is the defining feature. Look at the following cadence and study the final two chords.**
+
 {% capture ex2 %}X:2
-T:Sample progression
+T:Phrygian half cadence
 M:4/4
-L:1/4
-Q:1/4=80
-K:C
+L:1
+K:Eb
 V:1
-[cE] [GD] [G/2E/2]-[A/2E/2] [DB]| [cE]4|]
+[GE]| [AE]| [FC]| H[GD]|]
 V:2 clef=bass
-[C,G,] [B,G,,] [CG,,] [G,G,,]| [C,G,]4|]{% endcapture %}
+[C,C]| [A,,C]| [CA,,]| [=B,G,,]|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
