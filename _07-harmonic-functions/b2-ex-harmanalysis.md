@@ -7,7 +7,6 @@ abc: true
 **Look at the following chorale. Provide an analysis of this music by analyzing each chord and writing a Roman numeral and an inversion figure below every new harmony. As you go through this process, keep track of the questions that you solve and that make this difficult.**
 
 {% capture ex1 %}X:1
-T:Standard cadences
 T:Old hundredth psalm
 M:4/4
 L:1/4
