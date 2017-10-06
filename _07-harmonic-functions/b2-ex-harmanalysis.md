@@ -15,13 +15,13 @@ K:G
 V:1
 [GD]| [GD] [FD] [EB,] [DD]| [GB,] [AD] H[BD]
 [BD]| [BD] [BG] [AF] [GG]| [cG] [BG] H[AF]
-[GG]| [AF] [GB] [AF] [DG]| [EE] [FD] H[GD]
-[dD]| [BD] [GG] [AF] [cA]| [GB] [AF] H[GG]|]
+[GG]| [AF] [GB] [AF] [DG]| [EE] [FC] H[GB,]
+[dD]| [BD] [GG] [AF] [cA]| [GB] [AF] H[GG]|| [G4C4]| [G4B,4]|]
 V:2 clef=bass
 [G,B,]| [G,B,] [A,D,] [E,G,] [B,,G,]| [E,G,] [D,F,] H[G,G,,]
 [G,G,]| [G,G,] [G,D] [DD,] [E,B,]| [C,E] [G,,D] H[DD,]
-[E,B,]| [D,D] [G,D] [D,D] [B,,G,]| [C,G,] [D,C] H[B,G,,]
-[G,B,]| [G,G,] [E,B,] [D,D] [A,,E]| [D/2B,,/2]-[D/2C,/2] [D/2D,/2]-[C/2D,/2] H[G,,B,]|]{% endcapture %}
+[E,B,]| [D,D] [G,D] [D,D] [B,,G]| [C,G,] [D,A,] H[G,E,]
+[G,B,]| [G,G,] [E,B,] [D,D] [A,,E]| [D/2B,,/2]-[D/2C,/2] [D/2D,/2]-[C/2D,/2] H[G,,B,]|| [C,4E,4]| [G,,4D,4]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 **Before you could even begin, you needed to figure out a number of major concepts.**
