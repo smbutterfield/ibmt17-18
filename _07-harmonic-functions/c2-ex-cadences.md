@@ -26,17 +26,17 @@ K:G
 V:1
 [GD]| [GD] [FD] [EB,] [DD]| [GB,] [AD] H[BD]
 [BD]| [BD] [BG] [AF] [GG]| [cG] [BG] H[AF]
-[GG]| [AF] [GB] [AF] [DG]| [EE] [FD] H[GD]
+[GG]| [AF] [GB] [AF] [DG]| [EE] [FD] H[GE]
 [dD]| [BD] [GG] [AF] [cA]| [GB] [AF] H[GG]|| [G4C4]| [G4B,4]|]
 V:2 clef=bass
 [G,B,]| [G,B,] [A,D,] [E,G,] [B,,G,]| [E,G,] [D,F,] H[G,G,,]
-w: _ _ _ _ _ _ _ HC
+w: _ _ _ _ _ _ _ IAC
 [G,G,]| [G,G,] [G,D] [DD,] [E,B,]| [C,E] [G,,D] H[DD,]
-w:  _ _ _ _ _ _ _ IAC
-[E,B,]| [D,D] [G,D] [D,D] [B,,G]| [C,G,] [D,C] H[B,G,,]
+w:  _ _ _ _ _ _ _ HC
+[E,B,]| [D,D] [G,D] [D,D] [B,,G]| [C,G,] [D,C] H[B,E,]
 w: _ _ _ _ _ _ _ DC
 [G,B,]| [G,G,] [E,B,] [D,D] [A,,E]| [D/2B,,/2]-[D/2C,/2] [D/2D,/2]-[C/2D,/2] H[G,,B,]|| [C,4E,4]| [G,,4D,4]|]
-w: _ _ _ _ _ _ _ PAC _ _ _ plagal{% endcapture %}
+w: _ _ _ _ _ _ _ _ _ PAC _ plagal{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 {% capture ex2 %}X:2
