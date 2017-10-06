@@ -86,10 +86,10 @@ Using just this flowchart, you can build basic chordal progressions for a given 
 There are a few common exceptions that should be added to this progression flowchart. We will discuss how these are used as we work through their appropriate topics (e.g. cadences, chordal substitutions), but for now, please add them to your list of possible progressions.
 - chords that have the same function can move to each other
     - ii can move to IV, and IV can move to ii.
-- V can move to vi at the end of a phrase
-    - In this case, vi is *replacing* a I chord, so it must be used correctly. See 7c (later in this unit) for a full explanation of cadences.
-- IV can go to I at the end of a phrase
-    - In this case, IV is replacing the V chord. This is another cadence, so it must be prepared properly. It cannot be used in the middle of a phrase. In your early attempts at part-writing, do not attempt to use this.
+- V can move to vi 
+    - This is most commonly used at the end of a phrase. In this case, vi is "replacing" a I chord, so it must be used correctly. See 7c (later in this unit) for a full explanation of cadences.
+- IV can go to I
+    - This is most commonly used at the end of a phrase, and in this case, IV is "replacing" the V chord. This is another cadence, so it must be prepared properly. It better to avoid using this progression in the middle of a phrase, so in your early attempts at part-writing, do not attempt to use this.
 - RARE: iii can move to IV
     - It is difficult to use this without creating multiple voice-leading issues, so in your early attempts at part-writing, do not attempt to use this.
 

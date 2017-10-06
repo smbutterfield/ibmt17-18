@@ -31,9 +31,9 @@ V:2 clef=bass
     - This is differentiating between chord tones and non-chord tones.
 - Are there notes missing from any of the chords?
 
-**As you answered each of these questions, you began to attempt truly understanding how harmony functions. Even without much guidance, you can use your knowledge of musical fundamentals -- intervals, chords, melodic lines, Roman numeral labeling, etc. -- to create a sketch of the harmonic underpinnings of this chorale.**
+**As you answered each of these questions, you began understanding how harmony *functions*. Even without much guidance, you can use your knowledge of musical fundamentals -- intervals, chords, melodic lines, Roman numeral labeling, etc. -- to create a sketch of the harmonic underpinnings of this chorale.**
 
-**We use chorales to begin studying analysis because of the vertical nature of the writing. Every chord in this composition is aligned to where it can be easily parsed visually, and almost every tone is functional. In the final measure of the piece, did every note belong to the chord? If not, how did you decide which notes did not?**
+**We use chorales to begin studying analysis because of the vertical nature of the writing. Every chord in this composition is aligned to where it can be easily parsed by sight, and almost every tone is functional. In the final measure of the piece, did every note belong to the chord? If not, how did you decide which notes did not?**
 
 **Analyze the following chorale-style progression. Pay particular attention to the how your decision process as you decide how analyze the third beat. Are there any non-chord tones there? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic (Unit 7a). Does the voice-leading -- i.e. how each chordal member resolves -- work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
 
