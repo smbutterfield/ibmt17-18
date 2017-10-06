@@ -5,6 +5,34 @@ title: Lesson 7c - Cadences
 
 # Class discussion
 
+### Cadences
+
+Cadences are the periods at the end of musical sentances. 
+
+Authentic Cadence
+ - when a V goes to I
+  
+Perfect Authentic Cadence
+ - when a V goes to I
+ - doh is in the soprano voice 
+ - both the V and I are in root position
+ 
+Imperfect Authentic Cadence
+ - when a V goes to I, 
+ - doh is not in the soprano voice
+ - chords are not in root position
+
+Half Cadence
+ - when a phrase ends on a V chord
+
+Plagal Cadence
+ - when a IV goes to I
+ - also called the Amen cadence
+
+Deceptive Cadence
+ - when a V goes to vi
+
+
 # Further reading
 
 ## From *Open Music Theory*
