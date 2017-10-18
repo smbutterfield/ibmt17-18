@@ -20,3 +20,10 @@ x x x x E G _B c d e ^f g|]
 V:2 clef=bass
 C,,C,G,C x x x x x x x x|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
+
+## Bernstein on the importance of the overtone series
+
+Next, please watch this wonderful video of Leonard Bernstein explaining how the overtone series explains harmony's evolution throughout the ages. Keep in mind that each evolutionary step he discusses adds another partial from the overtone series.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gt2zubHcER4" frameborder="0" allowfullscreen></iframe>
+

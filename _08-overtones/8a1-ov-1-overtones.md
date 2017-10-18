@@ -15,14 +15,3 @@ The overtone series occurs naturally in non-synthetic tone production. When a pe
     - The overtone series
 
 To put it succinctly, the overtone series explains why music evolved as it did.
-
-Before we look at an example of the overtone series, watch this wonderful video of Leonard Bernstein explaining how the overtone series explains harmony's evolution throughout the ages.
-
-## Bernstein on the importance of the overtone series
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gt2zubHcER4" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-
