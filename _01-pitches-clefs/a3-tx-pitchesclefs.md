@@ -31,7 +31,7 @@ The discussion of the secondary name for each clef -- particularly the treble cl
 
 This led immediately immediately to the quick assumption that the F-clef uses its "dots" to enclose the F on the fourth line of the staff, and the C-clefs have an "arrow" that points to C at all times. This arrow points to different lines for both alto and tenor clef.
 
-For well-researched, short article on the evolution of clefs, I suggest reading Jimmy Stamp's [The Evolution of the Treble Clef](http://www.smithsonianmag.com/arts-culture/the-evolution-of-the-treble-clef-87122373/) from the Smithsonian website.
+For a well-researched, short article on the evolution of clefs, I suggest reading Jimmy Stamp's [The Evolution of the Treble Clef](http://www.smithsonianmag.com/arts-culture/the-evolution-of-the-treble-clef-87122373/) from the Smithsonian website.
 
 The tips and tricks for mastering clefs could be broken into three categories:
 - Memorization - The most widely used method uses flash cards or other repetitive devices to practice identifying notes on each clef to ensure a quick and efficient memorization.
