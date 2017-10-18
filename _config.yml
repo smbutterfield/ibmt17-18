@@ -49,15 +49,15 @@ collections:
   08-overtones:
     output: true
     name: 8) The Overtone Series
-  09-partwriting-root-first:
+  09-non-chord-tones:
     output: true
-    name: 9) Voice-leading Using Root Position and First-inversion Triads
-  10-partwriting-second-7chords:
+    name: 9) Non-Chord Tones
+  10-error-detection-intro-part-writing:
     output: true
-    name: 10) Voice-leading Using Seventh Chords and Second-inversion Chords
-  11-ncts-embellishments:
+    name: 10) Error Detection and an Introduction to Part-writing
+  11-further-part-writing:
     output: true
-    name: 11) Non-chord tones and embellishments
+    name: 11) Part-writing Using Seventh Chords and Second-inversion Chords 
   12-phrasing-texture:
     output: true
     name: 12) Phrasing and Texture
