@@ -1,6 +1,7 @@
 ---
 layout: chapter
 title: 8a Lesson - The Overtone Series
+abc: true
 ---
 
 # Class discussion
