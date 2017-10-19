@@ -5,13 +5,13 @@ title: Harmonic syntax - the idealized phrase
 
 *Harmonic syntax* concerns the norms or principles according to which harmonies (chords) are placed into meaningful successions. These norms include progressions that are more or less common than others. Those norms generate expectations for listeners familiar with the style: if **IV–V** is more common than **IV–VI**, the appearance of a **IV** chord generates an expectation that the next chord is more likely to be **V** than it is to be **VI**.
 
-In Western classical music, harmonies generally group into three *harmonic functions* — tonic (T), subdominant (S), and dominant (D) — and these functions group together chords that progress to and from other chords in similar ways. For example, since **II** and **IV** are both subdominant chords, they will participate in many of the same kinds of chord progressions, and at times can be substituted for each other with only a minimal change to the musical effect.
+In Western classical music, harmonies generally group into three *harmonic functions* — tonic (T), pre-dominant (P), and dominant (D) — and these functions group together chords that progress to and from other chords in similar ways. For example, since **II** and **IV** are both pre-dominant chords, they will participate in many of the same kinds of chord progressions, and at times can be substituted for each other with only a minimal change to the musical effect.
 
-On a local level (chord-to-chord progressions), we can summarize the tendencies of these functions with the cycle **T–S–D–T**. That is, harmonies tend to progress through a cyclical progression of those three functions:
+On a local level (chord-to-chord progressions), we can summarize the tendencies of these functions with the cycle **T–P–D–T**. That is, harmonies tend to progress through a cyclical progression of those three functions:
 
-> **T → S → D → T →** and so on . . .
+> **T → P → D → T →** and so on . . .
 
-That does not rule out T progressing to D, D progressing to S, etc. But it does mean that those progressions tend to be less common, at least in classical music.
+That does not rule out T progressing to D, D progressing to P, etc. But it does mean that those progressions tend to be less common, at least in classical music.
 
 Higher-level musical structures also impact the norms according to which these harmonic functions progress. For now, we will consider one higher-level structure that influences chord-progression tendencies — the phrase — and we will limit our study to isolated, complete, self-sufficient phrases. This is an idealized, oversimplified setting — like strict voice-leading — that is useful for learning the basics. Some such phrases even exist in real music! But most of the time there are a number of competing factors that influence the chord-progression strategies employed by a composer at any given moment. However, the idealized phrase is a helpful starting point. Future study will explore how classical composers employ harmonic progressions in larger musical works that combine multiple phrases (which are not self-sufficient) into larger themes and movements.
 
@@ -22,7 +22,7 @@ The *idealized phrase* (also called the *phrase model*) is a single musical phra
 
 The simplest phrase that exhibits this complete harmonic cycle is a tonic-dominant-tonic progression: **I–V–I.** This phrase begins and ends with the most stable harmony (**I**), and includes an *authentic cadence* (**V–I**). The **V** is the high point of instability, containing the tendency tone (*ti*) that most strongly points to the final point of arrival (*do*, or tonic).
 
-This harmonic cycle can be expanded by inserting a subdominant chord, a destabilized tonic chord, or both, as in the following examples: 
+This harmonic cycle can be expanded by inserting a pre-dominant chord, a destabilized tonic chord, or both, as in the following examples: 
 
 > **I IV V I**  
 > **I II V I**  
@@ -31,20 +31,20 @@ This harmonic cycle can be expanded by inserting a subdominant chord, a destabil
 
 In *functional bass* terms, any harmonic progression that follows the pattern
 
-> **T1 → (S_) → D5 → T1**
+> **T1 → (P_) → D5 → T1**
 
 can serve as the basis for a complete idealized phrase. (Harmonies in parentheses are optional.)
 
-Phrases are seldom 3–5 chords long, however, and a harmonic function can be expressed by more than a single chord. Thus we can understand the harmonic functions not simply as chords, but as *zones* of varying length in a phrase, which can be created by a number of chords or short chord progressions. More generally, then, our idealized musical phrase contains a single progression of functional zones **T → (S) → D → T**, begins with **T1**, and ends with an authentic cadence (**D5–T1**), as seen in the example below.
+Phrases are seldom 3–5 chords long, however, and a harmonic function can be expressed by more than a single chord. Thus we can understand the harmonic functions not simply as chords, but as *zones* of varying length in a phrase, which can be created by a number of chords or short chord progressions. More generally, then, our idealized musical phrase contains a single progression of functional zones **T → (P) → D → T**, begins with **T1**, and ends with an authentic cadence (**D5–T1**), as seen in the example below.
 
 
 ## Triggering and prolonging harmonic functions in an idealized phrase
 
-To establish, or trigger, a harmonic functional zone, composers tend to use *a fixed scale degree in the bass*. In other words, tonic tends to be triggered by **T1** (always **I**), subdominant by **S2** or **S4** (including a variety of **II** and **IV** chords, in in root position or inversions, with and without sevenths), and dominant by **D5** (**V**, with or without a seventh, or a [*compound cadence*](cadenceTypes)). These four categories of chords — **T1**, **S2**, **S4**, and **D5** — are called *functional chords* (because they trigger the function) or *cadential chords* (because they can participate in a cadence). 
+To establish, or trigger, a harmonic functional zone, composers tend to use *a fixed scale degree in the bass*. In other words, tonic tends to be triggered by **T1** (always **I**), pre-dominant by **S2** or **S4** (including a variety of **II** and **IV** chords, in in root position or inversions, with and without sevenths), and dominant by **D5** (**V**, with or without a seventh, or a [*compound cadence*](cadenceTypes)). These four categories of chords — **T1**, **P2**, **P4**, and **D5** — are called *functional chords* (because they trigger the function) or *cadential chords* (because they can participate in a cadence). 
 
 Other chords are often called *contrapuntal chords* or *embellishing chords*, and are typically used to *prolong* a function throughout the zone. 
 
-Functional prolongations are shown in a harmonic analysis by writing/typing T, S, or D underneath the individual chord labels (Roman numerals or functional bass) and extending a line from the beginning of the functional zone to the end.
+Functional prolongations are shown in a harmonic analysis by writing/typing T, P, or D underneath the individual chord labels (Roman numerals or functional bass) and extending a line from the beginning of the functional zone to the end.
 
 The following excerpt is from Mozart's Piano Sonata in A Major, K. 331, I., mm. 1–4, with a harmonic reduction and analysis provided below the original score. Such an analysis is called an *interpreted* harmonic analysis, because the harmonies are interpreted according to the way they behave in the phrase, rather than merely labeled. In this phrase, note the following:
 
