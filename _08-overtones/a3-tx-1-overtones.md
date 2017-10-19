@@ -30,7 +30,7 @@ w:fund. 1st 2nd 3rd{% endcapture %}
 
 {% capture ex2 %}X:2
 T:The overtone series
-T:Labeled as a partials
+T:Labeled as partials
 M:2/2
 L:1/2
 K:C
