@@ -42,21 +42,21 @@ C,,C,G,C x x x x x x x x|]
 w:1st 2nd 3rd 4th{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-The overtone series occurs naturally and can be explained mathematically, so it is one of the few objective ways in which we can discuss the origin of music. Any interval can be viewed as a ratio comparing the frequncies of the two pitches that create the interval. The simplest ratio, other than 1:1, would that of 2:1. For example, `C2` has a frequency of about 65.4 hertz (hz = vibrations per second), and `C3` has a frequency of about 130.8: a ratio of 2:1. When we hear two frequencies that have a 2:1 ratio, our brains interpret this as "the same pitch separated by an octave" -- an elegant solution to interpreting a physical phenomenon. This example demonstrates that all concepts associated with music, such as pitches, dividing octaves, intonation, etc., are human creations trying to organize and interpret the physical phenomenon of soundwaves entering our ear.
+The overtone series occurs naturally and can be explained mathematically, so it is one of the few objective ways in which we can discuss the origin of music. Any interval can be viewed as a ratio comparing the frequncies of the two pitches that create the interval. The simplest ratio, other than 1:1, is 2:1. For example, `C2` has a frequency of about 65.4 hertz (hz = vibrations per second), and `C3` has a frequency of about 130.8: a ratio of 2:1. When we hear two frequencies that have a 2:1 ratio, our brains interpret this as "the same pitch separated by an octave" -- an elegant solution to interpreting a physical phenomenon. This example demonstrates that all concepts associated with music, such as pitches, dividing octaves, intonation, etc., are human creations trying to organize and interpret the physical phenomenon of soundwaves entering our ear.
 
-The overtone series is an orders intervals by decreasing size but increasing complexity. The first interval of the overtone series, a P8, is the "simplest" interval of 2:1. As the overtone series moves upward, each interval becomes smaller but slightly more complex. A P5 has a ratio of 3:2, a P4 has a ratio of 4:3, a M3 has a ratio of 5:4, and onward. 
+The overtone series orders intervals by decreasing size but increasing complexity. The first interval of the overtone series, a P8, is the "simplest" interval of 2:1. As the overtone series moves upward, each interval becomes smaller but more complex. A P5 has a ratio of 3:2, a P4 has a ratio of 4:3, a M3 has a ratio of 5:4, and onward. 
 
 ## Concepts derived from the overtone series
 
 The overtone series is notable because:
-- The overtone series is present above every note played by a standard musical instrument or the human voice
+- The overtone series is present above every note played by a standard musical instrument or the human voice.
   - When a person sings a pitch, we hear the fundamental as the pitch name, but the strength of each overtone above that fundamental determines many qualities that we associate with the pitch such as timbre.
-- The overtone series determines intonation.
-  - Because the overtone series represents a series of simplified ratios, we use it to determine what is "in tune". An octave is a frequency that is exactly twice as high as the given pitch. A true P5 is a frequency that is 1.5 times higher than the given pitch.
-  - Fixed pitch instruments (e.g. piano) use a system of equal temperament to allow them to play in all twelve keys without retuning for each possible chord. This means that we intentionally tune these instruments "out of tune" when compared to the overtone series ratios.
-- The overtone series defines why the octave is divided into 12 parts, because it is from the overtone series that we derive the circle-of-fifths.
+- The overtone series is the basis for intonation.
+  - Using the ratios from the overtone series, we can determine what is "in tune". For example, an octave is a frequency that is exactly twice as high as the given pitch, and a true P5 is a frequency that is 1.5 times higher than the given pitch.
+  - Fixed pitch instruments (e.g. piano) use a system of *equal temperament* to play in all twelve keys without having to re-tune the instrument every time the key changes. This means that we intentionally tune these instruments "out of tune" when compared to the overtone series ratios, because being always slightly out-of-tune is a far better compromise than being perfectly in-tune sometimes and grossly out-of-tune at others.
+- The overtone series defines why the octave is divided into 12 parts, because it is from the overtone series that we derive the circle-of-fifths. Please refer to the discussion of the circle-of-fifths and tonality in Lesson 2c. 
 - The overtone series provides a visual example of why we find certain intervals more consonant or dissonant. 
-- We hear simpler ratios of intervals as consonant and complex ratios as dissonant. So intervals at the beginning of the overtone series represent consonant intervals, but as the intervals decrease in size as the overtone series moves upward, the ratios become more complex and therefore more dissonant.
+  - We hear simpler ratios of intervals as consonant and complex ratios as dissonant. So intervals at the beginning of the overtone series represent consonant intervals, but as the intervals decrease in size as the overtone series moves upward, the ratios become more complex and therefore more dissonant.
 - The overtone series provides a good foundation for voicing chords.
   - Idealized voicing for chords often mimic the overtone series by placing each voice along the overtone series of the lowest voice.
 
