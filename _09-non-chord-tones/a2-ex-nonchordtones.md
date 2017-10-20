@@ -46,7 +46,7 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] [EB]| [E/2A/2][F/2A/2] [FD]| [DD] [CE]| [C/2E/2]H[C/2F/2]|]
+[FA]| [DG] [EB]| "ret"[E/2A/2][F/2A/2] [FD]| [DD] [CE]| "ret"[C/2E/2]H[C/2F/2]|]
 V:2 clef=bass
 [F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,F,,]|]
 w:F:I ii6 V7 I IV6 ii6 V I{% endcapture %}
@@ -65,28 +65,28 @@ K:F
 V:1
 [FA]| [DG] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
 V:2 clef=bass
-[F,C]| [B,,D] [C/4C,/4][D/4C,/4][C/4C,/4][B,/4C,/4]| [CF,] [D,B,]| [B,,/4G,/4][B,,/4F,/4][B,,/4G,/4][B,,/4A,/4] [G,C,]| H[A,2F,,2]|]
+[F,C]| [B,,D] "ng"[C/4C,/4][D/4C,/4][C/4C,/4][B,/4C,/4]| [CF,] [D,B,]| "ng"[B,,/4G,/4][B,,/4F,/4][B,,/4G,/4][B,,/4A,/4] [G,C,]| H[A,2F,,2]|]
 w:F:I ii6 V7 _ _ _ I IV6 ii6 _ _ _ V I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-## Appogiaturas
+## Appogiaturas (APP)
 
-**The following example includes NCT appogiaturas as well as appogiaturas figures. What is the difference? What do they have in common?**
+**The following example includes NCT appoggiaturas as well as appoggiaturas figures. What is the difference? What do they have in common?**
 
 {% capture ex5 %}X:5
-T:With added appogiaturas
+T:With added appoggiaturas
 M:4/4
 L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
+[FA]| [D/2G/2]"app"[D/2c/2] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
 V:2 clef=bass
-[F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,2F,,2]|]
-w:I ii6 V7 I IV6 ii6 V I{% endcapture %}
+[C/2F,/2]"app"[E/2F,/2]| [B,,D] [CC,]| [C/2F,/2]"app fig"[C/2C,/2] [D,B,]| "app"[B,,/2F,/2][B,,/2G,/2][G,C,]| H[A,2F,,2]|]
+w:F:I _ ii6 V7 I _ IV6 ii6 _ V I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
-## Escape tones
+## Escape tones (ET)
 
 {% capture ex6 %}X:6
 T:With added escape tones
@@ -95,28 +95,30 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
+[FA]| [DG] [E/2B/2]"et"[E/2c/2]| [F/2A/2]"et"[F/2B/2] [FD]| [DD] [CE]| H[C2F2]|]
 V:2 clef=bass
-[F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,2F,,2]|]
-w:I ii6 V7 I IV6 ii6 V I{% endcapture %}
+[F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,/2G,/2]"et"[A,,/2G,/2] [G,C,]| H[A,2F,,2]|]
+w:F:I ii6 V7 I IV6 ii6 _ V I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
-## Incomplete neighbor tones
+## Anticipations (ANT)
 
 {% capture ex7 %}X:7
-T:With added incomplete neighbor tones
+T:With added anticipations
 M:4/4
 L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
+[FA]| [DG] [E/2B/2]"ant"[E/2A/2]| [FA] [FD]| [DD] [C/2E/2]"ant"[C/2F/2]| H[C2F2]|]
 V:2 clef=bass
-[F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,2F,,2]|]
-w:I ii6 V7 I IV6 ii6 V I{% endcapture %}
+[F,C]| [B,,D] [CC,]| [CF,] [D,/2B,/2]"ant"[D,/2G,/2]| [B,,G,] [G,C,]| H[A,2F,,2]|]
+w:F:I ii6 V7 I IV6 _ ii6 V I{% endcapture %}
 {% include abc-example.html number="7" abc=ex7 %}
 
-## Pedals
+## Pedals (PED)
+
+**Pedals, sometimes referred to as pedal points, most often occur in the bass voice, but can occur be used in any voice. They can be difficult to spot if the texture is broken into arpeggiated chords.**
 
 {% capture ex8 %}X:8
 T:With added an added pedal point
@@ -128,5 +130,5 @@ V:1
 [FA]| [DG] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
 V:2 clef=bass
 [F,C]| [F,B,] [F,C]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,2F,,2]|]
-w:I ii6 V7 I IV6 ii6 V I{% endcapture %}
+w:F:I ii6 V7 I IV6 ii6 V I{% endcapture %}
 {% include abc-example.html number="8" abc=ex8 %}
