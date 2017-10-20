@@ -18,7 +18,7 @@ V:2 clef=bass
 [F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,2F,,2]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-**Using this framework we can add some of the NCTs that we have already studied. The following example incorporate multiple examples of each of these to create an (overly) florid example. Identify each of the non-chord tones.**
+**Using this framework we can add some of the NCTs that we have already studied. The following example incorporate multiple examples of each of these to create an (overly) embellished example. Identify each of the non-chord tones.**
 
 {% capture ex2 %}X:2
 T:With added suspensions, passing tones, and neighbor tones
@@ -33,7 +33,7 @@ V:2 clef=bass
 w:F:I ii6 V7 _ I IV6 ii6 _ V I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-**There are many other types of NCTs, so we will now use our simple progression to demonstrate examples of each of them. Compare the examples below to the original progression to determine what has changed; this change is the NCT. As you do this, use the the three characteristics discussed in the overview -- preparation, NCT, and resolution -- to create a definition for each NCT. Once you have a working definition, see if the other other descriptors (such as upper/lower, ascending/descending, chromatic/diatonic, or accented/non-accented) can be applied to each NCT.**
+**There are many other types of NCTs, and we can use our simple progression to demonstrate examples of each of them. Compare the examples below to the original progression to determine what has changed; this change is the NCT. As you do this, use the the three characteristics discussed in the overview -- preparation, NCT, and resolution -- to create a definition for each NCT. Once you have a working definition, see if the other other descriptors (such as upper/lower, ascending/descending, chromatic/diatonic, or accented/non-accented) can be applied to each NCT.**
 
 ## Retardations (RET)
 
@@ -69,7 +69,7 @@ V:2 clef=bass
 w:F:I ii6 V7 _ _ _ I IV6 ii6 _ _ _ V I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-## Appogiaturas (APP)
+## Appoggiaturas (APP)
 
 **The following example includes NCT appoggiaturas as well as appoggiaturas figures. What is the difference? What do they have in common?**
 
@@ -87,6 +87,8 @@ w:F:I _ ii6 V7 I _ IV6 ii6 _ V I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
 ## Escape tones (ET)
+
+**Some theorists group appoggiaturas and escape tones into one category: incomplete neighbor tones. How do you think they came to this name?**
 
 {% capture ex6 %}X:6
 T:With added escape tones
@@ -118,7 +120,7 @@ w:F:I ii6 V7 I IV6 _ ii6 V I{% endcapture %}
 
 ## Pedals (PED)
 
-**Pedals, sometimes referred to as pedal points, most often occur in the bass voice, but can occur be used in any voice. They can be difficult to spot if the texture is broken into arpeggiated chords.**
+**Pedals, often referred to as pedal points, most often occur in the bass voice but can occur in any voice. They can be difficult to spot if the texture is broken into arpeggiated chords, so it may be necessary to reduce a complicated texture down to block chords to more easily find the pedals.**
 
 {% capture ex8 %}X:8
 T:With added an added pedal point
