@@ -5,6 +5,97 @@ title: 9a Lesson - Non-chord Tones
 
 # Class discussion
 
+## Non-Chord Tones
+
+There are three parts to a non-chord tone:
+1. Preperation
+2. Non-Chord Tone
+3. Resolution
+
+Example:
+- Passing Tone 
+1. Approached by stepwise motion
+2. Passing Tone
+3. Resolved by stepwise motion in the same direction
+  
+We have previously covered 3 non-chord tones:
+- passing tone
+- neighbor tone (lower and upper)
+- suspensions
+
+We have 5 non-chord tones left to cover:
+- escape tone
+- retardation
+- neighbor group
+- appogiatura
+- anticipation
+- pedal tone
+
+#### Accented and Unaccented non-chord tones
+- classified by where the non-chord hits in the measure 
+- Accented non-chord tones hit on the beat
+- Unaccented non-chord tones hit on the off-beat
+  - this definition assumes that chord changes are occuring on the beat 
+
+#### Diatonic and Chromatic Non-chord Tones
+- diatonic non-chord tones are tones within the key that are not a part of the chord
+  - ex: In a C major chord in the key of C major, an A on the off beat.
+- chromatic non-chord tones are tones outside of the key that are not a part of the chord
+  - ex: In a C major chord in the key of C major, and F# off the beat.
+
+#### Ascending and Descending vs. Upper and Lower
+- ascending and descending applies to non-chord tones like the passing tone
+- upper and lower applies to non-chord tones like the neighbor tone
+  - some non-chord tones don't need these descriptions, like suspensions and retardations
+  
+### New Non-Chord Tones
+
+#### Retardation
+- labeled as "ret"
+1. Approached by static motion
+2. Retardation
+3. Resolved by stepwise motion upward
+  - the upwards resolution version of a suspension
+  
+#### Neighbor Group
+- labeled as "ng"
+- taking a note and surrounding it 
+1. Approached by step from chord tone
+2. Neighbor tone (upper or lower)
+3. Original chord tone
+4. Neighbor tone (upper or lower that wasn't previously used)
+5. Original chord tone 
+- also called a double neighbor tone
+- considered a combination of neighbor tones and passing tones
+
+#### Appogiaturas and Escape Tones
+Appogiatura
+- labeled as "app"
+1. Approached by leap
+2. Appogiatura 
+3. Left by step in the opposite direction
+- can be either accented or unaccented
+Escape Tone
+- labeled as "et"
+1. Approached by step
+2. Escape tone
+3. Left by leap in the opposite direction
+- appogiaturas and escape tones are the opposites of each other
+
+Any of these can be called a figure of a non-chord tone if a series of notes has the shape of a non-chord tone but is made of chord tones. 
+  Ex: Appogiatura figure, Passing figure, neighbor figure, etc. 
+
+#### Anticipation
+- labeled as "ant"
+- when you anticipate the chord tone
+1. Approach is unimportant
+2. Anticipation
+3. Resolved by static motion to a chord tone
+- anticipations are always unaccented
+
+#### Pedal Tone 
+
+
 # Further reading
 
 ## From *Open Music Theory*
