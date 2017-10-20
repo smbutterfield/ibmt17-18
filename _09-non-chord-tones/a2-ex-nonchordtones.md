@@ -4,7 +4,7 @@ title: 9a Examples - Non-chord Tones
 abc: true
 ---
 
-**We will the following simple progression as a template for writing non-chord tones. Start by providing Roman numerals and leadsheet symbols.**
+**We will use the following simple progression as a template for demonstrating non-chord tones. Start by providing Roman numerals and leadsheet symbols.**
 
 {% capture ex1 %}X:1
 T:A simple phrase
