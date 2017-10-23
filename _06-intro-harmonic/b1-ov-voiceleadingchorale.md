@@ -6,11 +6,11 @@ title: Overview 6b - Voice-leading Considerations in Chorale-style Harmony
 Because the Roman numeral system allows us to classify and label context and function, we can use it explore how harmonies function within a diatonic style.
 
 In diatonic music, there are three basic categories of harmonic function: *tonic*, *dominant*, and *pre-dominant*. 
-- *Tonic* harmonies feel stable and final.
+- *Tonic* (**T**) harmonies feel stable and final.
   - This is primarily the I chord, but in rare circumstances, this can include the vi.
-- *Dominant* harmonies feel unsettled and have a strong tonal gravity to resolve to the *tonic* harmony*
+- *Dominant* (**D**) harmonies feel unsettled and have a strong tonal gravity to resolve to the *tonic* harmony*
   - This includes the V and vii<sup>&oslash;</sup> chords.
-- *Pre-dominant* harmonies are harmonies are unstable and have a tonal gravity to resolve to the *dominant* harmonies.
+- *Pre-dominant* (**P**) harmonies are harmonies are unstable and have a tonal gravity to resolve to the *dominant* harmonies.
   - This includes the ii and IV chords, but can occasionally include the vi chord.
   - Note that there is a difference between the words "pre-dominant" and "predominant".
 

@@ -1,112 +1,99 @@
 ---
 layout: chapter
 title: 10a Lesson - Fundamentals of Part-writing
+abc: true
 ---
 
 # Class discussion
 
-### Part Writing 
+After we discussed the idea of how part-writing will work, we briefly discussed "why." Why do we study part-writing when it is a style in which most students and music professionals will not perform or teach.
 
-What do we think of when we hear part writing?
-- writing parts
-- filling in the parts between the soprano and bass
+There are many answers for this, but there is one in particular that I think justifies the study of this in this course. Part-writing is the simplest way to study how voice-leading creates harmony. Even though most of its rules are archaic, and a modern student's ear is not nearly as offended by certain style characteristics (e.g. parallel fifths), this is the most straightforward way to study every aspect of how music functions: voice-leaeding, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and every other aspect of how music functions.
 
-Part writing incorporates everything we've learned thus far.
-If you have a chord progression, you should be able to:
-1. Write a bass line
-  - a bass line tells us how it functions
-  - gives you a basis to write a soprano part
-2. Write a soprano part above
-3. Fill in the other inner voices
-  - inner voices being alto and tenor lines
-  
-Part writing rules are old and may not apply directly to your future exploits in music, but knowing where music theory came from helps your musicianship as a whole. 
-The "no parallel fifths and octaves" rule has a basis.
+In short, you may never use this directly, but a knowledge and understanding of these basic tenets will greatly enhance your ability to function as a musician, regardless of your career path.
 
-When doing part writing exercises, ask yourself these questions:
-Does your chord progression follow a circle of fifths progression? 
-Does your progression establish a key and resolve on a cadence?
+## The Handout
 
-Soprano Line:   C E D F G F (E) D C
+We will be referring to Dr. Butterfield's handout, [Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing), for the next two units, so it may be helpful to have this printed out and available.
 
-Bass Line:      C   F   G         C
+## Harmonizing a melody
 
-Roman Numerals: I   ii6 V7        I
+I started by writing a simple melody on the board:
+{% capture ex1 %}X:1
+T:Melody
+M:4/4
+L:1/4
+K:C
+V:1
+cedf| gfed| c4|]
+V:2 clef=bass
+x| x|]{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
 
-Function:       T   P   D         T
+I asked the students how they would harmonize it, and two different approaches were given:
+- Every pitch could get its own harmony OR
+- We could look for patterns to create extended harmonies
 
-Function names:
-- T is Tonic
-- P is Pre-Dominant
-- D is Dominant
+I chose to explore the second option, so I asked the students how they would group the melody into harmonies. One student suggested that the first two pitches outline a I chord chord, so we decided to consider that all a tonic harmony. Because the next two pitches (beats 3 and 4) followed the same shape, we used the same logic and labeled these as a ii chord. From here, we refered to our circle-of-fifths progressions to determine that a ii chord has a pre-dominant function, so we needed a dominant harmony for the following chord. The next measure contains `sol`, `fa`, and `re`, so the entire measure is likely a V<sup>7</sup> chord with a non-chord tone of `mi`. The V<sup>7</sup> chord wants to resolve to a tonic harmony, so we ended the harmonization on a I chord.
 
-Filling in the inner parts with simplified melody:
+Using only a simple understanding of diatonic progressions, we harmonized a melody with a standard tonic - pre-dominant - dominant - tonic progression. 
 
-Soprano Line:   C  A   B  C
+## Part-writing
 
-Alto Line:      E  D   F  E
+Because we were short on time, I chose to simplify the melody and then added a suggested bass line based on our progression. This created:
 
-Tenor Line:     G  A   G  G
+{% capture ex2 %}X:2
+T:A first attempt at part-writing
+M:4/4
+L:1/2
+K:C
+V:1
+[c] [A]| [B] [c]|]
+V:2 clef=bass
+[C,] [F,] | [G,] [C,]|]
+w:C:I ii6 V7 I
+w:T P D T{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
 
-Bass Line:      C  F   G  C
+From here, we began referring to the handout to see if we had met the criteria:
+- Our chords follow a standard progression.
+- It establishes a key and then cadences in that key.
+- The lines emphasize smooth voice-leading.
 
-Roman Numerals: I  ii6 V7 I
+We were now ready to add inner voices, so I let the class suggest a voicing of the first chord based on our voicing and doubling rules from Unit 6b. They chose:
 
-Function:       T  P   D  T
+{% capture ex3 %}X:3
+T:A first attempt at part-writing
+M:4/4
+L:1/2
+K:C
+V:1
+[cE] [A]| [B] [c]|]
+V:2 clef=bass
+[C,G,] [F,] | [G,] [C,]|]
+w:C:I ii6 V7 I
+w:T P D T{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
 
-When we have a skip of a third that implies a triad.
-When we have stepwise motion that implies 
-When we have a leap of a fourth that implies first inversion.
-The larger leaps we have the more necessary non-chord tones are.
-If there's a non-chord tone that doesn't fit into our descriptions, it's being incorrectly used.
+Lastly, I asked them to create the alto and tenor lines while observing the melodic guidelines from the handout.
+- Individual lines should create smooth voice-leading using primarily stepwise motion.
+- Resolve tendency tones as we studied in our voice-leading discussions (Unit 6b.)
 
-Do all tendancy tones resolve how they are supposed to? 
-Usually, but there some exceptions. 
+This led them to create:
 
-# Further reading
+{% capture ex4 %}X:4
+T:A first attempt at part-writing
+M:4/4
+L:1/2
+K:C
+V:1
+[cE] [AD]| [BF] [cE]|]
+V:2 clef=bass
+[C,G,] [F,A,] | [G,G,] [C,G,]|]
+w:C:I ii6 V7 I
+w:T P D T{% endcapture %}
+{% include abc-example.html number="4" abc=ex4 %}
 
-## From *Open Music Theory*
+Of note, they first suggested jumping up to a `D` for the first beat of the second measure in the tenor line, but this created an unnecessarily disjunct tenor part. As we studied in Unit 6b, the chordal fifth can be ommitted on a seventh chord if the root is doubled.
 
-In strict keyboard style, there are two main types of pitch tendency to keep in mind: *tendency tones* and *functional dissonances*.
-
-### Tendency tones
-
-A *tendency tone* is a pitch (class)—usually represented as a scale degree—that tends to progress to some pitch classes more than others. Sometimes this tendency is absolute within a style, but more often it is context-dependent.
-
-The most prominent tendency tones in Western tonal styles are *ti* (not *te*) and *le* (not *la*). 
-
-Generally speaking, when *ti* appears it tends to be followed by *do* in the same voice. In a harmonic context, this tendency is strongest when *ti* occurs in a dominant-functioning chord, and the "resolution" of that tendency comes upon change of function (to tonic or predominant).
-
-Likewise, when *le* appears, it tends to be followed by *sol* in the same voice. This tendency is less dependent on function.
-
-Exceptions to these tendencies include:
-
-- When *ti* is in the middle of a stepwise descent (*re*–*do*–*ti*–*la*–*sol*, for example), it can progress down by step. (Note that *step inertia* here diminishes the effect of an "unresolved" tendency tone. Because there are two conflicting tendencies in play, in this case, either can be "resolved" unproblematically.)  
-- When *ti* is in an inner voice, it can progress down to *sol* if necessary to accomplish good voice-leading in the other voices and ensure complete chords. This is called a *frustrated leading-tone*.  
-- When *ti* is a functional dissonance of a tonic-functioning chord (see below) it should progress down by step.
-
-### Functional dissonances
-
-Some tendencies, such as the tendency for *le* to progress down, are relatively context-independent. Others are heavily contextualized. The primary contextual tendency for how melodic notes progress is the concept of *functional dissonance*.
-
-Keep in mind from the [Harmonic functions resource](harmonicFunctions.html) that chords tend to cluster in one of three functional groups (**T**, **P**, or **D**) When pitches fuse into a chord expressing one of these three functions, the pitches that comprise that have certain tendencies of progression that they may or may not have in other contexts.
-
-Following are the scale degrees which act as dissonances for their respective functions:
-
-| function	| dissonances	|
-| -: | :-: |
-| T or Tx	| 7, 5 when 6 is also present	
-| P	| 3, 1 when 2 is also present
-| D	| 4, 6
-
-In purely diatonic music (triads and seventh chords, no chromatics), these will include *the seventh of every seventh chord*, *the fifth of viiº or VII* (*fa*), and *the fifth of III or iii* (*ti/te*).
-
-Keep in mind that only sometimes do these functional dissonances express themselves in chords or intervals that are acoustically dissonant. However, they do introduce a degree of tension that, like an acoustically dissonant interval in species counterpoint, requires a smooth introduction and a specific resolution.
-
-When one of these scale degrees is present in a chord with the corresponding function, the dissonant scale degree has a strong tendency to *resolve down by step over the next change in function*. In strict composition, we will *always* follow these tendencies. 
-
-In strict keyboard style, these functional dissonances should be "prepared" (approached) by common tone or by step. Thus, though they are proper members of the chord, melodically they will look like one of the three dissonance types of species counterpoint: a *passing tone* or *neighbor tone* dissonance that is approached by step, or a *suspension* dissonance that is approached by a common tone. The suspension type is preferred.
-
-Once a functional dissonance is introduced, it must be resolved down by step in the same voice when the function changes. The dissonance can also be *transferred* to another voice before resolution—for instance, if there are multiple chords in a row exhibiting the same function, a dissonance that appears in the alto can be transferred to the tenor in the following chord, and then resolve in the tenor when the function changes. (It is more typical, and smoother sounding, to transfer dissonances between inner voices or from an inner voice to an outer voice than from an outer voice to an inner voice. Once a dissonance appears in the melody or bass, where it is more noticeable, it tends to resolve in that voice.)
-
-Functional dissonance resolutions often cause conflicts with other principles of voice leading. Except in special cases such as *schemata* (standard patterns that are common enough to sound appropriate, even if they follow different rules), the functional dissonance resolution takes precedence over other principles such as the *law of the shortest way*, contrary motion with the bass, and preferring common tones and steps to melodic leaps. A dissonance resolution is never an excuse for illegal parallels, and only rarely will lead to non-standard doublings.
+This demonstrated that if we use only the tools that we have learned thus far in the course, we can already create a simple four-part chorale.

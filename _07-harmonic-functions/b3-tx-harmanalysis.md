@@ -54,9 +54,9 @@ This was a brief discussion. Refer to the voicing guidelines under Unit 6b for l
 
 ## The three common-practice harmonic functions
 
-In common-practice music, harmonies tend to cluster around three high-level categories of harmonic function. These categories are traditionally called *tonic* (**T**), *subdominant* (**S** — also called *predominant*, **P** or **PD**), and *dominant* (**D**). Each of these functions has their own characteristic scale degrees, with their own characteristic tendencies. And each of these functions tend to participate in certain kinds of chord progressions more than others.
+In common-practice music, harmonies tend to cluster around three high-level categories of harmonic function. These categories are traditionally called *tonic* (**T**), *pre-dominant* (**P** — sometimes referred to as *subdominant*, **S**), and *dominant* (**D**). Each of these functions has their own characteristic scale degrees, with their own characteristic tendencies. And each of these functions tend to participate in certain kinds of chord progressions more than others.
 
-If you are already comfortable with Roman numerals, you can generally think of **I**, **III**, and **VI** as *tonic*, **II** and **IV** as *subdominant*, and **V** and **VII** as *dominant*. (Though, as you will see below, there is more to it than that.) 
+If you are already comfortable with Roman numerals, you can generally think of **I**, **III**, and **VI** as *tonic*, **II** and **IV** as *pre-dominant*, and **V** and **VII** as *dominant*. (Though, as you will see below, there is more to it than that.) 
 
 To visualize these functional categories, think of the usual triads in C major arranged on a circle of thirds. Note that each chord sits between the two triads that share the most tones in common — C major (C, E, G) sits between E minor (E, G, B) and A minor (A, C, E), both of which share two tones in common with C.
 
@@ -74,14 +74,14 @@ The syntactic properties of these functions will be covered elsewhere. What foll
 
 ## Finding the function of a chord ##
 
-Each of the three harmonic functions — *tonic* (T), *subdominant* (S), and *dominant* (D) — have characteristic scale degrees. Tonic's characteristic scale degrees are 1, 3, 5, 6, and 7. Subdominant's characteristic scale degrees are 1, 2, 3, 4, and 6. Dominant's characteristic scale degrees are 2, 4, 5, 6, and 7.
+Each of the three harmonic functions — *tonic* (T), *pre-dominant* (P), and *dominant* (D) — have characteristic scale degrees. Tonic's characteristic scale degrees are 1, 3, 5, 6, and 7. Pre-dominant's characteristic scale degrees are 1, 2, 3, 4, and 6. Dominant's characteristic scale degrees are 2, 4, 5, 6, and 7.
 
 Ian Quinn (a music theorist at Yale University) further distinguishes these scale degrees, using the categories of functional *triggers*, functional *associates*, and functional *dissonances*. These categories help us understand the functional properties of chords whose scale degrees belong to more than one function, as well as how certain notes behave within a chord. They also help us understand which scale degrees are more or less characteristic of a function ― something that will help determine function when a complete chord is not present.
 
 | function 	| triggers 	| associates 	| dissonances 	|
 | :-: | :- | :- | :- |
 | **T**	| 1 and 3	| 5 and 6	| 5 (if 6 is also present) and 7 |
-| **S**	| 4 and 6	| 1 and 2	| 1 (if 2 is also present) and 3 |
+| **P**	| 4 and 6	| 1 and 2	| 1 (if 2 is also present) and 3 |
 | **D**	| 5 and 7	| 2	| 4 and 6 |
 
 
@@ -90,7 +90,7 @@ In terms of moveable-*do* solfège:
 | function 	| triggers 	| associates 	| dissonances 	|
 | :-: | :- | :- | :- |
 | **T**	| *do* and *mi*/*me*	| *sol* and *la*/*le*	| *sol* (if *la*/*le* is also present) and *ti*/*te*
-| **S**	| *fa* and *la*/*le*	| *do* and *re*	| *do* (if *re* is also present) and *mi*/*me*
+| **P**	| *fa* and *la*/*le*	| *do* and *re*	| *do* (if *re* is also present) and *mi*/*me*
 | **D**	| *sol* and *ti*/*te*	| *re*	| *fa* and *la*/*le*
 
 To determine the function of a chord, find the function that includes all the scale degrees of a chord (regardless of chromatic alterations ― that is, treat &#9839;4 the same as regular scale-degree 4). If more than one function contains all the scale degrees, take the function with the most triggers in the chord.
