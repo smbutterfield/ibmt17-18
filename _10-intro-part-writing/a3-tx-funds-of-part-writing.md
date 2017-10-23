@@ -5,6 +5,64 @@ title: 10a Lesson - Fundamentals of Part-writing
 
 # Class discussion
 
+### Part Writing 
+
+What do we think of when we hear part writing?
+- writing parts
+- filling in the parts between the soprano and bass
+
+Part writing incorporates everything we've learned thus far.
+If you have a chord progression, you should be able to:
+1. Write a bass line
+  - a bass line tells us how it functions
+  - gives you a basis to write a soprano part
+2. Write a soprano part above
+3. Fill in the other inner voices
+  - inner voices being alto and tenor lines
+  
+Part writing rules are old and may not apply directly to your future exploits in music, but knowing where music theory came from helps your musicianship as a whole. 
+The "no parallel fifths and octaves" rule has a basis.
+
+When doing part writing exercises, ask yourself these questions:
+Does your chord progression follow a circle of fifths progression? 
+Does your progression establish a key and resolve on a cadence?
+
+Soprano Line:   C E D F G F (E) D C
+
+Bass Line:      C   F   G         C
+
+Roman Numerals: I   ii6 V7        I
+
+Function:       T   P   D         T
+
+Function names:
+- T is Tonic
+- P is Pre-Dominant
+- D is Dominant
+
+Filling in the inner parts with simplified melody:
+
+Soprano Line:   C  A   B  C
+
+Alto Line:      E  D   F  E
+
+Tenor Line:     G  A   G  G
+
+Bass Line:      C  F   G  C
+
+Roman Numerals: I  ii6 V7 I
+
+Function:       T  P   D  T
+
+When we have a skip of a third that implies a triad.
+When we have stepwise motion that implies 
+When we have a leap of a fourth that implies first inversion.
+The larger leaps we have the more necessary non-chord tones are.
+If there's a non-chord tone that doesn't fit into our descriptions, it's being incorrectly used.
+
+Do all tendancy tones resolve how they are supposed to? 
+Usually, but there some exceptions. 
+
 # Further reading
 
 ## From *Open Music Theory*
