@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 10a Lesson - Tendency Tones and Chordal Function
+title: 10a Lesson - Fundamentals of Part-writing
 ---
 
 # Class discussion

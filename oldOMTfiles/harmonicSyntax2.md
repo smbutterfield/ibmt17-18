@@ -7,13 +7,13 @@ Following are the primary techniques used to prolong functional zones in an idea
 
 ## Change-of-figure prolongation ##
 
-A *change-of-figure prolongation* occurs when the bass repeats (or is sustained, or drops an octave) while one or more of the upper voices change. The function remains the same (T/S/D), but the Roman numeral may change.
+A *change-of-figure prolongation* occurs when the bass repeats (or is sustained, or drops an octave) while one or more of the upper voices change. The function remains the same (T/P/D), but the Roman numeral may change.
 
-Examples include progressions like **V–V<sup>7</sup>** (both **D5**) or **IV–II<sup>6</sup>** (both **S4**). 
+Examples include progressions like **V–V<sup>7</sup>** (both **D5**) or **IV–II<sup>6</sup>** (both **P4**). 
 
 ## Change-of-bass prolongation ##
 
-A *change-of-bass prolongation* occurs when two chords of the same function appear back-to-back, but with different bass pitch classes. In some cases, these are changes of inversion: **I–I<sup>6</sup>**, for example. In other cases, the root changes: **I–III** or **IV–II**, for example. What makes these progressions prolongations is that the function remains the same. **I–I<sup>6</sup>** prolongs tonic function (**T1–T3**), and **IV–II** prolongs subdominant function (**S4–S2**).
+A *change-of-bass prolongation* occurs when two chords of the same function appear back-to-back, but with different bass pitch classes. In some cases, these are changes of inversion: **I–I<sup>6</sup>**, for example. In other cases, the root changes: **I–III** or **IV–II**, for example. What makes these progressions prolongations is that the function remains the same. **I–I<sup>6</sup>** prolongs tonic function (**T1–T3**), and **IV–II** prolongs pre-dominant function (**P4–P2**).
 
 ## Contrapuntal prolongation – passing chord ##
 
@@ -21,7 +21,7 @@ Many change-of-bass prolongations involve a skip of a third in the bass, such as
 
 The bass note of a passing chord will fill in the third with stepwise motion. The melody will also often contain passing motion.
 
-A function is typically prolonged by contrapuntal chords belonging to the function that precedes it in the standard cycle. T is prolonged by D, D by S, and S by T.
+A function is typically prolonged by contrapuntal chords belonging to the function that precedes it in the standard cycle. T is prolonged by D, D by P, and P by T.
 
 A passing chord that prolongs the above **T1–T3** progression would then be a dominant chord (D precedes T) with scale-degree 2 in the bass (the passing tone between scale degrees 1 and 3): **D2**. 
 
@@ -31,7 +31,7 @@ Common **D2** chords are **V<sup>6/4</sup>**, **V<sup>4/3</sup>**, and **VII<sup
 
 <iframe src="https://trinket.io/embed/music/e02e8af4b3" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-Note that while scale-degree 2 in the bass can support a **II** chord, **II** is subdominant, and so it is *not* used as a passing chord to prolong tonic.
+Note that while scale-degree 2 in the bass can support a **II** chord, **II** is pre-dominant, and so it is *not* used as a passing chord to prolong tonic.
 
 ## Contrapuntal prolongation – incomplete neighbor chord ##
 
@@ -47,8 +47,8 @@ Just as a *neighbor tone* in second- or third-species counterpoint could be used
 
 - **T1 D7 T1**  
 - **T3 D4 T3**  
-- **S4 T3 S4**  
-- **D7 S6 D7**
+- **P4 T3 P4**  
+- **D7 P6 D7**
 
 Here is a **T1 D7 T1** neighbor prolongation in strict keyboard style. What is the Roman numeral and figured bass for the **D7** chord? What is the least number of changes you can make to it in order to transform it into **T3 D4 T3**?
 
@@ -62,17 +62,17 @@ Just as third-species counterpoint has a *double neighbor* figure, harmonies can
 
 In second-species counterpoint, an *interval subdivision* divided a large leap between downbeats into two smaller leaps. Likewise, a *divider chord* takes a large leap between bass notes in a change-of-bass prolongation (or a simple octave leap in the bass) and divides it into two smaller leaps.
 
-Divider chords almost always prolong tonic function, and can do so using either subdominant or dominant dividers. The most common divider-chord prolongations are:
+Divider chords almost always prolong tonic function, and can do so using either pre-dominant or dominant dividers. The most common divider-chord prolongations are:
 
 - **T1 D5 T1** (**I V<sup>(7)</sup> I**), where the bass ascends or descends an octave between **T1** chords.  
-- **T1 S4 T1** (**I IV I**), where the bass ascends or descends an octave between **T1** chords.  
-- **T1 S6 T3** (**I IV<sup>6</sup> I<sup>6</sup>** or **I IV<sup>6</sup> III**), dubbed the *champagne progression* by theorist Gene Biringer, because it is "the progression you pull out when you want to impress a date." 
+- **T1 P4 T1** (**I IV I**), where the bass ascends or descends an octave between **T1** chords.  
+- **T1 P6 T3** (**I IV<sup>6</sup> I<sup>6</sup>** or **I IV<sup>6</sup> III**), dubbed the *champagne progression* by theorist Gene Biringer, because it is "the progression you pull out when you want to impress a date." 
 
 Following is a champagne progression. Which version is it (**I<sup>6</sup>** or **III**)? What one thing must change in order to form the other version? What default voice-leading rule is "broken" in this progression? (Note, because of rule conflicts, this progression will always break that rule, and it will always have these scale degrees in the melody.)
 
 <iframe src="https://trinket.io/embed/music/6a403a3d21" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-In the case of **T1 D5 T1** and **T1 S4 T1**, the same harmonic progression can occur without the bass changing register. In other words, the bass leaps from *do* to *sol* or *fa*, but returns to the original bass note. Instead of dividing a large leap, the bass note of the intervening chord looks like an *embellishing tone* from third species. (In third-species counterpoint, an *embellishing tone* ornaments another tone by leaping to another consonance — usually a third or fourth away — and returning to the original tone.) Thus, what would otherwise be a *divider chord* is instead an *embellishing chord*. 
+In the case of **T1 D5 T1** and **T1 P4 T1**, the same harmonic progression can occur without the bass changing register. In other words, the bass leaps from *do* to *sol* or *fa*, but returns to the original bass note. Instead of dividing a large leap, the bass note of the intervening chord looks like an *embellishing tone* from third species. (In third-species counterpoint, an *embellishing tone* ornaments another tone by leaping to another consonance — usually a third or fourth away — and returning to the original tone.) Thus, what would otherwise be a *divider chord* is instead an *embellishing chord*. 
 
 Following is a **T1 D5 T1** *divider* prolongation. What single change can make it an *embellishing chord* prolongation?
 
@@ -80,7 +80,7 @@ Following is a **T1 D5 T1** *divider* prolongation. What single change can make 
 
 ## Subsidiary harmonic progressions ##
 
-The last type of prolongation is not contrapuntal, but instead involves weak versions of the typical **T–(S)–D–T** progression. When such a progression fails to produce a proper cadence — that is, it ends with contrapuntal chords such as **D7–T1** or **D4–T3**, or uses a "deceptive resolution" **D5–T6** (**V–VI**) in place of the cadential **D5–T1** — the progression is called a *subsidiary harmonic progression* (this term comes from Edward Aldwell & Carl Schachter; Steven Laitz calls the same progression an *embedded phrase model*). It is "subsidiary" (or "embedded") because instead of occupying the whole phrase, it is subsidiary to (or embedded in) a larger progression. 
+The last type of prolongation is not contrapuntal, but instead involves weak versions of the typical **T–(P)–D–T** progression. When such a progression fails to produce a proper cadence — that is, it ends with contrapuntal chords such as **D7–T1** or **D4–T3**, or uses a "deceptive resolution" **D5–T6** (**V–VI**) in place of the cadential **D5–T1** — the progression is called a *subsidiary harmonic progression* (this term comes from Edward Aldwell & Carl Schachter; Steven Laitz calls the same progression an *embedded phrase model*). It is "subsidiary" (or "embedded") because instead of occupying the whole phrase, it is subsidiary to (or embedded in) a larger progression. 
 
 These subsidiary progressions *always prolong tonic*. They are labeled in an analysis by following the initial T with a line:
 
@@ -96,15 +96,15 @@ The first progression through the **T–S–D–T** cycle does not produce a cad
 
 ## Plagal progressions ##
 
-As a rule, **T** is used for contrapuntal prolongation of **S**, **S** prolongs **D**, and **D** prolongs **T**. However, there are some common patterns in which **S** is used to prolong **T**.
+As a rule, **T** is used for contrapuntal prolongation of **P**, **P** prolongs **D**, and **D** prolongs **T**. However, there are some common patterns in which **P** is used to prolong **T**.
 
-The *champagne progression* (**I–IV<sup>6</sup>–I<sup>6</sup>** or **I–IV<sup>6</sup>–III**) is one. Another is the **S4** divider, as well as the related **S4** embellishing chord. All are described above.
+The *champagne progression* (**I–IV<sup>6</sup>–I<sup>6</sup>** or **I–IV<sup>6</sup>–III**) is one. Another is the **P4** divider, as well as the related **P4** embellishing chord. All are described above.
 
-One other common pattern is to use **IV** (**S**) as a complete or incomplete neighbor to **I<sup>6</sup>** (**T**). Common progressions include **I IV I<sup>6</sup>** and **I<sup>6</sup> IV I<sup>6</sup>**.
+One other common pattern is to use **IV** (**P**) as a complete or incomplete neighbor to **I<sup>6</sup>** (**T**). Common progressions include **I IV I<sup>6</sup>** and **I<sup>6</sup> IV I<sup>6</sup>**.
 
 <iframe src="https://trinket.io/embed/music/480c1acf9b" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-Also common is a *change-of-figure* prolongation of **T1**: <strong>I–IV<sup>6/4</sup>–I</strong>. The <strong>IV<sup>6/4</sup></strong> can be considered an **S** chord, but it is often more appropriate simply to consider the sixth and fourth above the bass in that chord to be neighbor tones to the fifth and third. Simply label such a progression **T———** underneath the Roman numerals.
+Also common is a *change-of-figure* prolongation of **T1**: <strong>I–IV<sup>6/4</sup>–I</strong>. The <strong>IV<sup>6/4</sup></strong> can be considered an **P** chord, but it is often more appropriate simply to consider the sixth and fourth above the bass in that chord to be neighbor tones to the fifth and third. Simply label such a progression **T———** underneath the Roman numerals.
 
 <iframe src="https://trinket.io/embed/music/1e440d4768" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
@@ -112,6 +112,6 @@ Also common is a *change-of-figure* prolongation of **T1**: <strong>I–IV<sup>6
 
 Occasionally, a contrapuntal chord is used not to prolong a single function, but to connect chords of different functions — in other words, to prolong a progression.
 
-The most common occurrence is when a bass line moves down by step from *do* to *sol*, which is especially common in minor. The bass line *do*–*te*–*le*–*sol* is harmonized by **T1 D7 S6 D5** (usually **i v<sup>6</sup> iv<sup>6</sup> V** — the chord qualities are important in this progression, called the "lament"). In this progression, the **S6** is a functional subdominant leading to the cadential **D5**. The **D7** chord, then, is simply a passing chord that connects **T1** with **S6**. To notate this, draw and arrow between **T** and **S** underneath the Roman numeral analysis. 
+The most common occurrence is when a bass line moves down by step from *do* to *sol*, which is especially common in minor. The bass line *do*–*te*–*le*–*sol* is harmonized by **T1 D7 P6 D5** (usually **i v<sup>6</sup> iv<sup>6</sup> V** — the chord qualities are important in this progression, called the "lament"). In this progression, the **P6** is a functional pre-dominant leading to the cadential **D5**. The **D7** chord, then, is simply a passing chord that connects **T1** with **P6**. To notate this, draw and arrow between **T** and **P** underneath the Roman numeral analysis. 
 
 <iframe src="https://trinket.io/embed/music/3b6de8a510" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>

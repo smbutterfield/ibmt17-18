@@ -49,7 +49,7 @@ Functional prolongations are shown in a harmonic analysis by writing/typing T, P
 The following excerpt is from Mozart's Piano Sonata in A Major, K. 331, I., mm. 1–4, with a harmonic reduction and analysis provided below the original score. Such an analysis is called an *interpreted* harmonic analysis, because the harmonies are interpreted according to the way they behave in the phrase, rather than merely labeled. In this phrase, note the following:
 
 - The tonic zone is triggered by a root-position tonic triad (**I** or **T1**).  
-- Contrapuntal dominant chords (**D7** — first-inversion dominant chords) create a passing bass motion between the opening **I** chord, the **vi** in m. 3, and the return of **I** in m. 4.  
+- Contrapuntal dominant chords (**D7** — first-inversion dominant chords) create a passing bass motion between the opening **I** chord, the **vi** in m. 3, and the return of **I** in m. 4.
 - The [cadential progression](harmonicAnalysis) begins in m. 4 with the move from **I** to <strong>ii<sup>6</sup></strong> (**S4**) and then to the cadential six-four and dominant triad (**D5**). Note that the entirety of the cadential progression in m. 4 is made up of *cadential chords* — chords with fixed scale degrees in the bass.  
 - In contrast, the entire tonic-prolongation zone is made up of *contrapuntal chords* — variable scale degrees in the bass — with the exception of the **I** chord that triggered the tonic function.  
 - The **vi** chord is a root-position chord, but still an embellishing chord, while the <strong>ii<sup>6</sup></strong> is an inverted chord, but still a functional/cadential chord. The difference is not the inversion, but the scale degree of the bass.

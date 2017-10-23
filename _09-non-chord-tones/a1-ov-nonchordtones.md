@@ -13,7 +13,7 @@ We have already covered three of the most common types of non-chord tones (NCTs)
     - type of movement used to leave the NCT
     - direction from which the NCT is left *in realtion to the preparation*
 
-By describing these characteristics, we can create definitions for A *passsing tone* (PT) is a non-chord tone which is approached by step and left by step in the same direction.
+By describing these characteristics, we can create definitions for A *passing tone* (PT) is a non-chord tone which is approached by step and left by step in the same direction.
 
 A *neighbor tone* (NT) is a non-chord tone which is approached by step and left by step in the opposite direction.
 

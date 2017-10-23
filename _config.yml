@@ -52,12 +52,12 @@ collections:
   09-non-chord-tones:
     output: true
     name: 9) Non-Chord Tones
-  10-error-detection-intro-part-writing:
+  10-intro-part-writing:
     output: true
-    name: 10) Error Detection and an Introduction to Part-writing
+    name: 10) An Introduction to Part-writing
   11-further-part-writing:
     output: true
-    name: 11) Part-writing Using Seventh Chords and Second-inversion Chords 
+    name: 11) Part-writing Details and Exceptions 
   12-phrasing-texture:
     output: true
     name: 12) Phrasing and Texture
