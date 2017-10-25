@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 10a Examples - Fundamentals of Part-writing
+title: Examples 10a - Fundamentals of Part-writing
 abc: true
 ---
 

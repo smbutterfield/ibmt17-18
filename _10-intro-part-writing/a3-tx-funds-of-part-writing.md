@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 10a Lesson - Fundamentals of Part-writing
+title: Lesson 10a - Fundamentals of Part-writing
 abc: true
 ---
 

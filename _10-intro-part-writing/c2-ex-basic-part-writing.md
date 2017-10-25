@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 10c Examples - Basic Part-writing
+title: Examples 10c - Basic Part-writing
 ---

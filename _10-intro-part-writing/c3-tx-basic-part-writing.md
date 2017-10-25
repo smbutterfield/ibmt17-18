@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 10c Lesson - Basic Part-writing
+title: Lesson 10c - Basic Part-writing
 ---
 
 # Class discussion

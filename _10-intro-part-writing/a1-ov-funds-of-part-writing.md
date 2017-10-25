@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 10a Overview - Fundamentals of Part-writing
+title: Overview 10a - Fundamentals of Part-writing
 ---
 
 The term "part-writing" implies many things, but for our purposes, this will be our first attempt to combine the fundamentals of melody (counterpoint) and harmony (voice-leading from circle-of-fifths progressions) into functional music using diatonic tonality. 
