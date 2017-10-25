@@ -23,6 +23,12 @@ In Unit 6b, we first looked at some basic rules for voicing a chord in a four-pa
     - **Do not** double the seventh because it is a tencency tone. If this is doubled, it will force you to choose between the incorrect resolution of a tendency tone or unacceptable parallel octaves.
     - **Do not** double the fifth of a seventh chord. This would require omitting the root, third, or seventh, and none of these are expendable.
 
-## Moving forward
+## Part-writing errors
 
-When composing in this style, you occasionally will need to bend, or even break, these rules to accommodate other musical goals. As we look at the rest of the part-writing errors on the next page, remember to treat each of these as a means to an end rather than the entirety of the goal.
+In addition to the voicing rules, there are a number of standard part-writing errors that should be avoided as well:
+1. Parallel perfect octaves or perfect fifths
+2. Similar octaves or fifths (somtimes referred to as "direct", "hidden", or "exposed")
+3. Unequal fifths
+4. Contrary perfect octaves or perfect fifths
+
+Go to the next page to explore each of these.

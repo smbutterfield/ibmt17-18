@@ -11,6 +11,7 @@ abc: true
     - Refer to Unit 7c to review the types of cadences.
 - Composing a bass line based on your harmonization.
     - This will resemble 1:1 counterpoint, so refer to Unit 5b.
+    - Contrary motion against the soprano line is preferred.
 - Filling in the alto and tenor voices.
     - Refer to the rules for voicing, range, and doubling in Unit 6b.
 - When writing your parts, always strive to have voice-leading that is as smooth as possible by emphasizing stepwise motion.
