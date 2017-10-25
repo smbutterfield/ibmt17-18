@@ -28,7 +28,7 @@ In Unit 6b, we first looked at some basic rules for voicing a chord in a four-pa
 In addition to the voicing rules, there are a number of standard part-writing errors that should be avoided as well:
 1. Parallel perfect octaves or perfect fifths
 2. Similar octaves or fifths (somtimes referred to as "direct", "hidden", or "exposed")
-3. Unequal fifths
+3. Unacceptable unequal fifths
 4. Contrary perfect octaves or perfect fifths
 
-Go to the next page to explore each of these.
+Each of the four primary categories of part-writing errors are *symptoms* of voice-leading issues. If you understand the underlying voice-leading issues of each of these errors, you can find them more easily and avoid them in your own part-writing.
