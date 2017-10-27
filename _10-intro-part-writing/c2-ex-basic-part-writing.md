@@ -15,7 +15,7 @@ Finding part-writing errors is considerably more time-consuming, and it can be e
 
 ## Finding similar fifths and octaves
 
-As mentioned in the previous topic, the restrictive rules of *similar fifths and octaves*make these the simplest of the part-writing errors to find.
+As mentioned in the previous topic, the restrictive rules of *similar fifths and octaves* make these the simplest of the part-writing errors to find.
 
 - *Similar 5ths and 8ves*
     - Follow the soprano line looking for skip of a 3rd or more
@@ -24,7 +24,7 @@ As mentioned in the previous topic, the restrictive rules of *similar fifths and
 
 **Practice on this example.**
 
-{% capture ex6 %}X:6
+{% capture ex1 %}X:1
 T:Similar octaves (S8)
 M:4/4
 L:1/2
@@ -34,7 +34,7 @@ V:1
 V:2 clef=bass
 [C,C] [CA,,]| [F,,C] [DG,,]| [C2C,2]|]
 w:C:I vi IV V7 I{% endcapture %}
-{% include abc-example.html number="6" abc=ex6 %}
+{% include abc-example.html number="1" abc=ex1 %}
 
 ## Finding unacceptable parallels
 
@@ -129,12 +129,12 @@ w:C:I ii V7 I{% endcapture %}
 
 ## Needles in a haystack
 
-The following excerpt from Bach's Chorale no. 4 (“Es ist das Heil uns Kommen her”, mm. 9-10) has only one example of a part-writing error discussed above. Given his ability, it is likely that he did this intentionally, so our goal is not to judge whether his part-writing was correct, only to see if you can use the methods above to find the error. There is also intentional voice-crossing, but this is hidden in the inner voices. 
+The following excerpt from Bach's Chorale no. 4 (“Es ist das Heil uns Kommen her”, mm. 9-10) has only one example of a part-writing error discussed above. Given his ability, it is safe to assume that he did this intentionally, so our goal is not to judge whether his part-writing was correct, only to see if you can use the methods above to find the error. He also chose to cross voices for a moment, but this is intentional and hidden in the inner voices. 
 
 NOTE: When one voice moves more quickly than the others, you must compare the intervals created on *both* sides to the vertical stacks of the other three voices.
 
 {% capture ex7 %}X:7
-T:Find the errors
+T:Find the error
 M:4/4
 L:1/4
 Q:1/4=60
