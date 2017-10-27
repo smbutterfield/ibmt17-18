@@ -5,59 +5,13 @@ title: Lesson 10c - Error detection
 
 # Class discussion
 
-## Error Detection
+This class discussion was mostly a traditional-style lecture in which practiced the error detection method as detailed on this handout:
 
-#### Similar octaves
-Look for:
-- movement in similar motion
-- between soprano and bass
-- a leap in the soprano voice
-- leads to an octave
+[Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing)
 
-#### Parallel Perfect Fifths
-Look for:
-- voices that move in parallel motion
-- the same horizontal intervalic motion between voices
-- leads to a fifth
+When we discuss voice-leading, we are talking about melodic intervals, the horizonatal aspect of music. And because all part-writing errors are symptoms of poor voice-leading, this method finds part-writing errors by systematically comparing at the melodic intervals within each voice. It can be difficult at first to understand the method when only reading about it, but the class had no difficulty once they saw it demonstrated as discussed in the previous page (Examples 10c).
 
-#### Parallel Perfect Octaves
-Look for:
-- voices that move in parallel motion
-- the same horizontal intervalic motion between voices
-- leads to an octave
-
-#### Unacceptable Unequal Fifths
-Look for:
-- similar motion in similar intervals
-- a diminished fifth
-- a perfect fifth
-- a diminished fifth moving to a perfect fifth
-  - a perfect fifth moving to a diminished fifth is okay
-  
-#### Contrary Perfect Octaves
-Look for:
-- movement in contrary motion
-- horizontal intervals that add up to make an octave
-  - 2,7; 3,6; 4,5; 6,3;7,2.
-- vertical intrval of an octave between voices
-
-#### Contrary Perfect Fifths
-Look for:
-- movement in contrary motion
-- horizontal intervals that add up to make an octave
-- vertical interval of a fifth between voices
-
-### Detecting Part-Writing Errors
-
-1. Number the horizontal intervals
-2. Look for Similar Octaves (follow those steps)
-3. Look for Parallel Fifths and Octaves (follow those steps)
-4. Look for Unacceptable Unequal Fifths (follow those steps)
-5. Look for Contrary Perfect Fifths and Octaves (follow those steps)
-
-Label part-writing errors with their given abbreviations and lines connecting problem voices.
-Remember: part-writing errors are symptoms of poor voiceleading.
-You also need to look for poor voiceleading errors to assist in your error detection.
+If you are struggling to implement this method while only looking at the handout, I encourage to go through the walkthrough in Examples 10c to practice finding the individual errors before working larger examples.
   
 
  
