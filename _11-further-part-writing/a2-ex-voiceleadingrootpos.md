@@ -76,6 +76,7 @@ w:C:I IV V7 I I IV V vi I ii IV V I ii7 V7 I{% endcapture %}
 T:Using a functional substitution for a deceptive cadence
 M:3/4
 L:1/4
+Q:1/4=60
 K:C
 V:1
 cxx| cxx|]
