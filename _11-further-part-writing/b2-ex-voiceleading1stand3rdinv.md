@@ -15,7 +15,7 @@ abc: true
 **This means that the IV chord and vii<sup>o</sup> chord must be follow different *doubling* rules in order to avoid poor voice-leading. Also, when a V chord precedes a vi chord, the vi chord must follow different *doubling* rules in order to avoid poor voice-leading. With this in mind, harmonize the following progressions; first as the primary functions (i.e. V<sup>7</sup>, ii<sup>7</sup>, and I) and then by substituting in the functional substitution (i.e. vii<sup>o</sup> IV, and vi respectively.)**
 
 {% capture ex1 %}X:1
-T:Using unctional substitutions for IV and viio
+T:Using functional substitutions for IV and viio
 M:3/4
 L:1/4
 K:C

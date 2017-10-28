@@ -36,8 +36,8 @@ w:C:I vi ii V I{% endcapture %}
 **As a theory teacher, I often feel that I spend more time talking about the exceptions to rules than the actual rule itself. Luckily, turning a triad into a seventh chord creates one of the least broken rules. *Typically, the seventh of a chord resolves down by step.* There will be rare instances where this is broken (e.g. pre-determined melody, sequences, etc.), but generally, this rule holds true. Try adding the following two seventh chords to your progression while following this rule.**
 
 {% capture ex2 %}X:2
-T:Root-position part-writing with a seventh chord 
-T:and root movement by P4/P5
+T:Root-position part-writing with
+T:seventh chords and root movement by P4/P5
 M:4/4
 L:1
 K:C
@@ -72,7 +72,7 @@ w:C:I IV V7 I I IV V vi I ii IV V I ii7 V7 I{% endcapture %}
 
 **Therefore, when a V chord precedes a vi chord, the vi chord must follow different *doubling* rules in order to avoid poor voice-leading. With this in mind, harmonize the following progressions; first as the primary functions (i.e. V to I) and then by substituting in the functional substitution (i.e. V to vi.)**
 
-{% capture ex3 %}X:3
+{% capture ex4 %}X:4
 T:Using a functional substitution for a deceptive cadence
 M:3/4
 L:1/4
@@ -82,7 +82,7 @@ cxx| cxx|]
 V:2 clef=bass
 [C,] [G,,] [C,]| [C,] [G,,] [A,,]|]
 w:C:I V I I V vi{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
+{% include abc-example.html number="4" abc=ex4 %}
 
 **Because the vi chord acts as a replacement for a I chord, we double the scale degree that works best for a I chord, `do`, rather than the standard doubling of the root, `la` or fifth, `mi`. In this progression, it is correct to break standard convention and double the chordal third of the vi chord.**
 
@@ -90,7 +90,7 @@ w:C:I V I I V vi{% endcapture %}
 
 **Chordal third moving to the next chordal third**
 
-{% capture ex3 %}X:3
+{% capture ex5 %}X:5
 T:Root-position part-writing with root movement by P4/P5
 M:4/4
 L:1
@@ -100,7 +100,7 @@ x| x| x| x| x|]
 V:2 clef=bass
 [C,]| [A,,]|[D,]| [G,,]| [C,]|]
 w:C:I vi ii V I{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
+{% include abc-example.html number="5" abc=ex5 %}
 
 **Frustrated leading tone**
 
