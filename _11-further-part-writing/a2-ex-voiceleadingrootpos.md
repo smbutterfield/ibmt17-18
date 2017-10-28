@@ -18,7 +18,7 @@ In your early part writing, you should strive for a simple, clean texture that:
 **Circle-of-fifths progressions work because the voice-leading taps into the primary functions of diatonic harmony. If you review Unit 7a, you will remember that we created the harmonic flow chart by simply following good voice-leading between chords that have roots separated by a descending P5/ascending P4. Admittedly, long strings of root-position chords create unmelodic bass lines, but they still represent the strongest voicing for many sonorities. Try harmonizing the following chord progression. Write the soprano line from the given first pitch, and then fill in the inner voices following the guidelines above. (If you are struggling, it is often helpful to establish your ending and then work backward.)**
 
 {% capture ex1 %}X:1
-T:Sample cadences
+T:Circle-of-fifths triadic progression
 M:4/4
 L:1
 K:C
@@ -36,7 +36,8 @@ w:C:I vi ii V I{% endcapture %}
 **As a theory teacher, I often feel that I spend more time talking about the exceptions to rules than the actual rule itself. Luckily, turning a triad into a seventh chord creates one of the least broken rules. *Typically, the seventh of a chord resolves down by step.* There will be rare instances where this is broken (e.g. pre-determined melody, sequences, etc.), but generally, this rule holds true. Try adding the following two seventh chords to your progression while following this rule.**
 
 {% capture ex2 %}X:2
-T:Root-position part-writing with a seventh chord and root movement by P4/P5
+T:Root-position part-writing with a seventh chord 
+T:and root movement by P4/P5
 M:4/4
 L:1
 K:C
@@ -66,7 +67,7 @@ w:C:I IV V7 I I IV V vi I ii IV V I ii7 V7 I{% endcapture %}
 
 ## Function over form (Part 1)
 
-**When you were harmonizing these short chord progressions, which chord progression presented the most issues? V-vi? This progression represents a *functional substitutions*. If we consider the voice-leading represented by chords who have roots separated by a P5 to be the progenitors of harmonic progression -- iii-vi-ii-V-I -- we must rethink how we approach voice-leading when the progressions do not follow this pattern. (This applies to the IV and vii<sup>o</sup> chords as well, but we need to discuss first-inversion chords in the next topic, 11b, before we are ready for that discussion):**
+**When you were harmonizing these short chord progressions, which chord progression presented the most issues? For most, it will likely be the deceptive cadence of V resolving to vi. This progression represents a *functional substitutions*. If we consider the voice-leading represented by chords who have roots separated by a descending P5 to be the progenitors of harmonic progression -- iii-vi-ii-V-I -- we must rethink how we approach voice-leading when the progressions do not follow this pattern. (This applies to the IV and vii<sup>o</sup> chords as well, but we need to discuss first-inversion chords in the next topic, 11b, before we are ready for that discussion):**
 - When V goes to vi, the vi chord is replacing the tonic function and therefore functions as a I<sup>sub6</sup>
 
 **Therefore, when a V chord precedes a vi chord, the vi chord must follow different *doubling* rules in order to avoid poor voice-leading. With this in mind, harmonize the following progressions; first as the primary functions (i.e. V to I) and then by substituting in the functional substitution (i.e. V to vi.)**
@@ -82,6 +83,8 @@ V:2 clef=bass
 [C,] [G,,] [C,]| [C,] [G,,] [A,,]|]
 w:C:I V I I V vi{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
+
+**Because the vi chord acts as a replacement for a I chord, we double the scale degree that works best for a I chord, `do`, rather than the standard doubling of the root, `la` or fifth, `mi`. In this progression, it is correct to break standard convention and double the chordal third of the vi chord.**
 
 ## Common exceptions
 
