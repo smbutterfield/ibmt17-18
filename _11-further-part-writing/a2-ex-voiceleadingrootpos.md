@@ -33,7 +33,7 @@ w:C:I vi ii V I{% endcapture %}
 
 ## Adding the seventh
 
-**As a theory teacher, I often feel that I spend more time talking about the exceptions to rules than the actual rule itself. Luckily, turning a triad into a seventh chord creates one of the least broken rules. *Typically, the seventh of a chord resolves down by step.* There will be rare instances where this is broken (e.g. pre-determined melody, sequences, etc.), but generally, this rule holds true. Try adding the following two seventh chords to your progression while following this rule.**
+**As a theory teacher, I often feel that I spend more time talking about the exceptions to rules than the actual rule itself. Luckily, turning a triad into a seventh chord creates one of the least broken rules: *Typically, the seventh of a chord resolves down by step.* There will be instances where you are forced to break this rule (e.g. pre-determined melodies, sequences, etc.), but generally, it will hold true. Try adding the following two seventh chords to the basic circle-of-fifths progression while following this rule.**
 
 {% capture ex2 %}X:2
 T:Root-position part-writing with
@@ -50,7 +50,7 @@ w:C:I vi7 ii V7 I{% endcapture %}
 
 ## Exploring options
 
-**Of course, there are multiple chords in our circle of fifths progressions that have root movement by intervals other than 4ths and 5ths. Try harmonizing the following chord progressions while observing our guidelines. Keep track of what types of root movement create the most issues, while coming up with as many possibilities for the following short progressions**
+**Of course, there are multiple chords in our circle-of-fifths progressions that have root movement by intervals other than 4ths and 5ths. Try harmonizing the following short chord progressions while observing our guidelines. Keep track of what types of root movement create the most issues while developing at least two possibilities for each of the progressions**
 
 {% capture ex3 %}X:3
 T:Short chord progressions
@@ -67,10 +67,10 @@ w:C:I IV V7 I I IV V vi I ii IV V I ii7 V7 I{% endcapture %}
 
 ## Function over form (Part 1)
 
-**When you were harmonizing these short chord progressions, which chord progression presented the most issues? For most, it will likely be the deceptive cadence of V resolving to vi. This progression represents a *functional substitutions*. If we consider the voice-leading represented by chords who have roots separated by a descending P5 to be the progenitors of harmonic progression -- iii-vi-ii-V-I -- we must rethink how we approach voice-leading when the progressions do not follow this pattern. (This applies to the IV and vii<sup>o</sup> chords as well, but we need to discuss first-inversion chords in the next topic, 11b, before we are ready for that discussion):**
+**When you were harmonizing these short chord progressions, which chord progression presented the most issues? For most, it will likely be the deceptive cadence of V resolving to vi. This progression represents a *functional substitution*. If we consider the voice-leading represented by chords who have roots seperated by a descending P5 to be the progenitors of harmonic progression -- iii-vi-ii-V-I -- we must rethink how we approach voice-leading when the progressions do not follow this pattern. (This applies to the IV and vii<sup>o</sup> chords as well, but we need to discuss first-inversion chords in the next topic, 11b, before we are ready for that discussion):**
 - When V goes to vi, the vi chord is replacing the tonic function and therefore functions as a I<sup>sub6</sup>
 
-**Therefore, when a V chord precedes a vi chord, the vi chord must follow different *doubling* rules in order to avoid poor voice-leading. With this in mind, harmonize the following progressions; first as the primary functions (i.e. V to I) and then by substituting in the functional substitution (i.e. V to vi.)**
+**This means that when a root-position V chord precedes a root-position vi chord, the vi chord must follow different *doubling* rules in order to avoid poor voice-leading. With this in mind, harmonize the following progressions; first as the primary functions (i.e. V to I) and then by substituting in the functional substitution (i.e. V to vi.)**
 
 {% capture ex4 %}X:4
 T:Using a functional substitution for a deceptive cadence
@@ -89,20 +89,31 @@ w:C:I V I I V vi{% endcapture %}
 
 ## Common exceptions
 
-**Chordal third moving to the next chordal third**
+**There are some commonly used exceptions to our general part-writing conventions. For example, when a chord progression has a root that moves down by P5, we expect the chordal third to resolve up by step to the root of the following chord. However, if you need to change the texture of your part-writing to be more or less compact, you may choose to have the chordal third leap to the following chordal third which changes the entire voicing possibilities of the two chords. (Note that you can only use this on the leading tone if it is in an inner voice.) Use this method to fill in the inner voices in the following example to change the voicing of the final chord.**
 
 {% capture ex5 %}X:5
-T:Root-position part-writing with root movement by P4/P5
+T:Chordal third to chordal third
 M:4/4
-L:1
+L:1/4
 K:C
 V:1
-x| x| x| x| x|]
+[eG] [d] [c2]|]
 V:2 clef=bass
-[C,]| [A,,]|[D,]| [G,,]| [C,]|]
-w:C:I vi ii V I{% endcapture %}
+[C,C] [G,,] [C,2]|]
+w:C:I V I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
-**Frustrated leading tone**
+**Another common exception is called the *frustrated leading tone*. While it is not ideal, if the leading-tone is in an inner voice, you can choose to have it resolve by skipping downward to the root of the tonic chord. This can solve doubling issues if you are trying to fix an incomplete triad by adding the chordal fifth. Try it in the tenor voice on the following two progressions. Notice that this allows you to create a deceptive cadence without having to double the chordal third of the vi chord.**
 
-
+{% capture ex6 %}X:6
+T:Frustrating a leading tone
+M:3/4
+L:1/4
+Q:1/4=60
+K:C
+V:1
+[eG] [d] [e]|| [eG] [d] [c]|]
+V:2 clef=bass
+[C,C] [G,,] [C,]|| [C,C] [G,,] [A,,]|]
+w:C:I V I I V vi{% endcapture %}
+{% include abc-example.html number="6" abc=ex6 %}

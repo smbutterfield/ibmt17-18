@@ -7,7 +7,7 @@ abc: true
 ## Resolving tendency tones
 
 {% capture ex1 %}X:1
-T:Using functional substitutions for IV and viio
+T:Tendency tones define voice-leading
 M:3/4
 L:1/4
 K:C
