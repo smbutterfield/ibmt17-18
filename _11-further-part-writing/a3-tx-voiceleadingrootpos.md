@@ -1,43 +1,89 @@
 ---
 layout: chapter
 title: Lesson 11a - Voice-leading for Root Position Triads and Seventh Chords
+abc: true
 ---
 
-# Class discussion
+# Class discussion 
 
-## Voice-Leading 
+Before we started our first attempts at part-writing, I asked the class to review the guidelines listed at the top of Example 11a. They were:
 
-Not major part-writing errors, they are unacceptable part writing errors.
+In your early part writing, you should strive for a simple, clean texture that:
+- follows the standard harmonic progressions outlined by circle-of-fifths progressions
+    - correctly uses cadences as well as tonic, dominant, and pre-dominant functions
+- has the smoothest possible voice-leading for each line
+    - the bass can be slightly more disjunct than the upper parts, particularly when using root-position chords
+- does not cross voices
+- has no spacing or range errors
+- avoids incorrect doubling
+- resolves tendency tones correctly
+- does not create unacceptable part-writing such as consecutive perfect 5ths/8ves or similar 5ths/8ves
 
-Smooth voice-leading is simple. 
-Smooth voice leading is whatever motion is easiesst to play.
+The first question was, "What constitutes "smooth" voice-leading?" *The simple answer is that stepwise (or even static) motion is preferred.* When you are creating a line for a particular voice (i.e. soprano, alto, tenor, bass), you will have few options when choosing what the next pitch will be. It must be a chord-tone, and you must also consider the notes that are already fixed. (Bass lines and melodies are often written first and are therefore unchangeable.) When you add in doubling and range limitations, you will usually have one or possibly two options for smooth (conjunct) voice-leading. 
 
-Circle of fifths progressions are chords that move in descending perfect fifths or ascending perfect fourths. 
-When using a circle of fifths progression, you apply smooth voice leading to make the horizontal lines as simple as possible.
+The other question was "Is there a general rule for the correct for resolution of tendency tones?" Unfortunately, there is no simple answer for this. At its most basic, `ti` resolves up by step, and `fa` resolves down by step. When part-writing, however, this is too simplistic a view. For example, `fa` often moves upward by step to `sol`, either as part of an ascending scalar melodic line or in the bass line when a root-position IV chord moves to a root-position V chord. The next level of thinking would be to say that `ti` and `fa` are tendency tones when they are part of a V<sup>7</sup> chord, so therefore, the rule for tendency tones should be that *chordal thirds* resolve up by step and *chordal sevenths* resolve down by step. This is a better rule, but it also falls apart when we leave circle-of-fifths progressions (chords with roots separated by a descending P5). When a IV chord moves to a V chord, it is impossible for the third to move *up by step* to the root of the V chord. For now, the easiest rule for tendency tones is:
+- *Chordal thirds* resolve up by step and *chordal sevenths* resolve down by step *when part of a circle-of-fifths progression*.
 
-As long as you have a roman numeral, you have a bass line.
+## Part-writing
 
-Part-writing:
-- create a bass line with roman numerals
-- create a soprano line
-- fill in the inner voices
+Using our guidelines as a framework for part-writing, we discussed the best order for the process of composing our SATB examples.
 
-### Triads
-Lead Sheet: C Am Dm G C
-Soprano Line: C - C - D - D - E
-Alto Line: E - E - F - G - G
-Tenor Line: G - A - A - B - C
-Bass Line: C - A - D - G - C
-Roman Numerals: I - vi - ii - V - I
-Cadence: Imperfect Authentic 
+If given a melody:
+- **Choose a cadence** for the end.
+    - Refer to Unit 7c to review the types of cadences.
+- **Create the rest of the diatonic progression** that begins on tonic and ends with your cadence. (If not already provided.)
+    - This will establish your key center. Refer to Unit 6b for a review of the three primary harmonic functions: tonic, dominant, and pre-dominant.
+- **Compose a bass line** based on your harmonization.
+    - This will resemble 1:1 counterpoint, so refer to Unit 5b.
+    - Contrary motion against the soprano line is preferred.
+- **Fill in the alto and tenor voices.**
+    - Refer to the rules for voicing, range, and doubling in Unit 6b.
+- When writing your parts, always **strive to have voice-leading that is as smooth as possible** by emphasizing stepwise motion.
+    - Bass lines are the exception and will often have more leaps, especially when using root-position chords.
 
-### Seventh Chords
-Lead Sheet: C Am7 Dm G7 C
-Soprano Line: C - C - D - D - C
-Alto Line: E - E - D - ? - ?
-Tenor Line: G - G - F - ? - ?
-Bass Line: C - A - D - G - C
-Roman Numerals: I - vi7 - ii - V7 - I
+If given a harmonic progression (and likely a bass line):
+- **Compose a melody** and then check it against your bass line for part-writing errors.
+    - This will resemble 1:1 counterpoint, so refer to Unit 5b.
+    - Contrary motion against the soprano line is preferred.
+- **Fill in the alto and tenor voices.**
+    - Refer to the rules for voicing, range, and doubling in Unit 6b.
+- When writing your parts, always strive to have voice-leading that is as smooth as possible by emphasizing stepwise motion.
+    - Bass lines are the exception and will often have more leaps.
+
+With this in mind, I asked them to harmonize the first example from the previous page, and they came up with the following answer:
+
+{% capture ex1 %}X:1
+T:Circle-of-fifths triadic progression
+M:4/4
+L:1
+K:C
+V:1
+[cE]| [cE]| [dF]| [dG]| [eG]|]
+V:2 clef=bass
+[C,G,]| [A,,A,]|[D,A,]| [G,,B,]| [C,C]|]
+w:C:I vi ii V I{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
+
+The students were surprised by two things:
+- How similar almost every groups answer was.
+- That this is not as difficult as it first seems.
+
+Because the chord progession provides a vertical framework and smooth voice-leading provides a horizontal framework, most of the work is simply following the pattern correctly. This example is admittedly straightforward because it relies entirely on root-position triads in a circle-of-fifths progression. I next asked them to add two seventh chords along with the rule that the *chordal seventh should resolve down by step*.
+
+{% capture ex2 %}X:2
+T:Root-position part-writing with
+T:seventh chords and root movement by P4/P5
+M:4/4
+L:1
+K:C
+V:1
+c| x| x| x| x|]
+V:2 clef=bass
+[C,]| [A,,]|[D,]| [G,,]| [C,]|]
+w:C:I vi7 ii V7 I{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
+
+This single new wrinkle created considerably more issues. The first arose between the second and third chords. By placing a chordal seventh in the tenor voice on the vi<sup>7</sup> chord, it locked the voice-leading of that voice into resolving downard by step to the third of the following chord. Because we did not want to double the third on that chord, we could only choose to move to the closest D or A in the alto voice. If we were to move to the A, that would create parallel perfect 5ths with the bass voice, so we could only choose the D for the alto voice.
 
 # Further reading
 

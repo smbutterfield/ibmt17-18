@@ -13,7 +13,7 @@ In your early part writing, you should strive for a simple, clean texture that:
 - has no spacing or range errors
 - avoids incorrect doubling
 - resolves tendency tones correctly
-- does not create major part-writing errors such as consecutive perfect 5ths/8ves or similar 5ths/8ves
+- does not create unacceptable part-writing such as consecutive perfect 5ths/8ves or similar 5ths/8ves
 
 **Circle-of-fifths progressions work because the voice-leading taps into the primary functions of diatonic harmony. If you review Unit 7a, you will remember that we created the harmonic flow chart by simply following good voice-leading between chords that have roots separated by a descending P5/ascending P4. Admittedly, long strings of root-position chords create unmelodic bass lines, but they still represent the strongest voicing for many sonorities. Try harmonizing the following chord progression. Write the soprano line from the given first pitch, and then fill in the inner voices following the guidelines above. (If you are struggling, it is often helpful to establish your ending and then work backward.)**
 
