@@ -5,6 +5,40 @@ title: Lesson 11a - Voice-leading for Root Position Triads and Seventh Chords
 
 # Class discussion
 
+## Voice-Leading 
+
+Not major part-writing errors, they are unacceptable part writing errors.
+
+Smooth voice-leading is simple. 
+Smooth voice leading is whatever motion is easiesst to play.
+
+Circle of fifths progressions are chords that move in descending perfect fifths or ascending perfect fourths. 
+When using a circle of fifths progression, you apply smooth voice leading to make the horizontal lines as simple as possible.
+
+As long as you have a roman numeral, you have a bass line.
+
+Part-writing:
+- create a bass line with roman numerals
+- create a soprano line
+- fill in the inner voices
+
+### Triads
+Lead Sheet: C Am Dm G C
+Soprano Line: C - C - D - D - E
+Alto Line: E - E - F - G - G
+Tenor Line: G - A - A - B - C
+Bass Line: C - A - D - G - C
+Roman Numerals: I - vi - ii - V - I
+Cadence: Imperfect Authentic 
+
+### Seventh Chords
+Lead Sheet: C Am7 Dm G7 C
+Soprano Line: C - C - D - D - C
+Alto Line: E - E - D - ? - ?
+Tenor Line: G - G - F - ? - ?
+Bass Line: C - A - D - G - C
+Roman Numerals: I - vi7 - ii - V7 - I
+
 # Further reading
 
 ## From *Open Music Theory*
