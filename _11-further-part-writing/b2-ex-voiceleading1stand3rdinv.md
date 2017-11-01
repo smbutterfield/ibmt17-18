@@ -7,7 +7,7 @@ abc: true
 ## Resolving tendency tones
 
 {% capture ex1 %}X:1
-T:Tendency tones define voice-leading
+T:Tendency tones in circle-of-fifths progressions
 M:3/4
 L:1/4
 K:C
