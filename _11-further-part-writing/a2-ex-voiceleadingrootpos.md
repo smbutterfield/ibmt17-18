@@ -79,9 +79,9 @@ L:1/4
 Q:1/4=60
 K:C
 V:1
-cxx| cxx|]
+[cE][B][c]| ] [cE][B][c]|]
 V:2 clef=bass
-[C,] [G,,] [C,]| [C,] [G,,] [A,,]|]
+[C,G,] [G,,] [C,]| [C,G,] [G,,] [A,,]|]
 w:C:I V I I V vi{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
@@ -128,8 +128,8 @@ L:1/4
 Q:1/4=60
 K:C
 V:1
-[eG] [d] [e]|| [eG] [d] [c]|]
+[eG] [d] [c]|| [eG] [d] [c]|]
 V:2 clef=bass
 [C,C] [G,,] [C,]|| [C,C] [G,,] [A,,]|]
-w:C:I V I I V vi{% endcapture %}
+w:C:I V7 I I V7 vi{% endcapture %}
 {% include abc-example.html number="7" abc=ex7 %}

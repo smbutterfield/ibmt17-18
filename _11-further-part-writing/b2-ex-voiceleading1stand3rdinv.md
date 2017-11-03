@@ -46,9 +46,9 @@ w:C:I V6/5 I I viio I{% endcapture %}
 
 ## Function over form (Part 3)
 
-**The pre-dominant function can be confusing. To this point, we have considered the circle-of-fifths as the voice-leading foundation for diatonic harmony. In this case, the ii chord would be the "primary" pre-dominant function, and in many ways, this is true. The IV chord, however, holds a special place in harmony because of its role as the *subdominant*, and the high frequency throughout history of the I-IV-V-I progression.**
+**The pre-dominant function can be confusing. To this point, we have considered the circle-of-fifths as the voice-leading foundation for diatonic harmony. In this case, the ii chord would be the "primary" pre-dominant function, and in many ways, this is true. The IV chord, however, holds a special place in harmony because of its role as the *subdominant* as well as the high frequency throughout history of the I-IV-V-I progression.**
 
-**Generally speaking, a root position ii chord and root position IV chords are equally strong and follow standard doubling conventions. When the ii chord goes to the first inversion however, the IV chord should be considered the primary pre-dominant with the ii chord acting as its *functional substitution*. This means that a ii<sup>6</sup> chord takes its doubling from a root-position IV chord. Try this on the following progressions. Remember what the upper voices tend to do when a root position IV chord moves to a V chord.**
+**Generally speaking, root position ii chord and root position IV chords are equally strong and follow standard doubling conventions. When the ii chord is in first inversion however, the IV chord should be considered the primary pre-dominant with the ii chord acting as its *functional substitution*. This means that a ii<sup>6</sup> chord often takes its doubling from a root-position IV chord. (In the same that a vii<sup>o</sup> chord takes its doubling from a V<sup>7</sup> chord.) Try this on the following progressions. (Make sure to consider the common direction and motion for upper voices tend to do when a root position IV chord moves to a V chord.)**
 
 {% capture ex3 %}X:3
 T:Using functional substitutions for pre-dominants
