@@ -125,6 +125,18 @@ Bass (given): C3 - D3 - F4 - G4
 
 Roman Numerals: I - ii - IV - V
 
+Chordal Third to Chordal Third:
+- moving from third to third between chords can avoid ppart writing errors
+- using open to closed voiceing (or vice versa) to change the texture
+    - this cannot be applied to outer voices
+
+Frustrated leading tone:
+- when the leading tone does not resolve to the tonic
+    - can only be done in the alto or tenor voices
+    - Ti resolves to Sol (and sometimes La) instead of Do
+
+Deceptive cadences apply the frustrated leading tone by resolving Ti to La instead of Sol. 
+
 # Further reading
 
 ## From *Open Music Theory*
