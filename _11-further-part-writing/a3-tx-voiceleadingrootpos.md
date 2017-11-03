@@ -85,6 +85,46 @@ w:C:I vi7 ii V7 I{% endcapture %}
 
 This single new wrinkle created considerably more issues. The first arose between the second and third chords. By placing a chordal seventh in the tenor voice on the vi<sup>7</sup> chord, it locked the voice-leading of that voice into resolving downard by step to the third of the following chord. Because we did not want to double the third on that chord, we could only choose to move to the closest D or A in the alto voice. If we were to move to the A, that would create parallel perfect 5ths with the bass voice, so we could only choose the D for the alto voice.
 
+Example: "Short Chord Progressions"
+
+1a. Key: C
+
+Bass: C3 - F2 - G2 - C3
+
+Roman Numerals: I - IV - V7 - I
+
+- potential problems: the parallel motion from the IV to V7 in root position
+  - the V7 can make that problem easier to solve by keeping the F static
+  - whenever you have stepwise motion in the bass, parallel motion can be a problem
+- functional substitution: when the vi chord substitutes for the I chord
+
+1b. Key: C
+
+Soprano: C5 - D5 - C5 - C5 - B4 - C5
+
+Alto: E4 - G4 - E4 - E4 - D4 - C4
+
+Tenor: G3 - B3 - C4 - G3 - G3 - E3
+
+Bass (given): C3 - G2 - C3 - C3 - G2 - A2
+
+Roman Numerals: I - V - I - I - V - vi (Isub6)
+
+Isub6 means that you take a I chord, put a 6 on top, and the 6 substitutes the nearest chord tone. 
+This creates a vi chord. 
+
+2. Key: C
+
+Bass (given): C3 - F2 - G2 - A2
+
+Roman Numerals: I - IV - V - vi 
+
+3. Key: C
+
+Bass (given): C3 - D3 - F4 - G4
+
+Roman Numerals: I - ii - IV - V
+
 # Further reading
 
 ## From *Open Music Theory*
