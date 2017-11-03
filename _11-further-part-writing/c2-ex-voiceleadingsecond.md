@@ -4,7 +4,7 @@ title: Examples 11c - Voice-leading for Second Inversion Chords
 abc: true
 ---
 
-## Function over form (Part 3)
+## Function over form (Part 4)
 
 Create content to explain why vii<sup>o6</sup> functions as V<sup>6/4</sup>
 

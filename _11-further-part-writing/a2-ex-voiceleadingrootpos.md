@@ -61,7 +61,7 @@ K:C
 V:1
 cxxx|| cxxx|| cxxx|| cxxx|]
 V:2 clef=bass
-[C,] [F,,] [G,,] [C,]|| [C,] [F,,] [G,,] [A,,]|| [C,] [D,] [F,] [G,]|| [C,] [F,,] [G,,] [C,]|]
+[C,] [F,,] [G,,] [C,]|| [C,] [F,,] [G,,] [A,,]|| [C,] [D,] [F,] [G,]|| [C,] [D,] [G,,] [C,]|]
 w:C:I IV V7 I I IV V vi I ii IV V I ii7 V7 I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
@@ -87,11 +87,27 @@ w:C:I V I I V vi{% endcapture %}
 
 **Because the vi chord acts as a replacement for a I chord, we double the scale degree that works best for a I chord, `do`, rather than the standard doubling of the root, `la` or fifth, `mi`. In this progression, it is correct to break standard convention and double the chordal third of the vi chord.**
 
+## Root movement by 2nd
+
+**The other difficult resolution in the previous example was when the root position IV chord moved to the V chord. We do not have a *functional substitution* to provide a doubling exception here, so instead you must be careful about how you resolve the voices. Harmonize the following progression without altering the given pitches, and pay particular attention to the direction that the upper voices resolve as you avoid part-writing errors.**
+
+{% capture ex5 %}X:5
+T:Root movement by 2nd
+M:4/4
+L:1/4
+K:C
+V:1
+[cE] [c] xx|]
+V:2 clef=bass
+[C,G,] [F,,] [G,,] [C,]|]
+w:C:I IV V I{% endcapture %}
+{% include abc-example.html number="5" abc=ex5 %}
+
 ## Common exceptions
 
 **There are some commonly used exceptions to our general part-writing conventions. For example, when a chord progression has a root that moves down by P5, we expect the chordal third to resolve up by step to the root of the following chord. However, if you need to change the texture of your part-writing to be more or less compact, you may choose to have the chordal third leap to the following chordal third which changes the entire voicing possibilities of the two chords. (Note that you can only use this on the leading tone if it is in an inner voice.) Use this method to fill in the inner voices in the following example to change the voicing of the final chord.**
 
-{% capture ex5 %}X:5
+{% capture ex6 %}X:6
 T:Chordal third to chordal third
 M:4/4
 L:1/4
@@ -101,11 +117,11 @@ V:1
 V:2 clef=bass
 [C,C] [G,,] [C,2]|]
 w:C:I V I{% endcapture %}
-{% include abc-example.html number="5" abc=ex5 %}
+{% include abc-example.html number="6" abc=ex6 %}
 
 **Another common exception is called the *frustrated leading tone*. While it is not ideal, if the leading-tone is in an inner voice, you can choose to have it resolve by skipping downward to the root of the tonic chord. This can solve doubling issues if you are trying to fix an incomplete triad by adding the chordal fifth. Try it in the tenor voice on the following two progressions. Notice that this allows you to create a deceptive cadence without having to double the chordal third of the vi chord.**
 
-{% capture ex6 %}X:6
+{% capture ex7 %}X:7
 T:Frustrating a leading tone
 M:3/4
 L:1/4
@@ -116,4 +132,4 @@ V:1
 V:2 clef=bass
 [C,C] [G,,] [C,]|| [C,C] [G,,] [A,,]|]
 w:C:I V I I V vi{% endcapture %}
-{% include abc-example.html number="6" abc=ex6 %}
+{% include abc-example.html number="7" abc=ex7 %}
