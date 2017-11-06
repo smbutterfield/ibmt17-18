@@ -72,6 +72,7 @@ w:C:I IV V I I ii6 V I I ii6/5 V I{% endcapture %}
 
 {% capture ex4 %}X:4
 T:Passing chords
+T:The "%" symbol in the chords below represents a half-diminshed symbol.
 M:3/4
 L:1/4
 K:C
