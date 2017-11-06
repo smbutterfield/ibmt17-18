@@ -28,25 +28,29 @@ w:C:I V6 I I V6/5 I I V4/3 I6{% endcapture %}
 **When harmonizing the short chord progressions in the previous topic, we discussed why we have to treat the vi chord in a deceptive cadence as a *functional substitute* for tonic. Because the vi chord acts as a replacement for a I chord, we double the scale degree that works best for a I chord, `do`, rather than the standard doubling of the root, `la` or fifth, `mi`. In this progression, it is correct to break standard convention and double the chordal third of the vi chord. Now that we are looking at first inversion voice-leading, we have another *functional substitution* to discuss.**
 - vii<sup>o</sup> is a dominant function, so therefore functions as V<sup>7</sup> chord without its root
 
-**Because of this, the vii<sup>o</sup> chord must follow different *doubling* rules in order to avoid poor voice-leading. With this in mind, harmonize the following progressions; first as the primary function (i.e. V<sup>7</sup>) and then by using that to inform your doubling on the functional substitution (i.e. vii<sup>o</sup>).**
+**Because of this, the vii<sup>o</sup> chord must follow different *doubling* rules in order to avoid poor voice-leading. With this in mind, try to harmonize the following progressions; first a simple I-V<sup>6/5</sup>-I progression, and then with an added root-position vii<sup>o</sup> chord. You will discover that:**
+- the two chords have all but one pitch in common.
+- resolving a root-position vii<sup>o</sup> is extremely difficult and will require one voice to make consecutive jumps of a P5 to avoid issues due to tendency tone resolutions.**
 
 {% capture ex2 %}X:2
 T:Voicing a viio using functional substitution
-M:3/4
+M:4/4
 L:1/4
 K:C
 V:1
-[cE]xx| [cE]xx|]
+[cE] xx2|| [cE] xxx|]
 V:2 clef=bass
-[C,G,] [B,,] [C,]| [C,G,] [B,,] [C,]|]
-w:C:I V6/5 I I viio I{% endcapture %}
+[C,G,] [B,,] [C,2]|| [C,G,] [B,,] [B,,] [C,]|]
+w:C:I V6/5 I I viio V6/5 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
+
+**Because the root position vii<sup>o</sup> triad is so difficult, it is rarely used. It is not possible to resolve a root-position vii<sup>o</sup> triad to a I chord without creating at least one unacceptable part-writing error. A root-position vii<sup>o</sup> must either pass through another chord or be inverted to resolve directly to I.**
 
 **As a general rule of thumb, any diminished chord (including the ii<sup>o</sup> in minor) will typically need to have the chordal third doubled, because the tension of the diminished fifth and its tendency tones.**
 
 ## Function over form (Part 3)
 
-**The pre-dominant function is less clear than discussing the functional substitutions in tonic and dominant functions. To this point, we have considered the circle-of-fifths as the voice-leading foundation for diatonic harmony. In this case, the ii chord would be the "primary" pre-dominant function, and in many ways, this is true. The IV chord, however, holds a special place in harmony because of its role as the *subdominant* -- the opposite pole of the dominant -- as well as the high frequency throughout history of the I-IV-V-I progression.**
+**The pre-dominant function presents an issue that the functional substitutions in tonic and dominant functions do not. To this point, we have considered the circle-of-fifths as the voice-leading foundation for diatonic harmony. In this case, the ii chord would be the "primary" pre-dominant function, and in many ways, this is true. The IV chord, however, holds a special place in harmony because of its role as the *subdominant* -- the opposite pole of the dominant -- as well as the high frequency throughout history of the I-IV-V-I progression.**
 
 **Generally speaking, root position ii chords and root position IV chords are equally strong and follow standard doubling conventions. When the ii chord is in first inversion, however, it becomes a functional substitution for a root-position IV chord. This means that a ii<sup>6</sup> chord most often takes its doubling from a root-position IV chord. (In the same way that a vii<sup>o</sup> chord takes its doubling from a V<sup>7</sup> chord.) Try this on the following progressions. (Make sure to consider the common direction and motion for upper voices tend to do when a root position IV chord moves to a V chord.)**
 
