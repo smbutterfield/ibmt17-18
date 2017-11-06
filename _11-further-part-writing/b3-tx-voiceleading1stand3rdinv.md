@@ -38,7 +38,50 @@ If you hear a tritone as an augmented 4th, it wants to resolve outward.
 If you hear a tritone as a diminished 5th, it wants to resolve inward.
 
 VII Diminished chords (viio) do not double the root in 4-part voicing. 
-  - both Ti's will want to resolve to Doh 
+  - both Ti's will want to resolve to Do
     - that creates part writing errors
     
 If you're ever questioning your doubling in a viio, think of how you would voice the chord if it were a V7.
+A viio has the top three notes of a V7. 
+
+Example: Using viio as a dominant function. 
+Get a viio to a V6/5 in C major.
+
+Lead Sheet: C - G7/B - C - C - Bo - G7/B - C
+
+Soprano: C5 - D5 - C5 - C5 - D5 - D5 - C5
+
+Alto: E4 - F4 - E4 - E4 - F4 - F4 - E4
+
+Tenor: G3 - G3   G3 - G3 - F4 - G4 - G4
+
+Bass: C3 - B2 - C3 - C3 - B2 - B2 - C3 
+
+Roman Numerals: I - V6/5 - I - I - viio - V6/5 - I
+
+The movement of the tenor voice from F to G breaks the rule of resolving tendancy tones.
+It doesn't allow Fa to resolve down to Mi.
+Using a viio as a dominant function is uncommon because of the difficulties in voice leading. 
+
+### Pre-Dominants
+
+Using a IV chord in a progression. 
+The subdominant is the polar opposite of the dominant. 
+The I - IV - V - I is a strong progression used throughout history. 
+The IV does not have as strong a pull to the dominant as ii. 
+BUT, the ii can be substituted as the IV. 
+Tendancy tone function doesn't apply when the chord doesn't have a dominant function.
+
+Example:
+
+Lead Sheet: C - F - G - C
+
+Soprano: C5 - C5 - B4 - C5 
+
+Alto: E4 - E4 - D4 - E4
+
+Tenor: G3 - A3 - G3 - G3
+
+Bass: C3 - F2 - G2 - C3
+
+Roman Numerals: I - IV - V - I
