@@ -6,7 +6,7 @@ abc: true
 
 ## Resolving tendency tones
 
-**Placing either the chordal third or chordal seventh in the bass voice not only creates more melodic bass lines, it also allows the upper voices more freedom because there is one less tendency tone to distribute. Use the voicing and voice-leading guidelines discussed in the previous topic to harmonize the following progressions in an SATB style. As always, make note of any difficulties that you encounter for the class discussion.**
+**Placing either the chordal third or chordal seventh in the bass voice not only creates more melodic bass lines, it also allows the upper voices more freedom because there is one less tendency tone to distribute and resolve correctly. Use the voicing and voice-leading guidelines discussed in the previous topic to harmonize the following progressions in an SATB style. As always, make note of any difficulties that you encounter for the class discussion.**
 
 {% capture ex1 %}X:1
 T:First- and third-inversion chords
@@ -21,7 +21,7 @@ V:2 clef=bass
 w:C:I V6 I I V6/5 I I V4/3 I6{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-**Assuming that the progression follows the circle-of-fifths, what does the a first- or third-inversion chord require of the following chord's inversion?**
+**Assuming that the progression follows the circle-of-fifths, what inversion must a chord be that follows a first-inversion chord? Following a third-inversion?**
 
 ## Function over form (Part 2)
 
@@ -46,9 +46,9 @@ w:C:I V6/5 I I viio I{% endcapture %}
 
 ## Function over form (Part 3)
 
-**The pre-dominant function can be confusing. To this point, we have considered the circle-of-fifths as the voice-leading foundation for diatonic harmony. In this case, the ii chord would be the "primary" pre-dominant function, and in many ways, this is true. The IV chord, however, holds a special place in harmony because of its role as the *subdominant* as well as the high frequency throughout history of the I-IV-V-I progression.**
+**The pre-dominant function is less clear than discussing the functional substitutions in tonic and dominant functions. To this point, we have considered the circle-of-fifths as the voice-leading foundation for diatonic harmony. In this case, the ii chord would be the "primary" pre-dominant function, and in many ways, this is true. The IV chord, however, holds a special place in harmony because of its role as the *subdominant* -- the opposite pole of the dominant -- as well as the high frequency throughout history of the I-IV-V-I progression.**
 
-**Generally speaking, root position ii chord and root position IV chords are equally strong and follow standard doubling conventions. When the ii chord is in first inversion however, the IV chord should be considered the primary pre-dominant with the ii chord acting as its *functional substitution*. This means that a ii<sup>6</sup> chord often takes its doubling from a root-position IV chord. (In the same that a vii<sup>o</sup> chord takes its doubling from a V<sup>7</sup> chord.) Try this on the following progressions. (Make sure to consider the common direction and motion for upper voices tend to do when a root position IV chord moves to a V chord.)**
+**Generally speaking, root position ii chords and root position IV chords are equally strong and follow standard doubling conventions. When the ii chord is in first inversion, however, it becomes a functional substitution for a root-position IV chord. This means that a ii<sup>6</sup> chord most often takes its doubling from a root-position IV chord. (In the same way that a vii<sup>o</sup> chord takes its doubling from a V<sup>7</sup> chord.) Try this on the following progressions. (Make sure to consider the common direction and motion for upper voices tend to do when a root position IV chord moves to a V chord.)**
 
 {% capture ex3 %}X:3
 T:Using functional substitutions for pre-dominants
@@ -62,6 +62,18 @@ V:2 clef=bass
 w:C:I IV V I I ii6 V I I ii6/5 V I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-## First-inversion passing chord
+## Passing chords
 
-viio6 between I and I6
+**When a chord is inserted between two other chords to create a bass line with stepwise motion, we call this a *passing chord*. First- and third-inversion chords are often used for this. You can consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant, and predominant), and instead extends the function of the chords on either side. For example, a vii<sup>o6</sup> chord between a I chord and I<sup>6</sup> chord is no longer functioning strictly as a dominant function, because it's primary role in this case is to extend the tonic function from I through the I<sup>6</sup>. Harmonize the following progressions to see examples of passing chords.**
+
+{% capture ex4 %}X:4
+T:Passing chords
+M:3/4
+L:1/4
+K:C
+V:1
+[cE]xx|| [DG]xx|| [DG]xx|]
+V:2 clef=bass
+[C,G,] [D,] [E,]|| [B,,G,] [A,,] [G,,]|  [B,,G,] [A,,] [G,,]|]
+w:C:I viio6 I6 V6 iv6 V V6 vii%4/2 V{% endcapture %}
+{% include abc-example.html number="4" abc=ex4 %}
