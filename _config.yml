@@ -57,14 +57,11 @@ collections:
     name: 10) An Introduction to Part-writing
   11-further-part-writing:
     output: true
-    name: 11) Part-writing Details and Exceptions 
+    name: 11) Practical Part-writing 
   12-phrasing-texture:
     output: true
-    name: 12) Phrasing and Texture
-  13-sequences-voiceleading-exceptions:
-    output: true
-    name: 13) Sequences and Voice-leading Exceptions in Diatonic Harmony
-  14-inst-ranges-trans-score-reduction:
+    name: 13) Phrasing and Texture
+  13-inst-ranges-trans-score-reduction:
     output: true
     name: 14) Instrument Ranges, Transposition, and Score Reduction
 
