@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 13a Examples - Diatonic Sequences
+title: 11a Examples - Diatonic Sequences
 ---
