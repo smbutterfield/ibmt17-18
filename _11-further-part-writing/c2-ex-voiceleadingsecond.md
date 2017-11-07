@@ -36,12 +36,12 @@ w:C:I I6/4 V I I I6/4 V7 I I IV I6/4 V{% endcapture %}
 
 **Some theory methods teach that a cadential 6/4 should not be labeled as a I<sup>6/4</sup>; instead, they label it as a V<sup>6/4 - 5/3</sup>. The reasoning behind this is twofold:**
 - The I chord does not have a tonic function.
-- The cadential 6/4 often strongly resembles a 4-3 suspension and a 6/5 suspension occurring at the same time.
+- The cadential 6/4 often strongly resembles a 4-3 suspension and a 6-5 suspension occurring at the same time.
 
 **These are both certainly good reasons and enforce an understanding of the true nature of the cadential 6/4. I prefer to label it as a I<sup>6/4</sup> chord, however, because:**
-- We do not use Roman numerals like this in other instance, so it creates an unnecessary exception for students to learn and often confuses students on the difference between inversion figures and actual figured bass.
-- Students often confuse a cadential 6/4 with a true V<sup>6/4</sup>, a chord that occurs regularly as a passing chord. (Read more on this below under the passing chord section.)
-- When looking at an analysis, we are required to understand that all 6/4 chords function in one of the four alternate categories (i.e. passing, cadential, passing, and arpeggiated), but we do not create special Roman numeral cases for any of the others. Students are more than capable of learning the other three usages of second inversion chords, and they can remember that a I<sup>6/4</sup> followed by a root-position V chord is a cadential 6/4.
+- We do not create special usage cases in our Roman numeral system for any other chord. It creates an unnecessary exception for students to learn and often confuses students on the difference between inversion figures and true figured bass.
+- By having two different chords labeled as a V<sup>6/4</sup>, it is easy for beginning theorits to confuse a cadential 6/4 with an actual V<sup>6/4</sup>, a chord that occurs regularly as a passing chord. (Read more on this below under the *passing 6/4* section.)
+- When looking at an analysis, we are required to understand that all 6/4 chords function in one of the four alternate categories (i.e. passing, cadential, passing, and arpeggiated), but we do not create special Roman numeral cases for the other three. Students are more than capable of learning the other three usages of second inversion chords, and they can remember that a I<sup>6/4</sup> followed by a root-position V or V<sup>7</sup> chord is a cadential 6/4 and has a dominant function.
 
 ## Passing 6/4s - function over form (Part 4)
 
