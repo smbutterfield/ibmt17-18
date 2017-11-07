@@ -4,6 +4,10 @@ title: Examples 11c - Voice-leading for Second Inversion Chords
 abc: true
 ---
 
+## Doubling
+
+As a general rule, 6/4 chords function best when the bass voice is doubled. As you harmonize the chords in each of the examples below, notice how often this doubling occurs naturally in your part-writing.
+
 ## Cadential 6/4s
 
 **A cadential 6/4 chord is the most straightforward usage of second inversion chord, because it has the most specific rules.**
@@ -15,7 +19,7 @@ abc: true
 **Harmonize the following three examples to see how well the voice-leading works for a cadential 6/4 chord.**
 
 {% capture 1 %}X:1
-T:Cadential 6/4
+T:Cadential 6/4 chords
 M:4/4
 L:1/4
 Q:1/4=70
@@ -40,10 +44,10 @@ w:C:I I6/4 V I I I6/4 V7 I I IV I6/4 V{% endcapture %}
 
 ## Passing 6/4s - function over form (Part 4)
 
-**Passing chords are the second standard usage for second inversion chords,and they function identically to the description of how first and third inversion chords are used as passing chords. It is a second-inversion chord inserted between two other chords to create a bass line with stepwise motion. You consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant,and predominant), and instead extends the function of the chords on either side. Harmonize the following example to see how vii<sup>o</sup>
+**Passing chords are the second standard usage for second-inversion chords,and they function identically to the description of how first- and third- inversion chords are used as passing chords -- a second-inversion chord inserted between two other chords to create a bass line with stepwise motion. *Passing* is a function that replaces a chord's standard function (i.e. tonic, dominant,and predominant), and instead extends the function of the chords on either side. Harmonize the following example of a passing 6/4.** 
 
 {% capture 2 %}X:2
-T:Passing 6/4
+T:Passing 6/4 chords
 M:4/4
 L:1/4
 K:C
@@ -54,11 +58,11 @@ V:2 clef=bass
 w:C:I V ii6/4 V6 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-**Passing 6/4 chords also provide further clarity as to why vii<sup>o</sup> As we explored when studying first inversion chords (Unit 11b), we discussed two important ideas regarding vii<sup>o</sup> chords:**
-- The vii<sup>o</sup> is a functional substitution for the V<sup>7</sup> chord and therefore takes its voice-leading and doubling conventions from a rootless V<sup>7</sup> chord.
+**Now that we know how passing 6/4 chords function, we can also clarify why vii<sup>o6</sup> chords function well as a passing chord. When studying first inversion chords (Unit 11b), we discussed two important ideas regarding vii<sup>o</sup> chords:**
+- The vii<sup>o</sup> is a functional substitution for the V<sup>7</sup> chord and therefore takes its voice-leading and doubling conventions from the V<sup>7</sup> chord.
 - The vii<sup>o6</sup> is often employed as a passing chord between I and I<sup>6</sup> to create a bass line with stepwise motion.
 
-**This explains why a vii<sup>o6</sup> chord functions as a passing chord; it is actually substituting for a passing V<sup>6/4</sup> chord. Harmonize the following two progressions to see how similar these two chords are.**
+**This explains why a vii<sup>o6</sup> chord functions as a passing chord; it is actually a functional substitution for a passing V<sup>6/4</sup> chord. Harmonize the following two progressions to see how similar these two chords are.**
 
 {% capture 3 %}X:3
 T:V6/4 and viio6
@@ -72,11 +76,35 @@ V:2 clef=bass
 w:C:I viio6 I6 I V6/4 I6{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-**When harmonizing the short chord progressions in the previous topic, we discussed why we have to treat the vi chord in a deceptive cadence as a *functional substitute* for tonic. Because the vi chord acts as a replacement for a I chord, we double the scale degree that works best for a I chord, `do`, rather than the standard doubling of the root, `la` or fifth, `mi`. In this progression, it is correct to break standard convention and double the chordal third of the vi chord. Now that we are looking at first inversion voice-leading, we have two more *functional substitutions* to discuss.**
-- IV is a pre-dominant, so therefore functions as a ii<sup>7</sup> chord without its root
-- vii<sup>o</sup> is a dominant function, so therefore functions as V<sup>7</sup> chord without its root
-- When V goes to vi, the vi chord is replacing the tonic function and therefore functions as a I<sup>sub6</sup>
-
 ## Pedal
 
+**Like the cadential 6/4 and passing 6/4 chords, the pedal 6/4 is defined by the motion that it creates in the bass line. A pedal 6/4 occurs when the bass line remains static across multiple chords by employing a second inversion chord. Note that this is different from a non-chord tone pedal, because a pedal 6/4 chord uses only chord tones to create the static pedal; it does not use non-chord tones to create the pedal. Harmonize the following two examples of common pedal 6/4 chords.**
+
+{% capture 4 %}X:4
+T:Pedal 6/4 chords
+M:3/4
+L:1/4
+K:C
+V:1
+[cE]xx[][]|| [dG]xx[][]|]
+V:2 clef=bass
+[C,G,] [C,] [C,]|| [G,,B,] [G,,] [G,,]|]
+w:C:I IV6/4 I V ii6/4 V{% endcapture %}
+{% include abc-example.html number="4" abc=ex4 %}
+
 ## Arpeggiated
+
+**The fourth and final acceptable usage of 6/4 chords occurs when the bass line creates arpeggiates through a chord. Depending on the harmonic rhythm of the piece, an arpeggiated 6/4 may be viewed as a melodic bass line that does not change inversion rather than a new inversion.**
+
+{% capture 5 %}X:5
+T:Arpeggiated 6/4 chords
+M:4/4
+L:1/4
+Q:1/4=70
+K:C
+V:1
+[cG] [c] [c] [B]| [c4]|]
+V:2 clef=bass
+[CE] [G,] [E,] [G,]| [C,4]|]
+w:C:I I6/4 I6 V I{% endcapture %}
+{% include abc-example.html number="5" abc=ex5 %}

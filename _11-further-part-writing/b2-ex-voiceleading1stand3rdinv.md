@@ -68,7 +68,7 @@ w:C:I IV V I I ii6 V I I ii6/5 V I{% endcapture %}
 
 ## Passing chords
 
-**When a chord is inserted between two other chords to create a bass line with stepwise motion, we call this a *passing chord*. First- and third-inversion chords are often used for this. You can consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant,and predominant), and instead extends the function of the chords on either side. For example, a vii<sup>o6</sup> chord between a I chord and I<sup>6</sup> chord is no longer functioning strictly as a dominant function, because it's primary role in this case is to extend the tonic function from I through the I<sup>6</sup>. Harmonize the following progressions to see examples of passing chords.**
+**When a chord is inserted between two other chords to create a bass line with stepwise motion, we call this a *passing chord*. First- and third-inversion chords often function in this way. You can consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant, and predominant), and instead extends the function of the chords on either side. For example, a vii<sup>o6</sup> chord between a I chord and I<sup>6</sup> chord is no longer functioning strictly as a dominant function, because it's primary role in this case is to extend the tonic function from I through the I<sup>6</sup>. Harmonize the following progressions to practice using passing chords from first- and third-inversion chords.**
 
 {% capture ex4 %}X:4
 T:Passing chords
