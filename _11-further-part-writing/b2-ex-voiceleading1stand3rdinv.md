@@ -68,17 +68,16 @@ w:C:I IV V I I ii6 V I I ii6/5 V I{% endcapture %}
 
 ## Passing chords
 
-**When a chord is inserted between two other chords to create a bass line with stepwise motion, we call this a *passing chord*. First- and third-inversion chords often function in this way. You can consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant, and predominant), and instead extends the function of the chords on either side. For example, a vii<sup>o6</sup> chord between a I chord and I<sup>6</sup> chord is no longer functioning strictly as a dominant function, because it's primary role in this case is to extend the tonic function from I through the I<sup>6</sup>. Harmonize the following progressions to practice using passing chords from first- and third-inversion chords.**
+**When a chord is inserted between two other chords to create a bass line with stepwise motion, we call this a *passing chord*. First- and third-inversion chords often function in this way. You can consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant, and predominant), and instead extends the function of the chords on either side. In the following example, notice that the V<sup>6</sup> chord has a doubled third, and if it were to resolve directly to a I chord, it would create parallel octaves. In this case, the IV<sup>6</sup> chord in no longer strictly a pre-dominant function, because it's primary role in this case is to extend the dominant function to allow the V<sup>6</sup> to fix its doubling before resolving to a tonic chord. Harmonize the following progression to practice using a passing chord.**
 
 {% capture ex4 %}X:4
-T:Passing chords
-T:The second chord in the last progression is a half-diminshed seventh.
+T:A passing chord
 M:3/4
 L:1/4
 K:C
 V:1
-[cE]xx|| [DG]xx|| [DG]xx|]
+[DG] [A] [B]|]
 V:2 clef=bass
-[C,G,] [D,] [E,]|| [B,,G,] [A,,] [G,,]|  [B,,G,] [A,,] [G,,]|]
-w:C:I viio6 I6 V6 iv6 V V6 vii%4/2 V{% endcapture %}
+[B,,B,] [A,,] [G,,]|]
+w:C:V6 IV6 V{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
