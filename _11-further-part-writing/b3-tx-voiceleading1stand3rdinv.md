@@ -15,7 +15,7 @@ The seventh wants to resolve down to the third of the next chord.
 First inversion triads want to resolve to the next chord in root position. 
 Third inversion seventh chords want to resolve to a first inversion of the next chord. 
 
-Example: 
+#### Example: 
 
 Lead Sheet: C - G/B - C - C - G7/F - C/E
 
@@ -44,7 +44,7 @@ VII Diminished chords (viio) do not double the root in 4-part voicing.
 If you're ever questioning your doubling in a viio, think of how you would voice the chord if it were a V7.
 A viio has the top three notes of a V7. 
 
-Example: Using viio as a dominant function. 
+#### Example: Using viio as a dominant function. 
 Get a viio to a V6/5 in C major.
 
 Lead Sheet: C - G7/B - C - C - Bo - G7/B - C
@@ -72,7 +72,7 @@ The IV does not have as strong a pull to the dominant as ii.
 BUT, the ii can be substituted as the IV. 
 Tendancy tone function doesn't apply when the chord doesn't have a dominant function.
 
-Example:
+#### Example:
 
 Lead Sheet: C - F - G - C
 
@@ -85,3 +85,49 @@ Tenor: G3 - A3 - G3 - G3
 Bass: C3 - F2 - G2 - C3
 
 Roman Numerals: I - IV - V - I
+
+## Functional Substitutions
+
+The tonic, dominant, and pre-dominant all have a second chord that functions in a similar way. 
+
+Tonic Substitution:
+
+If the progression goes from V - vi, the vi is functioning as a I(sub6).
+  - sub replaces the root of the chord with the given scle degree
+The vi functions similarly to the tonic.
+
+Dominant Substitution:
+
+If viio is present, it functions the same as a V7 with no root. 
+The viio functions similarly to the dominant.
+
+Pre-Dominant Substitution:
+
+The ii and IV are equal in pre-dominant function. 
+However, if the ii is in first inversion (ii6) it functions as a IV(sub6).
+
+### Passing Chords
+
+Passing Chords: a set of chords in which the bass line moves in passing motion
+
+#### Example: In C
+
+Lead Sheet: G/B - F/A - G
+
+Soprano: G4 - A4 - B4 
+
+ALto: D4 - F4 - G4
+
+Tenor: B3 - C4 - D4
+
+Bass: B2 - A2 - G2
+
+Roman Numerals: V6 - IV6 - V
+
+- all this parallel motion works because the chords are in first inversion
+- the parallel motion is in 3rds, 4ths, and 6ths
+
+We have a heirarchy of function. 
+It goes tonic, dominant, then sub-dominant.
+Passing motion extends the function of one of these by using first inversion chords.
+
