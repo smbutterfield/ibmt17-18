@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 11a Lesson - Diatonic Sequences
+title: 11d Lesson - Diatonic Sequences
 ---

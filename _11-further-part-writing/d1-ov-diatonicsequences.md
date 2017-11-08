@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 11a Overview - Diatonic Sequences
+title: 11d Overview - Diatonic Sequences
 ---
 
 understanding sequences
