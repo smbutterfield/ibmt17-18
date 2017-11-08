@@ -85,3 +85,23 @@ Tenor: G3 - A3 - G3 - G3
 Bass: C3 - F2 - G2 - C3
 
 Roman Numerals: I - IV - V - I
+
+## Functional Substitutions
+
+The tonic, dominant, and pre-dominant all have a second chord that functions in a similar way. 
+
+Tonic Substitution:
+
+If the progression goes from V - vi, the vi is functioning as a I(sub6).
+  - sub replaces the root of the chord with the given scle degree
+The vi functions similarly to the tonic.
+
+Dominant Substitution:
+
+If viio is present, it functions the same as a V7 with no root. 
+The viio functions similarly to the dominant.
+
+Pre-Dominant Substitution:
+
+The ii and IV are equal in pre-dominant function. 
+However, if the ii is in first inversion (ii6) it functions as a IV(sub6).
