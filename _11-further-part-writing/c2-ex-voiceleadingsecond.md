@@ -32,7 +32,7 @@ V:2 clef=bass
 w:C:I I6/4 V I I I6/4 V7 I I IV I6/4 V{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-**Cadential 6/4 chords are often used to correct part-writing difficulties in apparoaching the V chord. Look at the third progression that you just harmonized. If the cadential 6/4 were removed, it would in parallel perfect 5ths between the soprano and bass.**
+**Cadential 6/4 chords are often used to correct part-writing difficulties in apparoaching the V chord. Look at the third progression that you just harmonized. If the cadential 6/4 were removed, it would create parallel perfect 5ths between the soprano and bass.**
 
 **Some theory methods teach that a cadential 6/4 should not be labeled as a I<sup>6/4</sup>; instead, they label it as a V<sup>6/4 - 5/3</sup>. The reasoning behind this is twofold:**
 - The I chord does not have a tonic function.
@@ -59,7 +59,9 @@ V:2 clef=bass
 w:C:I V ii6/4 V6 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-**Now that we know how passing 6/4 chords function, we can also clarify why vii<sup>o6</sup> chords function well as a passing chord. When studying first inversion chords (Unit 11b), we discussed two important ideas regarding vii<sup>o</sup> chords:**
+**Understanding that the ii chord in this example acts as a passing chord rather than a pre-dominant chord also explains how a V chord moves convincingly to a ii chord. When a chord resolves against the normal flow of a circle-of-fifths flowchart (see Unit 7a), we call that a *regression*. In the example above, the first V chord *should* resolve to a tonic chord but instead regresses to a ii chord. This works because of the strength of the bass line, so it is the *passing function* that extends the dominant harmony through a stepwise bass line.**
+
+**Now that we have practiced using a passing 6/4 chord, we can also clarify why vii<sup>o6</sup> chords function well as a passing chord. When studying first inversion chords (Unit 11b), we discussed two important ideas regarding vii<sup>o</sup> chords:**
 - The vii<sup>o</sup> is a functional substitution for the V<sup>7</sup> chord and therefore takes its voice-leading and doubling conventions from the V<sup>7</sup> chord.
 - The vii<sup>o6</sup> is often employed as a passing chord between I and I<sup>6</sup> to create a bass line with stepwise motion.
 
@@ -74,12 +76,12 @@ V:1
 [e][d][c]|| [e][d][c]|]
 V:2 clef=bass
 [C,] [D,] [E,]|| [C,] [D,] [E,]|]
-w:C:I viio6 I6 I V6/4 I6{% endcapture %}
+w:C:I V6/4 I6 I viio6 I6{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
 ## Pedal
 
-**Like the cadential 6/4 and passing 6/4 chords, the pedal 6/4 is defined by the motion that it creates in the bass line. A pedal 6/4 occurs when the bass line remains static across multiple chords by employing a second inversion chord. Note that this is different from a non-chord tone pedal, because a pedal 6/4 chord uses only chord tones to create the static pedal; it does not use non-chord tones to create the pedal. Harmonize the following two examples of common pedal 6/4 chords.**
+**Like the cadential 6/4 and passing 6/4 chords, the pedal 6/4 is defined by the motion that it creates in the bass line. A pedal 6/4 occurs when the bass line remains static across multiple chords by employing a second inversion chord. *Note that this is different from a non-chord tone pedal*, because a pedal 6/4 chord uses only chord tones to create the static pedal; it does not use non-chord tones to create the pedal. Harmonize the following two examples of common pedal 6/4 chords.**
 
 {% capture ex4 %}X:4
 T:Pedal 6/4 chords
