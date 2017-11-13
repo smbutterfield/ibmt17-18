@@ -139,11 +139,11 @@ V:1
 V:2 clef=bass
 C B,| A, G,| F, E,| D, C,|]
 w:C:I V6 IV6 iii6 ii6 I6 viio6 I{% endcapture %}
-{% include abc-example.html number="7" abc=ex7 %}
+{% include abc-example.html number="8" abc=ex8 %}
 
 **We also looked at one of the most commonly used sequences in this unit: the Pachelbel sequence.**
 
-{% capture ex5 %}X:5
+{% capture ex9 %}X:9
 T:Pachelbel's sequence
 M:4/4
 L:1/2
@@ -153,7 +153,7 @@ V:1
 V:2 clef=bass
 C G,| A, E,| F, C,| F, G,:|
 w:C:I V vi iii IV I IV V{% endcapture %}
-{% include abc-example.html number="5" abc=ex5 %}
+{% include abc-example.html number="9" abc=ex9 %}
 
 **This sequence takes its name from the German Baroque composer, Johann Pachelbel, who composed a canon using this sequence as its foundation. Since then, the harmonic progression has become a common structure on which to build multiple styles of music. The comedian Rob Paravonian satired many of these takes in his now famous "Pachelbel Rant". (Caution: some strong language)**
 
