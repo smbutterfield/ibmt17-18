@@ -39,7 +39,7 @@ K:C
 V:1
 c f-| f e-| e d-| d c-| c B| c2|]
 V:2 clef=bass
-C, C,| G, G,| F, F,| E, E,| D, D,| C,2|]
+C, A,| G, G,| F, F,| E, E,| D, D,| C,2|]
 w:C:{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
@@ -53,8 +53,8 @@ K:C
 V:1
 c f-| f e-| e d-| d c-| c B| c2|]
 V:2 clef=bass
-C, C,| G, G,| F, F,| E, E,| D, D,| C,2|]
-w:C:I IV6/4 V7 I6/4 IVM7 viio6/4 iii7 vi6/4 ii7 V6/4 I{% endcapture %}
+C, A,| G, G,| F, F,| E, E,| D, D,| C,2|]
+w:C:I IV6 V7 I6/4 IVM7 viio6/4 iii7 vi6/4 ii7 V6/4 I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
 **The next example shows you my suggested alto voice. It provides the required missing chord tones for each chord in this progression.**
@@ -65,10 +65,10 @@ M:4/4
 L:1/2
 K:C
 V:1
-[cE] [fA]| [Bf] [ec]| [Ae] [Bd]| [Gd] [Ac]| [cF] [GB]| [E2c2]|]
+[cE] [fc]| [Bf] [ec]| [Ae] [Bd]| [Gd] [Ac]| [cF] [GB]| [E2c2]|]
 V:2 clef=bass
-C, C,| G, G,| F, F,| E, E,| D, D,| C,2|]
-w:C:I IV6/4 V7 I6/4 IVM7 viio6/4 iii7 vi6/4 ii7 V6/4 I{% endcapture %}
+C, A,| G, G,| F, F,| E, E,| D, D,| C,2|]
+w:C:I IV6 V7 I6/4 IVM7 viio6/4 iii7 vi6/4 ii7 V6/4 I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
 **In your classification of the two-voice progression above, you likely described each line individually (e.g. descending diatonic 2nds that last one whole note), or you may have describe the intervals between the two lines for each measure (e.g. a diatonic 7th resolving to diatonic 6th, then repeating after transposing down a diatonic 2nd). Neither of these is sufficient, however, once we add a third voice.**
@@ -121,10 +121,10 @@ M:4/4
 L:1
 K:C
 V:1
-[EG]| [EA]| [FA]| [BG]| [cG]|]
+[GE]| [EG]| [EA]| [FA]| [BG]| [cG]|]
 V:2 clef=bass
-[E,B,]| [A,,C]| [D,D]| [G,,D]| [C,E]|]
-w:C:iii vi ii V I{% endcapture %}
+[C,C]| [E,B,]| [A,,C]| [D,D]| [G,,D]| [C,E]|]
+w:C:I iii vi ii V I{% endcapture %}
 {% include abc-example.html number="7" abc=ex7 %}
 
 **Sequences can also be used to explain how non-diatonic progressions function in a diatonic context. One common sequence occurs when first-inversion chords are used in succession to create a stepwise bass line. A *parallel 6 chord* is any sequence with repeated first-inversion triads. Notice that this does not create objectional parallel voices as long as the root of the chord stays above the chordal fifth. If these two voices are inverted, this will result in parallel perfect fifths.**
