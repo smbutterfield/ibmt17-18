@@ -4,30 +4,17 @@ title: 11d Lesson - Tonal Sequences
 ---
 # Class Discussion
 
-## Diatonic Sequences
+Further to our discussion of the importance of patterns in music, please view the following TED Talk by Dr. Scott Rickard. He used mathematics to try to create music without any repetition, and the results are...interesting.
 
-Sequences: a repeated segment of music.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RENk9PK06AQ" frameborder="0" allowfullscreen></iframe>
 
-Example of patternless music:
-TED Talk "The world's ugliest music" by Scott Rickard.
-https://www.youtube.com/watch?v=RENk9PK06AQ
+## Melodic sequences
 
-- a way of understanding the most basic structure of music
-- a definable pattern
-  - our brains love repetition
+As the class worked through creating the melodic sequences, I realized that I needed to clarify that the pattern itself does *not* need to be defined. When we are describing sequence, we assume that the reader is looking at the music and therefore can see the entire first iteration. Instead, we focus our description on **how the pattern is transposed**, not on describing the intervals within the initial segment.
 
-### Types of Sequences:
-1. Melodic
-2. Harmonic
-3. Diatonic
-4. Chromatic
-
-#### Melodic Sequences:
-- a repeated segment of melody
-  - you can break diatonic harmony in the melody as long as it is a part of the pattern
-  - the new pattern becomes the function of that portion of music
-
-Class Activity: Finish the melodic pattern.
+Once this was clear, easily incorporated the terms in their description of the pattern.
+- **Diatonic patterns** only use notes within the key signature so they do not require a quality when discussing the transpostion. For example, you cannot say, "This pattern is transposed in ascending major 3rds," because diatonic patterns will have a mix of major 3rds and minor 3rds depending on which scale degrees the transposition starts. Instead, we would say, "This pattern is transposed in diatonic ascending 3rds," because this tells the reader to go up a 3rd and use whatever note is in the key signature.
+- Conversely, **chromatic patterns** *do* require a quality on the transposition for the interval, because the pattern repeats *exactly* using the same intervals from the initial iteration. 
 
 Example:
 1. What is the melodic pattern?

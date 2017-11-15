@@ -9,6 +9,4 @@ A sequence occurs when a musical pattern is established then repeated at a repea
 - diatonic or chromatic
 - single or multiple parts within each repeated segment
 
-Sequences work because they rely on one of the most fundamental human characteristics: our ability to identify patterns. All music relies on a listener's familiarity with the tendencies within a style, but these tendencies can be broken if a composer is able to create a new pattern to guide the listener. Once a musical pattern is established, it will sound good to a listener, even if this pattern defies standard tonal conventions.
-
-We have already studied some sequences in previous units, even though we did not call them such at that time, and we will be looking at how these shaped tonal harmony in the examples on the next page.
+Sequences work because they rely on one of the most fundamental human characteristics: our ability to identify patterns. All music relies on a listener's familiarity with the tendencies within a style, but these tendencies can be broken if a composer is able to create a new pattern to guide the listener. Once a musical pattern is established, it will sound "right" to a listener, even if this pattern defies standard tonal conventions.
