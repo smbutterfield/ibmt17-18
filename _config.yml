@@ -58,12 +58,12 @@ collections:
   11-further-part-writing:
     output: true
     name: 11) Practical Part-writing 
-  12-phrasing-texture:
+  12-inst-ranges-trans-score-reduction:
     output: true
-    name: 12) Phrasing and Texture
-  13-inst-ranges-trans-score-reduction:
+    name: 12) Instrument Transpositions, Ranges, and Score Reduction
+  13-phrasing-texture:
     output: true
-    name: 13) Instrument Ranges, Transposition, and Score Reduction
+    name: 13) Phrasing and Texture
 
 # ignore stuff
 exclude: [oldOMTfiles, docs]
