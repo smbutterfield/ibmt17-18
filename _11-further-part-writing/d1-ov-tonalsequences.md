@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 11d Overview - Diatonic Sequences
+title: 11d Overview - Tonal Sequences
 ---
 
 A sequence occurs when a musical pattern is established then repeated at a repeated transposition. Sequences can be any combination of the following categories:

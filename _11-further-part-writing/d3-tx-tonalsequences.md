@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 11d Lesson - Diatonic Sequences
+title: 11d Lesson - Tonal Sequences
 ---
 # Class Discussion
 

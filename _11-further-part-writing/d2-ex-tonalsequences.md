@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 11d Examples - Diatonic Sequences
+title: 11d Examples - Tonal Sequences
 abc: true
 ---
 
