@@ -123,5 +123,20 @@ Bass: C3 - C3 - C3 - G2
 
 Roman Numerals: I - IV6/4 - I - V
 
+## Figures
+
+Any non-chord tone shape classification can be used to describe chord tones. 
+
+This includes:
+- passing
+- neighbor
+- pedal
+- appoggiatura
+- escape tone
+- suspension
+- retardation
+- anticipation
+
+All of these terms can be used to describe movement between chord tones by tagging on the word "figure."
 
 
