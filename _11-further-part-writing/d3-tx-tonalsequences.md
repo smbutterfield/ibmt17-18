@@ -12,30 +12,31 @@ Further to our discussion of the importance of patterns in music, please view th
 
 As the class worked through creating the melodic sequences, I realized that I needed to clarify that the pattern itself does *not* need to be defined. When we are describing sequence, we assume that the reader is looking at the music and therefore can see the entire first iteration. Instead, we focus our description on **how the pattern is transposed**, not on describing the intervals within the initial segment.
 
-Once this was clear, easily incorporated the terms in their description of the pattern.
-- **Diatonic patterns** only use notes within the key signature so they do not require a quality when discussing the transpostion. For example, you cannot say, "This pattern is transposed in ascending major 3rds," because diatonic patterns will have a mix of major 3rds and minor 3rds depending on which scale degrees the transposition starts. Instead, we would say, "This pattern is transposed in diatonic ascending 3rds," because this tells the reader to go up a 3rd and use whatever note is in the key signature.
-- Conversely, **chromatic patterns** *do* require a quality on the transposition for the interval, because the pattern repeats *exactly* using the same intervals from the initial iteration. 
+Once this was clear, the class easily incorporated the terms in their description of the pattern because each term is used in a similar manner to previous units. The discussion of chromatic and diatonic sequences, however, required clarification.
+- A true **diatonic pattern** only uses notes within the key signature so they do not require a quality when discussing the transposition. For example, it is incorrect to describe a diatonic pattern using, "The pattern repeats in ascending *major* 3rds," because diatonic patterns will have a mix of major 3rds and minor 3rds depending on which scale degree the iteration starts. Instead, we would say, "The pattern is transposed in diatonic ascending 3rds," because this tells the reader to go up a 3rd and use whatever note is in the key signature.
+- Conversely, **chromatic patterns** *do* require a quality on the transposition for the interval, because the pattern repeats *exactly* using the same intervals from the initial iteration. If we isolate the third sequence from the melodic examples (see example below), we have a fixed intervallic pattern -- in this case, descending m2, ascending m2, descending P4 -- that is then repeated by transposing that *exact intervallic pattern* down a m2. In short, a chromatic pattern is assumed to transpose every part of the pattern exactly at a fixed interval(s) unless otherwise noted.
 
-Example:
-1. What is the melodic pattern?
-  - 3 notes up stepwise and the 4th note stepwise down
-2. Is it diatonic or chromatic?
-  - diatonic
-3. How does the pattern move?
-  - up stepwise between pattern segments
- 
-When you identify that a pattern is diatonic, you don't need to specify intrval quality because the structure is in the key and changes quality as it progresses. 
-Chromatic patterns have fixed intervalic qualities. 
-Patterns can be described in different ways that can all be correct. 
- 
-### Parts of Sequences
-1. Ascending or descending
-2. Diatonic or chromatic
-3. Intervals of transposition
-4. Length of pattern
-5. Single or multiple parts within each repitition
+{% capture ex1 %}X:1
+T:Strict chromatic sequence
+M:2/2
+L:1/8
+Q:1/4=70
+K:C
+cBcG B^AB^F| _BA_BF A^GAE| _AG_A_E G4||{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
 
-#### Two-Voice Sequence
+The fifth example was the most difficult to complete and classify, because it mixes elements from both diatonic and chromatic sequences. It has a diatonic transposition, but it resembles a chromatic sequence because there is a fixed intervallic structure within the pattern. We could say that it is a diatonic sequence that descends in 3rds, but uses a fixed chromatic pattern within each iteration. The biggest problem lies with the fifth iteration because it is the only pattern that requires an altered fourth pitch rather than just a raised second pitch. There is not technically a "right" answer to this; it would be decided by the context and style in which the composer was using the pattern. In the completed example below, I chose to complete it using an F&sharp;, because it creates a nice leading tone for the following pitch. If the pattern had been repeating at the second rather than third, the next pitch would have been an `A`, and I would likely have chosen an F&natural;.
+
+{% capture ex2 %}X:2
+T:Diatonic transposition with a chromatic pattern
+M:2/2
+L:1/8
+Q:1/4=70
+K:C
+c'bc'g a^gae| fefc d^cdA| B^AB^F G^FGD| E^DEB, C4||{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
+
+## Harmonic sequences
 
 Ex: Harmonize a two-voice sequence
 Upper line: C5 - F5___F5 - E5___E5 - D5___D5 - C5___C5 - B4 - C5
