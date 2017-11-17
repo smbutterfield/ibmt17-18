@@ -73,10 +73,10 @@ w:C:I IV6 V7 I6/4 IVM7 viio6/4 iii7 vi6/4 ii7 V6/4 I{% endcapture %}
 
 **In your classification of the two-voice progression above, you likely described each line individually (e.g. descending diatonic 2nds that last one whole note), or you may have describe the intervals between the two lines for each measure (e.g. a diatonic 7th resolving to diatonic 6th, then repeating after transposing down a diatonic 2nd). Neither of these is sufficient, however, once we add a third voice.**
 
-**Instead, we classify *harmonic* sequences by describing the movement of the *roots* of each chord. Please note that we do not use the bass line. The classification of the sequence in the example above would be:**
-- A diatonic harmonic sequence of descending P5 that alternates between root-position seventh chords and second-inversion triads.
+**Instead, we classify *harmonic* sequences by describing the movement of the *roots* of each chord. We do *not* label harmonic sequences by inversions or the bass line. If we were to identify sequences by bass lines, all sequences that created a particular style of bass line (e.g. descending by stepwise motion) would be grouped together, even if they shared no harmonic similarities. (You can see this concept in the next two examples below.) Taking this into account, the description of the sequence in the example above would be:**
+- A diatonic harmonic sequence with root-movement by descending P5 that alternates between root-position seventh chords and second-inversion triads.
 
-**Notice that this sequence only requires one description of a root movement and its direction (descending P5). As we saw in the final example of the melodic sequences above, it is also common for harmonic sequences to have two parts within each repetition. Look at the example below, and classify it using our terms from above:**
+**The above sequence has only one interval and direction in its root movement pattern, a descending P5. As we saw in the final example of the melodic sequences above, though, it is also possible for harmonic sequences to have two or more parts within each repetition. Look at the example below, and classify it using our terms from above:**
 - ascending or descending
 - diatonic or chromatic
 - intervals of transposition
@@ -94,6 +94,8 @@ V:2 clef=bass
 C G,| A, E,| F, C,| F, G,:|
 w:C:I V vi iii IV I IV V{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
+
+**Hopefully you were able to identify that the sequence only covers the first three measures, the final measure is simply a way to allow the pattern to repeat smoothly. For the sequence, there are two possibilities to describe it. You could consider each measure a pattern in which case you would say that this is a diatonic sequence that descends by 3rd. If you consider the pattern to be a half note, though, it has multiple parts. It is a diatonic sequence of triads that moves down by 4th and then up by 2nd. Either is correct, but the second version communicates a clearer picture of the pattern.**
 
 **How does your description of the sequence change if we change some of the voices to alter the chords' inversions as in the example below?**
 
