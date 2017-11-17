@@ -48,3 +48,31 @@ Roman Numerals: I - IV6 - V7 - I6/4 - IVM7 - viio6/4 - iii7 - vi6/4 - ii7 - V6/4
 - once you establish a pattern in the chord progression you have to stick with it for the sequence to work
 - the sequence in this progression is a string of 6/4's and 7th chords
 - it is also a series of descending diatonic 5ths 
+
+In the same example, add an alto line:
+Soprano: C5 - F5___F5 - E5___E5 - D5___D5 - C5___C5 - B4 - C5
+Alto: E4 - C5 - B4 - C5 - A4 - B4 - G4 - A4 - F4 - G4 - E4
+Bass: C3 - A3 - G3 - G3 - F3 - F3 - E3 - E3 - D3 - D3 - C3
+Roman Numerals: I - IV6 - V7 - I6/4 - IVM7 - viio6/4 - iii7 - vi6/4 - ii7 - V6/4 - I
+
+What is the sequence?
+- root movement descends by diatonic 5th
+- alternating between root position 7th chord and second inversion triad
+- each chord lasts two beats
+
+When looking at diatonic sequences, always identify them by root movement.
+
+Ex: Identify the harmonic sequence
+Soprano: E5 - D5 - C5 - B4 - A4 - G4 - A4 - B4 
+Alto: G4 - B4 - E4 - G4 - C4 - E4 - F4 - D4
+Bass: C4 - G3 - A3 - E3 - F3 - C3 - F3 - G3 
+Roman numerals: I - V - vi - iii - IV - I - IV - V
+
+Sequence Patterns:
+- descending 4th followed by ascending 2nd (through the third bar)
+- diatonic
+  - it works best to describe a sequence including as much of the musical material as possible
+  
+A sequence, as long as it is strict, can break harmonic rules. 
+
+
