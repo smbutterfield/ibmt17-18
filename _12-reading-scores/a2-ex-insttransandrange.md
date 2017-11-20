@@ -18,7 +18,7 @@ The ranges on this sheet are the **written ranges** for each of the instruments.
 
 You may want to print this page for easy reference. 
 
-#C lefs
+# Clefs
 
 While not directly related to transpositions, some instruments commonly read alternate clefs to lessen the number of ledger lines necessary. These include:
 - viola (default is alto clef, can switch to treble if necessary)
@@ -53,10 +53,12 @@ Some instruments read in concert pitch, but sound in a different octave. This is
 - piccolo (sounds up an octave from written)
 - bass flute (sounds down an octave from written)
 - contrabassoon (sounds down an octave from written)
-- guitar (reads in treble clef, sounds down an octave from written)
+- guitar (sounds down an octave from written)
 - double bass (sounds down an octave from written)
 
 ### Instruments written in B-flat
+
+You can find the concert pitch for all B-flat instruments by transposing *down* a M2 from the the written pitch. **This does not necessarily give you the correct octave** -- just the correct pitch -- so you must then consider the distance and direction based on the specific instrument. 
 
 Instruments in B-flat include many of the most common "band" instruments. This group includes:
 - Clarinet in B-flat (sounds down a M2 from written)
@@ -68,13 +70,13 @@ Instruments in B-flat include many of the most common "band" instruments. This g
 - Tenor saxophone (sounds down a M9 (M2 plus an octave) from written)
     - The lower voiced saxophones (tenor and baritone) add an extra octave below the standard transposition. All saxophones read from treble clef music, so when accounting for the extra octave that the tenor saxophone adds, it is easiest to switch to bass clef when writing this instrument in concert pitch.
 
-You can find the concert pitch for all B-flat instruments by transposing *down* a M2 from the the written pitch. **This does not necessarily give you the correct octave** -- just the correct pitch -- so you must then consider the distance and direction based on the specific instrument. 
-
 Conveniently, no B-flat instruments sound higher than their written pitch, so for each of the above instruments, when reading their written parts, transpose *down* a M2 to find concert pitch. Do not forget the additional octave for tenor saxophone.
 
 When reading a concert pitch line, transpose *up* a M2 to write for a B-flat instrument. Do not forget the additional octave for tenor saxophone.
 
 ### Instruments written in E-flat
+
+You can find the concert pitch for all E-flat instruments by transposing *up* a m3 or *down* a M6 from than the written pitch. **This does not necessarily give you the correct octave** -- just the correct pitch -- so you must then consider the distance and direction based on the specific instrument. 
 
 This group includes:
 - Clarinet in E-flat (sounds up a m3 from written)
@@ -82,21 +84,19 @@ This group includes:
 - Baritone saxophone (sounds down a M13 (M6 plus an octave) from written)
     - The lower voiced saxophones (tenor and baritone) add an extra octave below the standard transposition. All saxophones read from treble clef music, so when accounting for the extra octave that the tenor saxophone adds, it is easiest to switch to bass clef when writing this instrument in concert pitch.
 
-You can find the concert pitch for all E-flat instruments by transposing *up* a m3 or *down* a M6 from than the written pitch. **This does not necessarily give you the correct octave** -- just the correct pitch -- so you must then consider the distance and direction based on the specific instrument. 
-
 When reading an E-flat clarinet part, transpose a m3 *up* to find concert pitch. When reading an alto or baritone saxophone part, transpose a M6 *down* to find concert pitch. Do not forget to add an additional octave for baritone saxophone.
 
 When reading a concert pitch line, transpose *down* a m3 to write for E-flat clarinet. When reading a concert pitch line, transpose *up* a M6 to write for alto or baritone saxophone. Do not forget to add an additional octave for baritone saxophone.
 
 ### Instruments written in F
 
+You can find the concert pitch for all F instruments by transposing *down* a P5 from the written pitch. Conveniently, this will give you the correct pitch *and* octave for both of these instruments. 
+
 Both of the "horns" are written in F. This includes:
 - English horn
 - French horn
     - See section below on the history of brass instruments for a discussion of the many keys in which hornists are required to perform.
     - Many modern hornists prefer to refer to French horn simply as "horn".
-
-You can find the concert pitch for all F instruments by transposing *down* a P5 from the written pitch. Conveniently, this will give you the correct pitch *and* octave for both of these instruments. 
 
 When reading an an English horn or French horn part, transpose *down* a P5 to find concert pitch. 
 
