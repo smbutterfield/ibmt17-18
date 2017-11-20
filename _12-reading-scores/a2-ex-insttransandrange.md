@@ -4,7 +4,7 @@ title: 12a Examples - Instrumental Transpositions and Ranges
 abc: true
 ---
 
-#Range
+# Range
 
 Instrument and voice ranges are self-explanatory, but there are a wide variety of caveats that affect the extremes for almost every instrument. Brass players and vocalists, for example, have a wide variation of how high and low an individual can comfortably perform depending on the experience of the performer. Some instruments can be physically altered such as the bassoon, double bass, and piano to add more range. Because of this variation as well as the constantly evolving standards of instrument construction and performance standards, you should always research an instrument before you choose to compose for it. While the internet is full of great resources -- such as the link below -- the best research for understanding an instrument is to discuss the instrument with an expert performer. Even with good references such as the one below, it is not able to show the nuances of each instrument. (For example, this sheet does not show the common range extension techniques and tools such as the low C extension for double bass, the use of piccolo trumpet, or altissimo for woodwinds.)
 
@@ -18,7 +18,7 @@ The ranges on this sheet are the **written ranges** for each of the instruments.
 
 You may want to print this page for easy reference. 
 
-#Clefs
+#C lefs
 
 While not directly related to transpositions, some instruments commonly read alternate clefs to lessen the number of ledger lines necessary. These include:
 - viola (default is alto clef, can switch to treble if necessary)
@@ -27,9 +27,9 @@ While not directly related to transpositions, some instruments commonly read alt
 - French horn (default is treble clef, but occasionally can switch to any other clef if the part goes low enough into their pedal register)
 - trombone (default is bass clef, often switches to tenor when necessary)
 
-#Transposition
+# Transposition
 
-###Non-transposing instruments (in C)
+### Non-transposing instruments (in C)
 
 Non-transposing instruments are the easiest to understand, because they read and sound at the pitch written. This group includes:
 - voice
@@ -47,7 +47,8 @@ Non-transposing instruments are the easiest to understand, because they read and
     - See the section below on the history of brass instruments for details.
 - harp
 
-###Octave displacing instruments
+### Octave displacing instruments
+
 Some instruments read in concert pitch, but sound in a different octave. This is done to limit the number of ledger lines necessary to write their parts. This group includes:
 - piccolo (sounds up an octave from written)
 - bass flute (sounds down an octave from written)
@@ -55,7 +56,7 @@ Some instruments read in concert pitch, but sound in a different octave. This is
 - guitar (reads in treble clef, sounds down an octave from written)
 - double bass (sounds down an octave from written)
 
-###Instruments written in B-flat
+### Instruments written in B-flat
 
 Instruments in B-flat include many of the most common "band" instruments. This group includes:
 - Clarinet in B-flat (sounds down a M2 from written)
@@ -73,7 +74,7 @@ Conveniently, no B-flat instruments sound higher than their written pitch, so fo
 
 When reading a concert pitch line, transpose *up* a M2 to write for a B-flat instrument. Do not forget the additional octave for tenor saxophone.
 
-###Instruments written in E-flat
+### Instruments written in E-flat
 
 This group includes:
 - Clarinet in E-flat (sounds up a m3 from written)
@@ -87,7 +88,7 @@ When reading an E-flat clarinet part, transpose a m3 *up* to find concert pitch.
 
 When reading a concert pitch line, transpose *down* a m3 to write for E-flat clarinet. When reading a concert pitch line, transpose *up* a M6 to write for alto or baritone saxophone. Do not forget to add an additional octave for baritone saxophone.
 
-###Instruments written in F
+### Instruments written in F
 
 Both of the "horns" are written in F. This includes:
 - English horn
@@ -101,7 +102,7 @@ When reading an an English horn or French horn part, transpose *down* a P5 to fi
 
 When reading a concert pitch line, transpose *up* a P5 to write for either English horn or French horn.
 
-###Other transposing instruments
+### Other transposing instruments
 
 Almost all instruments fall into the above categories, but there are two outliers.
 
@@ -113,9 +114,9 @@ Alto flute is the only instrument that has a standard transposition in G. (Frenc
 
 To find concert pitch from a part in G, transpose *down* a P4 from the written pitch. To write in this transposition, you should write *up* a P5 from concert pitch. Students often confuse these transpositional directions with the more common F instruments, because they are exact opposites.
 
-###The effects of history on brass instrument writing
+## A brief history on brass instrument writing
 
-####High brass
+#### High brass
 
 Brass instrument transpositions often confuse students, because they evolved into their modern forms at a later date than the other instruments. This means that depending on the era in which a piece was composed, there are a wide variety of "keys" in which the part might be written.
 
@@ -123,7 +124,7 @@ The high brass instruments, trumpet and French horn, both spent much of early mu
 
 Modern trumpeters and hornists are masters of transposition. They choose the instrument on which they will perform based on timbral characteristics of each instrument, regardless of the transposition chosen by the composer. Modern trumpeters commonly use instruments pitched in B-flat, C, D, E-flat, and A and sometimes even F and G. Modern horns are built to include the standard F "side" of the horn, but by pressing a valve down they can switch to a B-flat "side" on a double horn, or even an E-flat or F (up an octave) "side" on a triple horn. You will encounter all of these transpositions when reading scores. If you are writing a modern *band* piece, it is common practice to write the trumpet parts in B-flat and horn parts in F. If you are writing a modern orchestral piece, it is simplest to just write trumpet parts in C and horn parts in F. The performer will decide which instrument, although if you desire a specific trumpet (e.g. dornet, flugelhorn, piccolo trumpet, etc.), you should ask a professional which transposition will work best.
 
-####Low brass
+#### Low brass
 
 Luckily, all of the low brass instruments read in concert pitch, so writing for them is relatively simple. However, do not be confused when trombonists talk about their instrument as a B-flat instrument. The fundamental of the trombone is a concert B-flat, but it *always* reads from parts written in C. It is a non-transposing instrument.
 
