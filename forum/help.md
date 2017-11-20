@@ -6,11 +6,13 @@ title: IBMT Forum Help
 The [IBMT forum]({{ site.baseurl }}/forum/index.html) is added to this site using the [Disqus](https://disqus.com/) community platform service.
 This is a public forum intended to help students learn, communicate, and collaborate around IBMT.
 
-Get started by logging into Disqus using a Facebook, Twitter, Google, or Disqus account. 
-In this setting, it is often better to use a non-personal account to keep your academic discussion separate from your personal social media.
+Get started by logging into [Disqus](https://disqus.com/) using a Facebook, Twitter, Google, or Disqus account. 
+In this setting, it is often better to use a professional account to keep your academic discussion separate from your personal social media.
 We suggest creating a Disqus account to avoid sharing your personal social media details.
 
-Please remember the forum is public!
+To follow the forum discussions, scroll to the bottom of the comments and look for the "Subscribe" button. 
+After subscribing, you should receive email notifications when people add new comments. 
+Try checking your [Disqus account settings](https://disqus.com/home/settings/email/) if you are not receiving emails.
 
 ## Comment Policy and Community Guidelines
 
@@ -31,6 +33,8 @@ Help moderate:
 - if you have any issues, contact us
 - please flag inappropriate posts
 - don't respond to inappropriate comments
+
+Please remember the forum is public!
 
 ## Basic Rules
 

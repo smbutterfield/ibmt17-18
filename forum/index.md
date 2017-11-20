@@ -6,7 +6,9 @@ title: IBMT Forum
 Welcome to the IBMT Forum! 
 This discussion space is intended to help students learn, communicate, and collaborate.
 
-We will be notified when you post, so feel free to ask any questions. Between all of the instructors, this will decrease response time so that you get answers when you need them. And remember that you should help your classmates if you think you know the answer to their questions!
+We will be notified when you post, so feel free to ask any questions. 
+Between all of the instructors, this will decrease response time so that you get answers when you need them. 
+And remember that you should help your classmates if you think you know the answer to their questions!
 
 For information about getting started and our community guidelines, please check the [help page]({{ site.baseurl }}/forum/help.html).
 
