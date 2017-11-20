@@ -29,6 +29,12 @@ While not directly related to transpositions, some instruments commonly read alt
 
 # Transposition
 
+### Terminology confusion
+
+Before going further, make sure to review the terminology discussed on the previous page (Overview 12a).
+
+One of the most confusing elements of understanding transposing instruments is the use of key names to describe the instruments. If an instrument is "in B-flat" as described above, that implies that the instrument transposes. Unfortunately, this creates the possibility of confusing statements such as, "When an instrument in B-flat plays in B-flat, it is actually playing in A-flat concert." This ambiguity should be clarified by differentiating between the instrument's transposition and the key signature in which the piece is composed: "When an instrument [that reads] in B-flat plays [in the key signature] of B-flat [major], it is actually playing in [the key of] A-flat concert." The language we use in this instance is clunky at best, inadequate at worst. It falls upon the musician to make sure that they are communicating clearly when it comes to transposing instruments. 
+
 ### Non-transposing instruments (in C)
 
 Non-transposing instruments are the easiest to understand, because they read and sound at the pitch written. This group includes:
