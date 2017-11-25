@@ -4,7 +4,7 @@ title: 12b Examples - Score Reading and Reduction
 abc: true
 ---
 
-Practice your transposition on the following two examples by condensing the top four voices into an SATB score on grand staff of the bottom two staves. Each upper voice is written in the standard transposition for the listed instrument, so you will need to transpose each of these parts to concert pitch before placing it on the grand staff. You may want to open Unit 12a in a separate window/tab in order to refer to the transposition guidelines.
+Practice your transposition on the following two examples by condensing the top four voices into an SATB score on the grand staff at the bottom two staves. Each upper voice is written in the standard transposition for the listed instrument, so you will need to transpose each of these parts to concert pitch before placing it on the grand staff. You may want to open Unit 12a in a separate window/tab in order to refer to the transposition guidelines.
 
 {% capture ex1 %}X:1
 T:Bach - Chorale no. 269 ("Jesu, der du meine Seele")
