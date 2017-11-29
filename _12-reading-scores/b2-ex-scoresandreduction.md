@@ -20,9 +20,9 @@ V:2 name="English Horn"
 V:3 name="Tenor Saxophone"
 [K:Am] c/2d/2 e e e| d e f e/2d/2| Hc4|]
 V:4 name="Double Bass" clef=bass
-G,/2A,/2 B,/2C/2 D C/2B,/2| A, G, C D| HG,4|]
+[K:Gm] G,/2A,/2 B,/2C/2 D C/2B,/2| A, G, C D| HG,4|]
 V:5 name="soprano and alto voices"
-[K:Gm] x4| x4| x4|]
+x4| x4| x4|]
 V:6 clef=bass name="tenor and bass voices"
 x4| x4| x4|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
