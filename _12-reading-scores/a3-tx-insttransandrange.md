@@ -46,3 +46,14 @@ There are main 5 categories of transpositions:
    - If the written pitch is a C, the english horn will sound down to an F.
   - To get an english horn to play a C4, the note on the page must be a G4.
   - The english horn sounds a P5 down from the written pitch.
+  
+### Shortcuts
+
+- look for an instrument in concert pitch and transpose the other instruments to that key
+- use solfege in each key to transfer it to a concert pitch score
+
+### Sounding Pitch to Written Pitch
+
+When working from a concert pitch score, transpose the opposite direction that you would if you were moving a transposed line to a concert line. 
+- a Bb trumpet would be a M2 up to get to written pitch from sounding (concert) pitch
+- everything goes in the opposite direction in the same interval
