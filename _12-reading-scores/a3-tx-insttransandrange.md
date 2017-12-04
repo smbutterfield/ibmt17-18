@@ -20,7 +20,7 @@ There are main 5 categories of transpositions:
 5. Octave Instruments
 - these are the most common, but there are instruments in D, G, E, Ab, etc. 
 
-### Examples:
+### Transpositions
 #### Bb Instruments:
 
 - Clarinet sounds in Bb.
@@ -57,3 +57,10 @@ There are main 5 categories of transpositions:
 When working from a concert pitch score, transpose the opposite direction that you would if you were moving a transposed line to a concert line. 
 - a Bb trumpet would be a M2 up to get to written pitch from sounding (concert) pitch
 - everything goes in the opposite direction in the same interval
+
+#### Brass Instruments
+
+Brass instruments are strange.
+A trombone is a Bb instrument due to its overtones, but it reads in C. 
+Tuba also reads in C no matter the kind of tuba. 
+The only brass that transposes are trumpets (Bb, C, A, etc...) and horns (F).
