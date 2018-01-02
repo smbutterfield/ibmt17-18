@@ -23,7 +23,7 @@ var documents = {
     { 
       "url": "{{ post.url | absolute_url | xml_escape }}",
       "title": "{{ post.title | xml_escape }}",
-      "text": {{ post.content | strip_html | jsonify }}
+      "text": {{ post.content | strip_html | jsonify | replace: "\n"," " }}
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}
 };
