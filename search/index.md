@@ -1,21 +1,24 @@
 ---
 layout: page
-title: search
+title: Search
 ---
 
-Lunr.js search draft
+This page provides a basic search of IBMT content.
+*Note: it may take a few seconds to load!* 
+(p.s. you can also try [Google CSE]({{ "/search/google.html" | absolute_url }}))
 
 <script src="https://unpkg.com/lunr/lunr.js"></script>
 
-<form class="searchall" role="search" id="search" >
-  <input type="text" size="15" id="lunr-search" placeholder="Search..." aria-label="search">
-  <input class="button-all" type="button" onclick="lunr_search();" value=" Search ">
-</form>
+<input type="text" size="15" id="lunr-search" placeholder="Search..." aria-label="search">
+<input class="button-all" type="button" onclick="lunr_search();" value=" Search ">
 
 <ul id="search-results"></ul>
+
+<hr>
+
+Built using [Lunr.js](https://lunrjs.com/).
+
 <script>
-  // https://learn.cloudcannon.com/jekyll/jekyll-search-using-lunr-js/
-  // https://lunrjs.com/guides/getting_started.html
 // add documents
 var documents = { 
     {% for post in site.documents %}
@@ -44,9 +47,8 @@ function displayResults(results) {
     for (var i = 0; i < results.length; i++) {  // Iterate over the results
       var link = results[i].ref;
       var title = documents[results[i].ref].title;
-      appendString += '<li><a href="' + link + '">' + title + '</a></li>';
-      //appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
-      //appendString += '<p>' + item.text.substring(0, 150) + '...</p></li>';
+      var preview = documents[results[i].ref].text.substring(0,150);
+      appendString += '<li><a href="' + link + '">' + title + '</a><br>' + preview + '... </li>';
     }
     searchResults.innerHTML = appendString;
   } else {
