@@ -88,8 +88,8 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: 0;
   bottom: 0;
-  left: -14rem;
-  width: 14rem;
+  left: -18rem;
+  width: 18rem;
   visibility: hidden;
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -102,6 +102,8 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 30em) {
   .sidebar {
     font-size: .75rem; /* 14px */
+    left: -24rem;
+    width: 24rem;
   }
 }
 
@@ -136,11 +138,11 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .sidebar-item {
-    padding: 1.5rem;
+    padding: 1.25rem;
   }
   .sidebar-nav-item {
-    padding-left:  1.5rem;
-    padding-right: 1.5rem;
+    padding-left:  1.25rem;
+    padding-right: 1.25rem;
   }
 }
 
@@ -238,11 +240,20 @@ a.sidebar-nav-item:focus {
 #sidebar-checkbox:checked ~ .sidebar,
 #sidebar-checkbox:checked ~ .wrap,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  -webkit-transform: translateX(14rem);
-      -ms-transform: translateX(14rem);
-          transform: translateX(14rem);
+  -webkit-transform: translateX(18rem);
+      -ms-transform: translateX(18rem);
+          transform: translateX(18rem);
 }
 
+@media (min-width: 30em) {
+  #sidebar-checkbox:checked ~ .sidebar,
+  #sidebar-checkbox:checked ~ .wrap,
+  #sidebar-checkbox:checked ~ .sidebar-toggle {
+    -webkit-transform: translateX(24rem);
+        -ms-transform: translateX(24rem);
+            transform: translateX(24rem);
+  }
+}
 /*
  * Posts and pages
  *
