@@ -66,6 +66,7 @@ collections:
     name: 13) Phrasing and Texture
   assignments:
     output: true 
+    name: Assignments
 
 # ignore stuff
 exclude: [oldOMTfiles, docs]

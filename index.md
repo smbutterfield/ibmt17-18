@@ -8,11 +8,10 @@ It was developed with support of the [Think Open Fellowship](https://open.lib.ui
 The project was inspired by and partially adapted from [*Open Music Theory*](http://openmusictheory.com/).
 
 <ul class="index-buttons">
-<li><a href="{{ site.baseurl }}/about.html">About</a></li>
-<li><a href="{{ site.baseurl }}/toc.html">Table of contents</a></li>
-<li><a href="{{ site.baseurl }}/forum/index.html">Forum</a></li>
-<li><a href="{{ site.baseurl }}/abc-tutorial.html">ABC Tutorial</a></li>
-<li><a href="{{ site.baseurl }}/abc-playground.html">ABC Playground</a></li>
+<li><a href="{{ "/about.html" | absolute_url }}">About</a></li>
+<li><a href="{{ "/toc.html" | absolute_url }}">Table of contents</a></li>
+<li><a href="{{ "/forum/index.html" | absolute_url }}">Assignments &amp; Forum</a></li>
+<li><a href="{{ "/abc-playground.html" | absolute_url }}">ABC Playground</a></li>
 </ul>
 
 The textbook is designed to maximize flexibility and support an inquiry-based model of instruction. 

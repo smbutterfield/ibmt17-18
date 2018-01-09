@@ -10,7 +10,7 @@ Get started by logging into [Disqus](https://disqus.com/) using a Facebook, Twit
 In this setting, it is often better to use a professional account to keep your academic discussion separate from your personal social media.
 We suggest creating a Disqus account to avoid sharing your personal social media details.
 
-To follow the forum discussions, scroll to the bottom of the comments and look for the "Subscribe" button. 
+To follow the forum discussions, scroll to the **bottom of the comments** and look for the "Subscribe" button. 
 After subscribing, you should receive email notifications when people add new comments. 
 Try checking your [Disqus account settings](https://disqus.com/home/settings/email/) if you are not receiving emails.
 
