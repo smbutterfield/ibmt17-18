@@ -14,7 +14,6 @@ layout: page
 {% if chapter.label != 'posts' %}
 ## {{ chapter.name }}
 {% for lesson in chapter.docs %}
-- [{{ lesson.title }}]({{ lesson.url | prepend: site.baseurl }})
-{% endfor %}
+- [{{ lesson.title }}]({{ lesson.url | prepend: site.baseurl }}){% endfor %}
 {% endif %}
 {% endfor %}
