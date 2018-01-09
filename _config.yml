@@ -64,6 +64,8 @@ collections:
   13-phrasing-texture:
     output: true
     name: 13) Phrasing and Texture
+  assignments:
+    output: true 
 
 # ignore stuff
 exclude: [oldOMTfiles, docs]
