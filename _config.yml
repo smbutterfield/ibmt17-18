@@ -64,6 +64,27 @@ collections:
   13-phrasing-texture:
     output: true
     name: 13) Phrasing and Texture
+  14-secondary-dominant-chords:
+    output: true
+    name: 14) Secondary Dominant Chords
+  15-further-secondary-functions:
+    output: true
+    name: 15) Further Secondary Functions
+  16-intro-to-modulation:
+    output: true
+    name: 16) An Introduction to Modulation
+  17-mode-mixture:
+    output: true
+    name: 17) Mode Mixture
+  18-chromatic-chords:
+    output: true
+    name: 18) Chromatic Chords
+  19-modern-chromatic-chords:
+    output: true
+    name: 19) Understanding Chromatic Chords in a Modern Context
+  20-further-chromatic-harmony:
+    output: true
+    name: 20) Further Chromatic Harmony
   assignments:
     output: true 
     name: Assignments
