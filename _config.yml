@@ -64,9 +64,9 @@ collections:
   13-phrasing-texture:
     output: true
     name: 13) Phrasing and Texture
-  14-secondary-dominant-chords:
+  14-secondary-dominant-functions:
     output: true
-    name: 14) Secondary Dominant Chords
+    name: 14) Secondary Dominant Functions
   15-further-secondary-functions:
     output: true
     name: 15) Further Secondary Functions
