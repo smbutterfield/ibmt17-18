@@ -66,7 +66,7 @@ M:4/4
 L:1/2
 K:C
 V:1
-[cE] [c]| [D] [D]| [c2]|]
+[cE] [c]| [d] [d]| [c2]|]
 V:2 clef=bass
 [C,G,] [A,,]| [D,] [G,,]| [C,2]|]
 w:C:I vi ii7 V I{% endcapture %}
