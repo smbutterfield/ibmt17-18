@@ -54,7 +54,7 @@ w:C:I vi7 ii V7 I{% endcapture %}
 
 {% capture ex3 %}X:3
 T:Short chord progressions
-T:Treat each measure as a seperate progression
+T:Treat each measure as a separate progression
 M:4/4
 L:1/4
 K:C
