@@ -7,6 +7,12 @@ abc: true
 # Class discussion
 ## Secondary Dominant Chords
 
+What is a secondary dominant?
+- a false tonicization to lead to a chord and extend its function
+Instead of a ii7 - V, you can use a V7/V - V.
+ - in C, the V7/V is spelled DF#AC, as opposed to ii7 DFAC.
+ - this creates a tonicization to the V chord
+
 #### Example 1 in C
 Soprano: C5 - C5 - D5 - D5 - C5
 
@@ -64,6 +70,12 @@ This leaves us with a A - D-7, or a V/ii.
 
 The top figure in the secondary dominant is the dominant chord.
 The bottom figure is where you are borrowing the chord from. 
+
+Take a chord progression:
+I - V7/vi - vi - ii - V7 - I
+In F: F - A7 - Dm - Gm - C7 - I
+- the A7 is a tonicization to Dm
+- as a secondary dominant, the A7 - Dm is the V7 - i in D minor
 
 # Further reading
 
