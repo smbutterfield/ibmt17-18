@@ -27,8 +27,8 @@ M:4/4
 L:1
 K:C
 V:1
-[cE]| [cE]| [dG]| [dF]| [cE]|]
+[cE]| [cE]| [dA]| [dF]| [cE]|]
 V:2 clef=bass
-[C,G,]| [A,,A,]| [^F,,A,]| [G,,B,]| [C,G,]|]
+[C,G,]| [A,,A,]| [^F,,C]| [G,,B,]| [C,G,]|]
 w:C:{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
