@@ -19,7 +19,7 @@ V:2 clef=bass
 w:C:{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-Because of the nature of diatonic progressions, there is a great deal of crossover between non-dominant secondary functions and the actual diatonic chords of a key. Provide a Roman numeral analysis of the following chorale, paying particular attention to the second chord.
+Because of the nature of diatonic progressions, there is a great deal of crossover between non-dominant secondary functions and the actual diatonic chords of a key. Provide a Roman numeral analysis of the following chorale, paying particular attention to the second chord. Is it diatonic or a secondary function?
 
 {% capture ex2 %}X:2
 T:Ambiguous secondary functions
