@@ -20,7 +20,7 @@ V:2 clef=bass
 w:C:ii7 V4/3 I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-What chordal resolution changes? Because secondary dominant chords are so closely related to diatonic circle-of-fifths progressions, you may apply the same principle to repeated series of secondary dominant seventh chords. Try the same voice-leading on the following example. What changes? How does this affect accidentals in the bar.
+What chordal resolution changes? Because secondary dominant chords are so closely related to diatonic circle-of-fifths progressions, you may apply the same principle to repeated series of secondary dominant seventh chords. Try the same voice-leading on the following example. What changes? How does this affect accidentals within the bar.
 
 {% capture ex2 %}X:2
 T:Harmonizing consecutive seventh chords
