@@ -59,15 +59,16 @@ Therefore, secondary dominant chords can be substituted freely within a circle-o
 
 ## Deceptive resolutions of secondary dominant functions
 
-STILL TO DO
+There is a less common resolution of secondary dominant chords that relies on the voice-leading from a deceptive cadence. Analyze the following example, and you will notice that at first glance, the progression does not follow our established progressions between the second and third chords. To understand this, you must think in the *borrowed* key. What key would this chromatic chord *normally* tonicize? If you were in that key, how would label the progression between these two chords? It is very helpful to use leadsheet symbols here.
 
 {% capture ex4 %}X:4
+T:Deceptive resolutions of secondary dominant functions
 M:4/4
 L:1/2
 K:C
 V:1
-[cE] [c]| [d] [d]| [c2]|]
+[cE] [BD]| [AC] [GD]| [G2C]|]
 V:2 clef=bass
-[C,G,] [A,,]| [D,] [G,,]| [C,2]|]
-w:C:I vi ii V I{% endcapture %}
+[C,G,] [E,^G,]| [F,A,] [B,F,]| [C2E,]|]
+w:C:I V7/vi IV V4/2 I6{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
