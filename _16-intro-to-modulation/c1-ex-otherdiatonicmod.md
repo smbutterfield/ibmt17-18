@@ -8,3 +8,7 @@ abc: true
 
 ## Direct modulation
 
+## Altered pivot
+
+Secondary function in one or both keys
+Only use when no common pivot is present
