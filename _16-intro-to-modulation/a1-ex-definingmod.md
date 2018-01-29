@@ -6,13 +6,13 @@ abc: true
 
 ## What is a modulation?
 
-A *modulation* occurs when a tonal piece of music changes the tonic pitch from one pitch to another. Most musicians understand this concept on a basic level, but there are a few common misconceptions. 
-- Modulations are sometimes referred to as a "key change", but this can be confusing because the key signature does not necessarily need to be altered for a modulation to occur. 
-- The term key change also does not account for the fact that a shift between the parallel major and minor modes (e.g. C major to C minor) is *not* a modulation but could necessitate a change of key signature. This is a shift in mode -- not a modulation -- because the tonic does not change.
+A *modulation* occurs in a tonal piece of music when the tonic pitch changes. Most musicians understand this concept on an intuitive level, but there are a few common misconceptions. 
+- Modulations are sometimes referred to as a "key change", but the key signature does not necessarily need to be altered for a modulation to occur. Repeated accidentals are a more consistent hint that a modulation may have happened.
+- The term "key change" also does not account for the fact that a shift between the parallel major and minor modes (e.g. C major to C minor) is *not* a modulation but do have different key signatures. This is a shift in mode -- not a modulation -- because the tonic does not change.
 
 ## Key relationships
 
-To begin studying modulations, we will look at modulations between closely-related keys. *Closely-related keys* are keys that are within one accidental of each other. Each key has five closely-related keys. Try to come up with the closely-related keys for:
+In our first studies of modulation, we will look at modulations between closely-related keys. *Closely-related keys* are keys that are within one accidental of each other. Each key has five closely-related keys. To practice, write the closely-related keys for:
 - C major
 - A minor
 - C-sharp major
