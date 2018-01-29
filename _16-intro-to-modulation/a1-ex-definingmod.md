@@ -66,91 +66,89 @@ w:C:
 {% include abc-example.html number="2" abc=ex2 %}
 
 {% capture ex3 %}X:3
-T:Bach - Chorale no. 95 (simplified)
-M:4/4
-L:1/4
-K:Bb
-Q:1/4=70
+T:Tchaikovsky - Symphony No. 5, Mvt. II
+T:reduction
+M:12/8
+L:1/8
+K:D
+Q:1/8=90
 V:1
-[dF] [eG] [fB] [fB]| [eA] [dB] [cA] H[cA]| [dB] [eG] [fF] [eG]| [cG] [cF] H[B2F]|
-[cF] [dF] [eE] [eG]| [d_A] [dG] H[c2E]|]
+z6 z3 DCB,| D3 C6 A,B,C| E3 D6 DEF| G3 G2G G3-G2G|G3 F3 z3 DCB,|
+D3 C6 A,B,C| E3 D6 DEF| ^G3 G2 G G3-G2 G| ^GBA A6 z3|]
 V:2 clef=bass
-[B,B,] [G,B,] [D,B,] [G,D]| [C,E] [D,F] [F,F] H[F,F]| [B,,F] [C,C] [D,C] [G,B,]| [E,B,] [F,A,] H[B,,2D]|
-w:Bb:
-[F,A,] [D,=B,] [C,C] [E,C]| [F,C] [G,=B,] H[C,2G,]|]{% endcapture %}
+[A,6E,A,,C,,] [A,6F,A,,D,,]| [A,6G,A,,E,,] [A,6E,A,,G,,]| [A,6A,,F,,] [A,6DF,A,,D,,]| [G,6DE,B,,E,,B,,,] [A,3DA,,,A,,E,,][A,3CA,,,A,,E,,]| [A,6DD,A,,E,,] [F,,6]|
+w:D:
+[A,6G,A,,E,,] [A,6E,A,,G,,]| [A,6A,,F,,] [A,6DF,A,,D,,]| [F,6FB,D,B,,B,,,] [F,3FB,D,D,,][^G,3^ECC,C,,]| [F,9FCC,F,,] z3|]{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
 {% capture ex4 %}X:4
-T:Bach - Chorale no. 95 (simplified)
-M:4/4
+T:Chopin - Mazurka in G Minor, op. 67 no.2
+M:3/4
 L:1/4
 K:Bb
-Q:1/4=70
+Q:1/4=150
 V:1
-[dF] [eG] [fB] [fB]| [eA] [dB] [cA] H[cA]| [dB] [eG] [fF] [eG]| [cG] [cF] H[B2F]|
-[cF] [dF] [eE] [eG]| [d_A] [dG] H[c2E]|]
+D| d/2e/2 d A| B> Gd/2e/2|f/2g/2 f c| d z d/2d/2|d/2e/2 d A| B/2A/2 G c| G/2A/2 B c| G/2A/2 B c|
+d/2e/2 d A| B> Gd/2e/2|f/2g/2 f c| d z d/2d/2|d/2e/2 d A| B G/2b/2a/g/2| g/2f/2e/2e/2d/2c/2| B/2A/2 G2|]
 V:2 clef=bass
-[B,B,] [G,B,] [D,B,] [G,D]| [C,E] [D,F] [F,F] H[F,F]| [B,,F] [C,C] [D,C] [G,B,]| [E,B,] [F,A,] H[B,,2D]|
-w:Bb:
-[F,A,] [D,=B,] [C,C] [E,C]| [F,C] [G,=B,] H[C,2G,]|]{% endcapture %}
+z| D,, [^F,CD][F,CD]| G,, [G,B,D] [G,B,E]| A,, [F,CE][F,A,E]| B,, [F,B,D][F,B,D]| z [D,^F,C][D,F,C]| G,, [D,B,][C,G,E]-| [C,G,E] [G,G,,D] [C,G,E]-| [C,G,E] [G,G,,D] [C,G,E]|
+w:g:
+D,, [D,D][D,D]| G,, [G,B,D] [G,B,E]| A,, [F,CE][F,A,E]| B,, [F,B,D][F,B,D]| z [D,^F,C][D,F,C]| G,, [G,DB,][C,G,E]| D, [CG,] [^F,C]| G,, [D,2B,]|]]{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
 {% capture ex5 %}X:5
-T:Bach - Chorale no. 95 (simplified)
+T:Bach - Chorale no. 106 
+T:(simplified)
 M:4/4
 L:1/4
-K:Bb
-Q:1/4=70
+K:A
+Q:1/4=65
 V:1
-[dF] [eG] [fB] [fB]| [eA] [dB] [cA] H[cA]| [dB] [eG] [fF] [eG]| [cG] [cF] H[B2F]|
-[cF] [dF] [eE] [eG]| [d_A] [dG] H[c2E]|]
+[Ac] [GB] [AA] [GB]| [Ac] [F^d] H[G2e]| [fB] [eB] [dG] [Ac]| [BA] [BG] H[A2E]|]
 V:2 clef=bass
-[B,B,] [G,B,] [D,B,] [G,D]| [C,E] [D,F] [F,F] H[F,F]| [B,,F] [C,C] [D,C] [G,B,]| [E,B,] [F,A,] H[B,,2D]|
-w:Bb:
-[F,A,] [D,=B,] [C,C] [E,C]| [F,C] [G,=B,] H[C,2G,]|]{% endcapture %}
+[A,E] [E,E] [C,E] [E,E]| [A,,E] [B,,B,] H[E,2B,]| [B,D] [G,B,] [E,E] [A,E]| [D,F] [E,D] H[A,,2C]|
+w:A:{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
 {% capture ex6 %}X:6
-T:Bach - Chorale no. 95 (simplified)
-M:4/4
-L:1/4
+T:Mendelssohn - Songs Without Words
+T:(simplified)
+M:6/8
+L:1/8
 K:Bb
-Q:1/4=70
+Q:1/8=90
 V:1
-[dF] [eG] [fB] [fB]| [eA] [dB] [cA] H[cA]| [dB] [eG] [fF] [eG]| [cG] [cF] H[B2F]|
-[cF] [dF] [eE] [eG]| [d_A] [dG] H[c2E]|]
+z3 z2[Bd]| [A2c][GB] [^F2A][Ac]| [G2B][AC] [G2B,]D| [C2E][CE] [C/2E][D/2F][GE][CE]| D3-D2[BdD]|
+[A2c][GB] [^F2A][Ac]| [G2B][AC] [GB,]GA| B^cd [fc]=ed| [a2d]f d2A| B[^c=E][dF] [fA][=eG][dF]| [d3F]-[dF]z2|]
 V:2 clef=bass
-[B,B,] [G,B,] [D,B,] [G,D]| [C,E] [D,F] [F,F] H[F,F]| [B,,F] [C,C] [D,C] [G,B,]| [E,B,] [F,A,] H[B,,2D]|
-w:Bb:
-[F,A,] [D,=B,] [C,C] [E,C]| [F,C] [G,=B,] H[C,2G,]|]{% endcapture %}
+G,,[G,B,]D, G,,[G,B,]D,| G,,[A,C]D, G,,[A,C]D,| G,,[G,B,]D, G,,[G,B,]D,| G,,[G,]E, G,,[G,C]E,| G,,[G,B,]D, G,,[G,B,]D,| 
+G,,[A,C]D, G,,[A,C]D,| G,,[G,B,]D, G,,[G,]D,| G,,[DB,]G, G,,[^CB,]G,| F,,[A,D]F, F,,[A,D]F,| G,,[B,D]G, A,,[^C]A,| [D,3A,D]-[D,A,D]z2|]
+w:g:{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
 {% capture ex7 %}X:7
-T:Bach - Chorale no. 95 (simplified)
+T:Bach - Chorale - Erkenne mich, mein Huter
+T:(simplified)
 M:4/4
 L:1/4
-K:Bb
-Q:1/4=70
+K:E
+Q:1/4=65
 V:1
-[dF] [eG] [fB] [fB]| [eA] [dB] [cA] H[cA]| [dB] [eG] [fF] [eG]| [cG] [cF] H[B2F]|
-[cF] [dF] [eE] [eG]| [d_A] [dG] H[c2E]|]
+[EG]| [Ec] [EB] [A/2E][A/2F] [GE]| [FE] [FD] H[GE] [Fd]| [Ee] [eG] [dG] [dF]| H[c3E]|]
 V:2 clef=bass
-[B,B,] [G,B,] [D,B,] [G,D]| [C,E] [D,F] [F,F] H[F,F]| [B,,F] [C,C] [D,C] [G,B,]| [E,B,] [F,A,] H[B,,2D]|
-w:Bb:
-[F,A,] [D,=B,] [C,C] [E,C]| [F,C] [G,=B,] H[C,2G,]|]{% endcapture %}
+[E,B,]| [A,A,] [B,G,] [C,/2C][D,/2B,] [B,E,]| [A,,C] [B,,B,] H[E,B,] [D,^B,]| [G,C,] [E,C] [G,C] [^B,G,,]| H[C,3C]|]
+w:E:{% endcapture %}
 {% include abc-example.html number="7" abc=ex7 %}
 
 {% capture ex8 %}X:8
-T:Bach - Chorale no. 95 (simplified)
+T:Bach - Chorale No. 108
 M:4/4
 L:1/4
-K:Bb
-Q:1/4=70
+K:Eb
+Q:1/4=75
 V:1
-[dF] [eG] [fB] [fB]| [eA] [dB] [cA] H[cA]| [dB] [eG] [fF] [eG]| [cG] [cF] H[B2F]|
-[cF] [dF] [eE] [eG]| [d_A] [dG] H[c2E]|]
+[EB,]| [EB] [GB] [Ac] [Gd]| [G2e] H[Ge] [cg]| [cf] [eA] [eG] [dF]| H[e3G]|]
 V:2 clef=bass
-[B,B,] [G,B,] [D,B,] [G,D]| [C,E] [D,F] [F,F] H[F,F]| [B,,F] [C,C] [D,C] [G,B,]| [E,B,] [F,A,] H[B,,2D]|
-w:Bb:
-[F,A,] [D,=B,] [C,C] [E,C]| [F,C] [G,=B,] H[C,2G,]|]{% endcapture %}
+[E,G,]| [G,B,] [E,E] [A,E] [=B,,D]| [C,2C] H[C,C] [CE]| [A,C] [F,C] [B,B,] [B,B,,]| H[E,3B,]|
+w:Eb:{% endcapture %}
 {% include abc-example.html number="8" abc=ex8 %}
