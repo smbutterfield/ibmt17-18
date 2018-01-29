@@ -25,13 +25,17 @@ The biggest difficulty regarding modulation is differentiating between modulatio
 
 On a scratch piece of paper, do the following instructions for each of the examples below:
 1. Listen to the entire excerpt, and at the end, sing the tonic (`do`). Use your ear-training while looking at the final chord to determine which pitch you sang. Write this on your scratch paper.
-2. Listen to the excerpt again, but pause each time you come to the end of a phrase. Each time you pause the excerpt, sing `do`. This may require you to sing up or down to `do` because some of the phrase endings do not have `do` in the chord. (i.e. if there is a half cadence)
-3. Compare your tonics from each phrase. Are they all the same? Does it change throughout the excerpt?
+  - If you are struggling to identify your tonic, try singing along with the soprano line. Once you arrive at the cadence, sing up and down the scale until you arrive at something that feels completely stable. You should then be able to count the scale degrees through which you must move to arrive at `do`.
+2. Listen to the excerpt again, but pause each time you come to the end of a phrase. Each time you pause the excerpt, sing your current `do`. This may require you to find a pitch that is not present in the chord because some of the phrase endings do not have `do` in the chord. (i.e. if there is a half cadence)
+3. Compare your tonics from each phrase. Does it change throughout the excerpt? If so, you should be able to pinpoint the phrase in which it modulated.
 
 Some of these examples modulate, yet some are only tonicizations. What do all of the modulations have in common? What about the tonicizations? How does this change your perception of modulation? Is there some commonality among the modulations that will help you visually identify a modulation if you do not have access to playback or a recording?
 
+Above all else, you will notice that we are not beginning our discussion of modulation by looking at this from a theoretical perspective. Modulation is determined by the listener, and you will often find yourself disagreeing with others. In many cases, modulation is subjective, but this becomes more concrete with experience.
+
 {% capture ex1 %}X:1
-T:Bach - Chorale no. 95 (simplified)
+T:Bach - Chorale no. 95 
+T:(simplified)
 M:4/4
 L:1/4
 K:Bb
@@ -40,24 +44,25 @@ V:1
 [dF] [eG] [fB] [fB]| [eA] [dB] [cA] H[cA]| [dB] [eG] [fF] [eG]| [cG] [cF] H[B2F]|
 [cF] [dF] [eE] [eG]| [d_A] [dG] H[c2E]|]
 V:2 clef=bass
-[B,B,] [G,B,] [D,B,] [G,D]| [C,E] [D,F] [F,F] H[F,F]| [B,,F] [C,C] [D,C] [G,B,]| [E,B,] [F,A,] H[B,,2D]|
+[B,B,] [G,B,] [D,B,] [G,D]| [C,E] [D,F] [F,F] H[F,F]| [B,,F] [C,C] [D,A,] [G,B,]| [E,B,] [F,A,] H[B,,2D]|
 w:Bb:
 [F,A,] [D,=B,] [C,C] [E,C]| [F,C] [G,=B,] H[C,2G,]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 {% capture ex2 %}X:2
-T:Bach - Chorale no. 95 (simplified)
+T:Beethoven - Die Ehre Gottes aus der Natur
+T:reduction
 M:4/4
 L:1/4
-K:Bb
-Q:1/4=70
+K:C
+Q:1/4=100
 V:1
-[dF] [eG] [fB] [fB]| [eA] [dB] [cA] H[cA]| [dB] [eG] [fF] [eG]| [cG] [cF] H[B2F]|
-[cF] [dF] [eE] [eG]| [d_A] [dG] H[c2E]|]
+[GFDB,] [GFDB,] [GFDB,] [GFDB,]| [c2C] G2| E2 C [eG]| [e2G] [dF] [cE]| [c2E] H[BD] G|
+[f2F] [d2D]| [B2B,]> [G2G,]| [c2EC] [d2BGD]| [e2cGE]> [e2cGE]| [e2^cAE]> [e2cAE]| [f2dAF]> [d2AD]| [g2ecG] [B2GDB,]| [c2GEC]> [e'2c'ge]| [e'2c'ge] z2| z2 z|]
 V:2 clef=bass
-[B,B,] [G,B,] [D,B,] [G,D]| [C,E] [D,F] [F,F] H[F,F]| [B,,F] [C,C] [D,C] [G,B,]| [E,B,] [F,A,] H[B,,2D]|
-w:Bb:
-[F,A,] [D,=B,] [C,C] [E,C]| [F,C] [G,=B,] H[C,2G,]|]{% endcapture %}
+[G,,F,D,B,,] [G,,F,D,B,,][G,,F,D,B,,][G,,F,D,B,,]| [C,,2C,] [G,2G,,]| [E,2E,,] [C,C,,] [C,G,]| [C,2G,] [B,,G,] [C,G,]| [G,2G,,] H[G,G,,] [G,G,,]|
+w:C:
+[F,2F,,] [D,2D,,]| [B,,2B,,,]> [G,,,2G,,]| [A,,2A,,,] [G,,,2G,,]| [C,2C,,]> [C2C,]| [A,2^C,A,,E,]> [A,2^C,A,,E,]| [D,2DA,F,]> [F,2F,,]| [G,2C,E,G,,] [G,,,2G,,]| [C,,2G,,E,,C,]> [C,,2G,,E,,C,]| [C,,2G,,E,,C,]> [C,,2G,,E,,C,E,G,C]| H[C,,2G,,E,,C,E,G,C]>|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 {% capture ex3 %}X:3
