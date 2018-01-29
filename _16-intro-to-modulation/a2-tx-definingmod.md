@@ -70,22 +70,22 @@ BUT Musically and structurally what defines a phrase?
 As we go through the listening examples, try to identify the cadences.
 By looking for cadences, we can identify where a modulation occurs, no matter how little time the music sits in the new key. 
 
-Ex: Beethoven
+#### Ex: Beethoven
 The first phrase ends in a half cadence in C.
 The rest of the piece continues in C with a phrase of tonicization to F, but it never modulates.
 - this partially being because Beethoven will beat the tonic into your ear.
 
-Ex: Tchaikovsky
+#### Ex: Tchaikovsky
 The first phrase ends with and imperfect authentic cadence in D major.
 The last phrase modulates to F# minor out of context.
 In the real piece, it goes back into D major after this section so the F# minor moment functions as a tonicization. 
 
-Ex: Chopin
+#### Ex: Chopin
 We are in G minor. 
 This piece has a V/iii that heavily tonicizes Bb, but it's not a strong enough cadence point.
  - if the soprano line landed on a Bb then it would feel like a modulation, but it doesn't
 
-Ex: Mendelssohn 
+#### Ex: Mendelssohn 
 In G minor at the beginning, it modulates later in the example. 
 It's all based on the cadences throughout the example. 
 
