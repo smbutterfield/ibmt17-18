@@ -33,7 +33,6 @@ Some of these examples modulate, yet some are only tonicizations. What do all of
 
 Above all else, you will notice that we are not beginning our discussion of modulation by looking at this from a theoretical perspective. Modulation is determined by the listener, and you will often find yourself disagreeing with others. In many cases, modulation is subjective, but this becomes more concrete with experience.
 
-
 {% capture ex1 %}X:1
 T:Bach - Chorale - Erkenne mich, mein Huter
 T:(simplified)
@@ -50,15 +49,16 @@ w:E:{% endcapture %}
 
 {% capture ex2 %}X:2
 T:Bach - Chorale No. 108
+T:(Original key = E-flat)
 M:4/4
 L:1/4
-K:Eb
+K:E
 Q:1/4=75
 V:1
 [EB,]| [EB] [GB] [Ac] [Gd]| [G2e] H[Ge] [cg]| [cf] [eA] [eG] [dF]| H[e3G]|]
 V:2 clef=bass
-[E,G,]| [G,B,] [E,E] [A,E] [=B,,D]| [C,2C] H[C,C] [CE]| [A,C] [F,C] [B,B,] [B,B,,]| H[E,3B,]|
-w:Eb:{% endcapture %}
+[E,G,]| [G,B,] [E,E] [A,E] [^B,,D]| [C,2C] H[C,C] [CE]| [A,C] [F,C] [B,B,] [B,B,,]| H[E,3B,]|
+w:E:{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 {% capture ex3 %}X:3
