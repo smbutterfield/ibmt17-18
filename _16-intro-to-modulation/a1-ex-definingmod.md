@@ -33,7 +33,35 @@ Some of these examples modulate, yet some are only tonicizations. What do all of
 
 Above all else, you will notice that we are not beginning our discussion of modulation by looking at this from a theoretical perspective. Modulation is determined by the listener, and you will often find yourself disagreeing with others. In many cases, modulation is subjective, but this becomes more concrete with experience.
 
+
 {% capture ex1 %}X:1
+T:Bach - Chorale - Erkenne mich, mein Huter
+T:(simplified)
+M:4/4
+L:1/4
+K:E
+Q:1/4=65
+V:1
+[EG]| [Ec] [EB] [A/2E][A/2F] [GE]| [FE] [FD] H[GE] [Fd]| [Ee] [eG] [dG] [dF]| H[c3E]|]
+V:2 clef=bass
+[E,B,]| [A,A,] [B,G,] [C,/2C][D,/2B,] [B,E,]| [A,,C] [B,,B,] H[E,B,] [D,^B,]| [G,C,] [E,C] [G,C] [^B,G,,]| H[C,3C]|]
+w:E:{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
+
+{% capture ex2 %}X:2
+T:Bach - Chorale No. 108
+M:4/4
+L:1/4
+K:Eb
+Q:1/4=75
+V:1
+[EB,]| [EB] [GB] [Ac] [Gd]| [G2e] H[Ge] [cg]| [cf] [eA] [eG] [dF]| H[e3G]|]
+V:2 clef=bass
+[E,G,]| [G,B,] [E,E] [A,E] [=B,,D]| [C,2C] H[C,C] [CE]| [A,C] [F,C] [B,B,] [B,B,,]| H[E,3B,]|
+w:Eb:{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
+
+{% capture ex3 %}X:3
 T:Bach - Chorale no. 95 
 T:(simplified)
 M:4/4
@@ -47,9 +75,9 @@ V:2 clef=bass
 [B,B,] [G,B,] [D,B,] [G,D]| [C,E] [D,F] [F,F] H[F,F]| [B,,F] [C,C] [D,A,] [G,B,]| [E,B,] [F,A,] H[B,,2D]|
 w:Bb:
 [F,A,] [D,=B,] [C,C] [E,C]| [F,C] [G,=B,] H[C,2G,]|]{% endcapture %}
-{% include abc-example.html number="1" abc=ex1 %}
+{% include abc-example.html number="3" abc=ex3 %}
 
-{% capture ex2 %}X:2
+{% capture ex4 %}X:4
 T:Beethoven - Die Ehre Gottes aus der Natur
 T:reduction
 M:4/4
@@ -63,9 +91,9 @@ V:2 clef=bass
 [G,,F,D,B,,] [G,,F,D,B,,][G,,F,D,B,,][G,,F,D,B,,]| [C,,2C,] [G,2G,,]| [E,2E,,] [C,C,,] [C,G,]| [C,2G,] [B,,G,] [C,G,]| [G,2G,,] H[G,G,,] [G,G,,]|
 w:C:
 [F,2F,,] [D,2D,,]| [B,,2B,,,]> [G,,,2G,,]| [A,,2A,,,] [G,,,2G,,]| [C,2C,,]> [C2C,]| [A,2^C,A,,E,]> [A,2^C,A,,E,]| [D,2DA,F,]> [F,2F,,]| [G,2C,E,G,,] [G,,,2G,,]| [C,,2G,,E,,C,]> [C,,2G,,E,,C,]| [C,,2G,,E,,C,]> [C,,2G,,E,,C,E,G,C]| H[C,,2G,,E,,C,E,G,C]>|]{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
+{% include abc-example.html number="4" abc=ex4 %}
 
-{% capture ex3 %}X:3
+{% capture ex5 %}X:5
 T:Tchaikovsky - Symphony No. 5, Mvt. II
 T:reduction
 M:12/8
@@ -79,9 +107,9 @@ V:2 clef=bass
 [A,6E,A,,C,,] [A,6F,A,,D,,]| [A,6G,A,,E,,] [A,6E,A,,G,,]| [A,6A,,F,,] [A,6DF,A,,D,,]| [G,6DE,B,,E,,B,,,] [A,3DA,,,A,,E,,][A,3CA,,,A,,E,,]| [A,6DD,A,,E,,] [F,,6]|
 w:D:
 [A,6G,A,,E,,] [A,6E,A,,G,,]| [A,6A,,F,,] [A,6DF,A,,D,,]| [F,6FB,D,B,,B,,,] [F,3FB,D,D,,][^G,3^ECC,C,,]| [F,9FCC,F,,] z3|]{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
+{% include abc-example.html number="5" abc=ex5 %}
 
-{% capture ex4 %}X:4
+{% capture ex6 %}X:6
 T:Chopin - Mazurka in G Minor, op. 67 no.2
 M:3/4
 L:1/4
@@ -94,9 +122,9 @@ V:2 clef=bass
 z| D,, [^F,CD][F,CD]| G,, [G,B,D] [G,B,E]| A,, [F,CE][F,A,E]| B,, [F,B,D][F,B,D]| z [D,^F,C][D,F,C]| G,, [D,B,][C,G,E]-| [C,G,E] [G,G,,D] [C,G,E]-| [C,G,E] [G,G,,D] [C,G,E]|
 w:g:
 D,, [D,D][D,D]| G,, [G,B,D] [G,B,E]| A,, [F,CE][F,A,E]| B,, [F,B,D][F,B,D]| z [D,^F,C][D,F,C]| G,, [G,DB,][C,G,E]| D, [CG,] [^F,C]| G,, [D,2B,]|]]{% endcapture %}
-{% include abc-example.html number="4" abc=ex4 %}
+{% include abc-example.html number="6" abc=ex6 %}
 
-{% capture ex5 %}X:5
+{% capture ex7 %}X:7
 T:Bach - Chorale no. 106 
 T:(simplified)
 M:4/4
@@ -108,9 +136,9 @@ V:1
 V:2 clef=bass
 [A,E] [E,E] [C,E] [E,E]| [A,,E] [B,,B,] H[E,2B,]| [B,D] [G,B,] [E,E] [A,E]| [D,F] [E,D] H[A,,2C]|
 w:A:{% endcapture %}
-{% include abc-example.html number="5" abc=ex5 %}
+{% include abc-example.html number="7" abc=ex7 %}
 
-{% capture ex6 %}X:6
+{% capture ex8 %}X:8
 T:Mendelssohn - Songs Without Words
 T:(simplified)
 M:6/8
@@ -124,31 +152,4 @@ V:2 clef=bass
 G,,[G,B,]D, G,,[G,B,]D,| G,,[A,C]D, G,,[A,C]D,| G,,[G,B,]D, G,,[G,B,]D,| G,,[G,]E, G,,[G,C]E,| G,,[G,B,]D, G,,[G,B,]D,| 
 G,,[A,C]D, G,,[A,C]D,| G,,[G,B,]D, G,,[G,]D,| G,,[DB,]G, G,,[^CB,]G,| F,,[A,D]F, F,,[A,D]F,| G,,[B,D]G, A,,[^C]A,| [D,3A,D]-[D,A,D]z2|]
 w:g:{% endcapture %}
-{% include abc-example.html number="6" abc=ex6 %}
-
-{% capture ex7 %}X:7
-T:Bach - Chorale - Erkenne mich, mein Huter
-T:(simplified)
-M:4/4
-L:1/4
-K:E
-Q:1/4=65
-V:1
-[EG]| [Ec] [EB] [A/2E][A/2F] [GE]| [FE] [FD] H[GE] [Fd]| [Ee] [eG] [dG] [dF]| H[c3E]|]
-V:2 clef=bass
-[E,B,]| [A,A,] [B,G,] [C,/2C][D,/2B,] [B,E,]| [A,,C] [B,,B,] H[E,B,] [D,^B,]| [G,C,] [E,C] [G,C] [^B,G,,]| H[C,3C]|]
-w:E:{% endcapture %}
-{% include abc-example.html number="7" abc=ex7 %}
-
-{% capture ex8 %}X:8
-T:Bach - Chorale No. 108
-M:4/4
-L:1/4
-K:Eb
-Q:1/4=75
-V:1
-[EB,]| [EB] [GB] [Ac] [Gd]| [G2e] H[Ge] [cg]| [cf] [eA] [eG] [dF]| H[e3G]|]
-V:2 clef=bass
-[E,G,]| [G,B,] [E,E] [A,E] [=B,,D]| [C,2C] H[C,C] [CE]| [A,C] [F,C] [B,B,] [B,B,,]| H[E,3B,]|
-w:Eb:{% endcapture %}
 {% include abc-example.html number="8" abc=ex8 %}
