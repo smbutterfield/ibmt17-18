@@ -8,15 +8,16 @@ abc: true
 
 As we leave strict diatonic function and begin to explore chromatic alterations, one of the most difficult challenges in analysis is discerning what tonic is implied at any given moment. Roman numeral analysis shows function -- tonic, dominant, etc., -- but a chord's function is determined by its relationship to tonic. Simply put, you cannot write a Roman numeral if you do not know your tonic.
 
-Leadsheet notation solves this issue by giving us a way to begin analyzing music that does not rely on tonic. An F major chord could be a I chord in F major, a IV chord in C major, a III chord in D-flat major, and many others, but it will always be an F major chord. Leadsheet notation does not need tonic, so I strongly urge you to begin analyzing music by writing the leadsheet symbols above the music. This allows you to look for patterns within chord progressions rather than trying to guess repeatedly at Roman numerals only to change each time that you discover something new.
+Leadsheet notation solves this issue by giving us a way to begin analyzing music that is independent of knowing the key or tonic. An F major chord could be a I chord in F major, a IV chord in C major, a III chord in D-flat major, and many others, but it will always be an F major chord. Leadsheet notation does not rely on any pre-existing knowledge of the piece, so I strongly urge you to begin analyzing music by writing the leadsheet symbols first. This will allow you to look for patterns within chord progressions rather than having to repeatedly analyze the same chord only to change each time that you discover something new.
 
 ## Simple modulations and common chords
 
-The simplest modulation is one that uses the expectations of the listener and produces modulations through slight changes. Analyze the following excerpt from a Haydn Piano Sonata using leadsheet symbols only at first. You will notice that there is only one altered note, but it clearly ends in a different key than the beginning. To begin understanding how this modulation works, ask two questions:
+The simplest modulation is one that uses the expectations of the listener and produces modulations through slight changes. Analyze the following excerpt from a Haydn piano sonata using leadsheet symbols only. You will notice that there is one altered note, but it clearly ends in a different key than the beginning. To begin understanding how this modulation works, ask these key questions:
 1. Where do you first *hear* something changing?
-2. How is this change prepared? What harmony transitions into the modulation? 
+2. How is the change prepared?
+3. What harmonies transition into and out of the modulation? 
 
-Once you have answered those two questions, create Roman numerals for *both keys*. (This will require secondary function chords.) When looking at the Roman numeral progressions, you can see where the progressions make the most sense and where they do not work as well.
+Once you have answered these, create Roman numerals for *both keys*. (This will require secondary function chords.) When looking at the Roman numeral progressions, you can see where the progressions function diatonically and where they rely on secondary functions.
 
 {% capture ex1 %}X:1
 T:Haydn - Piano Sonata in G Major, mvt. 3
@@ -39,21 +40,21 @@ When a modulation centers around a common chord between two keys, we call this a
 
 C major | Chord | Chord | G major
  --- | --- | --- | ---
- I | C maj | C maj | IV
+ I | **C maj** | **C maj** | IV
  ii | D min | D maj | V
- iii | E min | E min | vi
- IV | F maj | F&sharp;<sup>o</sup> | vii<sup>o</sup>
- V | G maj | G maj | I
- vi | A min | A min | ii
+ iii | **E min** | **E min** | vi
+ IV | F maj | F#<sup>o</sup> | vii<sup>o</sup>
+ V | **G maj** | **G maj** | I
+ vi | **A min** | **A min** | ii
  vii<sup>o</sup> | B<sup>o</sup> | B min | iii
 
-You can see that the two keys share four common chords, so writing a smooth progression in both keys is fairly easy. Try creating a table like this for C major and E major. What about G major a F minor?
+You can see that the two keys share four common chords (highlighted in bold), so writing a smooth progression in both keys is fairly easy because it can rely on multiple common chords. Try creating a table like this for distantly-related keys such as C major and E major. What about G major a F minor?
 
 ## Pivot chords
 
 The *pivot chord* of a pivot chord modulation is more than just a chord that is common to both keys. A pivot chord smoothly transitions from one key to another because it functions as part of a diatonic progression in *both* the old and the new keys. The smoother the pivot's progression, the less-jarring the modulation.
 
-In the previous topic, we listened to an excerpt from the third movement of the second movement of Tchaikovsky's Symphony No. 5. Analyze this piece beginning with leadsheet symbols, then add Roman numerals from the beginning until you get to the place where you hear the modulation. **Ideally, pivot chords occur right before you hear the modulation.** 
+In the previous topic, we listened to an excerpt from the third movement of the second movement of Tchaikovsky's Symphony No. 5. Analyze this piece beginning with leadsheet symbols, then add Roman numerals from the beginning until you get to the place where you hear the modulation. **Ideally, pivot chords occur right before you *hear* the modulation.** 
 
 To show a modulation:
 - Use a bracket that shows the Roman numeral of the original key on top.
@@ -75,7 +76,7 @@ w:D:
 [A,6G,A,,E,,] [A,6E,A,,G,,]| [A,6A,,F,,] [A,6DF,A,,D,,]| [F,6FB,D,B,,B,,,] [F,3FB,D,D,,][^G,3^ECC,C,,]| [F,9FCC,F,,] z3|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-What makes this modulation work so well? How strong is the progression before and after the pivot chord?
+What makes this modulation work so well? More specifically, how strong is the progression before and after the pivot chord?
 
 ## Voice-leading and patterns assisting pivots
 
@@ -94,8 +95,3 @@ V:2 clef=bass
 [E,B,]| [A,A,] [B,G,] [C,/2C][D,/2B,] [B,E,]| [A,,C] [B,,B,] H[E,B,] [D,^B,]| [G,C,] [E,C] [G,C] [^B,G,,]| H[C,3C]|]
 w:E:{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
-
-Bach works because pivots on I=III
-
-
-
