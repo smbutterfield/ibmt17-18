@@ -4,20 +4,19 @@ title: 16b Examples - Pivot chords
 abc: true
 ---
 
-## Finding common chords between keys
-
 ## The benefit of using leadsheet symbols in analysis
 
-## Pivot chord
+As we leave strict diatonic function and begin to explore chromatic alterations, one of the most difficult challenges in analysis is discerning what tonic is implied at any given moment. Roman numeral analysis shows function -- tonic, dominant, etc., -- but a chord's function is determined by its relationship to tonic. Simply put, you cannot write a Roman numeral if you do not know your tonic.
 
-Works because it creates a diatonic progression in the new key. The smoother the pivot's progression, the less-jarring the modulation.
+Leadsheet notation solves this issue by giving us a way to begin analyzing music that does not rely on tonic. An F major chord could be a I chord in F major, a IV chord in C major, a III chord in D-flat major, and many others, but it will always be an F major chord. Leadsheet notation does not need tonic, so I strongly urge you to begin analyzing music by writing the leadsheet symbols above the music. This allows you to look for patterns within chord progressions rather than trying to guess repeatedly at Roman numerals only to change each time that you discover something new.
 
-## Pivot chord placement
+## Simple modulations and common chords
 
-How to determine whether a chord is a good pivot
-- Find the place where the ear first hears chromatic alteration and then go back one chord. Does it pivot?
+The simplest modulation is one that uses the expectations of the listener and produces modulations through slight changes. Analyze the following excerpt from a Haydn Piano Sonata using leadsheet symbols only at first. You will notice that there is only one altered note, but it clearly ends in a different key than the beginning. To begin understanding how this modulation works, ask two questions:
+1. Where do you first *hear* something changing?
+2. How is this change prepared? What harmony transitions into the modulation? 
 
-## Smooth transitions
+Once you have answered those two questions, create Roman numerals for *both keys*. (This will require secondary function chords.) When looking at the Roman numeral progressions, you can see where the progressions make the most sense and where they do not work as well.
 
 {% capture ex1 %}X:1
 T:Haydn - Piano Sonata in G Major, mvt. 3
@@ -34,7 +33,31 @@ w:G:
 zG, B,G, zG ^CE| DF, G,A, D,A,, D,,:|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-## The importance of melody
+## Common chords between keys
+
+When a modulation centers around a common chord between two keys, we call this a *pivot chord modulation*. To better understand why closely-related keys create smoother modulations, it is helpful to look at the number of common chords between the two keys. In the following chart, I have listed each chord from C major and G major, but I have aligned them by root rather than by scale degree.
+
+C major | Chord | Chord | G major
+ --- | --- | --- | ---
+ I | C maj | C maj | IV
+ ii | D min | D maj | V
+ iii | E min | E min | vi
+ IV | F maj | F&sharp;<sup>o</sup> | vii<sup>o</sup>
+ V | G maj | G maj | I
+ vi | A min | A min | ii
+ vii<sup>o</sup> | B<sup>o</sup> | B min | iii
+
+You can see that the two keys share four common chords, so writing a smooth progression in both keys is fairly easy. Try creating a table like this for C major and E major. What about G major a F minor?
+
+## Pivot chords
+
+The *pivot chord* of a pivot chord modulation is more than just a chord that is common to both keys. A pivot chord smoothly transitions from one key to another because it functions as part of a diatonic progression in *both* the old and the new keys. The smoother the pivot's progression, the less-jarring the modulation.
+
+In the previous topic, we listened to an excerpt from the third movement of the second movement of Tchaikovsky's Symphony No. 5. Analyze this piece beginning with leadsheet symbols, then add Roman numerals from the beginning until you get to the place where you hear the modulation. **Ideally, pivot chords occur right before you hear the modulation.** 
+
+To show a modulation:
+- Use a bracket that shows the Roman numeral of the original key on top.
+- On the bottom part of the bracket, name the new key (using an upper/lower case letter followed by a colon) as well as the Roman numeral from this new key. 
 
 {% capture ex2 %}X:2
 T:Tchaikovsky - Symphony No. 5, Mvt. II
@@ -52,9 +75,11 @@ w:D:
 [A,6G,A,,E,,] [A,6E,A,,G,,]| [A,6A,,F,,] [A,6DF,A,,D,,]| [F,6FB,D,B,,B,,,] [F,3FB,D,D,,][^G,3^ECC,C,,]| [F,9FCC,F,,] z3|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-Tchaik works because pivots on I=VI - iio6 - V - i
+What makes this modulation work so well? How strong is the progression before and after the pivot chord?
 
 ## Voice-leading and patterns assisting pivots
+
+As always, no complex concept can be perfectly summed up by a few simple rules. Analyze the following chorale excerpt. While you should have no problem finding a suitable pivot chord, how strong are the progressions on either side of the pivot? What aspects of the music does Bach use to mitigate the strangeness of these progressions?
 
 {% capture ex3 %}X:3
 T:Bach - Chorale - Erkenne mich, mein Huter
