@@ -89,6 +89,8 @@ The excerpt begins in D minor but modulates to F-sharp major by the end. These a
 
 By accentuating a particular pitch that is common to two keys, a composer can bridge seemingly impossible gaps in the tonal language. In this particular example, the C-sharp was accentuated by placing prominently in the melody, but composers will often take this a step further and completely isolate the pitch without any accompaniment. Regardless of texture, a common-tone modulation functions by emphasizing a particular pitch.
 
+**To label a common-tone modulation**, we use a bracket similar to a pivot modulation. Instead of using chord symbols, however, we use scale degrees. For the Schubert common-tone modulation above, the top of the bracket would contain "^7", and the bottom of the bracket would contain "F#:^5". (Remember that when writing the scale degree "caret mark", you should place the caret *above* the numeral, not beside it as shown in an online text such as this.)
+
 #### Common-tone modulation principles
 - Functions by accentuating a particular pitch that is common to both keys.
 - The pitch may be isolated entirely or just accentuated through normal musical means such as register, doubling, voicing, dynamics, etc.
