@@ -6,7 +6,7 @@ abc: true
 
 ## Secondary function pivot chord
 
-In the following excerpt, try to apply the principles of a common chord pivot modulation. Is it possible? What are some other ways you could create a pivot chord here?
+In the following excerpt, try to apply the principles of a common chord pivot modulation. Is there a possible common chord? If not, is there an altered harmony that could be used to pivot? Make sure to look at the voice leading around the modulation.
 
 {% capture ex1 %}X:1
 T:Bach - Chorale no. 95 
@@ -24,11 +24,11 @@ w:Bb:
 [F,A,] [D,=B,] [C,C] [E,C]| [F,C] [G,=B,] H[C,2G,]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-We first hear the modulation on the second beat of the fifth measure. This B diminished triad is not diatonic to the original key of B-flat major but becomes the vii<sup>o</sup> chord of the new key of C minor. If you try to find a common chord pivot by looking at the chord before the modulation point (the place where you first hear the modulation), you will notice that the F major chord works in B-flat major, but not in the new key of C minor. 
+We first hear the modulation on the second beat of the fifth measure. This B diminished triad is not diatonic to the original key of B-flat major but becomes the vii<sup>o</sup> chord of the new key of C minor. If you try to find a common chord pivot by looking at the chord before the modulation point (the place where you first hear the modulation), you will notice that the F major chord works in B-flat major, but not in the new key of C minor in which F minor is the diatonic iv chord. 
 
-Even though there is no common chord pivot available, this excerpt still relies on the voice-leading and functional progression to modulate. The listener expects the F major triad (m.5, beat 1) to resolve to a B-flat triad. Instead, Bach alters one pitch from the B-flat triad turning the B-flat triad into a B diminshed triad, and thereby creates a pivot on a secondary function. This is a *secondary function pivot modulation*.
+Even though there is no common chord pivot available, this excerpt still relies on the voice-leading and a functional progression to modulate. The listener expects the F major triad (m.5, beat 1) to resolve to a B-flat triad. Instead, Bach alters one pitch from the B-flat triad turning the B-flat triad into a B diminshed triad, and thereby creates a pivot on a secondary function. This is a *secondary function pivot modulation*.
 
-We label these using the same bracket system that we use for common chord pivot modulations, but one or both of the chords will be a secondary function. In this case, the top part of the bracket will have a vii<sup>o6</sup>/ii, and the bottom part will have c:vii<sup>o6</sup>.
+We label these using the same bracket system that we use for common chord pivot modulations, but one or both of the chords will be a secondary function. In this case, the top part of the bracket will contain "vii<sup>o6</sup>/ii", and the bottom part will containg "c:vii<sup>o6</sup>".
 
 #### Secondary function pivot modulation principles
 - Functions like all pivot modulations in that it relies on a functional progression on both sides of the pivot chord.

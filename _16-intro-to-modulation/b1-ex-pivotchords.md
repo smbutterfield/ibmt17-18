@@ -50,13 +50,13 @@ C major | Chord | Chord | G major
 
 You can see that the two keys share four common chords (highlighted in bold), so writing a smooth progression in both keys is fairly easy because it can rely on multiple common chords. Try creating a table like this for distantly-related keys such as C major and E major. What about G major and F minor?
 
-## Pivot chords
+## Pivot chords and modulation points
 
 The *pivot chord* of a pivot chord modulation is more than just a chord that is common to both keys. A pivot chord smoothly transitions from one key to another because it is part of a functional progression in *both* the old and the new keys. The simpler the pivot's progression, the less-jarring the modulation.
 
 In the previous topic, we listened to an excerpt from the third movement of the second movement of Tchaikovsky's Symphony No. 5. Analyze this piece beginning with leadsheet symbols, then add Roman numerals from the beginning until you get to the *modulation point* -- the place where you first hear the modulation. 
 
-**Common chord pivots occur *right before you hear* the modulation.** 
+**Common chord pivots occur *right before you hear* the modulation point.** 
 
 To show a modulation:
 - Draw a bracket that provides an area on top and bottom. Your bracket needs to have more than one line, otherwise it resemble a slash and therefore a secondary function.
