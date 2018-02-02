@@ -53,3 +53,43 @@ How to find a modulation:
 - you have G major going to F minor: two distantly related keys
 - compare the triads of the scale to each other and look for shared chords
   - the only shared chord between the two is C major
+
+### Approaching a Modulation
+
+- write in lead sheet symbols
+  - with lead sheet, you can look at where new chords out of the key appear
+  
+#### Example in Bb
+
+Soprano: C5 - D5 - E5
+
+Alto: F4 - F4 - E4
+
+Tenor: A3 - B3 - C4
+
+Bass: F3 - D3 - C3
+
+Bb: V ] (now in c minor)
+
+cmin: [ V/VII - viio - i
+
+- analysis can also look like:
+
+Bb: V - viio6/ii - x
+
+cmin: x - viio6 - i
+
+Names for pivot chords not shared in both keys:
+- secondary function pivot
+- altered pivot
+  - it's not a standard pivot because it's not on a common chord
+  
+modulation point: the place where we first hear the modulation
+  - go one chord back from the modulation point and that is where you will find a pivot chord
+  
+We have 2 types of pivot modulations:
+1. Common Chord Pivot Modulations
+  - pivots on chords shared between the two keys
+  - these take priority over secondary function pivot chords
+2. Secondary Function Pivot Modulations
+  - pivots on chords not shared between keys, but a secondary function in one key and a common chord in the other
