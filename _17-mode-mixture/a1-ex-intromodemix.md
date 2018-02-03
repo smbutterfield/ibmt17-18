@@ -64,10 +64,10 @@ L:1/2
 Q:1/2=60
 K:C
 V:1
-[c2E]| [cF] [dF]| [c2E]| [dF] [dF]| [c2E]|]
+[c2E]| [dF] [dF]| [c2E]| [cF] [dF]| [c2E]|]
 V:2 clef=bass
-[C,2G,]| [F,,A,] [G,,B,]| [A,,2C]| [F,,A,] [G,,B,]| [C,2G,]|]
-w:C:I IV V7 vi ii6 V7 I{% endcapture %}
+[C,2G,]| [F,,A,] [G,,B,]| [A,,2C]| [A,,A,] [B,,A,]| [C,2G,]|]
+w:C:I ii6 V7 vi IV6 vii%7 I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
 ## Borrowing from the parallel major
@@ -81,10 +81,10 @@ L:1/2
 Q:1/2=60
 K:Eb
 V:1
-[c2E]| [cF] [dF]| [c2E]| [dF] [dF]| [c2E]|]
+[c2E]| [dF] [=BF]| [c2E]| [cF] [dF]| [c2E]|]
 V:2 clef=bass
-[C,2G,]| [F,,A,] [G,,=B,]| [A,,2C]| [F,,A,] [G,,=B,]| [C,2G,]|]
-w:C:I iv V7 VI iio6 V7 i{% endcapture %}
+[C,2G,]| [F,,A,] [G,,G,]| [A,,2C]| [A,,A,] [=B,,A,]| [C,2G,]|]
+w:c:i iio6 V7 VI iv6 viio7 i{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
 ## Functional mode mixture
@@ -101,10 +101,12 @@ It is because of mode mixture that we have followed such strict guidelines when 
 
 Chordal member | default | raise by semitone | lower by semitone
  --- | --- | --- | ---
- root | diatonic scale degree | sharp symbol in front of Rom num | flat symbol in front of Rom num
+ root | diatonic scale degree | sharp symbol in front of Rom num* | flat symbol in front of Rom num*
  third | based on case of Roman numeral | upper case (M3) | lower case (m3)
  fifth | P5 above root | add <sup>+</sup> after Rom num | add <sup>o</sup> after Rom num
  seventh | m7 above root | add <sup>M</sup> before inversion figure | add <sup>o</sup> before inversion figure
+
+ *For clarity's sake, we **always** use a sharp or flat symbol to show that we are raising or lowering the root, even if you are actually adding a natural.
 
 Test your knowledge of this by writing the correct borrowed chords for every diatonic chord in a parallel major and minor. You may use the following chart as a model. With all of these make sure that you build the chord off of the correct root. For example, students often forget that to build a major VI chord in major, the root is altered thereby changing the entire chord. (In C major for example, the borrowed bVI chord is *not* an A major triad.)
 
@@ -127,15 +129,15 @@ Because of voice-leading resolutions, it is easiest to borrow chords while in ma
 - iv (requires lowered ^6)
 - ii<sup>&oslash;7</sup> (requires lowered ^6) 
 - ii<sup>o</sup> (requires lowered ^6)
-- &flat;VI (requires lowered ^6 and ^3)
-- &flat;VII (requires lowered ^7)
-    - Be careful to look at the function of this chord. Label it as V/III if it resolves to a borrowed &flat;III chord. Label it as &flat;VII if it resolves in any other way.
-- &flat;III (requires lowered ^7 and ^3)
+- bVI (requires lowered ^6 and ^3)
+- bVII (requires lowered ^7)
+    - Be careful to look at the function of this chord. Label it as V/III if it resolves to a borrowed bIII chord. Label it as bVII if it resolves in any other way.
+- bIII (requires lowered ^7 and ^3)
 
 Minor is more limited due to voice-leading limitations, but the following chords are commonly borrowed:
 - I (requires raised ^3)
     - This is often used to end a minor piece in Baroque and Classical music. It is used often enough that it has a unique name: the Picardy (Picardie) third
 - IV (requires raised ^6)
     - Commonly results when used in first inversion to create a scalar bass line of sol-la-ti-do
-- vi (requires raised ^6 and ^3)
+- #vi (requires raised ^6 and ^3)
     - Commonly results when used in root position to create a scalar bass line of sol-la-ti-do
