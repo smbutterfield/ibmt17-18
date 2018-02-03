@@ -101,7 +101,7 @@ It is because of mode mixture that we have followed such strict guidelines when 
 
 Chordal member | Default implied pitch | To raise by semitone from default | To lower by semitone from default
  --- | --- | --- | ---
- root | diatonic scale degree | sharp symbol in front of Rom num* | flat symbol in front of Rom num*
+ root | diatonic scale degree | sharp symbol in front of Roman numeral* | flat symbol in front of Roman numeral*
  third | based on case of Roman numeral | upper case (M3) | lower case (m3)
  fifth | P5 above root | add <sup>+</sup> after Rom num | add <sup>o</sup> after Rom num
  seventh | m7 above root | add <sup>M</sup> before inversion figure | add <sup>o</sup> before inversion figure**
