@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 17a Lesson - Defining mode mixture
+title: 17a Lesson - An introduction to mode mixture
 abc: true
 ---
 
