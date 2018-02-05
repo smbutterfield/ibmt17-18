@@ -25,13 +25,13 @@ L:1/2
 Q:1/2=60
 K:C
 V:1
-[cE] [cE]| [dF] [dG]| [c2E]|]
-[K:Eb] [cE] [cE]| [dF] [dG]| [c2E]|]
+[cE] [cE]| [dF] [dF]| [c2E]|]
+[K:Eb] [cE] [cE]| [dF] [dF]| [c2E]|]
 V:2 clef=bass
 [K:C] [C,G,] [A,,A,]| [D,A,] [G,,B,]| [G,2C,2]|]
-w:C:I vi ii V I
+w:C:I vi ii V7 I
 [K:Eb] [C,G,] [A,,A,]| [D,A,] [G,,=B,]| [G,2C,2]|]
-w:C:I VI iio V I{% endcapture %}
+w:C:I VI iio V7 I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 ## Borrowing from the parallel minor
@@ -49,7 +49,7 @@ L:1/2
 Q:1/2=60
 K:C
 V:1
-[cE] [cE]| [dF] [dG]| [c2E]|]
+[cE] [cE]| [dF] [dF]| [c2E]|]
 V:2 clef=bass
 [C,G,] [A,,A,]| [D,A,] [G,,B,]| [G,2C,2]|]
 w:C:I vi>VI ii>iio V I{% endcapture %}
