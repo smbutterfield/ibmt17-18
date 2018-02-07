@@ -35,7 +35,7 @@ At its core, mode mixture borrows altered tones from parallel modes -- thus alte
 
 Even seemingly inexplicable choices can be explained -- such as the ii<sup>&oslash;7</sup> from the chord progression above -- if you look at the voice-leading and compare it to standard diatonic function. For example:
 1. The ii<sup>&oslash;7</sup> is inserted into the position where we would normally expect a dominant function.
-2. If you compare the pitches within ii<sup>&oslash;7</sup> to the pitches of vii<sup>o7</sup>, you will realize that three of the pitches are the same (D, F, and A-flat) and the remaining pitch only changes by a half-step (B to C). In this progression, the C works best when it acts as an anticipation of the tonic chord, and this strengthens the voice-leading resolutions of ii<sup>&oslash;7</sup>. Therefore, the ii<sup>&oslash;7</sup> can be viewed as an altered dominant chord.
+2. If you compare the pitches within ii<sup>&oslash;7</sup> to the pitches of vii<sup>o7</sup>, you will realize that three of the pitches are the same (D, F, and A-flat) and the remaining pitch only changes by a half-step (B to C). In this progression, the C works best when it acts as an anticipation of the tonic chord, and this strengthens the voice-leading resolutions of ii<sup>&oslash;7</sup>. Therefore, the ii<sup>&oslash;7</sup> can be viewed as an altered dominant function chord.
 
 With this in mind, look at the following reduction of an excerpt from Mahler's Symphony No. 2. How would you explain each of these borrowed chords? How do they function? Is this similar to the progression from above?
 
