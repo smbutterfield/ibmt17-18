@@ -4,10 +4,6 @@ title: 17b Examples - Advanced mode mixture
 abc: true
 ---
 
-## Chromatic non-chord tones versus mode mixture
-
-Chromatic passing tones often create harmonies that could be considered borrowed chords, but the simpler answer is usually preferred. If a tone can be classified as a chromatic passing tone, then it should probably remain that way. If the chord operates as a functional substitution (tonic, dominant, pre-dominant), then it is better to label it as a borrowed chord. If it assists in voice-leading, then it will have an alternate function such as a passing or pedal chord.
-
 ## Extending mode mixture
 
 Please watch this wonderfully-made video on modal interchange -- another name for mode mixture -- created by Myles Yang for his Native Construct YouTube channel. In it, he introduces mode mixture on a much larger scale than simply thinking of parallel major and minor modes.
@@ -41,7 +37,7 @@ Even seemingly inexplicable choices can be explained -- such as the ii<sup>&osla
 1. The ii<sup>&oslash;7</sup> is inserted into the position where we would normally expect a dominant function.
 2. If you compare the pitches within ii<sup>&oslash;7</sup> to the pitches of vii<sup>o7</sup>, you will realize that three of the pitches are the same (D, F, and A-flat) and the remaining pitch only changes by a half-step (B to C). In this progression, the C works best when it acts as an anticipation of the tonic chord, and this strengthens the voice-leading resolutions of ii<sup>&oslash;7</sup>. Therefore, the ii<sup>&oslash;7</sup> can be viewed as an altered dominant chord.
 
-With this in mind, look at the following reduction of an excerpt from Mahler's Symphony No. 2. How would you explain each of these borrowed chords? How do they function? 
+With this in mind, look at the following reduction of an excerpt from Mahler's Symphony No. 2. How would you explain each of these borrowed chords? How do they function? Is this similar to the progression from above?
 
 {% capture ex2 %}X:2
 T:Mahler Symphony No. 2, Mvt. I
@@ -57,3 +53,7 @@ V:2 clef=bass
 (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 C,/2z/2 [B,DF]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 C,/2z/2 [_A,_D]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 C,/2z/2 [_A,F,]|
 (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 C,/2z/2 [B,,D,F,]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 [C,2E,G,]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 [C,2E,G,]| [C,,4C,]|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
+
+## Chromatic non-chord tones versus mode mixture
+
+Chromatic passing tones often create harmonies that could be considered borrowed chords, but the determining factor should always be function. If the resulting borrowed chord does not sound as a defined function (e.g. tonic, dominant, pedal, etc.), then the pitch should be classified as a passing tone. If the chord operates as a functional substitution (tonic, dominant, pre-dominant), then it is better to label it as a borrowed chord. If each member of the chord functions solely for smooth voice-leading purposes, then it should be labeled as a borrowed chord with an alternate function such as a passing or pedal chord.
