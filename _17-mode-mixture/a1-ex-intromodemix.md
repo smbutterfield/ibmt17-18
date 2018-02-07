@@ -87,14 +87,6 @@ V:2 clef=bass
 w:c:i iio6 V7 VI iv6 viio7 i{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-## Functional mode mixture
-
-As you have hopefully come to realize, all tonal harmony -- even the chromatic variations -- rely on voice-leading to create a sense of natural progression, and each harmony can be viewed through the lens of how it functions. From this, we derive harmonic functions such as tonic, dominant, pre-dominant, passing, pedal, and cadential. Even the exceptions to these can be viewed as functional substitutions. 
-
-This is why the *mode mixture* that you performed in the examples above sounds functional. At its core, mode mixture borrows altered tones from parallel modes -- thus altering chord qualities -- but retains standard chord function. If a diatonic chord would have a pre-dominant function, altering an individual tone by a half-step will not alter the function. It creates color and often *strengthens* the voice-leading by changing whole-step resolutions into half-step resolutions.
-
-Moreso, if a chord functions as an embellishing chord such as a passing or pedal chord, then it will retain that function even if one or two pitches are borrowed from the parallel mode. The voice-leading that defines a chord's function is often strengthened by creating resolutions that rely on half steps rather than whole steps.
-
 ## Roman numeral notation of mode mixture
 
 It is because of mode mixture that we have followed such strict guidelines when labeling Roman numerals to this point. By having each part of a Roman numeral describe an isolated chord tone, we are able to accurately describe even borrowed chords.
@@ -122,7 +114,7 @@ Roman numeral in major | Borrowed from parallel minor | Roman numeral in minor |
  vi || VI |
  vii<sup>o</sup> || vii<sup>o</sup> |
 
-## Common mode mixture
+## Commonly used mode mixture
 
 As you discovered above, certain chords do not sound good -- or function at all -- when borrowed. Because of this, there are a few chords that are borrowed most often.
 
