@@ -49,3 +49,16 @@ V:2 clef=bass
 [C,C] [_B,,D]| [A,C,E] [_A,D,D]| [C,2G,E]|]
 w:C:I bVII IVM7(#11) ii%7 I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
+
+## Advanced Mode Mixture
+
+When can we use mode mixture chords?
+- when it functions
+
+#### Example: Sample Mode Mixture
+
+Progression: I - bVI - IVM7(#11) - ii%7 - V
+- the I, IVM7(#11), and V are from major
+- the bVI and ii%7 are from aeolian
+  
+
