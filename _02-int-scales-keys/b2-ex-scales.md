@@ -4,6 +4,8 @@ title: Examples 2b - Scales and Scale Degrees - Diatonic, Pentatonic, and Chroma
 abc: true
 ---
 
+<!--  MUST ADD MODES BEFORE NEXT YEAR IN ORDER TO PREPARE MODE MIXTURE -->
+
 ## Goals for this topic:
 
 Using the examples below, create definitions and/or simple explanations for:
