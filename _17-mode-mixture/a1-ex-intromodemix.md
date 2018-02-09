@@ -4,7 +4,7 @@ title: 17a Examples - An introduction to mode mixture
 abc: true
 ---
 
-Tonal harmony is easiest to study when when it follows strict rules, and because fo this, we have studied harmonic function thus far through the lens of major and minor keys. In real music however, the relationship between modes is more fluid. Look at the following chart of the chords of parallel major and minor keys. How many common chords are there? Are these closely- or distantly-related keys?
+Tonal harmony is easiest to study when when it follows strict rules, and because of this, we have studied harmonic function thus far through the lens of major and minor keys. In real music however, the relationship between modes is more fluid. Look at the following chart of the chords of parallel major and minor keys. How many common chords are there? Are these closely- or distantly-related keys?
 
 C major | Chord | Chord | C minor
  --- | --- | --- | ---
