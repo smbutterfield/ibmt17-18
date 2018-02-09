@@ -54,11 +54,42 @@ w:C:I bVII IVM7(#11) ii%7 I{% endcapture %}
 
 When can we use mode mixture chords?
 - when it functions
+  - tonic
+  - pre-dominant
+  - dominant
+  - functional substitution
+  - passing
+  - pedal
+
+What modes can you borrow from?
+- any parallel mode
+  - the key here is parallel; the tonic can not change
 
 #### Example: Sample Mode Mixture
 
-Progression: I - bVI - IVM7(#11) - ii%7 - V
+Chord Symbols: C - Bb - Fmaj7(#11) - D%7 - C
+
+Progression: I - bVII - IVM7(#11) - ii%7 - I
 - the I, IVM7(#11), and V are from major
 - the bVI and ii%7 are from aeolian
+  - borrowed chords still follow voice leading rules
+  - that's how they can sound functional in a key they don't belong in
   
+mere exposure effect: when you're ear hears something enough times it begins to sound good.
+
+The ii%7 (D%7) shares 3 of 4 tones with viio7 (fucntional substitution for the dominant, also a borrowed chord). 
+This allows the ii%7 to function as the dominant because of voice leading. 
+A bII7 has even more tendancy tones. 
+
+Mahler's Symphony No. 2 Mvt. 1 is full of mode mixture.
+
+#### Example: Mode Mixture or Non-Chord Tones
+Chord Symbols: C - F/C - F-/C - C 
+Soprano: C5 - C5 - C5 - C5 
+Alto: E4 - F4 - F4 - E4 
+Tenor: G3 - A3 - Ab3 - G3
+Bass: C3 - C3 - C3 - C3 
+Progression: I - IV - iv - I
+- if the Ab in the iv is positioned as a passing tone, it may not even function as a iv. 
+- the function of the IV - iv acts as pedal plagal motion.
 
