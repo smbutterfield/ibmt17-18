@@ -56,7 +56,7 @@ V:2 clef=bass
 
 ## Chromatic non-chord tones versus mode mixture
 
-Analyze the following three progressions. What factors help you decide how to label each chord? Which tones are chromatic passing tones, and which create new harmonies?
+Analyze the following two chord progressions. What factors help you decide how to label each chord? Which tones are chromatic passing tones, and which create new harmonies?
 
 {% capture ex3 %}X:3
 T:Mode mixture or non-chord tones?
@@ -66,10 +66,10 @@ Q:1/4=60
 K:C
 V:1
 [cE] [cF] [cF] [cE]|| 
-[cE] [cF] [cF] [cE]|]
+GA A/2_A/2G|]
 V:2 clef=bass
 [C,G,] [C,A,] [C,_A,] [G,C,2]|| 
-[C,G,] [C,A,] [C,_A,] [G,C,2]|]
+[C,E] [C,F] [C,F] [C,E]|]
 w:C:{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
