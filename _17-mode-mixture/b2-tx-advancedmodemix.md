@@ -6,9 +6,9 @@ abc: true
 
 # Class discussion
 
-SAVE FOR CLASS
+## Harmonizations demonstrated in class
 
-BAD
+*Poor voice leading*
 {% capture ex1 %}X:1
 T:Sample mode mixture
 M:4/4
@@ -22,7 +22,7 @@ V:2 clef=bass
 w:C:I bVII IVM7(#11) ii%7 I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-REASONABLE, BUT RULE-BOUND
+*Reasonable* - Each line is independent.
 {% capture ex2 %}X:2
 T:Sample mode mixture
 M:4/4
@@ -36,7 +36,7 @@ V:2 clef=bass
 w:C:I bVII IVM7(#11) ii%7 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-INTERESTING
+*Expanding beyond four voices*
 {% capture ex3 %}X:3
 T:Sample mode mixture
 M:4/4
@@ -75,9 +75,9 @@ Progression: I - bVII - IVM7(#11) - ii%7 - I
   - borrowed chords still follow voice leading rules
   - that's how they can sound functional in a key they don't belong in
   
-mere exposure effect: when you're ear hears something enough times it begins to sound good.
+mere exposure effect: when you hear something enough times that it begins to sound good regardless
 
-The ii%7 (D%7) shares 3 of 4 tones with viio7 (fucntional substitution for the dominant, also a borrowed chord). 
+The ii&oslash;7 (D&oslash;7) shares 3 of 4 tones with viio7 (fucntional substitution for the dominant, also a borrowed chord). 
 This allows the ii%7 to function as the dominant because of voice leading. 
 A bII7 has even more tendancy tones. 
 

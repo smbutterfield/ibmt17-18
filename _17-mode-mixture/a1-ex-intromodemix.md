@@ -31,7 +31,7 @@ V:2 clef=bass
 [K:C] [C,G,] [A,,A,]| [D,A,] [G,,B,]| [G,2C,2]|]
 w:C:I vi ii V7 I
 [K:Eb] [C,G,] [A,,A,]| [D,A,] [G,,=B,]| [G,2C,2]|]
-w:C:I VI iio V7 I{% endcapture %}
+w:c:i VI iio V7 i{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 ## Borrowing from the parallel minor
