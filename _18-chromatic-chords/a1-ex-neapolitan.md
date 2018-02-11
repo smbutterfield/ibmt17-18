@@ -38,7 +38,12 @@ w:c:{% endcapture %}
 
 This bII chord is used often enough that it earned a special name: the Neapolitan chord. You may label this chord using the standard Roman numeral as discussed in the mode mixture unit (17a), but it is also common to substitute an upper-case "N" -- short for Neapolitan -- in your Roman numerals.
 
-After looking at the above examples, you hopefully found that it typically serves a pre-dominant function. You may have decided that it is most similar to a pre-dominant ii chord, because it has the same scale degrees of ^2, ^4, and ^6, with a lowered ^2 and ^6. While this is true, if you look at the common doubling and inversion of the Neapolitan chord -- first inversion with a doubled third -- it may be easier for you to consider the Neapolitan as a functional substitution for a minor iv chord. This is ensures correct doubling and voice-leading tendencies. Look at the chords side-by-side in below, and you will notice there is only a half-step difference between the two chords.
+The above examples are three of the most common ways in which you should approach and leave a Neapolitan chord:
+- Directly to the V chord, most often the V<sup>7</sup>
+- Into a cadential 6/4 progression
+- Into a vii<sup>o</sup>/V
+
+Hopefully, you found that it typically serves a pre-dominant function. You may have decided that it is most similar to a pre-dominant ii chord, because it has the same scale degrees of ^2, ^4, and ^6, with a lowered ^2 and ^6. While this is true, if you look at the common doubling and inversion of the Neapolitan chord -- first inversion with a doubled third -- it may be easier for you to consider the Neapolitan as a functional substitution for a minor iv chord. This ensures correct doubling and voice-leading tendencies. Look at the chords side-by-side in below, and you will notice there is only a half-step difference between the two chords.
 
 {% capture ex2 %}X:2
 T:bII and iv
