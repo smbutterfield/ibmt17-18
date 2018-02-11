@@ -4,12 +4,10 @@ title: 18a Examples - Neapolitan chords (bII)
 abc: true
 ---
 
-In the modal interchange video from Unit 17b, you may have noticed that one of the progressions used a bII chord. In the same unit, we then looked at a similar usage of the bII in the excerpt from Mahler Symphony No. 2. In both cases the bII was acting as a functional substitution for a dominant function (or possibly a plagal cadential function). It shared many common tones with a vii<sup>o7</sup> chord, and these tendency tones followed the voice-leading resolutions that you would expect of a vii vii<sup>o7</sup>.
-
-The bII is a commonly used chord, but its most common usage is not as a dominant function. Analyze and listen to the following short progressions. In each case, what function does the bII have? If you were to compare it to a different chord that normally fulfills that function, which chord is has the most commonalities with the bII? (Hint: Think about the inversion and choice of doubled notes.) Does it seem most "at home" in major or minor?
+Analyze and listen to the following short progressions. There are three progressions in major and then three similar progressions in the parallel minor. Start your analysis with leadsheet symbols and then provide Roman numerals. (You may want to refer back to Unit 17a to review the finer points of using the Roman numeral system.) In each progression below, there is a chromatic chord that will stand out. What is its function in each case? (e.g. tonic, passing, etc.) If you were to compare it to a diatonic or chromatic chord that normally fulfills this function, which chord shares the most commonalities with it? (Hint: Think about the inversion and choice of doubled notes.) Does it seem most "at home" in major or minor?
 
 {% capture ex1 %}X:1
-T:Standard progressions using the bII
+T:Standard progressions using the Neapolitan
 M:4/4
 L:1/2
 Q:1/4=90
@@ -17,15 +15,63 @@ K:C
 V:1
 [cE] [cE]| [_dF] [BF]| [c2E]|]
 [cE] [cE]| [_dF] [c/2E][=B/2F]| [c2E]|]
+[cE] [_dF]| [c_E] [BD]| [c2E]|]
 [K:Eb] [cE] [cE]| [_dF] [=BF]| [c2E]|]
 [cE] [cE]| [_dF] [c/2E][=B/2F]| [c2E]|]
+[cE] [_dF]| [cE] [=BD]| [c2E]|]
 V:2 clef=bass
 [K:C] [C,G,] [A,,A,]| [F,,_A,] [G,,G,]| [G,2C,2]|]
-w:C:I vi bII6 V7 I
+w:C:
 [C,G,] [A,,A,]| [F,,_A,] [G,,/2G,][G,,/2G,]| [G,2C,2]|]
-w:C:I vi bII6 I6/4 V7 I
+w:C:
+[C,G,] [F,,_A,]| [^F,,A,] [G,,G,]| [G,2C,2]|]
+w:C:
 [K:Eb] [C,G,] [A,,A,]| [F,,A,] [G,,G,]| [G,2C,2]|]
-w:c:i VI bII6 V7 i
-[K:Eb] [C,G,] [A,,A,]| [F,,A,] [G,,/2G,][G,,/2G,]| [G,2C,2]|]
-w:c:i VI bII6 i6/4 V7 i{% endcapture %}
+w:c:
+[C,G,] [A,,A,]| [F,,A,] [G,,/2G,][G,,/2G,]| [G,2C,2]|]
+w:c:
+[C,G,] [F,,_A,]| [^F,,A,] [G,,G,]| [G,2C,2]|]
+w:c:{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
+
+## Neapolitan chords (bII)
+
+This bII chord is used often enough that it earned a special name: the Neapolitan chord. You may label this chord using the standard Roman numeral as discussed in the mode mixture unit (17a), but it is also common to substitute an upper-case "N" -- short for Neapolitan -- in your Roman numerals.
+
+After looking at the above examples, you hopefully found that it typically serves a pre-dominant function. You may have decided that it is most similar to a pre-dominant ii chord, because it has the same scale degrees of ^2, ^4, and ^6, with a lowered ^2 and ^6. While this is true, if you look at the common doubling and inversion of the Neapolitan chord -- first inversion with a doubled third -- it may be easier for you to consider the Neapolitan as a functional substitution for a minor iv chord. This is ensures correct doubling and voice-leading tendencies. Look at the chords side-by-side in below, and you will notice there is only a half-step difference between the two chords.
+
+{% capture ex2 %}X:2
+T:bII and iv
+M:4/4
+L:1/2
+Q:1/4=90
+K:C
+V:1
+[F_A_d] [F_Ac]|]
+w:c:bII6 iv{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
+
+You may use a Neapolitan chord in any position where you could use a minor iv chord. In minor, there is only one chromatic pitch (^b2), but in major, you will need to lower both ^2 and ^6.
+
+## Neapolitan chords as dominant chords
+
+In the modal interchange video from Unit 17b, you may have noticed that one of the progressions used a bII chord. In the same unit, we then looked at a similar usage of the bII in the excerpt from Mahler Symphony No. 2. Let's look at this again to refresh the details of your final analysis. How is the Neapolitan chord different from the above examples? What is its function here? If it is not a pre-dominant as above, then what chord from this new function shares the most commonalities with it?
+
+{% capture ex3 %}X:3
+T:Mahler Symphony No. 2, Mvt. I
+T:Simplified reduction
+M:4/4
+L:1/4
+Q:1/4=60
+K:C
+V:1
+[g3GEC] _B/2>_A/2| [g3GEC] _G/2>F/2| [g3GEC] _E/2>_D/2|
+[g3GEC] _B,/2>_A,/2| [G2EC] z2| [G2EC] z2| [Eceg] [_E3c_eg]|]
+V:2 clef=bass
+(3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 C,/2z/2 [B,DF]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 C,/2z/2 [_A,_D]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 C,/2z/2 [_A,F,]|
+(3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 C,/2z/2 [B,,D,F,]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 [C,2E,G,]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 [C,2E,G,]| [C,,4C,]|]{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
+
+As we discussed in 17b, in this case, the bII is acting as a functional substitution for a dominant function (or possibly a plagal cadential function). The Neapolitan is a commonly used chord, but its most common usage is not as a dominant function. It shares many common tones with a vii<sup>o7</sup> chord, and these tendency tones follow the voice-leading resolutions that you would expect of a vii<sup>o7</sup>.
+
+As always, if you study a chord's voice-leading, you can use this to deduce its function.
