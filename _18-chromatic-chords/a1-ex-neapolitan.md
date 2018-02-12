@@ -7,7 +7,7 @@ abc: true
 Analyze and listen to the following short progressions. There are three progressions in major and then three similar progressions in the parallel minor. Start your analysis with leadsheet symbols and then provide Roman numerals. (You may want to refer back to Unit 17a to review the finer points of using the Roman numeral system.) In each progression below, there is a chromatic chord that will stand out. What is its function in each case? (e.g. tonic, passing, etc.) If you were to compare it to a diatonic or chromatic chord that normally fulfills this function, which chord shares the most commonalities with it? (Hint: Think about the inversion and choice of doubled notes.) Does it seem most "at home" in major or minor?
 
 {% capture ex1 %}X:1
-T:Standard progressions using the Neapolitan
+T:Standard progressions using the bII
 M:4/4
 L:1/2
 Q:1/4=90
@@ -24,19 +24,19 @@ V:2 clef=bass
 w:C:
 [C,G,] [A,,A,]| [F,,_A,] [G,,/2G,][G,,/2G,]| [G,2C,2]|]
 w:C:
-[C,G,] [F,,_A,]| [^F,,A,] [G,,G,]| [G,2C,2]|]
+[C,G,] [F,,^G,]| [^F,,A,] [G,,G,]| [G,2C,2]|]
 w:C:
 [K:Eb] [C,G,] [A,,A,]| [F,,A,] [G,,G,]| [G,2C,2]|]
 w:c:
 [C,G,] [A,,A,]| [F,,A,] [G,,/2G,][G,,/2G,]| [G,2C,2]|]
 w:c:
-[C,G,] [F,,_A,]| [^F,,A,] [G,,G,]| [G,2C,2]|]
+[C,G,] [F,,^G,]| [^F,,A,] [G,,G,]| [G,2C,2]|]
 w:c:{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 ## Neapolitan chords (bII)
 
-This bII chord is used often enough that it earned a special name: the Neapolitan chord. You may label this chord using the standard Roman numeral as discussed in the mode mixture unit (17a), but it is also common to substitute an upper-case "N" -- short for Neapolitan -- in your Roman numerals.
+This bII chord is used often enough that it earned a special name: the Neapolitan chord. You may label this chord using the standard Roman numeral as discussed in the mode mixture unit (17a), but it is also common to substitute an upper-case "N" -- short for Neapolitan -- in your Roman numerals. For voice-leading purposes, the chord may sometimes have an enharmonically equivalent pitch as shown in the third and sixth progressions, but we still always analyze this as a bII chord.
 
 The above examples are three of the most common ways in which you should approach and leave a Neapolitan chord:
 - Directly to the V chord, most often the V<sup>7</sup>
