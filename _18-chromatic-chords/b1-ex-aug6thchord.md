@@ -64,6 +64,14 @@ w:c:{% endcapture %}
 
 ## Augmented sixth chords (<sup>+6</sup>)
 
+The augmented sixth chords are collections of pitches that create smooth voice-leading. As such, they are not based in tertian harmony, so it is unhelpful to describe them using standard chord terms such as root, third, and fifth. Instead, we typically describe the chordal members by their scale degrees. In the table below, you can see that all augmented sixth chords share three common tones -- ^b6, ^1, and ^#4. The Italian variant consists of only these three pitches whereas the German and French variations have an added tone.
+
++6 variant | Chordal member | Chordal member | Chordal member | Chordal member | 
+ --- | --- | --- | --- | ---
+Italian | ^b6 | ^#4 | ^1 | ^1 (doubled)
+German | ^b6 | ^#4 | ^1 | ^b3
+French | ^b6 | ^#4 | ^1 | ^2
+
 Construction (scale degrees)
 Labeling (roman numerals)
 
