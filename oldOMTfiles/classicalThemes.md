@@ -12,7 +12,7 @@ Sentence
 
 For details, click [here](sentence.html).
 
-<a href="sentence.html"><img src="{{ site.baseurl }}/images/ClassicalThemes/sentence.svg" onerror="this.src='/images/ClassicalThemes/sentence.png'"></a>
+<a href="sentence.html"><img src="{{ site.baseurl }}/images/ClassicalThemes/sentence.svg" ></a>
 
 Period
 ------

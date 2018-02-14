@@ -17,7 +17,7 @@ The eight bars that comprise the continuation of the main theme below are constr
 Initially, the continuation seems as if it will end after only 4 bars, in m. 12. But the clarinet is missing at the the downbeat of m. 12, and instead begins a link to a [four-bar repetition](internalExpansions.html#phrase-expansion). In this repetition (mm. 13-16), the clarinet melody from mm. 9–12 is played by the piano, who cadences clearly with a PAC at the downbeat of m. 16.
 
 <figure>	
-  <img src="//images/form/k498.png">
+  <img src="{{ site.baseurl }}/images/form/k498.png">
   <figcaption>Compound Sentence: Mozart, Trio in E-flat major for Clarinet, Viola, and Piano, K. 498, I, mm. 1-16 </figcaption>
 </figure> 
 

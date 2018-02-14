@@ -10,7 +10,7 @@ A theme is often preceded or followed by material outside of its typical boundar
 An *prefix* is a passage—short or [long](sonataFramingModules.html#introduction)—that *precedes* a theme. Short prefixes lack distinct motivic material and/or harmonic progression. While connected to the theme that follows, when removed prefixes do not disturb the logic of the phrase itself. 
 
 <figure>	
-  <img src="//images/form/sym101.png">
+  <img src="{{ site.baseurl }}/images/form/sym101.png">
   <figcaption>Prefix: Haydn, Symphony No. 101, "Clock</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ A suffix prolongs the harmony that closed the theme. Suffixes are described, and
 Sometimes called *codettas*, *closing sections* follow themes that end with PACs.
 
 <figure>	
-  <img src="//images/form/k330.png">
+  <img src="{{ site.baseurl }}/images/form/k330.png">
   <figcaption>Closing Section: Mozart, Piano Sonata in C major, K. 330</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ The [compound period](compoundPeriod.html) here ends with a PAC in m. 16. Follow
 When a *suffix* follows a half cadence, we refer to it as *standing on the dominant*. These passages are often signals for thematic entrances (such as the [second theme](sonataThematicModules.html#subordinate-theme-module) of a sonata form movement) or thematic returns (such as the recapitulation in a [small ternary](smallTernary.html#three-thematic-functions)). 
 
 <figure>	
-  <img src="//images/form/sym40.png">
+  <img src="{{ site.baseurl }}/images/form/sym40.png">
   <figcaption>Standing on the Dominant: Mozart, Symphony No. 40, K. 550, i</figcaption>
 </figure>
 

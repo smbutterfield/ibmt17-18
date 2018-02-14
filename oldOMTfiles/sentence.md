@@ -5,14 +5,14 @@ title: The sentence
 
 The prototypical sentence is eight measures long and contains two four-measure phrases. The first of these is called the *presentation phrase* and the second is the *continuation phrase*.
 
-<img src="{{ site.baseurl }}/images/ClassicalThemes/sentence.svg" onerror="this.src='/images/ClassicalThemes/sentence.png'">
+<img src="{{ site.baseurl }}/images/ClassicalThemes/sentence.svg" >
 
 ## Presentation phrase (mm. 1–4)
 
 The presentation phrase begins the sentence and has two primary components, one melodic and the other harmonic. Melodically, it contains two repeated *basic ideas* (BI). Harmonically, it prolongs the tonic, by means of either a [subsidiary harmonic progression](harmonicSyntax2.html#subsidiary-harmonic-progressions") or [contrapuntal chords](harmonicSyntax2.html#contrapuntal-prolongation--passing-chord).
 
 <figure>	
-  <img src="//images/form/k283-presentation.png">
+  <img src="{{ site.baseurl }}/images/form/k283-presentation.png">
   <figcaption>Presentation: Mozart, K. 283, i., mm. 1–4</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Continuation phrases begin with [*continuation function*](themeFunctions.html#co
 - Accelerated harmonic rhythm
 
 <figure>	
-  <img src="//images/form/k283.png">
+  <img src="{{ site.baseurl }}/images/form/k283.png">
   <figcaption>Presentation + Continuation: Mozart, K. 283, I, mm. 1–10</figcaption>
 </figure>
 

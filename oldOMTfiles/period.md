@@ -17,7 +17,7 @@ The period is characterized by balance and symmetry. Its antecedent phrase is in
 Unlike the sentence, which contains a basic idea followed by a repetition, the two measure basic idea that begins the a period's antecedent is always followed by a two-measure *contrasting idea* (CI). That contrasting idea supports a cadential progression that ends the antecedent with a weak cadence, either a HC or an IAC.
 
 <figure>	
-  <img src="//images/form/antecedent.png">
+  <img src="{{ site.baseurl }}/images/form/antecedent.png">
   <figcaption>Antecedent: Haydn, Piano Trio in C major, Hob. XV:27, III, mm. 1-4 </figcaption>
 </figure> 
 
@@ -42,7 +42,7 @@ or
 Consequent phrases always begin with a restatement of the BI, occasionally varied, and end with a CI. A consequent phrase's CI often resembles the antecedent's, but slightly altered to accommodate a stronger cadence. It is also common for a consequent phrase's CI to be entirely new. While a sentence can close with a number of cadence types, the period's consequent phrase always ends with a PAC:
 
 <figure>	
-  <img src="//images/form/xv27.png">
+  <img src="{{ site.baseurl }}/images/form/xv27.png">
   <figcaption>Antecedent + Consequent: Haydn, Piano Trio in C major, Hob. XV:27, III, mm. 1-8 </figcaption>
 </figure> 
 

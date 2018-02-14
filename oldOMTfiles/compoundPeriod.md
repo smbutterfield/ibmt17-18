@@ -23,7 +23,7 @@ Both sentences in the compound period will have the same basic idea, each exhibi
 
 
 <figure>	
-  <img src="//images/form/k284-ii.png">
+  <img src="{{ site.baseurl }}/images/form/k284-ii.png">
   <figcaption>Compound Period (Sent. + Sent.): Mozart, Piano Sonata in D major, K. 284, II, mm. 1–8 </figcaption>
 </figure> 
 
@@ -43,7 +43,7 @@ If the initiating phrase is composed of an antecedent, rather than a presentatio
 
 
 <figure>	
-  <img src="//images/form/k332.png">
+  <img src="{{ site.baseurl }}/images/form/k332.png">
   <figcaption>Compound Period (Hybrid 1 + Hybrid 1): Mozart, Piano Sonata in F major, K. 332, I, mm. 41–56 </figcaption>
 </figure> 
 

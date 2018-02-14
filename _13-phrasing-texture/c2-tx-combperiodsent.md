@@ -22,7 +22,7 @@ Hybrid 1 combines an [antecedent phrase](themeFunctions.html#antecedent) with a 
 <!--This results in a complete presentation–continuation–cadential function progression in the antecedent phrase followed by an incomplete continuation–cadential function progression. On the large scale, the antecedent phrase functions like a big presentation function zone (like the presentation phrase does).-->
 
 <figure>	
-  <img src="//images/form/k330-ii.png">
+  <img src="{{ site.baseurl }}/images/form/k330-ii.png">
   <figcaption>Antecedent + Continuation: Mozart, Piano Sonata in C major, K. 330 II, mm. 1–8</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Hybrid 2 combines an antecedent phrase with a four-measure cadential progression
 <img src="{{ site.baseurl }}/images/ClassicalThemes/hybrid2.svg" onerror="this.src='/images/ClassicalThemes/hybrid2.png'">
 
 <figure>	
-  <img src="//images/form/haydn-III-66-ii.png">
+  <img src="{{ site.baseurl }}/images/form/haydn-III-66-ii.png">
   <figcaption>Antecedent + Cadential: Haydn, String Quartet in G major, Hob. III:66, II, mm. 1–8</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ The third hybrid type strongly resembles the [first hybrid](hybridThemes.html#hy
 <img src="{{ site.baseurl }}/images/ClassicalThemes/hybrid3.svg" onerror="this.src='/images/ClassicalThemes/hybrid3.png'">
 
 <figure>	
-  <img src="//images/form/beethoven_op30.png">
+  <img src="{{ site.baseurl }}/images/form/beethoven_op30.png">
   <figcaption>Compound Basic Idea + Continuation: Beethoven, Violin Sonata, Op. 30, No. 2, III, mm. 1–8</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Hybrid 4 resembles the period, with the exception that the first phrase is compr
 <img src="{{ site.baseurl }}/images/ClassicalThemes/hybrid4.svg" onerror="this.src='/images/ClassicalThemes/hybrid4.png'">
 
 <figure>	
-  <img src="//images/form/beethoven_18_2.png">
+  <img src="{{ site.baseurl }}/images/form/beethoven_18_2.png">
   <figcaption>Compound Basic Idea + Consequent: Beethoven, String Quartet in G major, Op. 18/2, IV., mm. 1–8</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Both sentences in the compound period will have the same basic idea, each exhibi
 <img src="{{ site.baseurl }}/images/ClassicalThemes/16period-sent.svg" onerror="this.src='/images/ClassicalThemes/16period-sent.png'" />
 
 <figure>	
-  <img src="//images/form/k284-ii.png">
+  <img src="{{ site.baseurl }}/images/form/k284-ii.png">
   <figcaption>Compound Period (Sent. + Sent.): Mozart, Piano Sonata in D major, K. 284, II, mm. 1–8 </figcaption>
 </figure> 
 
@@ -121,7 +121,7 @@ If the initiating phrase is composed of an antecedent, rather than a presentatio
 <img src="{{ site.baseurl }}/images/ClassicalThemes/16period-hybrid1.svg" onerror="this.src='/images/ClassicalThemes/16period-hybrid1.png'" />
 
 <figure>	
-  <img src="//images/form/k332.png">
+  <img src="{{ site.baseurl }}/images/form/k332.png">
   <figcaption>Compound Period (Hybrid 1 + Hybrid 1): Mozart, Piano Sonata in F major, K. 332, I, mm. 41–56 </figcaption>
 </figure> 
 
@@ -149,7 +149,7 @@ The eight bars that comprise the continuation of the main theme below are constr
 Initially, the continuation seems as if it will end after only 4 bars, in m. 12. But the clarinet is missing at the the downbeat of m. 12, and instead begins a link to a [four-bar repetition](internalExpansions.html#phrase-expansion). In this repetition (mm. 13-16), the clarinet melody from mm. 9–12 is played by the piano, who cadences clearly with a PAC at the downbeat of m. 16.
 
 <figure>	
-  <img src="//images/form/k498.png">
+  <img src="{{ site.baseurl }}/images/form/k498.png">
   <figcaption>Compound Sentence: Mozart, Trio in E-flat major for Clarinet, Viola, and Piano, K. 498, I, mm. 1-16 </figcaption>
 </figure> 
 

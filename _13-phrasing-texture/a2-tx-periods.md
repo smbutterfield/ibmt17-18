@@ -15,7 +15,7 @@ A period is one type of theme, like the [sentence](sentence.html), common to the
 
 The period is generally eight measures long and contains two four-measure phrases, called  *antecedent* and *consequent*.
 
-<img src="{{ site.baseurl }}/images/ClassicalThemes/period.svg" onerror="this.src='/images/ClassicalThemes/period.png'">
+<img src="{{ site.baseurl }}/images/ClassicalThemes/period.svg" >
 
 The period is characterized by balance and symmetry. Its antecedent phrase is initiated by a basic idea that recurs at the beginning of the consequent phrase. Unlike the sentence, which exhibits a single cadence, the period contains *two cadences*, a weak one to end the *antecedent* and a strong one to end the *consequent*.
 
@@ -24,7 +24,7 @@ The period is characterized by balance and symmetry. Its antecedent phrase is in
 Unlike the sentence, which contains a basic idea followed by a repetition, the two measure basic idea that begins the a period's antecedent is always followed by a two-measure *contrasting idea* (CI). That contrasting idea supports a cadential progression that ends the antecedent with a weak cadence, either a HC or an IAC.
 
 <figure>	
-  <img src="//images/form/antecedent.png">
+  <img src="{{ site.baseurl }}/images/form/antecedent.png">
   <figcaption>Antecedent: Haydn, Piano Trio in C major, Hob. XV:27, III, mm. 1-4 </figcaption>
 </figure> 
 
@@ -49,7 +49,7 @@ or
 Consequent phrases always begin with a restatement of the BI, occasionally varied, and end with a CI. A consequent phrase's CI often resembles the antecedent's, but slightly altered to accommodate a stronger cadence. It is also common for a consequent phrase's CI to be entirely new. While a sentence can close with a number of cadence types, the period's consequent phrase always ends with a PAC:
 
 <figure>	
-  <img src="//images/form/xv27.png">
+  <img src="{{ site.baseurl }}/images/form/xv27.png">
   <figcaption>Antecedent + Consequent: Haydn, Piano Trio in C major, Hob. XV:27, III, mm. 1-8 </figcaption>
 </figure> 
 

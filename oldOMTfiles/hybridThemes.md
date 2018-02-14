@@ -14,7 +14,7 @@ Hybrid 1 combines an [antecedent phrase](themeFunctions.html#antecedent) with a 
 <!--This results in a complete presentation–continuation–cadential function progression in the antecedent phrase followed by an incomplete continuation–cadential function progression. On the large scale, the antecedent phrase functions like a big presentation function zone (like the presentation phrase does).-->
 
 <figure>	
-  <img src="//images/form/k330-ii.png">
+  <img src="{{ site.baseurl }}/images/form/k330-ii.png">
   <figcaption>Antecedent + Continuation: Mozart, Piano Sonata in C major, K. 330 II, mm. 1–8</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ Hybrid 2 combines an antecedent phrase with a four-measure cadential progression
 <img src="{{ site.baseurl }}/images/ClassicalThemes/hybrid2.svg" onerror="this.src='/images/ClassicalThemes/hybrid2.png'">
 
 <figure>	
-  <img src="//images/form/haydn-III-66-ii.png">
+  <img src="{{ site.baseurl }}/images/form/haydn-III-66-ii.png">
   <figcaption>Antecedent + Cadential: Haydn, String Quartet in G major, Hob. III:66, II, mm. 1–8</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ The third hybrid type strongly resembles the [first hybrid](hybridThemes.html#hy
 <img src="{{ site.baseurl }}/images/ClassicalThemes/hybrid3.svg" onerror="this.src='/images/ClassicalThemes/hybrid3.png'">
 
 <figure>	
-  <img src="//images/form/beethoven_op30.png">
+  <img src="{{ site.baseurl }}/images/form/beethoven_op30.png">
   <figcaption>Compound Basic Idea + Continuation: Beethoven, Violin Sonata, Op. 30, No. 2, III, mm. 1–8</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ Hybrid 4 resembles the period, with the exception that the first phrase is compr
 <img src="{{ site.baseurl }}/images/ClassicalThemes/hybrid4.svg" onerror="this.src='/images/ClassicalThemes/hybrid4.png'">
 
 <figure>	
-  <img src="//images/form/beethoven_18_2.png">
+  <img src="{{ site.baseurl }}/images/form/beethoven_18_2.png">
   <figcaption>Compound Basic Idea + Consequent: Beethoven, String Quartet in G major, Op. 18/2, IV., mm. 1–8</figcaption>
 </figure>
 
