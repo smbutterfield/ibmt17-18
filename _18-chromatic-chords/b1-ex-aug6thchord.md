@@ -4,10 +4,10 @@ title: 18b Examples - Augmented sixth chords
 abc: true
 ---
 
-Just as you did with the Neapolitan chord, we can explore a new colorful chormatic chord, although this chord comes in multiple variants. (You can think of them as "flavors" if you'd like.) 
+The Neapolitan chord is a chromatic chord, but its construction is still based in tertian harmony. The chords that we will explore today are not so easily classified, although they are no more difficult to understand functionally. Interestingly, this chord comes in three different variants. (You can think of them as "flavors" if you'd like.) 
 
-Analyze and listen to the following short progressions. There are two progressions -- one in major, one in the parallel minor -- for each of the three variants of this special chord. Start your analysis with leadsheet symbols and then provide Roman numerals if possible. In each progression, study the chromatic chord.
-- How would you describe its construction? (Hint: Pay special attention to the scale degrees used in each chord.) 
+Analyze and listen to the following short progressions. There are two progressions -- one in major, one in the parallel minor -- for each of the three variants of this special chord. Start your analysis with leadsheet symbols and then provide Roman numerals if possible. In each progression, study the chromatic chord to answer the following questions:
+- How would you describe its construction? (Hint: Pay special attention to the scale degrees.) 
 - How does it function? (e.g. tonic, passing, etc.) 
 - Does it have tendency tones, and if so, how do they resolve? 
 - What do the three variants have in common and what differentiates each of them? 
@@ -69,3 +69,5 @@ Labeling (roman numerals)
 
 ## Alternate resolutions of the augmented sixth
 
+Resolving to a non-dominant chord
+How to label this using a slash and a scale degree (similar to a secondary function, but different because it is difficult to decide whether to label it "in the key" or by which chord it resolves to)
