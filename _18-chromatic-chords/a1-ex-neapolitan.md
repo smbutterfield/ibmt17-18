@@ -14,7 +14,7 @@ Q:1/4=90
 K:C
 V:1
 [cE] [cE]| [_dF] [BF]| [c2E]|]
-[cE] [cE]| [_dF] [c/2E][=B/2F]| [c2E]|]
+[cE] [cE]| [_dF] [c/2E][B/2F]| [c2E]|]
 [cE] [_dF]| [c_E] [BD]| [c2E]|]
 V:2 clef=bass
 [K:C] [C,G,] [A,,A,]| [F,,_A,] [G,,G,]| [G,2C,2]|]
@@ -32,7 +32,7 @@ L:1/2
 Q:1/4=90
 K:Eb
 V:1
-[K:Eb] [cE] [cE]| [_dF] [=BF]| [c2E]|]
+[cE] [cE]| [_dF] [=BF]| [c2E]|]
 [cE] [cE]| [_dF] [c/2E][=B/2F]| [c2E]|]
 [cE] [_dF]| [cE] [=BD]| [c2E]|]
 V:2 clef=bass
