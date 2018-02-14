@@ -74,7 +74,7 @@ You may use a Neapolitan chord in any position where you could use a minor iv ch
 
 In the modal interchange video from Unit 17b, you may have noticed that one of the progressions used a bII chord. In the same unit, we then looked at a similar usage of the bII in the excerpt from Mahler Symphony No. 2. Let's look at this again to refresh the details of your final analysis. How is the Neapolitan chord different from the above examples? What is its function here? If it is not a pre-dominant as above, then what chord from this new function shares the most commonalities with it?
 
-{% capture ex3 %}X:3
+{% capture ex4 %}X:4
 T:Mahler Symphony No. 2, Mvt. I
 T:Simplified reduction
 M:4/4
@@ -87,8 +87,10 @@ V:1
 V:2 clef=bass
 (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 C,/2z/2 [B,DF]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 C,/2z/2 [_A,_D]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 C,/2z/2 [_A,F,]|
 (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 C,/2z/2 [B,,D,F,]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 [C,2E,G,]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 [C,2E,G,]| [C,,4C,]|]{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
+{% include abc-example.html number="4" abc=ex4 %}
 
-As we discussed in 17b, in this case, the bII is acting as a functional substitution for a dominant function (or possibly a plagal cadential function). The Neapolitan is a commonly used chord, but its most common usage is not as a dominant function. It shares many common tones with a vii<sup>o7</sup> chord, and these tendency tones follow the voice-leading resolutions that you would expect of a vii<sup>o7</sup>.
+As we discussed in 17b, in this case, the bII is acting as a functional substitution for a dominant function (or possibly a plagal cadential function). It shares many common tones with a vii<sup>o7</sup> chord, and these tendency tones follow the voice-leading resolutions that you would expect of a vii<sup>o7</sup>.
+
+Please note: While the Neapolitan is a commonly used chord, it is far more common to use it as a predominant function rather than as a functional substitution for dominant.
 
 As always, if you study a chord's voice-leading, you can use this to deduce its function.
