@@ -62,7 +62,7 @@ w:C:
 w:c:{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-## Building augmented sixth chords (<sup>+6</sup>)
+## Building augmented sixth (<sup>+6</sup>) chords
 
 The augmented sixth chords are collections of pitches that create smooth voice-leading. They are not based on voice-leading only, not tertian harmony, so it is unhelpful to describe them using standard chord terms such as root, third, and fifth. Instead, we typically describe the chordal members by their scale degrees. In the table below, you can see that all augmented sixth chords share three common tones -- ^b6, ^1, and ^#4. As you hopefully determined from the first examples, the Italian variant consists of only the three primary pitches whereas the German and French variations have an added tone. (For ease of communication, I will always refer to the lowered sixth scale degree as ^b6 even though it is already lowered by the key signature in minor. This goes the same for the ^b3 in German augmented sixth chords.)
 
