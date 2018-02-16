@@ -40,7 +40,7 @@ V:2 clef=bass
 w:c:
 [C,G,] [A,,A,]| [F,,A,] [G,,/2G,][G,,/2G,]| [G,2C,2]|]
 w:c:
-[C,G,] [F,,^G,]| [^F,,A,] [G,,G,]| [G,2C,2]|]
+[C,G,] [F,,^G,]| [^F,,=A,] [G,,G,]| [G,2C,2]|]
 w:c:{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
