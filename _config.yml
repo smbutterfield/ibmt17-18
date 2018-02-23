@@ -79,9 +79,9 @@ collections:
   18-chromatic-chords:
     output: true
     name: 18) Chromatic Chords
-  19-modern-chromatic-chords:
+  19-extended-harmonies:
     output: true
-    name: 19) Understanding Chromatic Chords in a Modern Context
+    name: 19) Extended Tertian Harmony
   20-further-chromatic-harmony:
     output: true
     name: 20) Further Chromatic Harmony
