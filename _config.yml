@@ -82,11 +82,8 @@ collections:
   19-extended-harmonies:
     output: true
     name: 19) Extended Tertian Harmony
-  20-further-chromatic-harmony:
-    output: true
-    name: 20) Further Chromatic Harmony
   assignments:
-    output: true 
+    output: true
     name: Assignments
 
 # ignore stuff
