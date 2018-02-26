@@ -16,7 +16,6 @@ Listen to and then analyze the following three progressions. The first is the mo
 - Does this embellishing chord work for all types of chords (i.e. major, minor, etc.)? If not, why?
 
 {% capture ex1 %}X:1
-X:1
 T:Using the common-tone diminished chord
 M:4/4
 L:1/2
