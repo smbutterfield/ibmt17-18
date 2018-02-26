@@ -46,7 +46,7 @@ w:c:{% endcapture %}
 
 ## Neapolitan chords (bII)
 
-This bII chord is used often enough that it earned a special name: the Neapolitan chord. Although one could make a case for calling this the "Batman" chord, because it has been featured prominently in almost every modern Batman theme. Composers love to use this chord to add darkness to any progression. 
+This bII chord is used often enough that it earned a special name: the Neapolitan chord. Although one could make a case for calling this the "Batman" chord, because it has been featured prominently in almost every modern Batman theme. Composers love to use this chord to add darkness to any progression.
 
 You may label the Neapolitan chord using standard Roman numeral notation (bII) as discussed in the mode mixture unit (Unit 17a), but it is also common to substitute an upper-case "N" -- short for Neapolitan -- in your Roman numerals. For voice-leading purposes, the chord may sometimes have an enharmonically equivalent pitch such as the `G#` shown in the third and sixth progressions, but we still always analyze this as a bII chord.
 

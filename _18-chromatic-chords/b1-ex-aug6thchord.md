@@ -4,7 +4,7 @@ title: 18b Examples - Augmented sixth chords
 abc: true
 ---
 
-The Neapolitan chord is a chromatic chord, but its construction is still based in tertian harmony. The chords that we will explore in this unit are not built in thirds, although they are no more difficult to understand functionally. Interestingly, this chord comes in three different variants. (You can think of them as "flavors" if you'd like.) 
+The Neapolitan chord is a chromatic chord, and it is constructed using tertian harmony, as all chords that we have studied thus far. The chords that we will explore in this unit are not built in thirds, although they are no more difficult to understand functionally. Interestingly, this chord comes in three different variants. (You can think of them as "flavors" if you'd like.) 
 
 Analyze and listen to the following short progressions. There are two progressions -- one in major, one in the parallel minor -- for each of the three variants of this unusual chord. Start your analysis with leadsheet symbols and then provide Roman numerals when possible. In each progression, study the chromatic chord to answer the following questions:
 - How would you describe its construction? (Hint: Pay special attention to the scale degrees.) 
