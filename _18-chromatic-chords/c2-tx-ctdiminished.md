@@ -11,7 +11,7 @@ It moves back to the same voicing of C.
 - you could call it an Ao7 if you respell two of the notes, but that's a #vio7, which isn't borrowed from any mode.
 
 How does that use of pitches relate to the I chord?
-It creates a diminished chord where all the pitches are tendancy tones to the I chord, while carrying the tonic through it. 
+It creates a diminished chord where all the pitches are tendency tones to the I chord, while carrying the tonic through it. 
 In C, a common tone diminished chord is spelled C, D#, F#, A. 
 That's a C (tonic) with a diminished chord on top (D#o).
 - the common-tone is usually the root for voice leading reasons, but it doesn't have to be. 
@@ -20,6 +20,6 @@ Common-tone diminished chords have tonic function and serve to elongate the toni
 It decorates a major I chord. 
 These don't exist in minor. 
 Ideally, the I chord exists on either side of the common-tone diminished chord (I - cto - I), but that doesn't always happen. 
-- take the chord progression V6/V - cto - V43/V. 
+- take the chord progression from the third example: V6/V - cto - V43/V. 
   - the cto is used to decorate the V/V with chromatic motion
     - you don't have to identify the chromatic tones as non-chord tones because you're classifying it as a common-tone diminished chord.
