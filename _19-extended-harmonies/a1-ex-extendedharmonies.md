@@ -35,7 +35,7 @@ As we have discussed repeatedly in this course, harmonic analysis is the art of 
 
 Before you go further, you may wish to refresh yourself on the Roman numeral labeling conventions outlines in Unit 6a. In particular, the section that discusses the terms <sup>add</sup> and <sup>sub</sup> are important to our labeling of extended tertian harmonies.
 
-## Differentiation as a process
+## Identifying patterns
 
 While most musicians have at least a passing familiarity with extended tertian harmonies in jazz and pop, they exist in all tonal harmony styles. Analyze the following examples by labeling all chords with Roman numerals, inversion figures, and non-chord tones.
 
