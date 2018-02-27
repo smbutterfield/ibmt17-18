@@ -40,7 +40,7 @@ Before you go further, you may wish to refresh yourself on the Roman numeral lab
 While most musicians have at least a passing familiarity with extended tertian harmonies in jazz and pop, they exist in all tonal harmony styles. Analyze the following examples by labeling all chords with Roman numerals, inversion figures, and non-chord tones.
 
 {% capture ex2 %}X:2
-T:Schubert, Deutsch Tanz, D. 366 no. 4
+T:Schubert, Deutsch Tanz, D. 420 no. 2
 M:3/4
 L:1/4
 K:A
@@ -59,7 +59,7 @@ T:Schubert, Deutsch Tanz, D. 366 no. 4
 M:3/4
 L:1/4
 K:C
-Q:1/4=105
+Q:1/4=135
 V:1
 E| ^G2 G/2G/2| A A A| B2 B/2B/2| c c c|
 ^G2 G/2G/2| A A A/2e/2| e/2d/2 d/2c/2 c/2B/2| A2|]
@@ -68,7 +68,7 @@ E| F/2E/2F/2E/2F/2E/2| E E E| F/2E/2F/2E/2F/2E/2| E E E|
 F/2E/2F/2E/2F/2E/2| E E E| F F ^G| A2|]
 V:3 clef=bass
 z| [B,D] E, [B,D]| [A,C] E, [A,C]| [^G,D] E, [^G,D]| [A,C] E, [A,E]|
-w:d:
+w:a:
 [B,D] E, [B,D]| [A,C] E, [C,A,]| [D,A,] [D,B,] [E,D]| [A,2C]|]{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
@@ -90,4 +90,8 @@ w:d:
 A,,[G,/2B,^CE][G,/2B,CE][G,B,CE]| A,,[A,/2DF][A,/2DF][A,DF]| A,,[^G,/2=B,F][G,/2B,F][G,B,F]| A,,[A,/2^CE][A,/2CE][A,CE]| D,,[F,/2A,D][F,/2A,D][F,A,D]|]{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-When I analyze these pieces, I find that the first and third excerpts have ninth chords.
+When I analyze these pieces, I find that the first and third excerpts have ninth chords. In the first excerpt (D.420 no. 2), the melody in the first measure arpeggiates a B minor triad, but this is superimposed over an obvious E<sup>7</sup> in the left hand. My first instinct is to try to eliminate either the E (to create a G# diminished seventh chord), or eliminate the F# (to leave the E<sup>7</sup>). Both would be functionally sound acting as a dominant function in the key, however, both the E and F# are in prominent positions -- the E is present throughout the measure, and the F# is not only the high point of the measure, but it is approached and left by a leap. Because both pitches are functional to the harmony, I feel that this is an obvious example of a ninth chord. 
+
+I would label the harmony as V<sup>9</sup>. There are other systems for labeling extended harmonies using Roman numerals. For example, some systems would insist that you should either include a <sup>7</sup> below the <sup>9</sup>, but I feel this is redundant if you are making proper use of the <sup>add</sup> and <sup>sub</sup> labels. Any inversion figure that has a single numer -- e.g. V<sup>9</sup> -- includes every third below it. However, if this chord did not have a chordal seventh, I would label it as V<sup>add9</sup>, which denotes a major triad with an added ninth.
+
+The third excerpt
