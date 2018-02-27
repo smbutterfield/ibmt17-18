@@ -16,16 +16,37 @@ Most of the class was familiar with the basics of using Roman numerals to label 
   - All lower-case Roman numerals have a minor third. This includes all minor triads, diminished triads, minor minor chords, diminished minor chords, and diminished diminished chords.
 - *Chordal fifth* - The chordal fifth is altered by adding either a <sup>&oslash;</sup> for lowered fifths or a <sup>+</sup> for raised fifths.
 - *Chordal sevenths* - Simply having an inversion figure that implies a seventh chord (i.e. <sup>7, 6/5, 4/3, or 4/2</sup>) is all that is needed for a seventh chord.
-  - A <sup>M</sup> is added as a courtesy for all major seventh chords, even though they occur naturally. This helps to differentiate these from dominant chords once secondary dominants are introduced.
+  - A <sup>M</sup> is added as a courtesy for all major seventh chords, even though they occur naturally. This allows us to differentiate chord qualities clearly once secondary functions and mode mixture are introduced later in the course.
   - If necessary, the chordal seventh could be raised or lowered by adding a flat or sharp sign respectively in front of the appropriate interval of the inversion figure. This is almost never necessary in diatonic harmony.
 
 When you add an inversion to a seventh chord, you do not need a <sup>7</sup> anymore. The inversion implies the seventh.
+
+By having each part of a Roman numeral describe an isolated chord tone, we are able to accurately describe even borrowed chords.
+
+Chordal member | Default implied pitch | To raise by semitone from default | To lower by semitone from default
+ --- | --- | --- | ---
+ root | diatonic scale degree | sharp symbol in front of Roman numeral* | flat symbol in front of Roman numeral*
+ third | based on case of Roman numeral | upper case (M3) | lower case (m3)
+ fifth | P5 above root | <sup>+</sup> after Rom num | <sup>o</sup> after Rom num
+ seventh | m7 above root | <sup>M</sup> before inversion figure | <sup>o</sup> before inversion figure**
+
+ *For clarity's sake, we **always** use a sharp or flat symbol to show that we are raising or lowering the root, even if you are actually adding a natural.
+
+ **Because the diminished <sup>o</sup> implies the interval of a d5 AND a d7, you must use the half-diminished symbol if you wish to alter the fifth but leave the chordal seventh as a m7 above the root.
+
+## Add and sub
+
+There are two more possible additions for Roman numerals, but these are advanced techniques are will not be necessary until Unit 19. For completeness, we will discuss them here, but if you would rather skip this for now, please do so.
+
+The word <sup>add</sup> is used when a tone is a functional part of the chord but does not belong to a standard triad or seventh chord. A good example of this would be a triad that has a functional 9th above the root. For example, in C major, if a C major triad were to have a D as necessary to the function of that chord, it would be labeled I<sup>add 9</sup>. This clearly identifies the triad plus the additional ninth, but it also omits the chordal seventh. If it *were* a major seventh chord, you would not need use the <sup>add</sup> function, because a 9 would imply everything below it. So a I<sup>M9</sup> is assumed to have 9th, 7th, 5th, and 3rd above the root.
+
+The word <sup>sub</sup> is used when a tone *replaces* another chord tone. The replaced chord tone is always the closest chord tone below the subbed chord tone. For example, if the tonic triad in C major had a 4th above the root instead of the chordal third, you would label that as I<sup>sub4</sup>. This implies that the 4th replaces the chord tone directly below it, so this would be a triad with C, F, and G.
   
 # Further Reading
 
 ## From *Open Music Theory*
 
-## Labeling chords ##
+## Labeling chords
 
 There are two ways in which we will label chords according to function. The first is to label chords with Roman numerals, thoroughbass figures, and functional labels. When doing so, place the appropriate Roman numeral *below* the bass line, the thoroughbass figure *above* the bass line (since it represents the upper voices), and place a functional label **T**/**S**/**D** below the Roman numeral (no **Tx**; simply call a **VI** chord **T**). For now this label can simply apply T, S, or D to individual chords; in the future, we will alter this practice slightly in order to show [functional prolongation](harmonicSyntax2.html). The first example shows individual chord functions, and the second example shows functional prolongation.
 
