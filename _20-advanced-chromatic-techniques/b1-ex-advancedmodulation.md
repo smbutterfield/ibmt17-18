@@ -134,8 +134,10 @@ Both of the examples in Group C use the fact that a Ger<sup>+6</sup> chord is en
 
 Modulation 6 uses a Ger<sup>+6</sup> as the predominant in the first phrase, but in the second phrase, the Ger<sup>+6</sup> is respelled to become an A-flat dominant seventh chord; allowing it to become the V<sup>7</sup> chord in the key of D-flat major.
 
+## Other symmetrical chords
+
+There is one other symmetrical chord which can be enharmonically respelled that we will not cover in this section. The Fr<sup>+6</sup> chord can be respelled to become a different Fr<sup>+6</sup> chord because it contains two whole steps separated by a M3 on either side. For example, the Fr<sup>+6</sup> in C major consists of pitches the A-flat, C, D, and F-sharp. If the F-sharp is respelled as a G-flat, the chord can be re-arranged to become the Fr<sup>+6</sup> in the key of G-flat (D, G-flat, A-flat, and C). This is not a common modulation, but it is worth remembering in the rare chance that you encounter this in a piece of music.
+
 ## Final notes
 
 As with all modulation techniques, these modulatory tricks rely on setting the listener's expectations before presenting them with a dramatic modulation. Because chords such as the Ger<sup>+6</sup> are less common than standard diatonic progressions, it is most common to see these sorts of modulations in a second phrase after having established the uncommon chord or progression functioning "normally" in the first phrase. This creates the sense of expectation for the second phrase before the surprise of the modulation.
-
-Finally, there is one other symmetrical chord which can be enharmonically respelled that we did not cover in this section. The Fr<sup>+6</sup> chord can be respelled to become a different Fr<sup>+6</sup> chord because it contains two whole steps separated by a M3. For example, the Fr<sup>+6</sup> in C major consists of pitches the A-flat, C, D, and F-sharp. If the F-sharp is respelled as a G-flat, the chord can be re-arranged to become the Fr<sup>+6</sup> in the key of G-flat (D, G-flat, A-flat, and C). This is not a common modulation, but it is worth remembering in the rare chance that you encounter this in a piece of music.
