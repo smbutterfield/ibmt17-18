@@ -16,7 +16,7 @@ How do we judge good voice leading?
 
 - Stepwise and static motion
 
-- The choral thirds resolve how you expect
+- The chordal thirds resolve how you expect
 
 
 
