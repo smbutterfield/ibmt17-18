@@ -59,7 +59,7 @@ K:C
 
 {% capture ex4 %}X:4
 T:Patterns in 8/8 meters
-M:1/1
+M:8/8
 L:1/8
 Q:1/4=110
 K:C

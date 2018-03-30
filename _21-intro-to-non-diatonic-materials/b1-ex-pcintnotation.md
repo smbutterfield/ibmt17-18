@@ -69,9 +69,9 @@ Q:1/4=75
 K:C
 D E ^F G| A B ^c d|]
 w:0 2 4 5 7 9 e 0
-D E F G| A B ^c d|]
+E ^F G A| B ^c d e|]
 w:0 2 3 5 7 9 t 0
-D _E F _G| ^G A B c| d|]
+F _G ^G A| B c d _e| f|]
 w:0 1 3 4 6 7 9 t 0{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
