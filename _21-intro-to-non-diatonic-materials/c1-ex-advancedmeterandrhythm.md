@@ -50,9 +50,9 @@ M:7/8
 L:1/8
 Q:1/4=110
 K:C
-"two plus two plus three"cG cG cGG| cG cG cGG| cG cG cGG|]
-"two plus three plus two"cG cGG cG| cG cGG cG| cG cGG cG|]
-"three plus two plus two"cGG cG cG| cGG cG cG| cGG cG cG|]{% endcapture %}
+"2+2+3"cG cG cGG| cG cG cGG| cG cG cGG|]
+"2+3+2"cG cGG cG| cG cGG cG| cG cGG cG|]
+"3+2+2"cGG cG cG| cGG cG cG| cGG cG cG|]{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
 ## 8/8 meters
@@ -63,9 +63,9 @@ M:1/1
 L:1/8
 Q:1/4=110
 K:C
-"two plus three plus three"cG cGG cGG| cG cGG cGG| cG cGG cGG|]
-"three plus three plus two"cGG cGG cG| cGG cGG cG| cGG cGG cG|]
-"three plus two plus three"cGG cG cGG| cGG cG cGG| cGG cG cGG|]{% endcapture %}
+"2+3+3"cG cGG cGG| cG cGG cGG| cG cGG cGG|]
+"3+3+2"cGG cGG cG| cGG cGG cG| cGG cGG cG|]
+"3+2+3"cGG cG cGG| cGG cG cGG| cGG cG cGG|]{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
 ## More asymetric meters
@@ -88,7 +88,7 @@ K:C
 The following is an example of a piece that uses mixed meter (also called "changing meter". What is the minimum number of voices necessary for a mixed meter?
 
 {% capture ex6 %}X:6
-T:Patterns in asymetric meters
+T:Mixed meter
 M:5/8
 L:1/8
 Q:1/4=110
