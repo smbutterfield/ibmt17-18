@@ -117,4 +117,4 @@ In the second scale example above, we used pc integer notation to show specific 
 
 ## Introduction to set theory
 
-Pitch-class integer notation is really the beginning of *set theory*, a system that was first laid out by Allen Forte in *The Structure of Atonal Music*, and it has has since been refined by many other theorists. Notably, Joseph Straus created a wonderful learning method for set theory in his *Introduction to Post-Tonal Theory*. Both are amazing references and if you need to explore the topic further, I recommend that you use them.
+Pitch-class integer notation is really the beginning of *set theory*, a system that was first laid out by Allen Forte in *The Structure of Atonal Music*, and since been refined by many other theorists. Notably, Joseph Straus created a wonderful learning method for set theory in his *Introduction to Post-Tonal Theory*. Both are amazing references and if you need to explore the topic further, I recommend that you use them.
