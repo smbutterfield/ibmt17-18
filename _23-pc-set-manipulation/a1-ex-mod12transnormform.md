@@ -67,7 +67,7 @@ Next:
 - Then add 5 to each number
 - For any resulting number greater that 11, convert that number to its lowest possible integer using mod12 from above. 
     - For example, if you were to get 13, you would need to subtract 12 to get 1.
-- With you new set of integers and convert those numbers back into pitch letter names. 
+- Convert this new set of integers into pitch letter names. 
 
 Did you get the same result as when you transposed the pitches using the traditional method for pitch transposition? If so, why does this work? What do the numbers for integer notation *actually* represent? (Hint: it is not the assigned pitches.)
 
@@ -94,11 +94,11 @@ This works, of course, because the numbers in integer notation are actually repr
 
  When notating transposition, we write T<sub>n</sub> where n = the interval by which you will transpose. The example above would be notated:
 
- T<sub>5</sub>(E, F, G, B-flat)
+ T<sub>5</sub>(E, F, G, B-flat) = (A,B-flat,C,E-flat)
 
  OR using integer notation
  
- T<sub>5</sub>(4,5,7,t)
+ T<sub>5</sub>(4,5,7,t) = (9,t,0,3)
 
 ## Transposing downward
 
@@ -137,14 +137,14 @@ V:2 clef=bass
 
 Most people will reduce this to a closed-position chord such as the following, because it shows every pitch and the inversion, but it does it in the smallest space possible. This makes it easy to see the intervals and construction of the chord:
 
-{% capture ex1 %}X: 1
+{% capture ex2 %}X: 2
 T:C major seven
 M:4/4
 L:1
 K:C
 V:1
 [EBGc]|]{% endcapture %}
-{% include abc-example.html number="1" abc=ex1 %}
+{% include abc-example.html number="2" abc=ex2 %}
 
 *Normal order* follows the same principles for pc sets. For example, take the following pc set and decide on the smallest space possible. You may use any method that works, but common methods include using mod12, notating the pitches on a staff, or even drawing the pitches on a clock face. As you work through, consider the speed and efficacy of each method that you try.
 
