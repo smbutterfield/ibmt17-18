@@ -5,8 +5,57 @@ abc: true
 ---
 
 # Class discussion
+## Basic PC Set Manipulation
 
+Vocabulary:
+1. Atonal music: music without a tonal center or key
+2. Twelve-tone music: music that doesn't value any pitch over another; all pitches are of equal importance
+3. Serial music: music created from a mathematical process
 
+How is manipulating a pitch class set helpful as a musician?
+- playing atonal music
+- **looking for a pattern for our ears to cling to**
+
+A chord with two tones is a diad. 
+
+When analyzing atonal music, parentheses and commas versus brackets and commas mean different things. 
+
+## Mod 12 Arithmetic
+In music we use 12 because there are 12 pitches.
+We want to always get our final number between 0 and 11. 
+Sometimes you have to subtract 12 to get to a number between 0 and 11, that is called **Octave Equivilancy**. 
+- C + P4 = F
+- this is the same, but with interger notation 0 + 5 = 5
+#### More Examples
+- Gb + m3 = Bbb / 6 + 3 = 9
+- A + P5 = E / 9 + 7 = 16 (4 for the octave equivilant)
+
+Wherever you set zero, that's how many half-steps you move. 
+We typically use fixed zero, so if you're good at your intervals in C major, you will be able to short cut this.
+
+Why do we have movable doh?
+-transposition
+
+Fixed zero is what we normally use: so interger notation is centered around C at 0. 
+Harmonic Equivilancy exists between pitch-classes that share the same tone but have different possible pitch names.
+- for example, Db and C# are the same tone. 
+
+### Normal Form (Normal order)
+T: transpose
+n: the number you are altering the following pitch-classes by
+- ex: T5(0,5,8) = (7,0,3)
+  - you take n and add it to the given intergers
+  
+Take a Cmaj7, spelled ECGB. 
+Put it in closed position, but maintain the inversion. 
+That is spelled EGBC (4,7,e,0)
+That is how you find normal form, where the pitches are in an order as condensed as possible.
+
+How to find normal order:
+ 1. Put the pitch-classes on the clock and find the smallest distance between the pitches.
+ 2. Notate the numbers on a staff and find the closed position, then re-notate them into interger notation. 
+  - Ex: (1,7,t)
+  - normal form: (7,t,1)
 
 # Further reading
 
