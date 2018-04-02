@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 21c Examples - Advanced rhythm and meters
+title: 21a Examples - Advanced rhythm and meters
 abc: true
 ---
 

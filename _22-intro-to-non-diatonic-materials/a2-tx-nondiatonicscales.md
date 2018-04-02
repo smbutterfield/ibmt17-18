@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 21a Lesson - Non-diatonic scales
+title: 22a Lesson - Non-diatonic scales
 abc: true
 ---
 
@@ -10,8 +10,6 @@ abc: true
 ## Modes 
 
 Modes use every tone in a 7 degree scale.
-
-
 
 As a review, our modes are ionian (major), dorian, phrygian, lydian, mixolydian, aeolian (natural minor), locrian. 
 
@@ -29,8 +27,6 @@ Aeolian (natural minor) is 12b345b6b7 (Do Re Me Fa Sol Le Te).
 
 Locrian is 1b2b34b5b6b7. (Do Ra Me Fa Se Le Te).
 
-
-
 Mixolydian is related to major because of the 3rd scale degree. 
 Dorian is related to minor because of the b3rd scale degree. 
 
@@ -39,7 +35,6 @@ Another common scale is Lydian Dominant 123#456b7 (Do Re Mi Fi Sol La Te).
 
 The lydian title comes from the #4 in the first tetra scale.
 The dominant title comes from the b7 in the second tetra scale.
-
 
 Can you hear the mode change of happy birthday?
 

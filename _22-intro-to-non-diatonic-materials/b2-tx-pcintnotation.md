@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 21b Lesson - Pitch-class integer notation
+title: 22b Lesson - Pitch-class integer notation
 abc: true
 ---
 

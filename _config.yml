@@ -85,9 +85,15 @@ collections:
   20-advanced-chromatic-techniques:
     output: true
     name: 20) Advanced Chromatic Techniques
-  21-intro-to-non-diatonic-materials:
+  21-beyond-simple-compound-meters:
     output: true
-    name: 21) An Introduction to Non-Diatonic Materials
+    name: 21) Beyond Simple and Compound Meters
+  22-intro-to-non-diatonic-materials:
+    output: true
+    name: 22) An Introduction to Non-Diatonic Materials
+  23-pc-set-manipulation:
+    output: true
+    name: 23) Pitch-class Set Manipulation
   assignments:
     output: true
     name: Assignments
