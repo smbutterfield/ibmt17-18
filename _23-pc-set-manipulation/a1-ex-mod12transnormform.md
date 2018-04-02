@@ -118,7 +118,7 @@ Just as you must reduce any number greater that 11 to an integer between 0 and 1
 
 T<sub>-5</sub>(4,5,7,t) = (e,0,2,5)
 
-## Finding normal form
+## Normal form
 
 In order to make comparing pc sets more useful, we need to use standardized orders to create consistent comparisons. You can imagine how difficult it would be to make sense of a series of pc sets if each set was in a random order. For this, we use *normal form*.
 
@@ -146,7 +146,7 @@ V:1
 [EBGc]|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-*Normal order* follows the same principles for pc sets. For example, take the following pc set and decide on the smallest space possible. You may use any method that works, but common methods include using mod12, notating the pitches on a staff, or even drawing the pitches on a clock face. As you work through, consider the speed and efficacy of each method that you try.
+*Normal order* follows the same principles for pc sets. For example, take the following pc set and arrange it so it fill the smallest space possible. Or to put it more precisely, you must find the ascending arrangement that has the smallest interval between the outside pitch classes. You may use any method that works, but common methods include using mod12, notating the pitches on a staff, or even drawing the pitches on a clock face. As you work through, consider the speed and efficacy of each method that you try.
 
 (1,7,t)
 
@@ -160,3 +160,25 @@ But what happens when you have a more complicated and ambiguous pc set? Try putt
 
 (2,3,5,8,e)
 
+## When there are "ties" for normal form
+
+With any pc set, it is possible that there are multiple arrangements that have the same interval between the outside pitches. Try putting the following trichord into normal form.
+
+(0,5,7)
+
+If you arrange this on a staff in all possible ascending orders, you get:
+
+{% capture ex3 %}X: 3
+T:Three possible arrangements of (0,5,7)
+M:4/4
+L:1
+K:C
+V:1
+[CFG]| [FGc]| [Gcf]|]{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
+
+From this, it is obvious that you can eliminate the last arrangement, but how do you choose between the first two which both have an outer interval of 7 (P5)? In this case, we go to the first tie-breaker of looking at the distance between the lowest pitch and the second highest pitch. In the above example, the second interval for the first arrangement is 5 (P4), but the second interval for the second arrangement is only 2(M2). In this case the normal form this trichord is (0,2,7).
+
+Try using this on a more difficult example.
+
+(1,3,7,t)
