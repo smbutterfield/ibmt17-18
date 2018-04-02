@@ -5,7 +5,37 @@ abc: true
 ---
 
 # Class discussion
+## Pitch-class Interger Notation
+Pitch class interger notation was created to analyze non-diatonic music. 
+As music evolved in the beginning of the 20th century, theory had to evolve with it. 
 
+Pitch classes are our way of naming a note in non-diatonic harmony.
+- this includes the notes enharmonic equivilants. 
+- Ex: Db/C# are in the same pitch class.
+
+### Fixed interger notation
+Each note has an assigned number that indicates its pitch class:
+- C is 0
+- C#/Db is 1
+- D is 2
+- D#/Eb is 3
+- E is 4
+- F is 5
+- F#/Gb is 6
+- G is 7
+- G#/Ab is 8
+- A is 9
+- A#/Bb is t (ten)
+- B is e (eleven)
+ - if you write these numbers in the shape of a clock with C/0 at the top, it is a useful tool for any post-tonal analysis.
+### Pitch Class Collection
+
+ A pitch class collection is the same as a scale in diatonic harmony. 
+ BUT because it is not diatonic, we call it a collection of pitches. 
+ Ex: Whole-Half Octatonic
+ - DEFGAbBbBC#
+ - our given notes are D,E,F,Ab,Bb,and B.
+ - our pitch class collection is 2458te
 # Further Reading
 
 ## From *Open Music Theory*
