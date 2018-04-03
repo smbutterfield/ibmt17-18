@@ -16,28 +16,29 @@ How is manipulating a pitch class set helpful as a musician?
 - playing atonal music
 - **looking for a pattern for our ears to cling to**
 
-A chord with two tones is a diad. 
+A chord with two tones is a dyad. 
 
 When analyzing atonal music, parentheses and commas versus brackets and commas mean different things. 
 
 ## Mod 12 Arithmetic
 In music we use 12 because there are 12 pitches.
 We want to always get our final number between 0 and 11. 
-Sometimes you have to subtract 12 to get to a number between 0 and 11, that is called **Octave Equivilancy**. 
+Sometimes you have to subtract 12 to get to a number between 0 and 11, because for set theory analysis, all octaves are considered of equal importance.
 - C + P4 = F
 - this is the same, but with interger notation 0 + 5 = 5
+
 #### More Examples
 - Gb + m3 = Bbb / 6 + 3 = 9
-- A + P5 = E / 9 + 7 = 16 (4 for the octave equivilant)
+- A + P5 = E / 9 + 7 = 16 (4 for the octave equivalent)
 
-Wherever you set zero, that's how many half-steps you move. 
+Wherever you set zero, integer notation tells you how many half-steps you move. 
 We typically use fixed zero, so if you're good at your intervals in C major, you will be able to short cut this.
 
-Why do we have movable doh?
+Why do we have movable do?
 -transposition
 
-Fixed zero is what we normally use: so interger notation is centered around C at 0. 
-Harmonic Equivilancy exists between pitch-classes that share the same tone but have different possible pitch names.
+Fixed zero is what we normally use: so integer notation is centered around C at 0. 
+Enharmonic Equivalency exists between pitch-classes that share the same tone but have different possible pitch names.
 - for example, Db and C# are the same tone. 
 
 ### Normal Form (Normal order)
