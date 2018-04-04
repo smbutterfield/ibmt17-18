@@ -44,15 +44,15 @@ As you hopefully can see, there are only six *unique* inversion pairs when you e
  5 | 7
  6 | 6
 
-Another method for teaching inversion uses the visual aid of a clock to show inversion. First, draw a clock (with 0 in the place of 12). Then draw a line between opposite sides of the clock; this line will represent your inversion center, so to invert around 0, your line should connect 0 and 6. Use this line as a mirror to find your inversion pairs by looking at what is directly across the line, and you will see that you create the same set of inversion pairs above. If you were to move your line to connect a different set of opposites, say 2 and 8, what would this represent?
+Because mod12 creates a continuously repeating series of 12 integers, you may use the visual aid of a clock to help you find inversions. First, draw a clock (with 0 in the place of 12). Then draw a line between 0 and 6; this line will represents the center around which you will invert your pitches. To find your inversion pairs, connect the integers by a line that is perpendicular to the center line (i.e. integers that are directly across the line), and you will see that you create the same set of inversion pairs above. If you were to move your center line to connect a different set of opposites, say 2 and 8, what would this represent?
 
-## Solving inversions mathematically
+## Finding inversions mathematically
 
 As with transposition, we have shorthand to represent inversion. To show the inversions around zero used to create the chart above we would write:
 
 T<sub>0</sub>I (0,1,2,3,4,5,6) = (0,e,t,9,8,7,6)
 
-If you then put the result in normal form you would get (6,7,8,9,t,e,0).
+As you can see, each pitch class in the result is just the inversion of the corresponding pitch class in the original pc set. If you were to put the result in normal form you would get (6,7,8,9,t,e,0).
 
 What if you wanted to invert *and* transpose a pc set? Try inverting and transposing the following pc set, but do it two different ways to see if you get the same results:
 - Transpose first, then invert
@@ -60,11 +60,18 @@ What if you wanted to invert *and* transpose a pc set? Try inverting and transpo
 
 T<sub>4</sub>I(1,5,6)
 
-Did you get the same result either way? If not, why are the different? Which do you think is correct? Why?
+Did you get the same result either way? If not, why are they different? Which do you think is correct? Why?
 
 ## The shortcut
 
-Inverting first will always give you the correct answer, because in that case you are inverting *around zero* and then transposing. If you transpose first, you are actually inverting around a differnent axis.
+Inverting first will always give you the correct answer, because in that case you are inverting *around zero* and then transposing. If you transpose first, you are actually inverting around a different axis. You can think of this easily using the clock face. If you invert first, you invert around the 0/6 axis and then you transpose the result. If you transpose first, you move the axis of transposition, and then you invert around that.
 
-Luckily there is a mathematical shortcut for inverting around zero and transposing. Look at the following correctly solved examples. Do you see a relationship between the formula and answers?
+Luckily there is a mathematical shortcut for inverting around zero and transposing. Look at the following correctly solved examples. Do you see a simple way to find the answers given only the numbers in the formula? It may be helpful to think of the original number series that we used at the top of the page, before we converted it using mod12. To make it easier to find the shortcut, the results have purposely *not* been put into normal form, although you should always do so after inverting.
 
+T<sub>t</sub>I(2,6,7) = (8,4,3)
+
+T<sub>5</sub>I(2,6,7) = (3,e,t)
+
+T<sub>9</sub>I(2,6,7) = (7,3,2)
+
+T<sub>0</sub>I(2,6,7) = (t,6,5)
