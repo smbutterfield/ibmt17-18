@@ -5,8 +5,28 @@ abc: true
 ---
 
 # Class discussion
+## PC Set Inversion
 
+How do you find the inversion of the number?
+- you take the number and go that many around the given pitch. 
+  - if we are inverting over 0, the inversion of 3 is -3. 
+- -14 -13 -12 -11 -10 -9 -8 -7 -6 -5 -4 -3 -2 -1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
 
+What if we apply Mod 12 to this idea?
+- 1 2 3 4 5 6 7 8 9 t e 0 1 2 3 4 5 6  7 t e 
+  - we get the same idea by mirroring numbers over the clock, putting the mirror down the line between 0 and 6.
+- the inversions of each number are:
+  - 1 e, 2 t, 3 9, 4 8, 5 7, 6 6.
+- if you're using the clock for inversion, you can move the mirror axis to any number and treat it the same
+
+#### Ex: C major triad
+What is the pitch class set for a C major triad?
+(0,4,7). 
+What is the inversion? 
+(0,8,5).
+  - the normal form of the inversion is [5,8,0].
+  
+The chord made is a F minor triad, because we directly flipped the intervals around C. 
 
 # Further reading
 
