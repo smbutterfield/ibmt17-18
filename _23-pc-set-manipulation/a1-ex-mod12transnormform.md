@@ -177,7 +177,7 @@ V:1
 [CFG]| [FGc]| [Gcf]|]{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-From this, it is obvious that you can eliminate the last arrangement, but how do you choose between the first two which both have an outer interval of 7 (P5)? In this case, we go to the first tie-breaker of looking at the distance between the lowest pitch and the second highest pitch. In the above example, the second interval for the first arrangement is 5 (P4), but the second interval for the second arrangement is only 2(M2). In this case the normal form this trichord is (0,2,7).
+From this, it is obvious that you can eliminate the last arrangement, but how do you choose between the first two which both have an outer interval of 7 (P5)? In this case, we go to the first tie-breaker of looking at the distance between the lowest pitch and the second highest pitch. In the above example, the second interval for the first arrangement is 5 (P4), but the second interval for the second arrangement is only 2(M2). In this case the normal form this trichord is [0,2,7].
 
 Try using this on a more difficult example. The following pentachord has multiple ties and will require you to work through multiple levels. Remember that each tie is broken by measuring the first pitch against the next closest pitch. While working through this, how many permutations in ascending order are there for a this set? How does that number relate to the cardinality for any set?
 
