@@ -5,6 +5,7 @@ abc: true
 ---
 
 # Class discussion
+
 ## PC Set Inversion
 
 How do you find the inversion of the number?
