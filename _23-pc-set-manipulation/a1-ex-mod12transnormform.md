@@ -4,7 +4,16 @@ title: 23a Examples - Basic PC Set Manipulation
 abc: true
 ---
 
-In Unit 22, we introduced *integer notation* for *pitch classes*. Allen Forte first formalized this system in his seminal work, *The Structure of Atonal Music*, because standard analytic methods do not work when the music leaves traditional tonality. His *set theory* is a specialized form of analysis that looks for intervallic patterns equally across all twelve chromatic pitches, rather than focusing on the relationship between a central pitch (i.e. tonic) and the other pitches. There have been numerous refinements and alterations to this method since the first publication of Forte's text in 1973, but this unit will give an overview of how these methods approach analysis.
+In Unit 22, we introduced *integer notation* for *pitch classes*. Allen Forte first formalized this system in his seminal work, *The Structure of Atonal Music*, because standard analytical methods do not work when the music leaves traditional tonality. His *set theory* is a specialized form of analysis that looks for intervallic patterns equally across all twelve chromatic pitches, rather than focusing on the relationship between a central pitch (i.e. tonic) and the other pitches. 
+
+## Scratching the surface
+
+*Set theory* is a deep field of theoretical study, and we will only introduce a few basic concepts in this unit. If you would like to explore this topic further -- and if you intend to go beyond the undergraduate level of music study, you should -- I highly recommend that you read the some of the many fine textbooks written on the subject. My favorites include:
+- *The Structure of Atonal Music* - Allen Forte
+- *Introduction to Post-tonal Theory* - Joseph Straus
+- *Basic Atonal Theory* - John Rahn
+
+There have been numerous refinements and alterations to this method since the first publication of Forte's text in 1973, so this unit will attempt to distill the basics that I have found most useful in understanding how these methods approach analysis.
 
 ## Notating pitch-class sets
 

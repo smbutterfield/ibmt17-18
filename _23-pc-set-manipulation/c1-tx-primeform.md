@@ -6,13 +6,20 @@ abc: true
 
 Pitch-class integer notation and the two primary forms of manipulation -- transposition and inversion -- allow for a tremendous amount of flexibility in analysis. This flexibility comes with the drawback of making comparison difficult, because there is no guarantee that a pc set is in the same order. For this reason, we use normal form to ensure that our comparisons between pc sets are built in a consistent manner. This is also why you should always normalize a pc set after inverting it.
 
+## How many are there?
+
+If you were to group all of the unique transpositions and inversions of a pc set, how many permutations would there be? To explore these ideas, first write out all unique inversions and transpositions of the following prime form pc set. This set represents a typical pc set in that every transposition and inversion is unique.
+- (014)
+
+Because there are twelve possible starting pitches and for both the starting set and its inversion, there are typically twenty-four possible pc sets within a set class. And because we use normal form to represent each pc set within a set class, this means there is *only* one arrangement of the pc set for each starting pitch. (If every unique order of pitch classes was considered as well, there would be vastly more options depending on the number of pitch classes within the pc set.)
+
+## Set class
+
 Theoretically, we can determine whether any two pc sets are related by transposition, inversion, or both. To try this, study the following four trichords. How are they related? What method(s) did you use to find the relationships? As you work through this, keep track of the manipulations you make to find compare them. Hint: It will be helpful to make sure that you are always working with the normal form.
 - (2,9,6)
 - (8,4,1)
 - (e,2,7)
 - (6,2,8)
-
-## Set class
 
 For fairly simple trichords such as these, there are a variety of methods you could use to compare them. Some people will write them using traditional notation on a staff, yet others will attempt to visualize them on clock or number line. These visual methods may work to a degree for a simple trichord but fail on two accounts
 - It is difficult to scale to larger, denser pc sets.
@@ -51,3 +58,31 @@ In the above trichords, we had two possible prime forms [0,3,7] and [0,4,7]. The
 
 Notice the notation of prime form. For this we use parentheses only with no commas. (All of the notation that we use for pc sets -- unordered, normal, and prime forms -- was standardized by Joseph Straus in his *Introduction to Post-tonal Theory*.)
 
+## Finding prime form for any pc set
+
+Now that you understand the goal of prime form -- finding one pc set to represent all transpositions and inversions -- let's try another one to see if we can develop a step-by-step process for finding prime form of any pc set. Try finding the prime form of the following tetrachord. Remember that you need to check the inversions as well.
+
+(4,t,8,3)
+
+Hopefully you came to the answer of (0157)
+
+To find prime form, you:
+1. Put the pc set into normal form.
+2. Transpose that set to begin with 0.
+    - Remember this pc set, because it will be one of two possible options at the end of the process
+3. Invert your pc set.
+    - You may use either the normal form of the original or the reduced version that begins with 0. They will get you to the same answer.
+4. Put the new pc set into normal form.
+5. Transpose this new pc set to begin with 0.
+6. Compare the two pc sets that begin with 0 using the tie-breaker system that we outlined for identifying normal form.
+    - These are the final forms taken from steps 2 and 5.
+    - You will always end with a pc set that begins with 0.
+7. Notate your prime form using parentheses and no commas.
+
+## Symmetrical set classes
+
+What could reduce the number of pc sets within a set class? Write out all unique inversions and transpositions for the two following pc sets for examples that deviate from the standard possibility of twenty-four unique permutations. What causes these to have so many less pc sets in the set class?
+- (048)
+- (0158)
+
+The number of pc sets in a set class can be reduced if the pc set is symmetrical: augmented triads, diminished seventh chords, the whole tone scale, and the octatonic scales are all symmetrical set classes with less than twenty-four unique pc sets, but there are many others that have symmetry reducing the number of pc sets in the set class.
