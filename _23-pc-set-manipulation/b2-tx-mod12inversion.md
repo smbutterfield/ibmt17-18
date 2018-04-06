@@ -28,6 +28,52 @@ What is the inversion?
   - the normal form of the inversion is [5,8,0].
   
 The chord made is a F minor triad, because we directly flipped the intervals around C. 
+### Transposition and Inversion
+When you have to transpose and invert a PC set, the formula is TnI().
+#### Which is correct? 
+1. Transpose
+  - ex: T4I(1,5,6)
+    - (5,9,t)
+2. Invert
+    - (7,3,2)
+3. Find normal form
+    - [2,3,7]
+    
+**OR**
+1. Invert 
+- ex: T4I(1,5,6)
+    - (e,7,6)
+2. Find normal form
+    - [6,7,e]
+3. Transpose
+  - next we transpose by adding n (4) to each interger. 
+   - [t,e,3]
+
+The SECOND OPTION is correct. 
+By transposing first, it changes the axis you invert over.
+You have to invert first, THEN transpose. 
+You have to wait to find normal form until AFTER you invert the PC set. 
+
+Shortcut:
+- subtract n by each interger, then set it in normal form.
+    - ex: T9I(4,3,1)
+      - 9-4=5
+      - 9-3=6
+      - 9-1=8
+    - so our PC set is (5,6,8), and normal form is [5,6,8]
+    
+ ### Set Class 
+ Think of pitch class, it is a combination of pitches, thus a PC set.
+ So set class, is a collection of pitch class sets.
+ 
+ Heirarchy:
+ - pitch class (1)
+ - pitch class set (1,4,7)
+ - set class (1,4,7);(2,5,8);(3,6,9);(4,7,t);(5,8,e);(6,9,0); etc...
+
+A set class for (0,4,7), a major triad, all of its transpositions and inversions create 24 PC sets, making one large set class. 
+This includes all major and minor triads in interger notation. 
+- a way to decrease a set class is using a symmetrical chord
 
 # Further reading
 
