@@ -94,6 +94,9 @@ collections:
   23-pc-set-manipulation:
     output: true
     name: 23) Pitch-class Set Manipulation
+  24-serialism-and-tone-row-manip:
+    output: true
+    name: 24) Serialism and Tone Row Manipulation  
   assignments:
     output: true
     name: Assignments
