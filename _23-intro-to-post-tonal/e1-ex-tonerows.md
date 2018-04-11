@@ -156,8 +156,17 @@ P<sub>1</sub> | 1 | 3 | 5 | 7 | 9 | e | 2 | 4 | 6 | 8 | t | 0 | R<sub>1</sub>
 
 ## Properties of the matrix
 
-When done correctly, any tone row matrix will have a pitch class that extends diagonally from the top left cell of the matrix to the bottom right cell. In the correct chart above, you can see that the pitch class 0 is in the first cell and then connects diagonally across the entire matrix.
+Finally let's touch on some general important concepts and common mistakes that you will encounter when creating tone row matrices.
 
+#### Important concepts
+- There are various ways to label the prime and inversion tone rows in the matrix depending on whether you use fixed-zero or movable-zero.
+    - The most often used labeling method for tone row matrices is fixed-zero notation. When using fixed-zero, you will always name each prime and inversion tone row by the abbreviation `P` or `I` respectively, followed by a subscript integer based on C=0. You can see this method in the matrix above.
+        - When using fixed zero, you have two options for laying out the order of your rows. The first layout is used to prioritize a specific iteration of the tone row. Typically, your original tone row will be taken from a piece of music and rarely will that piece start on pitch class 0. Some theorists prefer to layout the matrix with the tone row across the top *in its non-transposed iteration*. In this case, the top row will be labeled using fixed-zero notation. For example, if the first iteration of the row started on A, you first row in the matrix would be P<sub>9</sub>. You would only have P<sub>0</sub> as you upper left row if the piece started on 0. You will then have to be very careful in creating your first inverted row because you will not be inverting around 0. Proponents of this method usually suggest inverting interval by interval away from the first pitch class. (e.g. If the first interval of the row is an *ascending* M3, then the first interval of your inverted row will be a *descending* M3. You will continue this process for each interval.)
+        - On the other hand, a matrix is only meant to be a useful tool for analysis, so it's primary role is to help you track all possible uses of the row. It is easier to create a matrix that starts on 0, because creating the first inverted row (I<sub>0</sub>) is as simple because you can use your standard fixed-zero inversions for each which you probably already have memorized. (i.e. 0 becomes 0, 1 becomes e, 2 becomes t, etc.). To do this, simply transpose your entire tone row to start on 0, write this as the top left row of your matrix, and then create the matrix as we did above. Even though your rows will be in a different order, every row will be *labeled* identically to the other method because you are using fixed-zero notation.
+    - Movable-zero 
+- When done correctly, any tone row matrix will have a pitch class that extends diagonally from the top left cell of the matrix to the bottom right cell. In the correct chart above, you can see that the pitch class 0 is in the first cell and then connects diagonally across the entire matrix.
+
+####Common mistakes
 Matrix
     Fixed-zero vs movable zero
     Fixed-zero format
