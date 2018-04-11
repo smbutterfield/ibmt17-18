@@ -47,3 +47,15 @@ For example, 5-1, like (0,4,7), is a major triad.
 
 **The reason we use numbers is to represent all enharmonic equivilants and narrow the idea down to how it exists sonically: as 1 note. 1 note gets 1 number.**
 
+## Using Pitch Class Sets in Analysis
+
+How many possible combinations of (015) are there?
+- this includes any PC set that shares the same intervals, or the inversion and its shared intervals
+- this gives us 24 combinations. 
+
+Ex: (015)
+- could be [1,2,6], [2,3,7], [3,4,8], [4,5,9] etc...
+- inversion: (0,e,7), normal form [7,e,0]
+  - could be [8,0,1], [9,1,2], [t,2,3] etc...
+
+Finding pitch class set lets you know the basis for an entire piece of music. 
