@@ -72,7 +72,7 @@ T<sub>0</sub> = (0,2,4,6,8,t,1,3,5,7,9,e)
 
 What do you notice as you work through this? Can you think of different methods for creating T<sub>1</sub>I rather than just mirroring T<sub>1</sub>? While the chart above was not too unwiedly for addressing all possible variations on a trichord, can you think of a way to create a chart that shows every combination (transposed and inverted) of an aggregate pc set that would take less space than the clunky chart above?
 
-## The tone row matrix
+## Developing a matrix
 
 The answer to the pc set would take up too much screen for me to succinctly write in a table here, but in plain text the order would be:
 - T<sub>0</sub>I 1 3 5 7 9 e 2 4 6 8 t **0** 2 4 6 8 t 1 3 5 7 9 e T<sub>0</sub>
@@ -95,26 +95,68 @@ T<sub>0</sub> | 0 | 2 | 4 | 6 | 8 | t | 1 | 3 | 5 | 7 | 9 | e
 -- | 3 |  |  |  |  |  |  |  |  |  |  |  
 -- | 1 |  |  |  |  |  |  |  |  |  |  |  
 
+This grid is a called a *matrix*. We could then fill in each *row* of our matrix with the transpositions of the original pc set and each column with inversions. For example, where would the other two pc sets that we figured out in our original example, T<sub>1</sub> and T<sub>1</sub>I, fit in this grid? 
+
+## Filling out the matrix
+
+Because the top row is the original pc set and the column is its inversion, it makes sense to place the next pc sets, T<sub>1</sub> and T<sub>1</sub>I, in the row and column respectively that begin with the pitch class "1". It would look like this:
+
+-- | T<sub>0</sub>I |  |  |  |  |  | T<sub>1</sub>I |  |  |  |  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+T<sub>0</sub> | 0 | 2 | 4 | 6 | 8 | t | 1 | 3 | 5 | 7 | 9 | e
+-- | t |  |  |  |  |  | e |  |  |  |  |  
+-- | 8 |  |  |  |  |  | 9 |  |  |  |  |  
+-- | 6 |  |  |  |  |  | 7 |  |  |  |  |  
+-- | 4 |  |  |  |  |  | 5 |  |  |  |  |  
+-- | 2 |  |  |  |  |  | 3 |  |  |  |  |  
+-- | e |  |  |  |  |  | 0 |  |  |  |  |  
+-- | 9 |  |  |  |  |  | t |  |  |  |  |  
+-- | 7 |  |  |  |  |  | 8 |  |  |  |  |  
+-- | 5 |  |  |  |  |  | 6 |  |  |  |  |  
+-- | 3 |  |  |  |  |  | 4 |  |  |  |  |  
+T<sub>1</sub> | 1 | 3 | 5 | 7 | 9 | e | 2 | 4 | 6 | 8 | t | 0 
+
+Because we have done this correctly, you'll notice the pitch classes in the bottom row line up perfectly with the final pitch class from our new column. Why?
+
+The great thing about this system is that once each of the transpositions is filled in correctly, each *column* will be a correctly transposed version of the inverted pc sets. Once filled in, a matrix such as this shows every transposition and inversion of any aggregate pc set.
 
 ## Serialism and 12-tone music
 
-Before we go further, we should briefly define the genre of music most associated with set theory. (Although set theory can be used to study *any* type of music as long as it divides the octave into twelve pitches.) *Serialism* is any music in which some aspect of the composition is based on a pre-defined repeatable pattern; this can be the melodic intervals, harmonic intervals, harmonies, rhythm, or any other aspect of music that could be described in a series.
+Before we go further, we should briefly define the genre of music most associated with set theory and matrices. (Although set theory can be used to study *any* type of music as long as it divides the octave into twelve pitches.) *Serialism* is any music in which some aspect of the composition is based on a pre-defined repeatable pattern; this can be the melodic intervals, harmonic intervals, harmonies, rhythm, or any other aspect of music that could be described in a series.
 
-*12-tone music* is a sub-genre within serialism in which a fixed series of all twelve pitches is used to generate both the melodic and harmonic content of the piece. There are a variety of ways in which composers have employed this, but generally, all twelve pitches must be used before a pitch can be repeated. The series that determines the order of all twelve pitch classes is called a *tone row*. To provide compositional variety, the tone row may be altered to any of its transpositions or inversions, and any of row may also be played in *retrograde* -- all pitches in reverse order. So from this, there are four forms of a tone row.
+*12-tone music* is a sub-genre within serialism in which a fixed series of all twelve pitches is used to generate both the melodic and harmonic content of the piece. There are a variety of ways in which composers have employed this, but in its strictest form, all twelve pitches must be used before a pitch can be repeated. The series that determines the order of all twelve pitch classes is called a *tone row*, represented by our top row in the example above. To provide compositional variety, the tone row may be altered to any of its transpositions or inversions, and any of tone row may also be played in *retrograde* -- all pitches in reverse order. So from this, there are four forms of a tone row.
 - Prime (P) - a tone row or any of its transpositions
-- Retrograde (R) - any prime row played in reverse order
-- Inversion (I) - the inversion of the tone row and all its transpositions
+- Retrograde (R) - any *prime* row played in reverse order
+- Inversion (I) - the inversion of the original prime tone row and all its transpositions
 - Retrograde inversion (RI) - any inverted row played in reverse order
 
-Because any of these tone row orders can start on all twelve pitches, there are forty-eight possible arrangements of any tone row. We label these using the abbreviations above (P, R, I, and RI) followed by a subscript number to represent the transposition. (e.g. P<sub>5</sub> or RI<sub>6</sub>).
+Because any of these tone row orders can start on all twelve pitches, there are forty-eight possible arrangements of any tone row: twelve prime tone rows, twelve inverted tone rows, twelve inversion tone rows, and 12 retrograde inversion rows. We label these using the abbreviations above (P, R, I, and RI) followed by a subscript number to represent the transposition. (e.g. P<sub>5</sub> or RI<sub>6</sub>).
 
-## Tone row matrix
+Using this terminology, complete the tone row matrix above by filling in each row and then labeling. Is it necessary to go in a particular order? What is the easiest way to fill it out. Knowing that we use P, I, R, and RI to label each direction of the matrix, how would you differentiate each tone row? Would retrograde tone rows be labeled by their starting pitch or their corresponding prime label?
 
-Given the sheer amount of variation, it makes starting an analysis of a 12-tone piece difficult, so we have a developed a visual representation of the row similar to the exercise that we created using our (013) trichord above.
+## Completing our tone row matrix
 
-Think about an aggregate in same way wand have class find its inversion
-    First by interval for a row that doesn't start on zero
-    Then by zeroing the row first
+The correctly completed tone row matrix for our original row would be:
+
+-- | I<sub>0</sub> | I<sub>2</sub> | I<sub>4</sub> | I<sub>6</sub> | I<sub>8</sub> | I<sub>t</sub> | I<sub>1</sub> | I<sub>3</sub> | I<sub>5</sub> | I<sub>7</sub> | I<sub>9</sub> | I<sub>e</sub> | --
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+P<sub>0</sub> | 0 | 2 | 4 | 6 | 8 | t | 1 | 3 | 5 | 7 | 9 | e | R<sub>0</sub>
+P<sub>t</sub> | t | 0 | 2 | 4 | 6 | 8 | e | 1 | 3 | 5 | 7 | 9 | R<sub>t</sub>
+P<sub>8</sub> | 8 | t | 0 | 2 | 4 | 6 | 9 | e | 1 | 3 | 5 | 7 | R<sub>8</sub>
+P<sub>6</sub> | 6 | 8 | t | 0 | 2 | 5 | 7 | 9 | e | 1 | 3 | 5 | R<sub>6</sub>
+P<sub>4</sub> | 4 | 6 | 8 | t | 0 | 2 | 5 | 7 | 9 | e | 1 | 3 | R<sub>4</sub>
+P<sub>2</sub> | 2 | 4 | 6 | 8 | t | 0 | 3 | 5 | 7 | 9 | e | 1 | R<sub>2</sub>
+P<sub>3</sub> | e | 1 | 3 | 5 | 7 | 9 | 0 | 2 | 4 | 6 | 8 | t | R<sub>3</sub>
+P<sub>9</sub> | 9 | e | 1 | 3 | 5 | 7 | t | 0 | 2 | 4 | 6 | 8 | R<sub>9</sub>
+P<sub>7</sub> | 7 | 9 | e | 1 | 3 | 6 | 8 | t | 0 | 2 | 4 | 6 | R<sub>7</sub>
+P<sub>5</sub> | 5 | 7 | 9 | e | 1 | 3 | 6 | 8 | t | 0 | 2 | 4 | R<sub>5</sub>
+P<sub>3</sub> | 3 | 5 | 7 | 9 | e | 1 | 4 | 6 | 8 | t | 0 | 2 | R<sub>3</sub>
+P<sub>1</sub> | 1 | 3 | 5 | 7 | 9 | e | 2 | 4 | 6 | 8 | t | 0 | R<sub>1</sub>
+-- | RI<sub>0</sub> | RI<sub>2</sub> | RI<sub>4</sub> | RI<sub>6</sub> | RI<sub>8</sub> | RI<sub>t</sub> | RI<sub>1</sub> | RI<sub>3</sub> | RI<sub>5</sub> | RI<sub>7</sub> | RI<sub>9</sub> | RI<sub>9</sub> | --
+
+## Properties of the matrix
+
+When done correctly, any tone row matrix will have a pitch class that extends diagonally from the top left cell of the matrix to the bottom right cell. In the correct chart above, you can see that the pitch class 0 is in the first cell and then connects diagonally across the entire matrix.
 
 Matrix
     Fixed-zero vs movable zero
@@ -122,5 +164,6 @@ Matrix
         Standard fixed zero vs prime fixed zero
         Changes how it looks, but doesn't affect naming which is why we use fixed zero instead of movable
         Greatly speeds up the matrix creation process
-    Naming of retrograde and retrograde inversion rows is based on corresponding prime and inverted rows, NOT the starting pitch of the retro row
+
+Naming of retrograde and retrograde inversion rows is based on corresponding prime and inverted rows, NOT the starting pitch of the retro row
 
