@@ -167,3 +167,5 @@ Matrix
 
 Naming of retrograde and retrograde inversion rows is based on corresponding prime and inverted rows, NOT the starting pitch of the retro row
 
+Can find a tone row matrix calculator at [this website](https://www.musictheory.net/calculators/matrix).
+
