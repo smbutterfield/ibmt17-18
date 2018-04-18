@@ -158,7 +158,7 @@ P<sub>1</sub> | 1 | 3 | 5 | 7 | 9 | e | 2 | 4 | 6 | 8 | t | 0 | R<sub>1</sub>
 
 Finally let's touch on some general important concepts and common mistakes that you will encounter when creating tone row matrices.
 
-#### Important concepts
+### Important concepts
 
 - The most often used labeling method for tone row matrices is fixed-zero notation, but movable-zero is preferred by some. Either is possible, but make sure that you are consistent in your application and clearly state which method you are using in any analysis.
     - In fixed-zero, 0 will always be the pitch class that includes C.
@@ -171,7 +171,7 @@ Finally let's touch on some general important concepts and common mistakes that 
         - For example, if the first iteration of the row started on A-flat (pc 8 in fixed-zero), you would subtract 8 from that tone row to transpose the entire row to begin on pitch class 0. You can then place this as the top row of your matrix and build the matrix normally. All rows will be labeled correctly according to fixed-zero notation. To make sure that you remember which row is the original row, you will probably want to mark it in some way. I do this by circling the row label (e.g. P<sub>8</sub>) of the row that begins the piece.
 - When done correctly, any tone row matrix will have a pitch class that extends diagonally from the top left cell of the matrix to the bottom right cell. In the correct chart above, you can see that the pitch class 0 is in the first cell and then connects diagonally across the entire matrix.
 
-####Common mistakes
+### Common mistakes
 
 - The most common mistake when creating a matrix, other than simply mis-transposing, is the mislabeling of the tone rows. Remember that the labels for R and RI rows are based on their corresponding prime and inverted rows, NOT the starting pitch of the R or RI rows.
 - When using a matrix to analyze a 12-tone piece of music, you will occasionally encounter tone row *elision*. Two rows are said to be elighted if the ending pitch class(es) of of one row are actually shared to become the beginning pitch class(es) of the next row. If you encounter a tone row that seems to have less than twelve pitch classes, this is likely the reason.
