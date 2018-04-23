@@ -31,8 +31,10 @@ Two different types are:
   - 3 sections
     - A section (repeated)
     - B (developmental) section (repeated)
-    - back to A section (A^1)
-    
+    - back to A section (A^1)
+Ternary form differs from Binary form not only in structure, but in the contents of the B section. 
+The B section in Ternary form is meant to contrast from the A sections and bring in new ideas.
+The B section in Binary form expands on the material in the A section. 
 ## Other Common forms
 ### Rounded Binary
 A Rounded Binary is an important version of Binary form. 
@@ -44,7 +46,7 @@ Sonata Allegro (also Sonata form) has 3 parts:
 1. Exposition
   - the exposition presents the original musical material
 2. Development
-  - the development takes the material from the exposition and runs with it in a new key (often the key of the V)
+  - the development takes the material from the exposition and runs with it in a new key (often the key of the V)
 3. Recapitulation
   - the recapitulation brings back the material from the exposition in the original key
 
@@ -76,5 +78,9 @@ He ends the whole piece with the closing theme and coda.
 
 Beethoven's compositions go past Sonata Allegro form and keep you guessing about what he's going to do. 
 He had grown tired of the standard Sonata Allegro form and chose to make it his own. 
-    
-    
+
+### Beethoven Assignment
+You have to include each section (Exposition, Development, Recapitulation), each theme and transition in each section, and the key and measure numbers for each of those themes amd transitions.
+By the end of the analysis you should have one big map of the whole piece. 
+
+
