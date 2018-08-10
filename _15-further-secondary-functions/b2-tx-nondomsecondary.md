@@ -4,6 +4,7 @@ title: 15b Lesson - Non-dominant Function Secondary Chords
 abc: true
 ---
 # Class discussion
+
 ## Non-dominant Function Secondary Chords
 
 #### Example in C: Non-Secondary Dominant Functions (15b.)
